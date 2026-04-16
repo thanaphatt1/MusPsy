@@ -1,0 +1,368 @@
+Consultant: Hi Xiaoli, welcome to our session today. I’m glad you’re here. How have you been feeling recently?
+
+User: Hi. Lately, I've been struggling a lot. My sleep quality has gone down, and I'm feeling quite low. I used to do well in high school, but now I'm not keeping up with other students in college.
+
+Consultant: That sounds like a tough transition. With finals approaching, it must be adding extra pressure. Can you tell me more about how this has been affecting your daily routine?
+
+User: Yes, the pressure is overwhelming. There's so much to study, but I often find myself avoiding it. Sometimes I skip classes to sleep in my dorm, which then affects my nighttime sleep too. It's a cycle that's hard to break.
+
+Consultant: It sounds like the cycle is quite impactful on your overall well-being and motivation. How does it make you feel about yourself and your academic journey?
+
+User: It makes me feel so unproductive and even more anxious. I know things can't go on like this, but I'm just not sure how to change it.
+
+Consultant: I appreciate you sharing this with me. Let’s work together to find some strategies that might help you regain your focus and improve your routine. For now, try to keep a journal of your daily activities and thoughts so we can identify any patterns. How does that sound?
+
+User: That seems helpful. I'll give it a try.
+
+Consultant: Hi Xiaoli, welcome back for our second session. How did it go with the journaling exercise we talked about last time?
+
+User: Hi. I did write down my daily activities and thoughts. I noticed I often have this recurring thought that maybe I'm just not cut out for college-level work, which makes me really nervous.
+
+Consultant: I'm glad you noticed those thoughts. They seem to play a significant role in how you’re feeling. Did these thoughts occur during specific situations?
+
+User: Mostly when I'm trying to study or when I compare myself to my classmates. It feels like I'm way behind, even if I haven't talked to them about it.
+
+Consultant: It sounds like these automatic thoughts might be contributing to your anxiety and low mood. Have you noticed any particular thinking patterns that amplify these feelings?
+
+User: Yes, I often jump to the conclusion that I'm failing or will fail, even without any actual proof. This thought pattern keeps me stuck.
+
+Consultant: Recognizing these patterns is a crucial step. Let’s keep exploring them so we can work on addressing and reshaping them. For our next session, could you try noting instances when you compare yourself to others and the feelings that follow? It might help us understand these moments better.
+
+User: Alright, I'll do that. Hopefully, it reveals something useful.
+
+Consultant: Hi Xiaoli, it’s great to see you again. How did it go with identifying and noting those comparison moments and the feelings that followed?
+
+User: Hi, I managed to note down a few instances. Every time I compared myself, I felt even more inadequate and stressed. It was like every small mistake confirmed my worst fears.
+
+Consultant: It’s understandable to feel that way. When you have these thoughts, do you believe there's solid evidence supporting them, or might there be other interpretations?
+
+User: Not really, when I think about it. I haven’t really failed any exams yet. Maybe I'm just too harsh on myself.
+
+Consultant: That’s a helpful realization. If a friend were in your shoes, what would you advise them to do to manage these feelings?
+
+User: I’d probably tell them to focus on their own progress, rather than comparing themselves to others, and to remember past achievements.
+
+Consultant: That’s excellent advice. Let’s think about how you can apply this perspective to yourself. Maybe starting with acknowledging your past successes could be a good reminder?
+
+User: Yeah, reflecting on what I've accomplished so far might make things less overwhelming.
+
+Consultant: Perfect. For next time, try making a list of your achievements and any positive feedback you’ve received during college. Let’s revisit this list together.
+
+User: That sounds like it could boost my confidence. I'll make an effort to do it.
+
+Consultant: Hi Xiaoli, it's nice to have you back. How have you been doing with listing your achievements and any positive feedback you've received?
+
+User: Hey, I listed a few things, like some of the group projects that went well and good remarks from professors. It did help a little to see them on paper.
+
+Consultant: That's great progress, Xiaoli! How did it feel to recognize and reflect on your achievements so far?
+
+User: I felt a bit more positive about my abilities and realized that maybe I've been too negative about myself without reason.
+
+Consultant: That’s an important step forward. When those automatic negative thoughts creep in, reminding yourself of this list could help counteract them. Moving forward, how do you plan to incorporate this positive self-reflection into your daily routine?
+
+User: I think reviewing this list regularly could keep me grounded. Maybe I'll post it somewhere noticeable in my dorm as a continuous reminder.
+
+Consultant: That sounds like a good plan. Let’s also work on challenging those immediate negative reactions by pausing and reflecting on the actual evidence. Try doing this in upcoming situations and note how it feels for our next session.
+
+User: I’ll definitely try. Hopefully, it helps me maintain a more balanced perspective.
+
+Consultant: Hi Xiaoli, it's great to continue our sessions. Have you noticed any changes in how you handle your thoughts and feelings since our last discussion?
+
+User: Hi. I've been able to interrupt some of my negative thoughts with more positive reminders, as we discussed. It hasn't been perfect, but it's helping.
+
+Consultant: That’s really encouraging to hear. What kinds of activities have you found energize or relax you during these times?
+
+User: I used to enjoy playing the guitar and composing little tunes, though I haven’t done it much recently. It might be nice to immerse myself in music again.
+
+Consultant: That sounds like a wonderful outlet for relaxation and creativity. Would you consider reintroducing some regular guitar practice into your schedule?
+
+User: That’s a great idea. Playing music always used to uplift my mood.
+
+Consultant: Wonderful! Let’s create a small goal this week to set aside some time—perhaps 30 minutes—every other day to play guitar. Engaging in things you love can be a great way to elevate your spirits.
+
+User: I’ll do my best to stick to it. It could be the change I need to break up the routine.
+
+Consultant: Hi Xiaoli, I'm glad to see you again. As we conclude our sessions, let’s reflect on the strategies that have proven most effective for you.
+
+User: Hi. I think identifying my negative thought patterns and interrupting them with positive reminders was really important. Also, returning to hobbies like playing guitar is helping with my mood.
+
+Consultant: That’s truly effective progress. As you look toward the future, what strategies do you feel most equipped with to handle similar challenges?
+
+User: I’ll remind myself to validate my feelings, lean into my hobbies when I feel overwhelmed, and reflect on my accomplishments to counter negative thinking.
+
+Consultant: Excellent strategies, Xiaoli. With these skills, I believe you'll navigate future challenges with more confidence. Remember, I'm always here if you need further guidance.
+
+User: Thank you so much for everything. I feel much more prepared to tackle my issues and make the most out of my college experience.
+#######
+**Consultant:** Hi Xiaoli, welcome back for our second session. How did it go with the journaling exercise we talked about last time?
+
+**User:** Hi. I did write down my daily activities and thoughts. I noticed I often have this recurring thought that maybe I'm just not cut out for college-level work, which makes me really nervous.
+
+**Consultant:** I'm glad you noticed those thoughts. They seem to play a significant role in how you’re feeling. Did these thoughts occur during specific situations?
+
+**User:** Mostly when I'm trying to study or when I compare myself to my classmates. It feels like I'm way behind, even if I haven't talked to them about it.
+
+**Consultant:** It sounds like these automatic thoughts might be contributing to your anxiety and low mood. Have you noticed any particular thinking patterns that amplify these feelings?
+
+**User:** Yes, I often jump to the conclusion that I'm failing or will fail, even without any actual proof. This thought pattern keeps me stuck.
+
+**Consultant:** Recognizing these patterns is a crucial step. Let’s keep exploring them so we can work on addressing and reshaping them. For our next session, could you try noting instances when you compare yourself to others and the feelings that follow? It might help us understand these moments better.
+
+**User:** Alright, I'll do that. Hopefully, it reveals something useful.
+
+**Consultant:** That's a great approach, Xiaoli. What you're experiencing is quite common, especially in new environments like college. Are there particular places or situations that usually trigger these comparisons?
+
+**User:** Mostly in the library or study group sessions. I see others working and instantly assume they're doing better than I am.
+
+**Consultant:** It's understandable. Libraries and study groups can intensify those feelings. What can be particularly helpful is reminding yourself that everyone is on their journey with different strengths and challenges.
+
+**User:** I guess I never thought about it that way. It does seem like I'm underestimating myself without real reason.
+
+**Consultant:** Precisely. Sometimes, our mind tricks us into believing others are doing better, but that’s often not the full story. How might it feel to shift focus to your progress instead of assuming where others are?
+
+**User:** That feels like it would take off a lot of pressure. Noticing my improvements might actually motivate me more.
+
+**Consultant:** Exactly, Xiaoli. Seeing growth, no matter how small, can be incredibly empowering. What do you think about sharing this idea with your friends or peers? They might be feeling similarly.
+
+**User:** That’s a good point. My friends might also be comparing themselves and feeling the same stress.
+
+**Consultant:** You could potentially support one another in recognizing your accomplishments. Building a supportive network can be invaluable in college.
+
+**User:** I’ll definitely talk to them about it, see how they’re managing and maybe we can remind each other of our own paths.
+
+**Consultant:** That sounds like a beneficial strategy. For now, keep noting those comparison moments and your feelings. Look for patterns or situations that you want to change.
+
+**User:** Sure thing. I'll bring those notes next time, and hopefully, it'll help us identify some areas I can adjust.
+
+**Consultant:** That sounds perfect. Remember, growth is often slow but steady. We’ll continue to work on identifying those moments and reshaping views around them.
+
+**User:** Thanks for your guidance today. It gives me hope that I can make positive changes.
+
+**Consultant:** You're doing great, Xiaoli. Keep the positivity going, and I'm looking forward to seeing what you discover and how it helps shift perspectives. Take care until our next meeting.
+
+**User:** Will do. Thank you again. See you next time!
+#######
+Consultant: Hi Xiaoli, it's great to see you again. How did it go with identifying and noting those comparison moments and the feelings that followed?
+
+User: Hi, I managed to note down a few instances. Every time I compared myself, I felt even more inadequate and stressed. It was like every small mistake confirmed my worst fears.
+
+Consultant: It’s understandable to feel that way. When you have these thoughts, do you believe there's solid evidence supporting them, or might there be other interpretations?
+
+User: Not really, when I think about it. I haven’t really failed any exams yet. Maybe I'm just too harsh on myself.
+
+Consultant: That’s a helpful realization. If a friend were in your shoes, what would you advise them to do to manage these feelings?
+
+User: I’d probably tell them to focus on their own progress, rather than comparing themselves to others, and to remember past achievements.
+
+Consultant: That’s excellent advice. Let’s think about how you can apply this perspective to yourself. Maybe starting with acknowledging your past successes could be a good reminder?
+
+User: Yeah, reflecting on what I've accomplished so far might make things less overwhelming.
+
+Consultant: Perfect. For next time, try making a list of your achievements and any positive feedback you’ve received during college. Let’s revisit this list together.
+
+User: That sounds like it could boost my confidence. I'll make an effort to do it.
+
+Consultant: Fantastic, Xiaoli. While you're compiling your list, try to recall specific instances that made you proud. This exercise can be a powerful reminder of your capabilities.
+
+User: I'll do that. It might really help to have a tangible list to look at when I'm feeling down.
+
+Consultant: I'm glad to hear it. Sometimes we overlook what we've already accomplished in our quest for perfection. This week, also observe if any particular events trigger your feelings of comparison or inadequacy.
+
+User: That makes sense. I’ve noticed that large group discussions, like study groups, sometimes trigger those feelings because I start to compare myself to others.
+
+Consultant: Group settings can indeed heighten such thoughts. Next time you’re in those situations, try to focus on what you contribute to the group. How does it feel to consider your own value in these contexts?
+
+User: I think it could help remind me that I am making valuable contributions, even if I sometimes might not see it that way.
+
+Consultant: Exactly, Xiaoli. Reframing the situation like this can slowly change your perspective over time. Perhaps after each session, jot down what you felt you did well or areas where you brought your strengths.
+
+User: That's a practical idea. It might help shift my focus to more positive aspects.
+
+Consultant: Give it a try, and see how it influences your view of those group situations. Also, remember each person in the group has unique strengths, including you.
+
+User: I'll work on being more mindful of that. It’s a good point—I’m sure I contribute things others might appreciate.
+
+Consultant: Absolutely, and acknowledging that is crucial. As you identify moments of comparison, try telling yourself something affirming like, "I’m enough just as I am."
+
+User: I like that. I’ll keep repeating that to myself when needed.
+
+Consultant: Wonderful, Xiaoli. Reinforcing these positive affirmations can have a profound impact. I'm here to support you in this process—remember to tell me how it goes next time.
+
+User: I'll definitely bring my notes and let you know what I find. Thanks for helping me see things differently.
+
+Consultant: You're doing a great job, Xiaoli. Keep being patient with yourself, and I look forward to exploring this further in our next session. Take care!
+#######
+Consultant: Hi Xiaoli, it's great to have you back. How have you been doing with listing your achievements and any positive feedback you've received?
+
+User: Hey, I listed a few things, like some of the group projects that went well and good remarks from professors. It did help a little to see them on paper.
+
+Consultant: That's great progress, Xiaoli! How did it feel to recognize and reflect on your achievements so far?
+
+User: I felt a bit more positive about my abilities and realized that maybe I've been too negative about myself without reason.
+
+Consultant: That’s an important step forward. When those automatic negative thoughts creep in, reminding yourself of this list could help counteract them. Moving forward, how do you plan to incorporate this positive self-reflection into your daily routine?
+
+User: I think reviewing this list regularly could keep me grounded. Maybe I'll post it somewhere noticeable in my dorm as a continuous reminder.
+
+Consultant: That sounds like a good plan. Let’s also work on challenging those immediate negative reactions by pausing and reflecting on the actual evidence. Try doing this in upcoming situations and note how it feels for our next session.
+
+User: I’ll definitely try. Hopefully, it helps me maintain a more balanced perspective.
+
+Consultant: Now, have you thought about other activities or hobbies that bring you joy? Incorporating them into your routine could further enhance your mood and self-perception.
+
+User: Actually, I used to love painting. It always helped me relax, but I've been too caught up with school to continue.
+
+Consultant: Painting sounds like a lovely activity to re-engage with. Even dedicating a small amount of time each week could provide a creative outlet and reduce stress. Would you be willing to try that?
+
+User: Yes, I think setting aside some time for painting could be refreshing. I'll aim for at least an hour during the week.
+
+Consultant: Fantastic, Xiaoli. Adding this creative time is a great step. I’d love to hear how it goes. Additionally, as you're trying these new strategies, what challenges do you foresee?
+
+User: Sticking to this new routine might be difficult, especially if I start feeling overwhelmed with assignments.
+
+Consultant: That's a valid concern. Let’s remind ourselves that flexibility is key. It's okay to adjust and find small wins even in busy times. Would having a supportive friend or study group help hold you accountable?
+
+User: Yes, maybe my roommate could help remind me, as she's always encouraging me to take breaks and enjoy my hobbies.
+
+Consultant: Having someone supportive like your roommate can be a wonderful asset. Tell her about your plan with painting, and ask if she’d join you in making sure you set aside that creative time.
+
+User: I’ll definitely talk to her about it. Having her support might make all the difference.
+
+Consultant: Excellent decision, Xiaoli. It’s often the little nudges and support from those close to us that reinforce positive habits. Lastly, as you're building these habits, continue noting down any new situations that might trigger negative thoughts and practice replacing them with affirmations.
+
+User: Noting those triggers sounds helpful. I’ll keep a little journal for it alongside my list of achievements.
+
+Consultant: That’s a constructive approach. Remember that progress might come gradually, and every step forward is valuable. Each positive reflection is building a more resilient mindset.
+
+User: Thank you. I appreciate the support and guidance. It already feels relieving to have some direction.
+
+Consultant: You're doing wonderfully, Xiaoli. Keep being compassionate with yourself, and I'll be here to explore any new insights or changes you notice in our next session.
+
+User: Thanks. I look forward to seeing how these changes affect my perspective and mood.
+#######
+Consultant: Hi Xiaoli, welcome back to our fifth session. It's great to see you again. Have you noticed any changes in how you handle your thoughts and feelings since our last discussion?
+
+User: Hi. I've been able to interrupt some of my negative thoughts with more positive reminders, as we discussed. It hasn't been perfect, but it's helping.
+
+Consultant: That’s really encouraging to hear. Engaging in those positive reminders can sometimes make a significant difference. What kinds of activities have you found energize or relax you during these times?
+
+User: I used to enjoy playing the guitar and composing little tunes, though I haven’t done it much recently. It might be nice to immerse myself in music again.
+
+Consultant: That sounds like a wonderful outlet for relaxation and creativity. Music can really have that soothing effect, can't it? Would you consider reintroducing some regular guitar practice into your schedule?
+
+User: That’s a great idea. Playing music always used to uplift my mood and allowed me to express myself creatively.
+
+Consultant: Wonderful! Let's create a small goal this week to set aside some time—perhaps 30 minutes every other day—to play the guitar. It doesn’t need to be perfect, just an opportunity for you to unwind and enjoy yourself. Engaging in things you love can be a great way to elevate your spirits.
+
+User: I’ll do my best to stick to it. It could be the change I need to break up the routine and help me unwind from stressors.
+
+Consultant: Sounds like a plan. And remember, Xiaoli, the idea here is not to add another task to your to-do list but to open up space for your joy and creativity. How do you commonly remind yourself to take these positive breaks amidst a busy week?
+
+User: Sometimes I set reminders on my phone, but I often ignore them if I’m stressed. Maybe I need a different approach.
+
+Consultant: Perhaps finding ways to incorporate these activities at times that naturally fit into your routine could help. Do you have any particular time of day when you feel more relaxed or creative?
+
+User: Probably in the evening, after I've finished my assignments. That’s when I try to unwind.
+
+Consultant: Evening sounds like a fitting time. How about penciling it in after dinner or as a reward after studying? It could be a perfect moment to switch gears and enjoy some personal time with music.
+
+User: That could work. It would also give me something to look forward to at the end of the day.
+
+Consultant: Great approach, Xiaoli. Creating rituals that you anticipate can make the activities more rewarding. Also, as you continue interrupting negative thoughts with positive reminders, how has that influenced your daily interactions or overall outlook?
+
+User: I think it’s gradually shifting my perspective. It's like I'm slowly learning to be more patient with myself.
+
+Consultant: The shift in perspective is a significant step. How do you handle situations where these negative thoughts are particularly persistent?
+
+User: I try to remember our conversations and remind myself that these thoughts aren’t always factual. It's not easy, but it helps sometimes.
+
+Consultant: That's a solid strategy. Reinforcing that conscious understanding reduces the control those thoughts have over you. This week, with each negative thought you catch, could you try pairing it with a specific memory of past achievements or moments that made you feel genuinely content?
+
+User: Yes, linking them with good memories might help ground me more effectively during those moments.
+
+Consultant: Excellent. By doing so, you're not only challenging the negative pattern but also reinforcing the positive experiences in your mind. It’s all about balance.
+
+User: I’ll give that a try. There are definitely some moments I can reflect on that have been positive and encouraging.
+
+Consultant: That sounds promising, Xiaoli. I'm looking forward to hearing how this approach resonates with you. As we weave these strategies into your routine, I'm hopeful they'll become intuitive. How ready do you feel to continue these strategies on your own?
+
+User: I feel ready. It’s nice knowing that I have these tools in my back pocket for when I’m struggling.
+
+Consultant: Fantastic. You've come a long way, and these steps you're taking are truly empowering. Remember, self-compassion is a powerful ally on this journey. How would you describe the new mindset you're building?
+
+User: I think I’m learning to be more accepting of myself and my journey. Progress over perfection has become a bit of a mantra.
+
+Consultant: That’s an empowering mindset, Xiaoli. As you continue, have you discovered anything new about yourself that you hadn’t given much thought to before our sessions?
+
+User: I’ve realized that I’m more resilient than I thought, and I can be kind to myself despite challenges.
+
+Consultant: Resilience and self-kindness are important traits. As you nurture these, they’ll continue to transform how you perceive and navigate life’s challenges.
+
+User: I’m grateful for this space to explore these aspects of myself. It’s made a significant difference. 
+
+Consultant: It’s been an absolute pleasure working with you, Xiaoli. Keep nurturing your strengths and reach out if you need any future support.
+
+User: Thank you so much for everything. I’ll carry these learnings forward.
+
+Consultant: You're very welcome, Xiaoli. Take care, and I'll be here should you ever need any guidance.
+#######
+Consultant: Hi Xiaoli, I'm glad to see you again. As we conclude our sessions, let’s reflect on the strategies that have proven most effective for you.
+
+User: Hi. I think identifying my negative thought patterns and interrupting them with positive reminders was really important. Also, returning to hobbies like playing guitar is helping with my mood.
+
+Consultant: That’s truly effective progress. As you look toward the future, what strategies do you feel most equipped with to handle similar challenges?
+
+User: I’ll remind myself to validate my feelings, lean into my hobbies when I feel overwhelmed, and reflect on my accomplishments to counter negative thinking.
+
+Consultant: Excellent strategies, Xiaoli. With these skills, I believe you'll navigate your future challenges with more confidence. Remember, I'm always here if you need further guidance.
+
+User: Thank you so much for everything. I feel much more prepared to tackle my issues and make the most out of my college experience.
+
+Consultant: It’s wonderful to hear that, Xiaoli. You've demonstrated tremendous growth and self-awareness through our sessions. How do you feel about setting up a routine where you consistently practice these strategies?
+
+User: That sounds doable. I think I need to keep these practices in mind every day, even when things start to go well and I might forget.
+
+Consultant: Consistency is key, and having these routines can serve as a foundation for resilience. Do you have any concerns about sticking to this routine as you continue forward?
+
+User: I sometimes worry that I might fall back into old habits, especially during stressful times, like exams or when I feel overwhelmed with responsibilities.
+
+Consultant: It's completely normal to have those concerns. Having a plan in place for when things get challenging can be really helpful. What kind of reminders or prompts could support you in staying on track?
+
+User: Maybe keeping a journal or setting reminders on my phone can help me stay focused. I could also make a checklist of daily practices.
+
+Consultant: Those sound like effective strategies. Perhaps you can include moments in your day where you pause, reflect, and take note of any achievements or positive experiences, no matter how small.
+
+User: That’s a good idea. Acknowledging the little victories might help keep me motivated and remind me of my progress.
+
+Consultant: Exactly. These reflections can act as gentle reminders of your capabilities and the strides you've made. How about choosing specific times in your day to engage in these reflective practices?
+
+User: I think the mornings and evenings would work well. Starting my day with positivity and ending it with reflection could create a balanced routine.
+
+Consultant: That sounds like a great plan, Xiaoli. Implementing these moments into your day-to-day life can maintain the mindfulness practice you've developed. As you continue crafting your future, what's one thing you're most proud of accomplishing during our sessions?
+
+User: I'm proud of learning to silence my inner critic more effectively and allowing myself to embrace imperfections.
+
+Consultant: That's a significant accomplishment, Xiaoli. Self-compassion is a transformative skill, and nurturing that aspect can only enhance your journey further. How has this journey with self-compassion influenced your relationships with others?
+
+User: It’s helped me become more understanding and empathetic toward others as well. I think I’m more open to listening and offering support without judgment.
+
+Consultant: That's such a valuable impact. Fostering a supportive environment will strengthen your connections with those around you. Is there anyone specific in your life who has inspired you or supported you along the way that you'd like to acknowledge?
+
+User: My parents have been really supportive, and their encouragement has meant a lot. They've always been my cheerleaders, even during tough times.
+
+Consultant: It’s wonderful to have such supportive figures in your life. Recognizing their impact can motivate you to continue your personal growth. As we wrap up, what would you like to focus on moving forward in your college journey?
+
+User: I’d like to focus on embracing opportunities without fear of failure and striving for personal growth rather than perfection.
+
+Consultant: That’s an admirable goal, Xiaoli. Embracing these opportunities will enrich your college experience. Remember, progress is more important than perfection. You've got this.
+
+User: Thank you, I feel ready to take on challenges with a new perspective and more tools than I had before.
+
+Consultant: You’ve equipped yourself with a toolkit for success, Xiaoli. Keep these strategies close to heart, and I’m confident you'll thrive. Should you ever need a refresher or support, I'm here for you.
+
+User: Thank you so much for your support and guidance. It’s meant the world to me.
+
+Consultant: It’s been truly rewarding to witness your journey, Xiaoli. Take care of yourself, and I wish you all the best.
+
+User: Thanks. Goodbye for now!
+#######

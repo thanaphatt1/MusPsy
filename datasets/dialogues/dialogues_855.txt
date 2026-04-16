@@ -1,0 +1,416 @@
+Consultant: Hi Yang, welcome to our first session today. How have you been feeling recently, especially with the new school environment?
+
+User: Hi. I've been feeling quite lonely and anxious. Since moving here for school, I haven't really made any friends, and it's been hard to adjust.
+
+Consultant: I'm sorry to hear that. It sounds like adjusting to the new environment has been challenging for you. Can you tell me more about what's been most difficult for you?
+
+User: I guess it's mainly because I'm not very outgoing, so it's hard for me to talk to classmates. I feel out of place sometimes, and that makes me anxious.
+
+Consultant: It seems like this is affecting your thoughts and feelings. Let's explore how this might be impacting your everyday life. As a small exercise, try to note down when you feel most anxious and what thoughts come to mind during these times. Would you be willing to do that for the coming week?
+
+User: Sure, I can try to keep track of those moments. Maybe that'll help me understand it better.
+
+[待填补] Dialogue 2nd
+
+Consultant: Hi Yang, it's nice to see you again. Did you have a chance to notice any patterns in your thoughts during anxious moments?
+
+User: Yes, I noticed that I often think I'm not good enough to make friends and that people might not like me.
+
+Consultant: Thank you for sharing that. These thoughts can really influence your emotions and behaviors. Have you noticed if there are any specific times or situations where these thoughts intensify?
+
+User: It mostly happens when I'm in social situations, like during lunch or after class, when everyone is chatting and I'm just on my own.
+
+Consultant: It sounds like those moments can be particularly tough. How do you usually respond when these thoughts cross your mind? For this week, try to identify if there are any instances where you can challenge these thoughts and consider alternative viewpoints. Is that something you'd be open to trying?
+
+User: I usually just stay quiet and keep to myself. But I can try to think about how I might be reading too much into things.
+
+Consultant: It’s understandable to want to retreat in such situations. Thinking about how you're interpreting these interactions might provide some clarity. Do you think trying to engage more could possibly change the way you feel when in these situations?
+
+User: Probably. I know it could help to put myself out there a bit more, but it feels safer to just keep to myself.
+
+Consultant: That’s a natural response. Maybe we can start small? What if you tried smiling or making brief eye contact with others? What do you think about beginning with small gestures like these?
+
+User: I guess I could give it a try. It sounds less intimidating than starting a full conversation.
+
+Consultant: Exactly, Yang. Small steps can lead to bigger changes. Embracing these little actions could gradually make you feel more comfortable. Have you thought about what interests or hobbies you might have that you could share or discuss with others?
+
+User: Well, I do enjoy drawing. Maybe I could mention that if the topic comes up.
+
+Consultant: Drawing is wonderful! It's a unique passion that could be a conversation starter. It’s something that naturally draws people in. Next time there's an opportunity, maybe you could share a bit about your drawing experiences?
+
+User: I hadn't really considered it before, but yeah, if the chance arises, I could bring it up.
+
+Consultant: That sounds like a great plan. Sharing something you're passionate about can really help bridge connections with others. For this week, how would you feel about trying to engage in one small act of reaching out, such as a smile or sharing a hobby?
+
+User: I think I could try that. It might feel awkward initially, but it’s worth a shot.
+
+Consultant: Wonderful, Yang. Remember, these small steps are all about practicing and gradually building up your confidence. Taking these actions can significantly change how you perceive interactions. I believe you’ll handle it well.
+
+User: Thanks for the encouragement. I’ll keep that in mind and see how it goes.
+
+Consultant: You're very welcome, Yang. I look forward to hearing about how things go for you. Even small signs of progress are worth celebrating. Remember, everyone's path to connecting with others is different.
+
+User: I’ll do my best to notice any differences and see how I feel!
+
+Consultant: Excellent, Yang. Stay open to the experiences, and don't hesitate to reach out if you need further support. I'll be here to work through it with you.
+
+User: Thanks, I appreciate having this space to talk. I'll let you know how things turn out.
+
+##### Dialogue 3rd
+
+Consultant: Hi Yang, welcome back. How did you find last week's exercise of identifying and challenging those initial thoughts?
+
+User: It was interesting. I realized that a lot of my assumptions are based on what I think others might be feeling, without any real proof.
+
+Consultant: That's a great observation. Often, we base our feelings on assumptions that aren't necessarily accurate. If a friend felt the same way, what advice would you offer them?
+
+User: I'd probably tell them to try talking to people and see what they're really like, instead of assuming the worst.
+
+Consultant: That sounds like wise advice. Do you think this approach might help you if you were to apply it yourself?
+
+User: It could. Maybe I should try initiating a conversation with a classmate next time.
+
+##### Dialogue 4th
+
+Consultant: Hi Yang, it's great to see you. Have you thought about how you might apply some of the advice you considered last time?
+
+User: I thought about trying to talk to someone during lunch. It feels a bit scary, but I think it might help.
+
+Consultant: Taking that first step can often be the hardest, but it also holds potential for positive experiences. What would you like to share if you start a conversation?
+
+User: I'd like to talk about classes or maybe ask about upcoming events to break the ice.
+
+Consultant: Planning a few topics beforehand is a great strategy. How do you feel about giving this a try this week and seeing how it goes?
+
+User: I'm a bit nervous, but I'm willing to try it.
+
+##### Dialogue 5th
+
+Consultant: Hi Yang, I'm happy to see you. Have you found any activities or hobbies that bring you joy and help with stress?
+
+User: I've always liked drawing. It helps me relax and not think too much about things.
+
+Consultant: That's a great outlet! Engaging in activities you enjoy can help manage stress. Would you be interested in making time for drawing in your weekly routine?
+
+User: Yeah, I've been meaning to draw more, but I just haven't gotten around to it yet.
+
+Consultant: Scheduling specific times for it might make it easier. How about starting with an hour every week?
+
+User: That sounds doable. I can start with Sundays when I usually have more free time.
+
+##### Dialogue 6th
+
+Consultant: Hi Yang, it's been great working with you. How do you feel about your progress and the different strategies we've discussed?
+
+User: I've learned a lot about how my thoughts affect my feelings, and talking about things has helped me. I think trying to challenge my negative thinking will be key for me.
+
+Consultant: That's excellent insight. Going forward, what strategies do you believe will be most effective for managing similar challenges?
+
+User: I'll remind myself to think more clearly and not jump to conclusions. And I'll try to reach out and talk to others more often.
+
+Consultant: These sound like strong strategies. As we conclude our sessions, remember you've developed many skills to manage life's ups and downs. Don't hesitate to reach out if you need further support in the future.
+
+User: Thank you so much for your help. I'm feeling more confident in dealing with things now.
+#######
+Consultant: Hi Yang, it's nice to see you again. Did you have a chance to notice any patterns in your thoughts during anxious moments?
+
+User: Yes, I noticed that I often think I'm not good enough to make friends and that people might not like me.
+
+Consultant: Thank you for sharing that. These thoughts can really influence your emotions and behaviors. Have you noticed if there are any specific times or situations where these thoughts intensify?
+
+User: It mostly happens when I'm in social situations, like during lunch or after class, when everyone is chatting and I'm just on my own.
+
+Consultant: It sounds like those moments can be particularly tough. How do you usually respond when these thoughts cross your mind? For this week, try to identify if there are any instances where you can challenge these thoughts and consider alternative viewpoints. Is that something you'd be open to trying?
+
+User: I usually just stay quiet and keep to myself. But I can try to think about how I might be reading too much into things.
+
+Consultant: It’s understandable to want to retreat in such situations. Thinking about how you're interpreting these interactions might provide some clarity. Do you think trying to engage more could possibly change the way you feel when in these situations?
+
+User: Probably. I know it could help to put myself out there a bit more, but it feels safer to just keep to myself.
+
+Consultant: That’s a natural response. Maybe we can start small? What if you tried smiling or making brief eye contact with others? What do you think about beginning with small gestures like these?
+
+User: I guess I could give it a try. It sounds less intimidating than starting a full conversation.
+
+Consultant: Exactly, Yang. Small steps can lead to bigger changes. Embracing these little actions could gradually make you feel more comfortable. Have you thought about what interests or hobbies you might have that you could share or discuss with others?
+
+User: Well, I do enjoy drawing. Maybe I could mention that if the topic comes up.
+
+Consultant: Drawing is wonderful! It's a unique passion that could be a conversation starter. It’s something that naturally draws people in. Next time there's an opportunity, maybe you could share a bit about your drawing experiences?
+
+User: I hadn't really considered it before, but yeah, if the chance arises, I could bring it up.
+
+Consultant: That sounds like a great plan. Sharing something you're passionate about can really help bridge connections with others. For this week, how would you feel about trying to engage in one small act of reaching out, such as a smile or sharing a hobby?
+
+User: I think I could try that. It might feel awkward initially, but it’s worth a shot.
+
+Consultant: Wonderful, Yang. Remember, these small steps are all about practicing and gradually building up your confidence. Taking these actions can significantly change how you perceive interactions. I believe you’ll handle it well.
+
+User: Thanks for the encouragement. I’ll keep that in mind and see how it goes.
+
+Consultant: You're very welcome, Yang. I look forward to hearing about how things go for you. Even small signs of progress are worth celebrating. Remember, everyone's path to connecting with others is different.
+
+User: I’ll do my best to notice any differences and see how I feel!
+
+Consultant: Excellent, Yang. Stay open to the experiences, and don't hesitate to reach out if you need further support. I'll be here to work through it with you.
+
+User: Thanks, I appreciate having this space to talk. I'll let you know how things turn out.
+#######
+Consultant: Hi Yang, welcome back. How did you find last week's exercise of identifying and challenging those initial thoughts? 
+
+User: It was interesting. I realized that a lot of my assumptions are based on what I think others might be feeling, without any real proof. 
+
+Consultant: That's a great observation. Often, we base our feelings on assumptions that aren't necessarily accurate. If a friend felt the same way, what advice would you offer them? 
+
+User: I'd probably tell them to try talking to people and see what they're really like, instead of assuming the worst. 
+
+Consultant: That sounds like wise advice. Do you think this approach might help you if you were to apply it yourself? 
+
+User: It could. Maybe I should try initiating a conversation with a classmate next time. 
+
+Consultant: Taking that first step can be intimidating, but it often leads to positive outcomes. Have you considered what specific situations or topics might make it easier for you to start a conversation? 
+
+User: I was thinking of maybe commenting on something happening in class or asking about an assignment. 
+
+Consultant: Those are great starting points. Planning ahead like that can alleviate some of the pressure. What would you most like to achieve from a conversation like this? 
+
+User: I guess I'm hoping to feel less isolated and maybe find someone I can talk to comfortably. 
+
+Consultant: Connection with others can really help reduce feelings of isolation. When you think about making these approaches, what thoughts come up for you? 
+
+User: I worry that people might not be interested in what I have to say or that I'll say something awkward. 
+
+Consultant: It's natural to have these concerns. One approach is to remind yourself that others may feel similarly, and most people appreciate when someone takes the initiative to reach out. 
+
+User: I hadn't thought about it that way. I suppose everyone's nervous at times. 
+
+Consultant: Exactly, Yang. Everyone experiences uncertainty, and sometimes taking that small step can ease those feelings for both parties. How do you think you would feel if a classmate reached out to you? 
+
+User: I'd probably feel relieved and happy that someone wanted to talk to me. 
+
+Consultant: That's a good point. It goes to show how reaching out can have mutual benefits. Could writing down some conversation starters help with easing the anxiety? 
+
+User: Yeah, I think having a list could give me more confidence. 
+
+Consultant: Great, perhaps you could jot down a few topics over the next week. Think about things that genuinely interest you or questions you've been curious to ask. 
+
+User: I can do that. It might help me feel better prepared. 
+
+Consultant: Excellent. Also, as you mentioned your love for drawing last time, perhaps sharing this interest could be a conversation starter as well. Many people find talents like that fascinating. 
+
+User: Maybe I could bring it up if it feels right. It's something I'm passionate about, so it could be a good way to connect. 
+
+Consultant: Exactly. Passion can be contagious, and it often fosters more meaningful connections. So, alongside trying these conversation strategies, consider sharing your hobbies where you feel comfortable. 
+
+User: I'll try to remember that. It's nice knowing I have something unique to share. 
+
+Consultant: Indeed, Yang. Your interests are part of what makes you, "you." As we move forward, remember these conversations are opportunities to explore, not necessarily as challenges to overcome. 
+
+User: That makes it seem a bit more manageable, thanks. 
+
+Consultant: I'm glad to hear that. We'll review how these strategies worked for you next time. Remember, you're not alone—many are navigating similar paths, and this is about building connections at your own pace. 
+
+User: Thanks for the advice. I'll try to approach things a bit differently this week. 
+
+Consultant: You're doing great, Yang. Let's keep exploring these opportunities together. I'm eager to hear about any experiences or insights you gain. 
+
+User: I'll make sure to note anything down. It's been helpful to have these check-ins. 
+
+Consultant: I'm pleased to hear that. Keep being kind to yourself as you navigate these experiences, and we'll continue to build from there. 
+
+User: I will, and I look forward to our next meeting.
+#######
+Consultant: Hi Yang, it's great to see you again. Have you thought about how you might apply some of the advice you considered last time?
+
+User: I thought about trying to talk to someone during lunch. It feels a bit scary, but I think it might help.
+
+Consultant: Taking that first step can often be the hardest, but it also holds potential for positive experiences. What would you like to share if you start a conversation?
+
+User: I'd like to talk about classes or maybe ask about upcoming events to break the ice.
+
+Consultant: Planning a few topics beforehand is a great strategy. How do you feel about giving this a try this week and seeing how it goes?
+
+User: I'm a bit nervous, but I'm willing to try it.
+
+Consultant: It’s normal to feel nervous, Yang. Remember, most people appreciate a friendly gesture, and they might be just as keen to connect as you are. Have you thought about a specific person you might approach?
+
+User: There's a classmate, Jack, who seems friendly. We've been in a couple of group projects together, so maybe I could start with him.
+
+Consultant: That's a great idea. Shared experiences, like group projects, can be perfect conversation starters. Have there been any specific topics in your projects that you enjoyed discussing?
+
+User: We worked on a presentation about renewable energy, which I found fascinating. I could maybe ask him if he's interested in environmental topics.
+
+Consultant: That's an excellent topic with a lot of potential for a substantial conversation. People tend to engage more when the discussion is meaningful. How does the thought of discussing something you're passionate about feel?
+
+User: It makes me a bit more relaxed, actually. I enjoy talking about things that matter to me.
+
+Consultant: That’s a wonderful realization, Yang. Passion can indeed make conversations more enjoyable and personable. What other interests or hobbies could you discuss if the conversation flows in that direction?
+
+User: Well, as you know, I love drawing, maybe I could mention some of the sketches I've been working on.
+
+Consultant: Perfect! Art is a great way to connect, and sharing your sketches could introduce a new dimension to your conversations. Have you shown your work to others before?
+
+User: Not really, I tend to keep it to myself. But I’d like to be more open about it.
+
+Consultant: Trying to share your drawings might be a rewarding experience. Perhaps Jack or others could even share similar interests or offer new perspectives. How would you feel about gradually incorporating this openness into your interactions?
+
+User: It sounds a bit challenging, but I think it could be worth it. I could be pleasantly surprised by their responses.
+
+Consultant: Exactly, Yang. Exploring these opportunities can deepen connections. What about at times when hesitation kicks in—what thoughts might help you overcome it?
+
+User: I could remind myself that everyone appreciates genuineness and that it could lead to a valuable connection.
+
+Consultant: That's a great mindset. Additionally, reinforcing your successes, even the small ones, helps solidify confidence. How would recognizing these small victories impact your progress?
+
+User: It would probably encourage me to keep trying. I’d see little steps leading towards a bigger change.
+
+Consultant: That's a powerful perspective, Yang. Remember, each interaction, no matter how it goes, contributes to this growth. As you practice these interactions, could it be helpful to jot down reactions and reflections afterward?
+
+User: Yes, it could give me a better sense of what works and what doesn’t, helping me improve.
+
+Consultant: Excellent idea. Also, reflect on how talking about your interests affects the conversation. This will continually build your confidence. What are some thoughts you'd like to keep in mind moving forward?
+
+User: To stay open, be myself, and not fear judgment too much. Most people are kind and just as nervous about forming new friendships.
+
+Consultant: Marvelous thoughts, Yang. These self-reflections will certainly boost your social journey. Our conversations here are meant to aid your self-awareness and growth, and you're doing wonderfully.
+
+User: Thank you, I feel less anxious just talking about it all with you.
+
+Consultant: I'm glad to hear that, Yang. Keep being patient and compassionate with yourself. Each interaction is a step forward. I look forward to hearing how these experiences unfold for you.
+
+User: I’ll keep you posted, and thank you for the encouragement—it’s really helping.
+
+Consultant: You’re very welcome, Yang. Keep embracing these small challenges, and remember we're here to support your journey. See you at our next session.
+#######
+Consultant: Hi Yang, I'm happy to see you. Have you found any activities or hobbies that bring you joy and help with stress?
+
+User: I've always liked drawing. It helps me relax and not think too much about things.
+
+Consultant: That's a great outlet! Engaging in activities you enjoy can help manage stress. Would you be interested in making time for drawing in your weekly routine?
+
+User: Yeah, I've been meaning to draw more, but I just haven't gotten around to it yet.
+
+Consultant: Scheduling specific times for it might make it easier. How about starting with an hour every week?
+
+User: That sounds doable. I can start with Sundays when I usually have more free time.
+
+Consultant: That sounds like a perfect time. Do you have any particular subjects you enjoy sketching, or is it more about the act of drawing itself that you find soothing?
+
+User: I usually like drawing landscapes or sometimes abstract things. It lets me express my mood without words.
+
+Consultant: Expressing your mood through art is incredibly therapeutic. How do you feel after completing a piece? Does it change your perspective or lighten your mood?
+
+User: Absolutely. It feels like a weight lifts off, and seeing my feelings on paper gives them context and sometimes clarity.
+
+Consultant: That's wonderful to hear. Art can definitely provide clarity. Have you considered exploring new techniques or styles in your drawing sessions to keep things interesting?
+
+User: I've thought about trying watercolor. It seems daunting, but I'm curious to see how it would change the way I express myself.
+
+Consultant: Exploring something new can invigorate your creative process and offer new insights. Maybe you could set a small goal to experiment with watercolors once a month?
+
+User: That could be fun. It might add some variety to my usual routine.
+
+Consultant: Great idea, Yang. Diversity in your routine can boost motivation and excitement. How do you think sharing your art with someone you trust could change your experience?
+
+User: It’s something I’ve been nervous about, but I think getting feedback could be enlightening. It might also connect me with others who share my interest.
+
+Consultant: It's natural to feel a bit anxious about sharing personal work. Tapping into shared interests can indeed deepen connections. Could you think of a friend or family member whom you might feel comfortable sharing with?
+
+User: My cousin is really supportive, and she's always encouraged me to show my work. Maybe I could start with her.
+
+Consultant: That's an excellent idea. Sharing with someone supportive creates a safe space for feedback and encouragement. Reflecting on your cousin's feedback might even give you new perspectives or ideas.
+
+User: I hope so. She's always been positive, and her thoughts could make me see my work in a new light.
+
+Consultant: It could be a very enriching experience. Consider setting a time to share a recent piece with her, and let her know how much her perspective means to you.
+
+User: I’ll do that. I think it’ll make our bond even stronger.
+
+Consultant: That's a wonderful outcome, Yang. Strengthening relationships through shared passions can be incredibly rewarding. How do you feel this openness might impact your other interactions?
+
+User: I guess it could encourage me to be more open and transparent in other areas of my life too.
+
+Consultant: Transparency builds genuine connections and offers more authentic interactions. What are some steps you might take to foster this openness in your daily life?
+
+User: Maybe I could start by being more vocal about my thoughts in conversations, rather than holding back.
+
+Consultant: That’s a great approach, Yang. Expressing yourself more fully allows others to understand your perspective better. How do you think being more vocal might change your relationships?
+
+User: I think it could make them stronger, with fewer misunderstandings and more trust.
+
+Consultant: Indeed, trust and understanding are the foundations of strong relationships. As you practice this, how can you remind yourself to focus on your progress?
+
+User: I can make a note of positive interactions, no matter how small. It’ll help me stay motivated.
+
+Consultant: Noticing and celebrating even the smallest victories is crucial for continued growth. Keep jotting down these positive experiences to boost your confidence.
+
+User: I will. It sounds like it'll be helpful to see my progress on paper.
+
+Consultant: It surely will, Yang. As we look forward, ensuring you maintain these practices will support your development. How does this support the bigger picture of your personal growth?
+
+User: I think it’ll make me calmer and more self-assured in both personal and professional settings.
+
+Consultant: Aiming for calmness and self-assurance is a fantastic goal. As we continue, let's keep nurturing these skills to foster your ongoing well-being. I look forward to hearing how these initiatives influence your journey.
+
+User: Thank you, I feel good about taking these steps forward.
+#######
+Consultant: Hello Yang, welcome back. Since our last discussion, have you had any further thoughts about applying the strategies we've worked on, especially in your interactions with classmates or through your drawing activities?
+
+User: Hi, I've been thinking a lot about it. I tried talking to a classmate during lunch, as we planned, and it went better than I expected. We started off by discussing an upcoming event on campus, which really helped break the ice.
+
+Consultant: That's fantastic progress, Yang. It takes a lot of courage to start these conversations, and using a common interest like an event is a great icebreaker. How did that interaction make you feel afterward?
+
+User: It felt really good. I was a bit nervous at first, but once we started talking, it was easier to keep the conversation going. I felt more connected and less anxious after.
+
+Consultant: Feeling connected is such an enriching experience. It seems like taking the initiative helped shift your perspective. Can you see other areas in your life where you might apply this same approach?
+
+User: Maybe in class discussions. I usually stay quiet, but I could try contributing more. Sharing my thoughts and listening to others might help me feel more a part of the group.
+
+Consultant: That sounds like a productive plan. Class discussions are a great way to practice expressing your thoughts in a supportive setting. How about setting a small goal to speak up at least once during these discussions?
+
+User: Yes, I think I can manage that. It will help me build confidence in expressing my ideas.
+
+Consultant: Building confidence step by step is the key. Speaking of expression, have you been able to schedule regular time for drawing, as we discussed before?
+
+User: I have. Setting aside an hour every Sunday has worked well. It helps me unwind and not focus so much on school stress.
+
+Consultant: That's wonderful to hear. It's essential to have that creative outlet. How do you feel after these drawing sessions, and have you attempted any new techniques that we talked about?
+
+User: I tried working with watercolors like I planned. It was challenging but exciting. The way the colors blend gave me a new way to express my mood.
+
+Consultant: Exploring new techniques can open up new perspectives. How did experimenting with watercolors impact your experience of creating art?
+
+User: It added a new dimension to my work. The fluidity of watercolors feels freeing and helped me express emotions differently than before.
+
+Consultant: That's insightful, Yang. It's amazing how trying something new can enhance our creative process. Have you shared any of your watercolor pieces with your cousin yet?
+
+User: I did show her one of my recent pieces, and she loved it. Her positive feedback made me feel more confident in my work.
+
+Consultant: Receiving positive feedback can be incredibly validating. How did sharing your work affect your relationship with your cousin?
+
+User: It brought us closer. Knowing she appreciates my art and supports me means a lot. It encouraged me to be more open with her about different things.
+
+Consultant: That's a beautiful development in your relationship. Have you noticed any impact on how you feel about expressing yourself in other areas of your life?
+
+User: Yes, I feel a bit more open to sharing my thoughts with others and being less worried about what they might think.
+
+Consultant: Openness fosters genuine connections and trust. Have there been any situations recently where you've noticed this change in how you're engaging with others?
+
+User: At a group project meeting, I volunteered some ideas, and they were well-received. It felt empowering to contribute.
+
+Consultant: That's a great example of how your increased openness can lead to positive interactions. How can you reinforce these behaviors in your daily routine?
+
+User: I think by reminding myself of these positive experiences, I can keep building on them. Maybe journaling or reflecting on these moments at day's end could help.
+
+Consultant: That's an excellent strategy, Yang. Reflecting on positive experiences will reinforce your progress and confidence. As we look ahead, is there anything else you'd like to explore or accomplish?
+
+User: I'd like to continue improving my social interactions and explore more with my art, maybe even consider joining a club related to these interests.
+
+Consultant: Joining a club sounds like a splendid idea for meeting like-minded individuals and fostering both social and creative growth. I'm glad to hear you’re taking such proactive steps for your well-being.
+
+User: Thank you. Your support has been really helpful in guiding me through this process.
+
+Consultant: It's a pleasure to see your progress, Yang. I'm here for any further guidance or support as you continue to grow.
+
+User: Thanks again for everything. I'm excited about where these changes will take me.
+#######

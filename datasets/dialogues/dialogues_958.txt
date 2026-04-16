@@ -1,0 +1,330 @@
+Consultant: Hi Li, welcome to our session today. How have you been feeling recently?
+
+User: Hi. I've been feeling really stressed and confused. My teachers often criticize me for not paying attention in class, and my mom scolds me about my grades. It’s really getting to me.
+
+Consultant: I'm sorry to hear that you're dealing with so much pressure. It sounds like these situations are quite challenging. Can you tell me more about what's been happening at school and home?
+
+User: At school, the teachers think I'm not trying hard enough because I can't focus during lessons. At home, my mom is really strict and often yells at me for not being attentive when doing my homework.
+
+Consultant: It seems like you're facing a lot from both school and at home. How does that make you feel?
+
+User: I feel sad and worried, like I can't do anything right. I want to improve, but it's tough.
+
+Consultant: It’s understandable to feel this way. Let's work together to see how we can turn this situation around. For your homework before our next session, try keeping a small journal to note down when you feel distracted and what you were doing. Maybe we can spot some patterns.
+
+Consultant: Hi Li, it’s good to see you again. Did you have a chance to try the journaling exercise I suggested last time?
+
+User: Hi. Yes, I wrote down a few things. I noticed that I get distracted when I'm thinking about my mom getting angry or when things don’t make sense in class.
+
+Consultant: Thanks for sharing that. It’s important to identify these thoughts. What goes through your mind when you’re worrying about your mom or when you're confused in class?
+
+User: I think that I’ll never be as good as she wants me to be, and that I'll disappoint everyone. In class, I feel like I’m falling behind and will never catch up.
+
+Consultant: These thoughts might be adding to your stress. Have you noticed whether these thoughts are realistic or perhaps a bit extreme?
+
+User: Now that I think about it, maybe they are a bit much, but they feel very real in the moment.
+
+Consultant: It’s helpful to recognize when our mind exaggerates things. For next session, let’s try to identify if there are any positive thoughts or reassuring things you can tell yourself in these moments.
+
+Consultant: Hi Li, welcome back. Have you had a chance to think about some positive thoughts or reassurances when you feel stressed?
+
+User: I tried, but it’s hard to think positively when I’m stressed. I keep thinking I’m letting everyone down.
+
+Consultant: That's understandable. If a friend was in your situation, what would you tell them to help them feel better?
+
+User: I’d probably say that it's okay to make mistakes and remind them that everyone learns at their own pace. I’d also tell them they’re doing their best.
+
+Consultant: Those are great words of encouragement. Could applying those thoughts to yourself help in any way?
+
+User: Maybe. It's harder to say those things to myself, though.
+
+Consultant: Let's think about how you could incorporate those positive thoughts into your daily routine. Perhaps repeat those thoughts whenever you feel stressed. Can we try that for this week?
+
+User: I can try. I’ll note it down and see how it feels.
+
+Consultant: Hi Li, great to have you back. How did it feel to try and apply those positive affirmations in your daily routine?
+
+User: It was a bit strange at first, but I tried telling myself it’s okay not to be perfect. It helped a little, especially when I was worried about school.
+
+Consultant: That’s a fantastic start. Changing our thoughts takes practice but can lead to big improvements over time. Have you thought about how this new perspective might change your reactions to stress?
+
+User: I think I might feel less scared. Like, if I remind myself it’s okay to make mistakes, I might not panic as much.
+
+Consultant: That's a great insight. Do you feel ready to talk with your teachers about how you’re feeling in class, or to share with your mother your efforts and progress?
+
+User: I’m a bit nervous, but I could try. Maybe it’ll help if they know I’m trying.
+
+Consultant: That’s a positive step forward. For next time, let's plan for how to start these conversations, okay?
+
+Consultant: Hi Li, I'm glad to see you again. Have you thought about any activities or hobbies that make you feel joyful?
+
+User: I like drawing. Sometimes I lose track of time when I’m doing it.
+
+Consultant: Drawing sounds like a wonderful way to relax and take a break from stress. Would you like to plan some regular time to draw and perhaps use it as a stress reliever?
+
+User: Yes, I think I’d like that. It’s something I’m actually good at, and it makes me happy.
+
+Consultant: That’s great to hear. Setting aside a specific time for drawing can help you unwind and create positive experiences in your day. How often would you like to draw each week?
+
+User: Maybe a bit every day after school before starting homework.
+
+Consultant: That sounds like a balanced plan. Let’s see how this change impacts your mood and stress levels over the coming week.
+
+Consultant: Hi Li, it's been a pleasure working with you. Let’s reflect on the progress you’ve made. Which strategies did you find the most helpful during our sessions?
+
+User: I think reminding myself that it's okay not to be perfect and taking time for things I love, like drawing, helped a lot. Talking about my feelings also made a difference.
+
+Consultant: Those are valuable insights. As you move forward, what strategies will you rely on when faced with similar challenges?
+
+User: I’ll try not to stress too much about being perfect and give myself a chance to enjoy drawing or other things I like. I’ll also try to talk more about how I feel.
+
+Consultant: Excellent strategies, Li. You've developed important skills that will serve you well. Remember, you’re always welcome to reach out if you need support in the future.
+
+User: Thank you so much for helping me. I feel like I can handle things better now.
+#######
+Consultant: Hi Li, welcome back. Have you had a chance to think about some positive thoughts or reassurances when you feel stressed?
+
+User: I tried, but it’s hard to think positively when I’m stressed. I keep thinking I’m letting everyone down.
+
+Consultant: That's understandable. If a friend was in your situation, what would you tell them to help them feel better?
+
+User: I’d probably say that it's okay to make mistakes and remind them that everyone learns at their own pace. I’d also tell them they’re doing their best.
+
+Consultant: Those are great words of encouragement. Could applying those thoughts to yourself help in any way?
+
+User: Maybe. It's harder to say those things to myself, though.
+
+Consultant: Let's think about how you could incorporate those positive thoughts into your daily routine. Perhaps repeat those thoughts whenever you feel stressed. Can we try that for this week?
+
+User: I can try. I’ll note it down and see how it feels.
+
+Consultant: Fantastic. It can feel strange at first, but developing this habit could be really beneficial. Let's take a moment here — how does it feel when you try reassuring yourself with these affirmations?
+
+User: Honestly, it feels a bit strange and even a bit forced. But I think it's a start.
+
+Consultant: Starting often feels a little awkward, but that's completely normal, Li. It's about fostering little moments of understanding and kindness toward yourself. Can you recall situations in the past week where these positive statements might have influenced your feelings?
+
+User: Mostly at school, during a difficult math problem. I tried telling myself it was okay to not get it immediately. It helped a little.
+
+Consultant: That's a wonderful example. You’re already using these affirmations in challenging situations, which is great. How did you feel emotionally when you made that shift in thinking?
+
+User: I felt a bit calmer, like the pressure was slightly less intense.
+
+Consultant: That's an excellent observation. Lessening pressure is key to managing stress. In our upcoming session, you'll want to pay attention to your emotional responses and the triggers that prompt those feelings. Have you noticed other moments in your daily routine where this new perspective could be helpful?
+
+User: I think it could help when I'm preparing to talk to my mom about my grades. I get really anxious and feel like I need reassurance.
+
+Consultant: Absolutely. Preparation can alleviate some of that anxiousness. We can spend some time discussing strategies on how you can approach these conversations with your mom. Could trying these new strategies this coming week be feasible for you?
+
+User: I think I could try. It would be good to have some tools ready before talking with her.
+
+Consultant: That's encouraging to hear. We'll work on forming some practical approaches that you can feel more confident using. Reflecting on the week past, are there any other thoughts or situations you've encountered where having a supportive dialogue with yourself might have been beneficial?
+
+User: Maybe when I was doing group work in class and felt like I wasn't contributing enough. That was really weighing on me.
+
+Consultant: It's insightful that you've identified that situation. Those feelings in group dynamics can certainly be stressful. As we work together, you'll see how tools like positive self-talk can assist in these settings too. 
+
+User: I'd like that. It makes sense that reframing my thoughts could help in those situations too.
+
+Consultant: Excellent, Li. For your reflection this week, let's continue trying these affirmations during those moments, and we can review how they impact your experiences. We'll keep collecting these insights to expand your toolkit. Keep an open mind and heart toward yourself as you practice this.
+
+User: Yes, I'll do that. I hope it makes more of a difference as I get used to it.
+
+Consultant: You're doing wonderfully, Li. Even recognizing areas like group work and conversations with your mom shows considerable self-awareness. I look forward to our next session, where we can dive into this more and further discuss how to approach those specific challenges with warmth and understanding.
+#######
+Consultant: Hi Li, welcome back. Before we dive into today's session, did you have a chance to incorporate those positive affirmations into your daily life? How did that go for you?
+
+User: Hi. I did try to use the affirmations, but it's been quite challenging. At first, it felt forced, but I kept reminding myself that it's okay to make mistakes, especially when things got overwhelming at school.
+
+Consultant: That's understandable, Li. It's all about practice, and it can feel awkward at first. When you used those affirmations, did you notice any changes in how you felt, perhaps in your stress levels or emotional reactions?
+
+User: Sometimes, I did feel a bit more at ease, like when I was struggling with a difficult homework assignment. Reassuring myself seemed to reduce the panic, even if just a little.
+
+Consultant: That’s a great observation. Even small shifts in our thinking can lead to more significant stress relief over time. Do you recall any specific situations where reassuring yourself was particularly helpful?
+
+User: Yes, particularly during a tough math lesson when I was falling behind. Telling myself it was okay not to get it right away helped me stay calmer and focus on understanding rather than just feeling bad about it.
+
+Consultant: That's excellent, Li. It’s a significant step recognizing these moments and actively choosing to be kinder to yourself. How about situations at home? Do you think these affirmations can help when interacting with your mom about your grades?
+
+User: I haven’t tried it much at home yet. Conversations with my mom about school are stressful, and I usually end up feeling defensive.
+
+Consultant: That’s a common reaction, and it's perfectly okay. Perhaps we could plan a little for such discussions. How do you feel about setting a goal to have an open conversation with your mom about your efforts and progress at school?
+
+User: It sounds nerve-wracking, but maybe it could help. If she understands I’m trying, it might ease some of the pressure.
+
+Consultant: That's a thoughtful approach, Li. In preparation, it might be helpful to reflect on what you’d like to share and how you want to express your feelings. Could you think of some key points you'd want to convey to her?
+
+User: I’d want to tell her that I’m trying my best and that the pressure sometimes makes it hard to do well. Maybe explaining this could help her understand.
+
+Consultant: That's a meaningful starting point. Being honest about your challenges and showing your commitment can often open up the conversation for more understanding. Do you think we could practice some of these conversations in upcoming sessions?
+
+User: Practicing sounds helpful. I want to be sure I can express myself calmly and clearly.
+
+Consultant: That's a good strategy. We can role-play some scenarios to help you feel more prepared. How about the positive activities like drawing — have you found time for that, and does it help in managing stress?
+
+User: I managed to draw a bit this week. It’s nice to lose myself in it. It distracts me from worrying about school and gives me some peace.
+
+Consultant: That's wonderful, Li. It's important to protect those moments of relaxation and creativity. Would you consider making drawing a more regular part of your routine?
+
+User: Yes, I’d like to do that. Maybe a little bit every day could help me unwind after a full day.
+
+Consultant: That sounds like a great plan. Balancing obligations with activities that bring joy and relaxation is crucial for your well-being. Let's aim for that, and in our next session, we can talk about how it felt to keep up with the drawing and affirmation practices.
+
+User: I'll work on it. I think having these positive outlets might make things more manageable.
+
+Consultant: You’re on the right track, Li. Your willingness to engage in these strategies is truly commendable. Remember, it’s a journey, and you're making meaningful progress with each step. Looking forward to hearing about your experiences and how they shape your week.
+
+User: Thank you for the encouragement. I’ll keep trying and share what happens next time.
+#######
+Consultant: Hi Li, great to have you back. How did it feel to try and apply those positive affirmations in your daily routine?
+
+User: It was a bit strange at first, but I tried telling myself it’s okay not to be perfect. It helped a little, especially when I was worried about school.
+
+Consultant: That’s a fantastic start. Changing our thoughts takes practice but can lead to big improvements over time. Have you thought about how this new perspective might change your reactions to stress?
+
+User: I think I might feel less scared. Like, if I remind myself it’s okay to make mistakes, I might not panic as much.
+
+Consultant: That's a great insight. Do you feel ready to talk with your teachers about how you’re feeling in class, or to share with your mother your efforts and progress?
+
+User: I’m a bit nervous, but I could try. Maybe it’ll help if they know I’m trying.
+
+Consultant: That’s a positive step forward. For next time, let's plan for how to start these conversations, okay?
+
+User: Okay, I think having a plan might help me be less anxious about it.
+
+Consultant: Wonderful. Now, let’s consider how these strategies have impacted your daily life. Have you noticed any situations where you found these affirmations particularly useful, aside from school stress?
+
+User: Yes, I did notice that during family dinners, when the conversation turned to grades, reminding myself of my efforts helped me stay calm.
+
+Consultant: That’s excellent, Li. Recognizing those moments and maintaining your composure is a skill worth building on. How about your drawing time? Have you been able to use that as a way to manage stress?
+
+User: I have, actually. Drawing lets me escape a little, and it feels like a safe space where there’s no pressure to be perfect.
+
+Consultant: That’s fantastic. Giving yourself permission to enjoy your passion without judgment is incredibly powerful. Do you feel that this creative outlet might make future stressful situations more bearable?
+
+User: I think so. If I know there’s always time for it, I can handle other things better.
+
+Consultant: That's a strong foundation for balance in your life, Li. As you continue with these practices, remember to keep challenging any unrealistic thoughts. Do you have any upcoming situations where you might apply this approach?
+
+User: There's a big test coming up, and I definitely want to try using these strategies to keep calm.
+
+Consultant: That's a good idea. Before the test, remind yourself of all the preparation you've done and let go of the need for perfection. Could you also consider visualizing positive outcomes to complement your affirmations?
+
+User: Sure, I could give that a try.
+
+Consultant: Visualizing success can boost your confidence and reduce anxiety. How about after the test — maybe plan to unwind with some drawing?
+
+User: Yes, that sounds great. It would be nice to have a reward like that after all the studying.
+
+Consultant: Exactly, Li. It’s important to celebrate your efforts and allow yourself moments of joy. As usual, feel free to jot down your thoughts after the test, especially noting improvements in stress management.
+
+User: I will. Writing things down does help me process how I'm feeling.
+
+Consultant: Excellent. It can be really insightful to see how far you've come. Additionally, keep practicing those conversations we discussed — with your teachers and your mom — to help them understand your dedication.
+
+User: I'll do my best. Having these dialogues might relieve some of the pressure.
+
+Consultant: That's absolutely a step in the right direction. Remember, you have the skills to express yourself clearly. Let’s plan to review these interactions in our next session.
+
+User: Sounds good. I think being able to discuss these things will help.
+
+Consultant: It definitely will, Li. I'm proud of the progress you're making. Pursue what makes you feel balanced, and know I'm here to support you whenever needed.
+
+User: Thanks, I appreciate that. I’ll keep pushing forward and let you know how everything goes.
+#######
+Consultant: Hi Li, I'm glad to see you again. Have you thought about any activities or hobbies that make you feel joyful?
+
+User: I like drawing. Sometimes I lose track of time when I’m doing it.
+
+Consultant: Drawing sounds like a wonderful way to relax and take a break from stress. Would you like to plan some regular time to draw and perhaps use it as a stress reliever?
+
+User: Yes, I think I’d like that. It’s something I’m actually good at, and it makes me happy.
+
+Consultant: That’s great to hear. Setting aside a specific time for drawing can help you unwind and create positive experiences in your day. How often would you like to draw each week?
+
+User: Maybe a bit every day after school before starting homework.
+
+Consultant: That sounds like a balanced plan. Let’s see how this change impacts your mood and stress levels over the coming week.
+
+User: I’m hopeful it will help. School has been really overwhelming lately, and I think having a little something to look forward to each day might make a difference.
+
+Consultant: Absolutely, Li. Having something positive to anticipate can be a great motivator and can definitely help manage stress. Let’s also reflect on your interactions with your mom and teachers. Have things improved since we discussed ways to communicate more openly with them?
+
+User: I tried talking to my mom about how stressed I’ve been with schoolwork and needing some downtime. She seemed to understand a little more and agreed to help me figure out a study plan that’s less stressful.
+
+Consultant: That’s a significant step forward, Li. Having your mom’s support makes a big difference. Do you feel more comfortable discussing your needs and how you're feeling?
+
+User: Yes, a little. It was scary at first, but once I started, it was easier than I expected. I still haven’t talked to my teachers, though.
+
+Consultant: That’s okay, it’s important to progress at your own pace. When you feel ready, discussing your feelings with your teachers can further ease the pressure. Imagine having those conversations; what would you like to convey to them?
+
+User: I’d probably tell them I’m trying my best and ask for advice on keeping up with lessons when I feel lost.
+
+Consultant: That sounds like a genuine approach, Li. Your willingness to communicate shows maturity and dedication to your education. When you picture this conversation, do you sense any hesitation, or are you beginning to feel more at ease with the idea?
+
+User: A bit of both. I’m worried about what they’ll think, but I know I need to try if I want things to change.
+
+Consultant: That’s very true, and it’s okay to feel apprehensive. Let's think of it as another small step toward improving your experience. Practicing these conversations in a supportive environment might help. Would you like to role-play this here?
+
+User: Sure, that could be helpful.
+
+Consultant: Great! Let’s pretend I’m one of your teachers. You can start by sharing how you’ve felt in class. 
+
+User: Okay, here goes... I’ve been struggling to follow along sometimes, and it’s starting to stress me out. I’m really trying to keep up, but I could use some advice on staying focused and catching up on material I don’t understand.
+
+Consultant: Well done, Li. Your message is clear and honest. As a teacher, I might respond by appreciating your initiative to speak up, offering assistance, and perhaps suggesting study groups or additional resources to help you.
+
+User: That doesn’t sound too bad. I guess teachers would want to help if they knew I was struggling.
+
+Consultant: Exactly, Li. They value your learning journey just as much as you do. This week, maybe keep this in mind and take small steps toward speaking with them. Would you also like to explore any other strategies we’ve talked about for when you feel unusually stressed?
+
+User: I think trying to see things from a different perspective when I’m stressed could help. Like, remembering it’s okay not to be perfect can really change how I feel.
+
+Consultant: That's a wonderful realization, Li. Sometimes shifting our mindset can indeed make a huge impact. So, what do you think about integrating positive affirmations with your drawing sessions, reinforcing those thoughts while you’re in a relaxed state?
+
+User: That sounds reassuring. I can try that, using drawing time to remind myself of good things.
+
+Consultant: Wonderful approach, Li. Associating these affirmations with something you love can create a double benefit of relaxation and self-encouragement. How about setting a specific affirmation to practice this week?
+
+User: How about, “I’m doing my best, and that’s enough”? It feels comforting.
+
+Consultant: I love that, Li. A simple but powerful reminder. Let’s see how incorporating this into your routine influences your stress levels and self-perception.
+
+User: I’ll try to work on it and pay attention to changes in how I feel.
+
+Consultant: Excellent plan, Li. Keep nurturing that balance between effort and self-compassion. We’ll delve into your experiences with these affirmations further during our next session.
+
+User: Okay, I’ll keep practicing. Thanks for the support.
+
+Consultant: It's my pleasure, Li. Remember, each step you take is meaningful, and I’m here with you whenever you need guidance.
+#######
+Consultant: Hi Li, it's been a pleasure working with you. Let’s reflect on the progress you’ve made. Which strategies did you find the most helpful during our sessions?
+
+User: I think reminding myself that it's okay not to be perfect and taking time for things I love, like drawing, helped a lot. Talking about my feelings also made a difference.
+
+Consultant: Those are valuable insights. Having these realizations shows how much you've grown. Have you noticed any changes in your stress levels or your interactions with your mom and teachers since you began using these strategies?
+
+User: Yes, definitely. I feel a bit more relaxed, and my mom actually seems a little less strict now that I've started to open up to her more. I haven't really spoken to my teachers yet, but I feel more prepared to do so.
+
+Consultant: That's great progress, Li. It's inspiring to hear that you're building a foundation with your mom and feeling more comfortable with the idea of talking to your teachers. What do you think has been the key factor in improving your communication with your mom?
+
+User: I think it was just being honest with her and explaining how overwhelmed I felt. It turned out she was more understanding than I expected.
+
+Consultant: That's wonderful. Establishing honest communication can indeed change dynamics significantly. When it comes to translating this to your school environment, do you feel like these conversations have given you tools to handle situations there as well?
+
+User: I think so. Just knowing I can share my feelings without everything going wrong makes it a bit easier to think about talking to my teachers.
+
+Consultant: It sounds you're developing a lot of inner strength, which is crucial. Imagine having open conversations with your teachers. What do you envision saying to them to make them understand your feelings?
+
+User: I would tell them that while I’m trying to follow along, I sometimes struggle and could use more guidance on how to keep up.
+
+Consultant: That's a clear way to express your needs. As you prepare for these conversations, how do you plan to approach each teacher? Will you see them one-on-one, or do you anticipate some other format that feels more comfortable?
+
+User: I think seeing them one-on-one would be best. That way, I won't feel pressured with other people around.
+
+Consultant: That sounds like a well-thought-out plan. One-on-one meetings can create a more intimate setting for open dialogue. Alongside this, how are you finding your practice of intertwining drawing with positive affirmations?
+
+User: It’s been nice. Drawing while thinking of positive affirmations helps me to relax more. I remind myself that my best is good enough, and it seems to calm me down.
+
+Consultant: That's excellent integration, Li. By reinforcing these thoughts, you're creatin
+#######

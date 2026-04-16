@@ -1,0 +1,336 @@
+Consultant: Hi, welcome to our session today. How have you been doing recently?
+
+User: Hi. Lately, I've been feeling quite anxious and uneasy. I'm not entirely sure why, but it seems like small things get to me easily now.
+
+Consultant: I'm sorry to hear that. It sounds like it might be a challenging time for you. Could you share more about what might be contributing to these feelings?
+
+User: Well, recently, in one of my elective classes, I was asked to give a summary presentation. I was really nervous, but afterwards, I actually felt a little more confident.
+
+Consultant: It sounds like that experience was a bit mixed for you—initially stressful but also somewhat rewarding. How has it been affecting you since then?
+
+User: I still feel anxious in social situations, fearing I might say or do the wrong thing. But I also sometimes feel reassured, like I conquered something. It's confusing.
+
+Consultant: That makes sense. Many people experience similar mixed emotions in situations that challenge them. Can you tell me more about the kinds of situations where these anxious feelings arise and how they impact you?
+
+User: Mostly in situations where I have to speak up, like in class discussions or group work. I worry about looking foolish or saying something wrong. It makes me hesitant to participate.
+
+Consultant: Social anxiety can be quite limiting and often follows a pattern of certain thoughts. What thoughts go through your mind when you find yourself in these social situations?
+
+User: I often think that I'm about to make a fool of myself or that people are judging me harshly. It's like there's a voice in my head constantly doubting me.
+
+Consultant: Those thoughts can indeed be quite distressing. Has this been a consistent issue for you, or has it become more prominent recently?
+
+User: It's been there for a while, but it seems worse lately. I don't know if it's because of the increased number of presentations and social interactions required in my classes.
+
+Consultant: It sounds like the added pressure from your classes might be intensifying these thoughts. Have you noticed if there are specific patterns or triggers that make these feelings more intense?
+
+User: I often find that the thought of speaking in front of a group is a big trigger. Sometimes even small social interactions can make me feel extremely self-conscious.
+
+Consultant: It's understandable that these situations would feel overwhelming. When these thoughts occur, how do they affect your emotions and behavior?
+
+User: They make me feel very tense and nervous. I tend to avoid situations where I might have to speak up, which only makes me feel worse about myself.
+
+Consultant: Avoidance can indeed create a cycle that's hard to break. It's good that you're aware of it. How confident are you in the assumption that people are judging you negatively?
+
+User: Not entirely confident. I don't have any proof, it's just a feeling I get sometimes. Rationally, I know it might not be true, but it feels real in the moment.
+
+Consultant: It’s natural to feel unsure. What do you think you would say to a friend who had similar worries about being judged?
+
+User: I'd probably tell them to consider all the times when things went well, like my class presentation, and not assume the worst.
+
+Consultant: That's a supportive perspective. Do you think it might help you to remember positive experiences when you start doubting yourself?
+
+User: I think it could. It might remind me that I can handle situations better than I think.
+
+Consultant: That’s a great strategy. Recording positive experiences can reinforce the idea that not all interactions lead to negative outcomes. How do you feel about starting this habit of jotting down moments when things went well?
+
+User: I'm optimistic. I think it could help shift my focus to more positive outcomes.
+
+Consultant: Excellent. Turning your attention to successes, no matter how small, can be powerful. Have you thought about activities that might help boost your mood during anxious times?
+
+User: Yes, I enjoy drawing. It helps me relax and focus on something creative.
+
+Consultant: That's a wonderful hobby. Creative activities can be a great outlet for emotion and stress. Would you like to plan a way to incorporate more drawing into your regular routine?
+
+User: Absolutely. I think having a set time for drawing each week would be great.
+
+Consultant: Planning a specific time might help create consistency and provide a positive activity to look forward to. How about starting with an hour on weekends?
+
+User: That sounds like a good idea. I'll try to make it a regular practice.
+
+Consultant: That sounds great. Let's reflect on your progress and identify effective strategies from our sessions. You've mentioned starting to challenge your negative thoughts and focusing on past positives, along with sharing your feelings with someone you trust.
+
+User: Yes, I've started challenging my negative thoughts and focusing on past positives. Sharing my feelings with someone I trust has also been useful.
+
+Consultant: That's excellent progress. For future challenges, which strategies would you consider most helpful?
+
+User: I plan to remind myself of positive experiences and not jump to conclusions. Also, incorporating drawing into my routine to manage stress.
+
+Consultant: These are powerful strategies. As we conclude our sessions, remember you've developed skills to handle life's challenges. If you need support in the future, feel free to reach out.
+
+User: Thank you so much for your help. I feel more confident in managing things on my own now.
+
+Consultant: You're very welcome. It's been a pleasure working with you. Take care, and remember to continue being kind to yourself.
+
+User: Thanks. I'll see you next time!
+#######
+##### Dialogue 3rd
+
+Consultant: Hi, glad to have you back for our session. Last time, we talked about your elective class experience. Have you noticed any specific thoughts during times of anxiety?
+
+User: Yes, it often feels like I'm about to make a fool of myself or that people are judging me. It's hard to shake these thoughts off.
+
+Consultant: I see. Those thoughts sound quite distressing. Have you noticed if these thoughts tend to follow any particular pattern or theme?
+
+User: I guess I often jump to the conclusion that anything I do will be seen negatively by others. Even if there's no real evidence for it.
+
+Consultant: It sounds like your mind has been focused on negative possibilities. How do these thoughts affect your emotions and behavior?
+
+User: They make me feel tense and sometimes avoid situations altogether, like speaking up in class.
+
+Consultant: Avoidance can indeed create a cycle that's hard to break. How confident are you in the assumption that people are judging you negatively?
+
+User: Not entirely confident. I don't have any proof. It's just a feeling I get sometimes. Rationally, I know it might not be true, but it feels real in the moment.
+
+Consultant: It’s natural to feel unsure. What would you say to a friend who had similar worries about being judged?
+
+User: I'd probably tell them to consider all the times when things went well, like my class presentation, and not assume the worst.
+
+Consultant: That's a supportive perspective. Do you think it might help you to remember positive experiences when you start doubting yourself?
+
+User: I think it could. It might remind me that I can handle situations better than I think.
+
+Consultant: That’s a great strategy. Recording positive experiences can reinforce the idea that not all interactions lead to negative outcomes. How do you feel about starting this habit of jotting down moments when things went well?
+
+User: I'm optimistic. I think it could help shift my focus to more positive outcomes.
+
+Consultant: Excellent. Turning your attention to successes, no matter how small, can be powerful. Have you thought about activities that might help boost your mood during anxious times?
+
+User: Yes, I enjoy drawing. It helps me relax and focus on something creative.
+
+Consultant: That's a wonderful hobby. Creative activities can be a great outlet for emotion and stress. Would you like to plan a way to incorporate more drawing into your regular routine?
+
+User: Absolutely. I think having a set time for drawing each week would be great.
+
+Consultant: Planning a specific time might help create consistency and provide a positive activity to look forward to. How about starting with an hour on weekends?
+
+User: That sounds like a good idea. I'll try to make it a regular practice.
+
+Consultant: That sounds fantastic. Over time, this new habit can become a nurturing and grounding routine. As you jot down positive moments, try to pair those reflections with your drawing time to further cement these positive thoughts.
+
+User: I can see how that might provide a dual benefit. It not only helps in expressing myself artistically but also reinforces positive thinking.
+
+Consultant: Exactly. Combining practices that you enjoy with cognitive exercises can create a more comprehensive support system for your mental well-being. How did you feel about the exercise we discussed last time—where you write down the beliefs behind your fears and challenge their validity?
+
+User: It was eye-opening. Seeing my thoughts on paper made it easier to identify which ones were irrational.
+
+Consultant: That’s a crucial step in shaping a more balanced perspective. Continuing this practice alongside drawing can help you gain further insight into how your thoughts influence your experiences. How comfortable are you with continuing these exercises?
+
+User: I'm getting more used to it. It's challenging but also helpful.
+
+Consultant: I'm glad to hear that. Remember, it's all about gradual progress. How has sharing this process with your support network been for you?
+
+User: It's been reassuring. Talking to friends and family and getting their perspectives has made me feel less alone.
+
+Consultant: That’s great to hear. Sharing your experiences with trusted individuals can provide valuable feedback and support. Lastly, let's set a small goal. How about jotting down at least one positive interaction or thought each day and pairing it with your drawing routine?
+
+User: That sounds manageable. I'll work on incorporating that into my daily schedule.
+
+Consultant: Perfect. We'll review how it went in our next session and discuss any patterns or insights you’ve noticed. Consistent practice and reflection can lead to long-term growth. Any final thoughts before we wrap up today?
+
+User: I feel encouraged and have a clearer plan. Thanks for your guidance.
+
+Consultant: You're doing an excellent job. Keep being kind to yourself, and remember each step counts. Looking forward to our next session, and take care until then.
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi, welcome back. Let's talk more about those negative thoughts. How confident are you in the assumption that people are judging you?
+
+User: Not entirely confident. I don't have any proof, it's just a feeling I get sometimes.
+
+Consultant: It's natural to feel unsure. What would you say to a friend who had similar worries about being judged?
+
+User: I'd probably tell them to consider all the times when things went well, like my class presentation, and not assume the worst.
+
+Consultant: That's a supportive perspective. Do you think it might help you to remember positive experiences when you start doubting yourself?
+
+User: I think it could. It might remind me that I can handle situations better than I think.
+
+Consultant: That’s a great strategy. Recording positive experiences can reinforce the idea that not all interactions lead to negative outcomes. How do you feel about starting this habit of jotting down moments when things went well?
+
+User: I'm optimistic. I think it could help shift my focus to more positive outcomes.
+
+Consultant: Excellent. Turning your attention to successes, no matter how small, can be powerful. Have you thought about activities that might help boost your mood during anxious times?
+
+User: Yes, I enjoy drawing. It helps me relax and focus on something creative.
+
+Consultant: That's a wonderful hobby. Creative activities can be a great outlet for emotion and stress. Would you like to plan a way to incorporate more drawing into your regular routine?
+
+User: Absolutely. I think having a set time for drawing each week would be great.
+
+Consultant: Planning a specific time might help create consistency and provide a positive activity to look forward to. How about starting with an hour on weekends?
+
+User: That sounds like a good idea. I'll try to make it a regular practice.
+
+Consultant: That sounds fantastic. Over time, this new habit can become a nurturing and grounding routine. As you jot down positive moments, try to pair those reflections with your drawing time to further cement these positive thoughts.
+
+User: I can see how that might provide a dual benefit. It not only helps in expressing myself artistically but also reinforces positive thinking.
+
+Consultant: Exactly. Combining practices you enjoy with cognitive exercises can create a more comprehensive support system for your mental well-being. How did you feel about the exercise we discussed last time—where you wrote down the beliefs behind your fears and challenged their validity?
+
+User: It was eye-opening. Seeing my thoughts on paper made it easier to identify which ones were irrational.
+
+Consultant: That’s a crucial step in shaping a more balanced perspective. Continuing this practice alongside drawing can help you gain further insight into how your thoughts influence your experiences. How comfortable are you with continuing these exercises?
+
+User: I'm getting more used to it. It's challenging but also helpful.
+
+Consultant: I'm glad to hear that. Remember, it's all about gradual progress. How has sharing this process with your support network been for you?
+
+User: It's been reassuring. Talking to friends and family and getting their perspectives has made me feel less alone.
+
+Consultant: That’s great to hear. Sharing your experiences with trusted individuals can provide valuable feedback and support. Lastly, let's set a small goal. How about jotting down at least one positive interaction or thought each day and pairing it with your drawing routine?
+
+User: That sounds manageable. I'll work on incorporating that into my daily schedule.
+
+Consultant: Perfect. We'll review how it went in our next session and discuss any patterns or insights you’ve noticed. Consistent practice and reflection can lead to long-term growth. Any final thoughts before we wrap up today?
+
+User: I feel encouraged and have a clearer plan. Thanks for your guidance.
+
+Consultant: You're doing an excellent job. Keep being kind to yourself, and remember each step counts. Looking forward to our next session, and take care until then.
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi, it's great to have you back. Last time, we discussed how your thoughts might not always reflect reality. Have you thought about ways to address negative assumptions?
+
+User: Yes, I've been considering writing down moments when things went well to remind myself when I'm feeling anxious.
+
+Consultant: That's a great strategy. Recording positive experiences can reinforce the idea that not all interactions lead to negative outcomes. How do you feel about starting this habit?
+
+User: I'm optimistic. I think it could help shift my focus to more positive outcomes.
+
+Consultant: Excellent. Creating this habit of jotting down positive moments can really help ground you when anxiety tries to take over. Last week, we discussed some strategies to help with this, like finding a time that works well to reflect and write. Have you managed to identify when this might be most effective for you?
+
+User: I’ve been thinking early mornings might work best, just to start the day on a positive note.
+
+Consultant: That sounds like a wonderful approach, starting your day with positive reflections can set a soothing tone. You mentioned enjoying drawing to relax and de-stress; have you considered incorporating your drawing time along with jotting down these positive moments?
+
+User: Yes, that idea appeals to me. Dedicating that quiet morning time for both drawing and reflection seems like it can really set the stage for a good day.
+
+Consultant: I'm glad to hear that. Pairing a calming activity with positive reflection can enhance your mood and bring about a more serene mindset. Have you had any specific positive interactions or experiences lately that you'd like to include in these reflections?
+
+User: Well, I had a nice chat with a friend the other day that lifted my spirits. We talked about plans for a short trip, and it reminded me of how valued those connections are.
+
+Consultant: That's lovely. It’s beneficial to reflect on those meaningful connections, as they can be a strong source of support. Consider also reflecting on how you felt during and after the conversation and how that impacts your overall well-being.
+
+User: Definitely, it felt good having something positive to look forward to and knowing I have friends who care.
+
+Consultant: Precisely. Cultivating such optimism is essential. Have you had the opportunity to observe any patterns in your thoughts or emotions, especially any recurrences of negative thinking during specific situations?
+
+User: I’ve noticed that feelings of inadequacy tend to crop up before social gatherings, more so than other situations.
+
+Consultant: That’s insightful. Social situations can sometimes heighten those feelings. How have you been managing these moments, especially before they occur?
+
+User: I've been trying to calm myself by focusing on the anticipation of enjoyment rather than the fear of discomfort, also reminding myself of past successes in similar situations.
+
+Consultant: That's an excellent method, shifting your focus proactively. Planning for any reminders or grounding techniques just before these events could further support this approach. What might some of those techniques be for you?
+
+User: Perhaps taking a moment to breathe deeply or quickly sketching a familiar scene can help settle my mind before engaging socially.
+
+Consultant: Breathing exercises and quick sketches sound like wonderful ways to center yourself. Integrating them into your routine can provide a solid foundation. As we plan for the upcoming week, how do you feel about setting a goal to regularly note down at least one encouraging thought from each day?
+
+User: I think that would be quite useful. Keeping track of the positives could help counterbalance any of those recurring negatives.
+
+Consultant: Great mindset! Solidifying this will reinforce more balanced thinking. As you proceed, consider connecting with your supportive friends to discuss these reflections. How comfortable are you with sharing these experiences?
+
+User: I feel quite open to it. Talking things through often provides different perspectives, which is nice.
+
+Consultant: That's fantastic! Incorporating feedback from trusted individuals can be immensely valuable. Keep nurturing those relationships. At our next session, we’ll revisit how these practices have been working for you. Before we wrap up, is there anything more you'd like to explore or discuss today?
+
+User: I feel pretty confident with the plan we have. Thank you for helping me outline these steps.
+
+Consultant: You're doing wonderfully, and your proactiveness is truly encouraging. Keep these reflections and practices ongoing, and remember I'm here for support. Looking forward to our next conversation. Take care until then.
+
+User: Thanks. I’ll see you next time!
+#######
+Consultant: Hi, I'm happy to see you again. Have you thought about activities that might help boost your mood during anxious times?
+
+User: Yes, I enjoy drawing. It helps me relax and focus on something creative.
+
+Consultant: That's a wonderful hobby. Creative activities can be a great outlet for emotion and stress. Would you like to plan a way to incorporate more drawing into your regular routine?
+
+User: Absolutely. I think having a set time for drawing each week would be great.
+
+Consultant: Planning a specific time might help create consistency and provide a positive activity to look forward to. How about starting with an hour on weekends?
+
+User: That sounds like a good idea. I'll try to make it a regular practice. Sometimes, when I'm drawing, I find that I can better express what I'm feeling without needing to put it into words.
+
+Consultant: That's a significant insight. Expressing emotions creatively can be therapeutic. How do you usually feel after spending time drawing?
+
+User: I usually feel much calmer and more at peace. It's almost like the stresses of the day just fade away as I focus on the details of my drawings.
+
+Consultant: That peacefulness and calmness are essential benefits. Have you noticed if certain subjects or themes in your drawing resonate more with how you're feeling at the time?
+
+User: Yes, drawing landscapes tends to relax me the most. It's like creating my own serene world on paper helps me find some tranquility internally as well.
+
+Consultant: Creating those serene landscapes seems like a beautiful way to find inner peace. Moving forward, would it be helpful to intertwine your drawing sessions with reflective practices about your emotions?
+
+User: I think it would be. I sometimes find myself reflecting without meaning to when I'm lost in a drawing. Being more intentional about it seems like it could deepen the experience.
+
+Consultant: Intentional reflection during those creative times can indeed deepen your self-awareness and emotional release. Have you thought about keeping a small journal next to your drawing materials, to capture any reflections or thoughts that come up while you draw?
+
+User: That's a great suggestion. Having a journal handy could help capture those thoughts before they slip away.
+
+Consultant: That way, you could track your progress and see the connection between your creative expression and emotional shifts over time. Is there a comfortable spot or environment where you like to draw that you think would support this new practice?
+
+User: I usually like drawing at the small desk by my window. The natural light and view seem to inspire me.
+
+Consultant: Natural light and an inspiring view sound perfect for fostering creativity and reflection. As we plan for these changes, how do you feel about setting a specific day during the week for this combined practice of drawing and reflection?
+
+User: I think Sunday afternoons would work well for me. It's usually a quieter time and would give me something to look forward to at the start of each week.
+
+Consultant: That sounds like a well-thought-out plan. With this structure in place, you can look forward to each session as a restorative time for yourself. Are there any upcoming events or situations where you think this practice might be particularly helpful?
+
+User: I have a presentation coming up in a few weeks. I feel like the drawing and reflection time might help me manage the anxiety leading up to it.
+
+Consultant: Preparing for that presentation with these practices in mind could help calm those pre-presentation nerves. Would another supportive activity, like a brief breathing exercise before the presentation, complement these strategies?
+
+User: Yes, a short breathing exercise could be great to help center myself before speaking. I've done that before, and it has helped ease my nerves.
+
+Consultant: Incorporating a brief breathing exercise sounds like a wonderful addition to your preparatory routine for presentations. This upcoming week, would you consider scheduling a few drawings and reflections centered around the theme of confidence or capability to align with this goal?
+
+User: I can definitely focus some drawings and reflections on themes of confidence. It might serve as a good reminder that I've handled similar situations before.
+
+Consultant: Focusing on past successes and your inherent capabilities through these drawings can reinforce your self-assurance. As you engage in this week's practices, try exploring how these moments of confidence were shaped and how they continue to influence you today.
+
+User: I like that idea. It's easy to forget personal successes, especially when anxiety creeps in, so reinforcing them through reflection could be helpful.
+
+Consultant: Nurturing these positive reminders will indeed bolster your sense of confidence. If you feel comfortable, sharing these insights and reflections with a trusted friend might further enhance your understanding and resolve. Would you be open to discussing these experiences with someone close? 
+
+User: Yes, I could talk about it with my friend who I've been planning the trip with. They're supportive and usually have great perspectives.
+
+Consultant: That's wonderful to hear. Engaging in such open conversations can introduce new insights and deepen your self-awareness. By next time, we can explore how these discussions and reflections have influenced your mindset. How do you feel about starting this journey towards more intentional reflection and creativity combined with connection?
+
+User: I feel optimistic about it. Having a structured way to approach these thoughts and emotions sounds like a step in the right direction.
+
+Consultant: That's a fantastic approach, embracing optimism and structure. You'll gradually find this new routine enriching. As always, remember that I'm here for support as you navigate this path. I'm eager to continue exploring these practices in our future sessions.
+
+User: Thanks, I appreciate the guidance. I'm looking forward to seeing how these small changes can make a difference.
+#######
+Consultant: Hi there! Hope you've been well. Last week, we talked about finding effective strategies for managing anxiety and incorporating drawing into your routine. How has that been going for you?
+
+User: Hey! I've been doing okay. I've started challenging my negative thoughts more actively, especially by focusing on past positives and sharing my feelings with someone I trust. It has been somewhat helpful, though I occasionally still struggle with jumping to negative conclusions.
+
+Consultant: That's great progress! It's all about small steps. As you continue to tackle these negative thoughts, are there any strategies you've found particularly useful?
+
+User: Yes, reminding myself of positive experiences is effective. I also found that incorporating drawing regularly, like we discussed, has been a great outlet for stress. I designated time on weekends, and it's something I look forward to.
+
+Consultant: Wonderful! It sounds like these habits are beginning to create a positive cycle. Among these strategies, which ones do you plan to rely on most during future challenges?
+
+User: I think focusing on past positive experiences is key. By not jumping to conclusions so quickly, I see situations more clearly. Also, keeping up with my drawing routine is a must for handling stress.
+
+Consultant: Those strategies are powerful and can really help you navigate through challenges. As our sessions are wrapping up, I want to remind you that you’ve developed valuable skills to confront life’s complications. If you ever need support again, remember I’m here for you.
+
+User: Thank you so much for everything. Your guidance has been invaluable, and I feel more confident in handling things on my own now.
+
+Consultant: It's been my pleasure working with you. You've shown great resilience and willingness to grow. Keep nurturing those supportive connections and pursuing your creative interests. Reach out anytime, and take care!
+#######

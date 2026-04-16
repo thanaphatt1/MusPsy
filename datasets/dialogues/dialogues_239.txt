@@ -1,0 +1,374 @@
+Consultant: Hi Xiaomo, welcome to our session today. How have you been doing recently?
+
+User: Hi. I've been feeling really overwhelmed with schoolwork lately. It's hard for me to focus in class, and my sleep has been terrible. I keep having nightmares.
+
+Consultant: I'm sorry to hear that. It sounds like you're under a lot of stress. Could you tell me more about what kind of nightmares you're experiencing?
+
+User: They often involve failing exams or getting lost in a huge school I don't recognize. It's really unsettling, and I wake up feeling exhausted.
+
+Consultant: Those dreams must be quite distressing. It's understandable that they affect your concentration and mood during the day. Have you noticed any particular triggers for these feelings?
+
+User: I think it started when our teachers began discussing upcoming exams and homework assignments. It all just seems too much to handle at once.
+
+Consultant: Thank you for sharing this with me. I'll give you a small assignment: try to note down when you feel most stressed and what you were doing right before. This might help us identify specific stressors next time.
+
+Consultant: Hi Xiaomo, glad to have you back for our session. Did you have the chance to observe when you feel the most stressed?
+
+User: Yes, I noticed that my stress spikes when I'm trying to study at night and can't seem to remember the things I've read during the day.
+
+Consultant: That's great insight. You mentioned last time about your nightmares and difficulty concentrating. Do you recall any specific thoughts you have during those stressful study sessions?
+
+User: I often think that I'm not going to pass the exams and that I'm disappointing my family by not doing well.
+
+Consultant: That's quite a lot of pressure to put on yourself. These thoughts might be contributing to your stress and sleep issues. Have you considered how realistic these thoughts are?
+
+User: Not really. But when I think about it, I guess I tend to assume the worst-case scenario often.
+
+Consultant: It's common to have these thoughts, especially under pressure. Your next task is to write down these recurring thoughts and how they make you feel. We'll explore them in more detail next time.
+
+Consultant: Hi Xiaomo, welcome back. Let's talk about some of those distressing thoughts you've been having. How confident are you in these fears about failing?
+
+User: Not very confident, I guess. When I wrote them down, they seemed more like just fears rather than reality.
+
+Consultant: That's an important realization. Imagine if a classmate was in your shoes, what would you advise them about these fears?
+
+User: I'd probably tell them to focus on studying small chunks at a time and remind them that one exam doesn't define their worth.
+
+Consultant: That's very supportive advice. How do you feel about applying that to yourself?
+
+User: I think it might help. I should probably organize my study sessions better and give myself some credit for trying.
+
+Consultant: Exactly, breaking it down can make it more manageable. For your next task, try to implement this technique and see if it helps with your study sessions.
+
+Consultant: Hi Xiaomo, it's great to have you back. Last time, we discussed ways to manage your study stress. Have you tried organizing your study sessions differently?
+
+User: Yes, I started breaking down my subjects into smaller parts and focusing on one section at a time. It feels a bit more achievable now.
+
+Consultant: That's excellent to hear. How has this change impacted your feelings about the upcoming exams?
+
+User: I feel a bit more in control, and I don't panic as much when thinking about the exams. It's still stressful, but not as overwhelming.
+
+Consultant: That's progress. It's important to recognize the effort you're putting in. How do you feel about rewarding yourself for small achievements?
+
+User: I hadn't thought of that, but it sounds like a good idea. Maybe I can take short breaks and do something I like after a productive study session.
+
+Consultant: That's a great plan. As your next task, think about activities you enjoy that you can use as rewards for your hard work.
+
+Consultant: Hi Xiaomo, I'm happy to see you again. Have you thought about any activities that bring you joy and could serve as rewards?
+
+User: Yes, I used to enjoy drawing, and I think taking short breaks to sketch might help me relax.
+
+Consultant: That's a wonderful creative outlet. Integrating something you love into your routine can really boost your mood. How would you like to plan these breaks around your study time?
+
+User: I could study for about 45 minutes and then take a 15-minute break to draw. It seems like a balanced approach.
+
+Consultant: That sounds like an excellent plan. It can help refresh your mind and make study sessions more pleasant. Your task is to try this method over the next week and note any changes in your mood or stress levels.
+
+Consultant: Hi Xiaomo, it's been a pleasure working with you. Let's reflect on your journey and identify strategies you've found helpful.
+
+User: I've realized that breaking tasks into smaller parts and allowing myself downtime really helps. Not pushing myself too hard all the time is crucial.
+
+Consultant: That's a valuable insight. When similar challenges arise in the future, what strategies do you think will best support you?
+
+User: I'll remind myself to take things one step at a time and not let negative thoughts get the best of me. Staying connected with my interests will also be important.
+
+Consultant: These are strong strategies. As we conclude our sessions, remember the skills you've built are there to help you navigate future challenges. Feel free to reach out if you need further support.
+
+User: Thank you for your guidance. I feel more prepared to manage my stress and studies now.
+#######
+Consultant: Hi Xiaomo, glad to have you back for our session. Did you have the chance to observe when you feel the most stressed?
+
+User: Yes, I noticed that my stress spikes when I'm trying to study at night and can't seem to remember the things I've read during the day.
+
+Consultant: That's great insight. You mentioned last time about your nightmares and difficulty concentrating. Do you recall any specific thoughts you have during those stressful study sessions?
+
+User: I often think that I'm not going to pass the exams and that I'm disappointing my family by not doing well.
+
+Consultant: That's quite a lot of pressure to put on yourself. These thoughts might be contributing to your stress and sleep issues. Have you considered how realistic these thoughts are?
+
+User: Not really. But when I think about it, I guess I tend to assume the worst-case scenario often.
+
+Consultant: It's common to have these thoughts, especially under pressure. Your next task is to write down these recurring thoughts and how they make you feel. We'll explore them in more detail next time.
+
+Consultant: Hi Xiaomo, welcome back. Let's talk about some of those distressing thoughts you've been having. How confident are you in these fears about failing?
+
+User: Not very confident, I guess. When I wrote them down, they seemed more like just fears rather than reality.
+
+Consultant: That's an important realization. Imagine if a classmate was in your shoes, what would you advise them about these fears?
+
+User: I'd probably tell them to focus on studying small chunks at a time and remind them that one exam doesn't define their worth.
+
+Consultant: That's very supportive advice. How do you feel about applying that to yourself?
+
+User: I think it might help. I should probably organize my study sessions better and give myself some credit for trying.
+
+Consultant: Exactly, breaking it down can make it more manageable. For your next task, try to implement this technique and see if it helps with your study sessions.
+
+Consultant: Hi Xiaomo, it's great to have you back. Last time, we discussed ways to manage your study stress. Have you tried organizing your study sessions differently?
+
+User: Yes, I started breaking down my subjects into smaller parts and focusing on one section at a time. It feels a bit more achievable now.
+
+Consultant: That's excellent to hear. How has this change impacted your feelings about the upcoming exams?
+
+User: I feel a bit more in control, and I don't panic as much when thinking about the exams. It's still stressful, but not as overwhelming.
+
+Consultant: That's progress. It's important to recognize the effort you're putting in. How do you feel about rewarding yourself for small achievements?
+
+User: I hadn't thought of that, but it sounds like a good idea. Maybe I can take short breaks and do something I like after a productive study session.
+
+Consultant: That's a great plan. As your next task, think about activities you enjoy that you can use as rewards for your hard work.
+
+Consultant: Hi Xiaomo, I'm happy to see you again. Have you thought about any activities that bring you joy and could serve as rewards?
+
+User: Yes, I used to enjoy drawing, and I think taking short breaks to sketch might help me relax.
+
+Consultant: That's a wonderful creative outlet. Integrating something you love into your routine can really boost your mood. How would you like to plan these breaks around your study time?
+
+User: I could study for about 45 minutes and then take a 15-minute break to draw. It seems like a balanced approach.
+
+Consultant: That sounds like an excellent plan. It can help refresh your mind and make study sessions more pleasant. Your task is to try this method over the next week and note any changes in your mood or stress levels.
+
+Consultant: Hi Xiaomo, it's been a pleasure working with you. Let's reflect on your journey and identify strategies you've found helpful.
+
+User: I've realized that breaking tasks into smaller parts and allowing myself downtime really helps. Not pushing myself too hard all the time is crucial.
+
+Consultant: That's a valuable insight. When similar challenges arise in the future, what strategies do you think will best support you?
+
+User: I'll remind myself to take things one step at a time and not let negative thoughts get the best of me. Staying connected with my interests will also be important.
+
+Consultant: These are strong strategies. As we conclude our sessions, remember the skills you've built are there to help you navigate future challenges. Feel free to reach out if you need further support.
+
+User: Thank you for your guidance. I feel more prepared to manage my stress and studies now.
+#######
+Consultant: Hi Xiaomo, welcome back. Let's talk about some of those distressing thoughts you've been having. How confident are you in these fears about failing?
+
+User: Not very confident, I guess. When I wrote them down, they seemed more like just fears rather than reality.
+
+Consultant: That's an important realization. Imagine if a classmate was in your shoes, what would you advise them about these fears?
+
+User: I'd probably tell them to focus on studying small chunks at a time and remind them that one exam doesn't define their worth.
+
+Consultant: That's very supportive advice. How do you feel about applying that to yourself?
+
+User: I think it might help. I should probably organize my study sessions better and give myself some credit for trying.
+
+Consultant: Exactly, breaking it down can make it more manageable. For your next task, try to implement this technique and see if it helps with your study sessions.
+
+Consultant: When you started organizing your study sessions into smaller chunks, did you notice any changes in your overall stress levels?
+
+User: Actually, yes. It didn't feel as daunting once I broke everything down, and I wasn't as overwhelmed.
+
+Consultant: That's fantastic progress, Xiaomo. It's crucial to take stock of your efforts and appreciate the small victories. Do you have any ideas on how to acknowledge these achievements?
+
+User: Acknowledging those small wins felt a bit unusual at first, but then I realized even little compliments to myself helped. Maybe some self-praise or little rewards could also work well.
+
+Consultant: That's a wonderful idea. Giving yourself positive reinforcement can help build a more resilient mindset. What sort of activities or treats do you think could serve as rewards?
+
+User: I think simple things like a little break to doodle or listening to a favorite song could be nice rewards without being too distracting.
+
+Consultant: Perfect, incorporating small, enjoyable breaks into your routine could reinvigorate your study sessions. How might this approach change how you view studying?
+
+User: By making study sessions less about stress and more about learning, they might become less of a chore and more rewarding, knowing there's something nice waiting afterward.
+
+Consultant: That's an excellent shift in perspective. How do you see this impacting your broader experiences with expectations and performance?
+
+User: It could make a difference. I might stop feeling like every moment is high stakes and start seeing it as part of a broader journey rather than a one-off event.
+
+Consultant: Embracing the journey perspective could help lessen undue pressure. Over the next weeks, try maintaining this mindset and see if it eases your stress around studying.
+
+User: I'll certainly try. It sounds like a healthy way to address these challenges and grow into more balanced study habits.
+
+Consultant: That's the spirit, Xiaomo. Document your thoughts and reflections along this journey, especially positive shifts or moments of relief. They'll be insightful to revisit.
+
+User: That's a good idea. Reflecting on the journey could serve as a reminder of progress and help in future challenges.
+
+Consultant: Absolutely. Progress isn't just about the final result; it's the understanding and skills you nurture along the way. How might family views align with encouraging such growth?
+
+User: My family probably values my dedication and effort just as much as results, even if I forget sometimes. Knowing they'd appreciate my persistence could help me stay motivated.
+
+Consultant: Exactly, recognizing that encouragement from family can be integral to sustaining your progress. Imagine letting this support guide you through potentially overwhelming times.
+
+User: Their support could serve as a motivating factor, encouraging me to take breaks when needed and staying committed even during challenging times.
+
+Consultant: It's heartening to integrate their encouragement into your strategies. As your task, reflect on how their presence might continue to inspire your efforts.
+
+User: I will. It sounds like a solid way to keep my spirits up and put everything into perspective.
+
+Consultant: Remember, you're weaving a tapestry of skills and support that will guide you through academic challenges. Embrace this journey with patience; it's a long-term endeavor, not just a series of tests.
+
+User: Thanks for the reminder and support. Knowing I'm not alone in this makes navigating it all a bit easier.
+
+Consultant: You're doing wonderfully, Xiaomo. Rest assured, you have the tools and support to thrive. Looking forward to exploring the results of these efforts in our next session.
+
+User: Thanks, I'll keep the momentum going and share my progress next time!
+#######
+Consultant: Hi Xiaomo, it's great to have you back. Last time, we discussed ways to manage your study stress. Have you tried organizing your study sessions differently?
+
+User: Yes, I started breaking down my subjects into smaller parts and focusing on one section at a time. It feels a bit more achievable now.
+
+Consultant: That's excellent to hear. How has this change impacted your feelings about the upcoming exams?
+
+User: I feel a bit more in control, and I don't panic as much when thinking about the exams. It's still stressful, but not as overwhelming.
+
+Consultant: That's progress. It's important to recognize the effort you're putting in. How do you feel about rewarding yourself for small achievements?
+
+User: I hadn't thought of that, but it sounds like a good idea. Maybe I can take short breaks and do something I like after a productive study session.
+
+Consultant: That's a great plan. As your next task, think about activities you enjoy that you can use as rewards for your hard work.
+
+User: Okay, I'll come up with some ideas.
+
+Consultant: Fantastic. Have you had a chance to discuss your new study approach with your family, or anyone close?
+
+User: Not really. I’ve just been trying it out on my own.
+
+Consultant: Sharing your strategies might be uplifting. How do you think they'd respond to how you're handling your study stress now?
+
+User: I think they would be supportive. They always tell me they want me to feel good about my progress, not just the result.
+
+Consultant: That's encouraging to hear. Knowing they emphasize progress can be quite reassuring. How does it feel to have their support in this way?
+
+User: It feels good. Sometimes I just assume they care only about grades, so hearing their real feelings can be grounding.
+
+Consultant: Indeed, they seem to be a great source of motivation. Their understanding can be a powerful anchor. How might their support change your outlook on challenges?
+
+User: I think I’d feel less alone in facing these challenges. Remembering their support might help me relax a bit more.
+
+Consultant: Absolutely. Remember, it's okay to lean on them for encouragement. This week, challenge yourself to share your progress with them and reflect on how this changes your experience.
+
+User: I’ll try that. It could be helpful to have a conversation with them about this.
+
+Consultant: Supporting each other can strengthen family bonds and provide added reassurance. How else could integrating support affect your study habits?
+
+User: It could make studying feel less like an isolated struggle. It might become more about a shared journey with those who care about me.
+
+Consultant: That change in perspective is vital. Keep embracing the support around you, and consider how this could reinforce your resilience during tough times.
+
+User: I’ll certainly do that. It feels like a positive step forward.
+
+Consultant: You're making substantial progress. Let's explore how you might address any persistent negative thoughts you encounter.
+
+User: Writing them down has helped me see them differently. Sometimes they’re just fears, not reality.
+
+Consultant: Acknowledging them as fears rather than facts is profound. How can you apply this understanding moving forward?
+
+User: I can remind myself that these thoughts aren't always true and focus more on what I can control.
+
+Consultant: That's excellent. Keep discerning between realistic concerns and exaggerated fears. This approach could profoundly ease your anxiety over time.
+
+User: Yes, I think it will. It feels like I’m starting to understand myself better through this process.
+
+Consultant: That’s wonderful to hear, Xiaomo. Self-awareness can be incredibly empowering.
+
+User: Thanks. It’s reassuring to talk about these things and find practical ways to manage them.
+
+Consultant: I’m glad to be part of your journey. You’re developing a toolkit of strategies that will be invaluable in many situations.
+
+User: Thank you for your help. I’m feeling more optimistic about handling stress moving forward.
+
+Consultant: You’re doing great, Xiaomo. Keep refining these strategies, and I’ll be here to support you every step of the way.
+#######
+Consultant: Hi Xiaomo, I'm happy to see you again. Have you thought about any activities that bring you joy and could serve as rewards?
+
+User: Yes, I used to enjoy drawing, and I think taking short breaks to sketch might help me relax.
+
+Consultant: That's a wonderful creative outlet. Integrating something you love into your routine can really boost your mood. How would you like to plan these breaks around your study time?
+
+User: I could study for about 45 minutes and then take a 15-minute break to draw. It seems like a balanced approach.
+
+Consultant: That sounds like an excellent plan. It can help refresh your mind and make study sessions more pleasant. Your task is to try this method over the next week and note any changes in your mood or stress levels.
+
+User: I'll definitely give it a try. Drawing always makes me feel better, even if it's just for a short time.
+
+Consultant: That's great to hear. By giving yourself these intentional breaks, you might find a new sense of enjoyment and relaxation in your studies. How do you usually feel after drawing?
+
+User: I feel more peaceful and my mind feels clearer. It’s like a small escape from all my worries.
+
+Consultant: It's wonderful that drawing gives you such a peaceful outlet. Remember, these breaks are about nurturing yourself, not just stepping away from your studies. How do you typically choose what to draw?
+
+User: I usually start with something simple, like trees or flowers. If I'm feeling adventurous, I might try drawing people or scenes from my daydreams.
+
+Consultant: Those sound like creative choices. Have you considered how incorporating these drawings into a journal or using them as a form of self-expression might influence your mood and stress?
+
+User: I haven't thought about it, but that could be a helpful idea. Documenting my feelings through drawing might help me process them better.
+
+Consultant: Absolutely, it can be a very therapeutic practice. This week, when you take your drawing breaks, try to pay attention to any themes or feelings that come up in your sketches.
+
+User: I can do that. It might be interesting to see if certain themes come up in what I draw.
+
+Consultant: I'm eager to hear what you discover. Besides drawing, have there been any changes in how you're handling study stress we've discussed in previous sessions?
+
+User: Yes, breaking down my study sessions has made a big difference. I don’t feel as overwhelmed now, and I can focus better.
+
+Consultant: That’s excellent to hear, Xiaomo. It sounds like you’ve been implementing some effective strategies. Have you noticed any recurring negative thoughts that could benefit from this drawing practice?
+
+User: Sometimes I still worry about not doing well enough and disappointing my family. But drawing helps take my mind off those worries.
+
+Consultant: It's great that drawing provides you some relief. Those worries, while common, can be quite taxing emotionally. As part of your journaling or drawing, also jot down these worries and how you handle them once the drawing session ends.
+
+User: I can try that. It might help me see things in a different perspective.
+
+Consultant: It’s all about understanding and reframing those thoughts. When you reflect on them, see if you can identify new interpretations that feel truer or kinder.
+
+User: That sounds difficult but beneficial. I’ll try to notice when those thoughts appear and what I’m doing at the time.
+
+Consultant: Wonderful, Xiaomo. It's a gradual process, and drawing can be a window into understanding your subconscious mind. Are there specific times of day when drawing feels most needed or rewarding?
+
+User: Probably after a long study session or when I'm feeling stuck on a problem. It kind of resets my mind.
+
+Consultant: That sounds like a very intuitive approach. Recognizing those moments and allowing yourself that creative space is key. Remember to treat those breaks as rewards for hard work completed, not avoidance.
+
+User: Yes, I’ll try to remember that. Breaks are rewards for what I accomplished, even if it's small.
+
+Consultant: Exactly! Showing appreciation for your efforts, regardless of their size, is crucial. You’re making significant strides, and each sketch is a testament to that. 
+
+User: Thanks for that perspective. I hadn’t really thought of it that way.
+
+Consultant: It’s a pleasure, Xiaomo. Recognizing and rewarding progress is such an important part of growth. Keep me posted on how these drawing sessions affect your stress and focus.
+
+User: I will, definitely. It’s nice to have a practical way to manage my stress.
+
+Consultant: Excellent, Xiaomo. Keep up with this nurturing habit and see how it influences your perspective over the coming weeks. I'm looking forward to discussing your observations next time.
+
+User: Thank you. I appreciate your support and guidance.
+
+Consultant: Always here for you, Xiaomo. Take care and keep embracing both your studies and your art. They're both reflections of your wonderful creativity.
+
+User: I'll see you next time!
+#######
+Consultant: Hi Xiaomo, it's been a pleasure working with you. Let's reflect on your journey and identify strategies you've found helpful.
+
+User: I've realized that breaking tasks into smaller parts and allowing myself downtime really helps. Not pushing myself too hard all the time is crucial.
+
+Consultant: That's a valuable insight. Can you pinpoint a moment when you effectively applied these strategies?
+
+User: A few days ago, I was overwhelmed with a big project. I decided to break it down into smaller tasks and took breaks to draw, which really helped me stay focused and calm.
+
+Consultant: That's excellent, Xiaomo. How did incorporating drawing into your routine influence your approach to managing stress?
+
+User: Drawing gave me something to look forward to and reminded me to take breaks. It helped me clear my mind and approach tasks with a fresh perspective.
+
+Consultant: It's wonderful to hear that. This kind of integration between your hobbies and work can be very beneficial. When similar challenges arise in the future, what strategies do you think will best support you?
+
+User: I'll remind myself to take things one step at a time and not let negative thoughts get the best of me. Staying connected with my interests will also be important.
+
+Consultant: These are strong strategies. Recognizing when to step back and engage in an activity you enjoy is a great skill. Have there been any specific situations where these techniques have helped reduce your stress or improved your mood?
+
+User: Yes, especially during study sessions when I feel stuck. Taking a break to draw helps me reset and find a solution when I return.
+
+Consultant: That's fantastic. It's important to notice these successful moments, as they reassure you of your capacity to manage stress effectively. How has recognizing these moments changed your overall confidence in handling stressful situations?
+
+User: I feel more capable now. Knowing I have these tools makes it easier to face challenges without feeling overwhelmed.
+
+Consultant: That's a significant step forward. The skills you've developed can offer guidance in various aspects of life. As we conclude our sessions, remember the skills you've built are there to help you navigate future challenges. Feel free to reach out if you need further support.
+
+User: Thank you for your guidance. I feel more prepared to manage my stress and studies now.
+
+Consultant: You've made remarkable progress, Xiaomo. Keep utilizing these strategies, and remember to nurture both your studies and your creative interests. They offer a balanced path for continued growth.
+
+User: I will. Thanks again for everything.
+
+Consultant: It's been my pleasure. I look forward to hearing about your future achievements. Take care, Xiaomo.
+
+User: Goodbye, and thank you!
+#######

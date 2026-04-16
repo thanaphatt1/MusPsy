@@ -1,0 +1,406 @@
+Consultant: Hi, welcome to our counseling session today. How are you feeling recently?
+
+User: Hi. I've been quite stressed, especially with the tension in my dorm. I had a conflict with one of my roommates, A, and things haven't been the same since.
+
+Consultant: I'm sorry to hear that you're going through a challenging time. Could you share a bit about what led to this situation?
+
+User: Well, it started with a misunderstanding. I tried to resolve it through our counselor, but it didn't help much. Now things are awkward, and I often feel anxious in the dorm.
+
+Consultant: It seems like this situation has been quite overwhelming for you. How are these feelings impacting you in your day-to-day activities or interactions?
+
+User: I feel constantly on edge, like I'm walking on eggshells around my roommates. It's affecting my concentration on studies, and I'm worried about how things might escalate.
+
+Consultant: I understand it's a difficult situation. For this week, maybe you could focus on identifying and noting down your feelings when these tensions arise. It's a small step, but it might help us understand your emotional triggers better.
+
+User: That sounds doable. I'll try keeping track of how I feel when things get tense.
+
+Consultant: Hi again, glad to have you back. Did you have a chance to note down your feelings as we discussed last time?
+
+User: Yes, I did. I noticed that I often feel anxious and worried whenever I enter the dorm after classes.
+
+Consultant: That's a great observation. During those moments, do any particular thoughts cross your mind that could be contributing to these feelings?
+
+User: I often think that my roommates might be talking behind my back. I feel like maybe it's my fault things are this way because of the initial conflict with roommate A.
+
+Consultant: It sounds like there could be some patterns in your thinking that amplify the situation. Have you noticed any moments when these thoughts might seem extreme or unreasonable?
+
+User: Sometimes I feel like everyone is against me, even though there’s no real evidence. It's like I'm jumping to conclusions without really knowing what's happening.
+
+Consultant: Being aware of this tendency is a good first step. For this week, try to question these extreme thoughts when they arise. Ask yourself if there’s another perspective you might be missing.
+
+User: I'll give that a try and see if it helps me feel less anxious.
+
+Consultant: Welcome back. How did it go with questioning those extreme thoughts we talked about last time?
+
+User: It was harder than I thought, but I realized I don't have much evidence supporting my fears. It’s just a feeling I can't shake off.
+
+Consultant: That’s a significant realization. If a friend was in your shoes, what perspective or advice would you offer them?
+
+User: I'd probably suggest not overthinking and perhaps trying to talk things through with the people involved.
+
+Consultant: That's a constructive way of handling it. Do you think trying to speak with your roommates could provide clarity and potentially ease your anxiety?
+
+User: I hadn’t thought of that before, but it might be worth a shot to try having an open conversation.
+
+Consultant: Hi, I'm glad to see you again. Have you considered any specific steps yet to discuss your concerns with your roommates?
+
+User: Yes, I’ve been thinking about arranging a casual talk with roommate A to clear the air.
+
+Consultant: That sounds like a positive and proactive approach. What do you hope to communicate during your conversation?
+
+User: I want to express that the initial issue was unintentional and that I have no ill feelings toward her. I’d like to move forward peacefully.
+
+Consultant: Sharing your thoughts and intentions sincerely could be quite helpful. How do you feel about going forward with this plan?
+
+User: I’m a bit nervous about how she'll react, but I believe it's important to try resolving things.
+
+Consultant: Welcome back again. Have you had the chance to reflect on activities or interests that might distract you positively during these tense times?
+
+User: Yes, I remembered how much I love reading. Getting lost in a book helps me escape and focus on something enjoyable.
+
+Consultant: That's wonderful. Reading can be an excellent way to relax. Would you be interested in setting aside regular time to dive into a good book?
+
+User: Definitely. I've been wanting to do that but always felt guilty about taking time off from studies.
+
+Consultant: Scheduling some reading time can actually help you unwind and recharge. How about starting with a short daily session?
+
+User: I’ll try setting aside some time each evening after dinner.
+
+Consultant: Hi, it’s been really rewarding working with you. Can we reflect on what strategies you found most beneficial during these sessions?
+
+User: Becoming more aware of how my thoughts impact my feelings has been eye-opening. I think learning to communicate and share my feelings with others is a big takeaway for me.
+
+Consultant: That's excellent. When similar situations arise in the future, what strategies do you feel equipped to use?
+
+User: I’ll remind myself not to jump to conclusions and aim to talk things over instead. Engaging in activities I enjoy, like reading, also helps ease my stress.
+
+Consultant: These are powerful insights and skills. As we conclude our sessions, know you have many tools to tackle life's challenges. Don’t hesitate to reach out if you want further support.
+
+User: Thank you so much for your guidance. I feel stronger and more prepared to handle these situations now.
+
+Consultant: You're very welcome, and you've made great strides. Take care and enjoy your journey ahead!
+#######
+Consultant: Hi again, glad to have you back. Did you have a chance to note down your feelings as we discussed last time?
+
+User: Yes, I did. I noticed that I often feel anxious and worried whenever I enter the dorm after classes.
+
+Consultant: That's a great observation. During those moments, do any particular thoughts cross your mind that could be contributing to these feelings?
+
+User: I often think that my roommates might be talking behind my back. I feel like maybe it's my fault things are this way because of the initial conflict with roommate A.
+
+Consultant: It sounds like there could be some patterns in your thinking that amplify the situation. Have you noticed any moments when these thoughts might seem extreme or unreasonable?
+
+User: Sometimes I feel like everyone is against me, even though there’s no real evidence. It's like I'm jumping to conclusions without really knowing what's happening.
+
+Consultant: Being aware of this tendency is a good first step. For this week, try to question these extreme thoughts when they arise. Ask yourself if there’s another perspective you might be missing.
+
+User: I'll give that a try and see if it helps me feel less anxious.
+
+Consultant: Fantastic. It takes courage to challenge ingrained thoughts. Have there been any moments recently when you did find yourself feeling unexpectedly more at ease or open around your roommates?
+
+User: Actually, a few days ago when we were watching a movie together, I momentarily felt relaxed and forgot about the tension.
+
+Consultant: That's interesting. Sharing activities can sometimes help shift perspectives, even briefly. If you were to think back on that time, what specifically about watching the movie made you feel more at ease?
+
+User: I think it was because we were all focused on the movie, not on our issues, and it felt like any ordinary evening.
+
+Consultant: That makes sense. Would arranging more casual group activities be something you'd consider to ease tension?
+
+User: Perhaps. It might help bridge some of the gaps that have formed over time.
+
+Consultant: Creating shared positive experiences can sometimes counteract misunderstandings. Given this realization, do you think a mix of casual engagements and personal reflections could be beneficial?
+
+User: Yes, that does seem like it could have a positive impact.
+
+Consultant: Let's keep that as part of your plan. How do you feel about continuing to jot down your thoughts? It could be related to interactions or feelings around these group activities.
+
+User: I agree; writing things down has helped me process my thoughts better.
+
+Consultant: Wonderful. It seems like you're finding tools that work for you. Is there anything else you'd like to explore or reflect on regarding these interactions?
+
+User: I'm just hoping the looming anxiety can lessen over time as we work through this.
+
+Consultant: I believe you're on the right track. Gradual progress is key, and every small step counts. Keep noting down your thoughts, and perhaps you can add reflections on any group activities to see what changes.
+
+User: Okay, I'll focus on that and see how things evolve.
+
+Consultant: Excellent. I'm looking forward to hearing how it goes. Remember, progress is about recognizing patterns and choosing paths that align with your well-being. Take care, and see you next time!
+#######
+Consultant: Welcome back. How did it go with questioning those extreme thoughts we talked about last time?
+
+User: It was harder than I thought, but I realized I don't have much evidence supporting my fears. It’s just a feeling I can't shake off.
+
+Consultant: That’s a significant realization. If a friend was in your shoes, what perspective or advice would you offer them?
+
+User: I'd probably suggest not overthinking and perhaps trying to talk things through with the people involved.
+
+Consultant: That's a constructive way of handling it. Do you think trying to speak with your roommates could provide clarity and potentially ease your anxiety?
+
+User: I hadn’t thought of that before, but it might be worth a shot to try having an open conversation.
+
+Consultant: It sounds like setting up a dialogue might help diffuse some tensions. Have you had any past experiences where open conversations led to resolutions?
+
+User: In the past, whenever I've had misunderstandings with friends, talking things out has often led to better understanding, even if it was awkward at first.
+
+Consultant: That's a great reminder of your capability to handle conflicts constructively. How do you think those positive outcomes can encourage you in this situation?
+
+User: It gives me a bit of hope that things might turn out better than I fear. It might be nerve-wracking, but it's worth a try for the sake of improving the atmosphere in our dorm.
+
+Consultant: Absolutely, and remember, you're not alone in wanting peace. Maybe roommate A feels just as awkward about this, and your willingness to approach might be seen positively.
+
+User: I hope so. A lot of the tension feels like it's born from misunderstanding and lack of communication.
+
+Consultant: Indeed. Misunderstandings often thrive in silence. Sometimes a face-to-face conversation can dismantle those invisible barriers. How do you plan to start this conversation with roommate A?
+
+User: Perhaps I’ll suggest we find a time to chat when we're both free and start by acknowledging that I value peace more than being right in the situation.
+
+Consultant: That's a thoughtful approach. Your intention to maintain harmony shows maturity. What if you encounter resistance or defensiveness during the conversation?
+
+User: I think it’s important to stay calm and remind her that I’m not trying to blame anyone but rather to create a better living environment for all of us.
+
+Consultant: That's a wise mindset. Maintaining a non-confrontational tone can often set the stage for a more open and successful dialogue. How do you feel about moving forward with this?
+
+User: I’m a bit anxious, but I realize that holding onto this unease isn't healthy in the long run.
+
+Consultant: Understandably so. It's okay to feel anxious about this. It’s a brave step, and I’m confident in your ability to handle it. Could focusing on the positive outcome ease some of your nerves?
+
+User: Yes, thinking about how much lighter I might feel afterwards gives me motivation to proceed.
+
+Consultant: That’s the spirit. Imagining a peaceful dorm environment might provide that needed push to move forward despite the nerves. Have you thought of when might be best to approach her?
+
+User: Maybe after dinner when things are generally more relaxed and there’s no rush for classes or other commitments.
+
+Consultant: That sounds like a strategic time. Choose a moment that's least stressful, both for you and your roommate. Having a plan like this can lead to a more productive exchange.
+
+User: I’ll try to keep things casual but direct enough to express my feelings and intentions clearly.
+
+Consultant: Direct yet gentle communication often works best. How about rehearsing what you'd like to say? It can sometimes make the real conversation flow easier.
+
+User: That’s a good idea. I’ll think of a few key points I want to address.
+
+Consultant: Excellent. Outlining your thoughts beforehand can make you feel more prepared and confident. Have you noticed if there are specific outcomes you hope for from this chat?
+
+User: Ideally, I’d like us to move past the awkwardness and possibly establish a clearer way of communicating in the future.
+
+Consultant: That’s a constructive goal. Creating healthier communication channels can significantly reduce misunderstandings. How does it feel to reflect on these intentions?
+
+User: It feels a bit empowering, actually. Like I'm taking control in a situation that felt out of my hands.
+
+Consultant: Empowerment is a wonderful motivator. Owning your role in resolving the tension shows tremendous growth. Remember, each step forward is progress, however it unfolds.
+
+User: Thanks for the encouragement. I’ll aim to focus on the possibilities of resolution rather than the fears.
+
+Consultant: Perfect mindset. Focusing on possibilities cultivates optimism. After you've had this important conversation, it might be helpful to reflect on how it went and what you learned from it.
+
+User: I'll do that. Reflecting has always helped me process my thoughts more clearly.
+
+Consultant: Wonderful. Engage in reflection with kindness towards yourself. This is a learning process, and every effort you make is valuable. How are you feeling about all of this now?
+
+User: Optimistic mixed with a hint of anxiety, but overall, I feel ready to make an effort.
+
+Consultant: That's a beautifully balanced outlook. It's okay to feel a mix of emotions in challenging situations. Moving forward with a readiness to try is what truly matters.
+
+User: Thanks for your support. I’ll work on this and update you on how it goes next time.
+
+Consultant: I'm eager to hear how it unfolds for you. Remember, progress shines through your efforts, and every step counts. Take care, and see you soon.
+
+User: I will. Talk to you next time!
+#######
+Consultant: Hi, I'm glad to see you again. Have you considered any specific steps yet to discuss your concerns with your roommates?
+
+User: Yes, I’ve been thinking about arranging a casual talk with roommate A to clear the air.
+
+Consultant: That sounds like a positive and proactive approach. What do you hope to communicate during your conversation?
+
+User: I want to express that the initial issue was unintentional and that I have no ill feelings toward her. I’d like to move forward peacefully.
+
+Consultant: Sharing your thoughts and intentions sincerely could be quite helpful. How do you feel about going forward with this plan?
+
+User: I’m a bit nervous about how she'll react, but I believe it's important to try resolving things.
+
+Consultant: It's natural to feel a bit anxious, but initiating this conversation shows courage and the willingness to improve your environment. Have you thought about how you might start the conversation to express your intentions clearly?
+
+User: I suppose I could start by acknowledging the misunderstanding and expressing my desire to move past it.
+
+Consultant: That's a great start. It's often beneficial to use confident and open language. This can help establish an atmosphere where both of you can discuss openly. How do you feel about mentioning how the situation has impacted you personally?
+
+User: It makes sense. I think expressing how it's affected my ability to focus on studies might help her understand my perspective.
+
+Consultant: Absolutely. Adding details about how this affects your daily life adds depth to your conversation. Have you considered using "I" statements to avoid sounding accusatory and to keep the dialogue constructive?
+
+User: Yes, that's a good idea. I don't want her to feel blamed; I just want a chance to resolve things.
+
+Consultant: It seems like you have a thoughtful approach here. Do you feel prepared to listen actively to her perspective too?
+
+User: I do. It's important that she feels heard as well, so I'm ready to listen to what she has to say.
+
+Consultant: That's excellent. Open-mindedness can pave the way for mutual understanding and compromise. Before wrapping up your meeting, how do you plan to address future interactions to ensure ongoing peace?
+
+User: Maybe we can agree on certain boundaries or communication methods that work for both of us.
+
+Consultant: That sounds like a constructive step forward. Setting expectations can prevent future misunderstandings. How do you see such conversations impacting your relationships with other roommates?
+
+User: I think it'll set a positive tone and encourage similar openness with the others.
+
+Consultant: Definitely, your proactive approach could inspire more harmonious relationships within the dorm. As you plan this conversation, remember to be patient and kind to yourself. It's a journey, not a destination. 
+
+User: Thank you, I appreciate the support.
+
+Consultant: You're doing well. For your progress this week, focus on staying sincere and approachable in your dialogue. Additionally, continuing your reading habit could provide some relaxation after your talk. How do you feel about balancing both areas?
+
+User: That sounds like a healthy balance. I’ll make sure to take time for myself with a good book afterward.
+
+Consultant: Wonderful. Engaging in activities you love can be a way to recharge after meaningful conversations. Is there a particular book you're excited to dive into?
+
+User: I’ve been wanting to read the latest mystery novel I bought. It's a good distraction.
+
+Consultant: That sounds perfect. Keeping that time for yourself ensures you remain grounded. I’m eager to hear about how your talk goes and about your reflections from reading. 
+
+User: I will let you know. Thanks for helping me navigate this!
+
+Consultant: You're welcome, and remember that progress takes time and persistence. Keep embracing your growth. Looking forward to our next session. Take care!
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi there, it's wonderful to see you again. Last time, we discussed engaging in activities that could positively distract you during tense times, such as reading. How has that been going for you?
+
+User: Hi! Yes, I've found that diving into a book really helps. I've been making it a point to read in the evenings after dinner, and it feels like a good escape.
+
+Consultant: That's wonderful to hear. Finding solace in a book can indeed provide a much-needed reprieve from stress. Have you noticed any specific changes in your mood or stress levels since starting this routine?
+
+User: I definitely feel a bit more relaxed and less overwhelmed. It helps me to switch off from thinking about all the problems and focus on something enjoyable.
+
+Consultant: That's a positive outcome. Reading can be quite soothing. Let's explore more about how we can incorporate this as a regular practice. Would you be open to dedicating some time each day for this activity?
+
+User: Yes, I've been trying to do that but sometimes feel guilty about taking time away from studies.
+
+Consultant: It's completely natural to feel that way, but it's important to recognize that spending time on personal interests can actually recharge and benefit your study performance. How about we start with short reading sessions and gradually build up?
+
+User: That sounds reasonable. Starting small seems like a practical approach. I'll aim to read a bit every evening after dinner.
+
+Consultant: Excellent. As you begin to incorporate this routine, it could be helpful to observe any changes in your stress levels or overall well-being. How is your relationship with roommate A now? Have you had the chance to talk as we discussed pursuing peaceful communication with her?
+
+User: Well, the reading helps me feel less tense in the dorm, but I haven’t spoken to her yet. I’m still nervous about how she might respond.
+
+Consultant: Understandably, such conversations can be daunting, but engaging in them can pave the way for resolution and peace of mind. When you're ready, approaching her in a casual, friendly manner might be beneficial.
+
+User: I'll consider that. Maybe after feeling more settled into my reading routine, I'll have more courage to initiate a conversation.
+
+Consultant: Sounds like a wise plan. Remember, the aim is to alleviate stressors from both internal thoughts and external interactions. Besides reading, what about other activities or interests that could enhance your mental clarity and provide joy?
+
+User: I enjoy listening to music as well. It helps me relax, but sometimes I ignore these little joys when caught up in stress.
+
+Consultant: Music is another beneficial outlet. Maybe allocating some time to listen and unwind with your favorite tunes could further enrich your evenings. How does that idea sound to you?
+
+User: I like the sound of it. Combining reading and music might create a relaxing environment for unwinding.
+
+Consultant: Wonderful, engaging in your interests could be refreshing. While creating this environment, continue exploring your thoughts and feelings as you progress with these enriching habits. Are you finding them useful for managing anxiety?
+
+User: I think they are helping. Focusing on activities I enjoy lets me take a break from overthinking.
+
+Consultant: What you've observed is pivotal. When you find yourself grappling with anxiety, leaning into these interests can offer relief and clarity. Going forward, embracing both reading and music could be increasingly valuable.
+
+User: I’ll keep doing that. It’s encouraging to know these efforts can make a difference.
+
+Consultant: Absolutely. As you embrace these routines, it might be valuable to journal your thoughts surrounding these experiences. Documenting the positive aspects and feelings that emerge might provide insights into your journey away from stress and conflict.
+
+User: I like the thought of journaling. Writing might help organize my feelings and track the changes.
+
+Consultant: Yes, a journal can offer perspective on your progress and reinforce positive self-awareness. Let's aim for intentional reflection and routine building as key strategies moving forward. Staying connected with your thoughts through these acts is empowering.
+
+User: I'll start incorporating these practices into my life. Your advice offers clarity.
+
+Consultant: I’m glad to hear it. As we move towards adopting these habits, the aim is also to foster courage to address the conversation with roommate A when you feel comfortable. How do you envision approaching this dialogue once you're ready?
+
+User: I plan to express my desire for a cordial relationship with her and clarify that the initial misunderstanding was unintended.
+
+Consultant: That’s constructive and sincere, expressing intentions clearly opens pathways to resolution. Keep that in mind as you build your comfort with both routine and dialogue.
+
+User: I will. Engaging in reading and music is the first step, and hopefully, it allows me to gather the courage to have a conversation with her.
+
+Consultant: You're taking empowering steps, and these efforts often translate to better interpersonal communication and enhanced personal growth. Pursuing activities that bring you pleasure is as much about cultivating peace of mind as addressing external conflicts.
+
+User: Thanks for the continued encouragement. I feel more equipped now, knowing there are joyful acts I can engage in.
+
+Consultant: You're welcome. It's rewarding to witness your commitment to finding enjoyment amidst stress. Should moments of distress arise, reflect on these positive actions and conversations we've discussed. They're part of your coping toolkit.
+
+User: Your guidance is invaluable. Consciously focusing on routines I've begun feels like progress.
+
+Consultant: Indeed it does. You're championing strides towards improved self-awareness and emotional expression. Keep embracing the pleasant activities and nurturing forthcoming interactions. Index events in your journal if it helps guide your journey. 
+
+User: I'll follow through with these plans, hoping they facilitate positive transformations in my life.
+
+Consultant: As you journey through this transformative path, know that your dedication is inspiring. Approach situations with patience, encouraging growth within yourself. Being kind to yourself, alongside seeking positivity, will foster ongoing success.
+
+User: Thank you for your insights and support. I appreciate being encouraged to pursue what's fulfilling.
+
+Consultant: My pleasure. Remember, each step is valued. Embracing the activities that bring you contentment unlocks peace. We can continue exploring how this unfolds in upcoming sessions. Let's stay attuned to your strides and reflections with sincerity and openness.
+
+User: I look forward to our next session too, and to implementing these positive changes.
+#######
+Consultant: Hi, it’s been really rewarding working with you. Can we reflect on what strategies you found most beneficial during these sessions?
+
+User: Becoming more aware of how my thoughts impact my feelings has been eye-opening. I think learning to communicate and share my feelings with others is a big takeaway for me.
+
+Consultant: That's excellent. When similar situations arise in the future, what strategies do you feel equipped to use?
+
+User: I’ll remind myself not to jump to conclusions and aim to talk things over instead. Engaging in activities I enjoy, like reading, also helps ease my stress.
+
+Consultant: These are powerful insights and skills. As we conclude our sessions, know you have many tools to tackle life's challenges. Don’t hesitate to reach out if you want further support.
+
+User: Thank you so much for your guidance. I feel stronger and more prepared to handle these situations now.
+
+Consultant: You're very welcome, and you've made great strides. Take care and enjoy your journey ahead!
+
+Consultant: Reflecting on our journey together, what do you feel you've learned the most about yourself?
+
+User: I realized how much my thoughts can influence how I feel. It's been surprising to see the pattern and how it plays out in my interactions.
+
+Consultant: That's a profound realization. The awareness of these patterns is crucial for making meaningful changes. How do you plan on applying this insight?
+
+User: By trying to be more mindful of my reactions, and not letting my initial thoughts dictate my feelings. I'll work on questioning whether they're accurate.
+
+Consultant: That sounds like a sound strategy. You’ve gained tools to pause and reflect before reacting. Have there been situations where you feel this has helped already?
+
+User: Yes, especially when dealing with my roommate A. I'm learning to approach the situation more calmly and rationally, and it helps reduce tension.
+
+Consultant: It’s great to hear this approach is serving you well. Do you remember feeling a difference in your stress levels when you engaged in these mindful practices?
+
+User: Definitely. I feel less anxious and more in control of my emotions. It's empowering to face challenges with a clearer mind.
+
+Consultant: Keeping this sense of clarity can help in any stressful interaction. How do you plan to maintain it as we wrap up your sessions?
+
+User: I’ll keep practicing these techniques, like noting my thoughts and engaging in activities like reading to relax and recharge.
+
+Consultant: You've shown dedication to mastering these methods. Over time, they’ll become second nature. Are there any particular goals you aim to reach with these practices?
+
+User: I hope to handle conflicts more constructively and maintain better mental well-being overall. Building stronger relationships and reducing anxiety are top goals.
+
+Consultant: Setting such thoughtful goals is admirable. It reflects your commitment to personal growth. Has engaging with your hobby of reading impacted your stress management?
+
+User: Yes, reading gives me a breather from stress. It allows me to escape and gain new perspectives, especially during tense moments.
+
+Consultant: Using reading as a coping mechanism seems very beneficial. When stressful situations arise, can you see yourself incorporating other hobbies or interests?
+
+User: I want to explore drawing again. Combining reading and art might create a richer spectrum of positive distractions.
+
+Consultant: That's a wonderful idea. Combining activities can reinforce their calming effects. This week, continue incorporating reading and perhaps introduce a little drawing time as well.
+
+User: I'll definitely keep that in mind. Integration of these pursuits could enhance my coping strategies.
+
+Consultant: Excellent, aiming for a balanced routine can promote mental peace. Recapping, what’s been your major takeaway from our sessions so far?
+
+User: Understanding that my thoughts aren't always truthful or complete has been enlightening. Strengthening my communication about feelings has also been crucial.
+
+Consultant: These revelations equip you with the capacity to tackle challenges wisely. As our sessions come to an end, do remember that support is always available if needed.
+
+User: Thank you for offering that reassurance. I genuinely appreciate all your guidance and support throughout this journey.
+
+Consultant: You're most welcome. Witnessing your progress has been fulfilling. Remember, the journey doesn’t end here — keep honing your skills for well-being.
+
+User: Thank you. I’m ready to apply what I’ve learned and grow even further.
+
+Consultant: I believe in your ability to continue evolving positively. Farewell for now, and remember to cherish each small victory.
+
+User: I will. Goodbye!
+#######

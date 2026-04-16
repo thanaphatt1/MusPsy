@@ -1,0 +1,119 @@
+The 1th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo feels overwhelmed by schoolwork and experiences nightmares about failing and getting lost, which affects their concentration.
+[Counselor Observations:] The therapist notes Xiaomo’s anxiety about academic performance and identifies a potential link with self-imposed pressure and family expectations.
+[Counseling Assignments:] Xiaomo is asked to jot down when they feel most stressed and what they were doing prior, to help identify stressors.
+[Session Goal:] Use CBT strategies to help Xiaomo identify specific stress-related triggers and start recognizing and managing negative thoughts.
+Counseling Summary:
+Xiaomo has been struggling with stress and nightmares related to schoolwork and exams. Through counseling, Xiaomo learned to identify stress triggers, challenge negative thoughts, and implement practical strategies like breaking tasks into smaller parts and using drawing as a reward during study breaks. These approaches helped Xiaomo gain better control over stress and feel more prepared for future academic challenges.
+
+
+The 2th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo feels stressed when studying at night and cannot remember what was learned during the day, fearing failure and family disappointment.
+[Counselor Observations:] The therapist observes Xiaomo’s tendency to assume the worst-case scenario and notes their openness to exploring these thoughts further.
+[Counseling Assignments:] Xiaomo should write down recurring negative thoughts and the emotions they evoke for deeper exploration next time.
+[Session Goal:] Assist Xiaomo in recognizing and challenging unrealistic thoughts and assumptions, particularly those triggering stress.
+Counseling Summary:
+Xiaomo explored stress triggers related to studying and unrealistic fears about academic performance and disappointing family, learning to challenge these fears by breaking tasks into manageable parts and restructuring study sessions. The counselor encouraged Xiaomo to implement study breaks featuring enjoyable activities like drawing, helping reduce stress and enhance mood. Reflecting on the progress made, Xiaomo recognized the importance of incremental task management and staying connected to personal interests as strategies for future stress management.
+
+
+The 3th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo doesn’t fully believe in their fears of failing and recognizes them as more fear-based rather than reality-based.
+[Counselor Observations:] The therapist sees Xiaomo's growing ability to challenge unrealistic fears and encourages applying supportive advice to oneself.
+[Counseling Assignments:] Xiaomo should organize study sessions into manageable parts and recognize effort by giving self-credit.
+[Session Goal:] Enable Xiaomo to apply self-supportive techniques to manage study stress and recognize personal efforts.
+Counseling Summary:
+Xiaomo and the consultant explored her fears of academic failure and recognized them as manageable rather than insurmountable. Using techniques like breaking study sessions into smaller, rewarding chunks, Xiaomo aims to cultivate healthier study habits and views learning as a journey instead of high-stakes events. Encouraged by both personal efforts and family support, Xiaomo plans to document her progress, maintain a positive mindset, and leverage mindfulness to manage stress effectively.
+
+
+The 4th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo feels more in control regarding exams by breaking down study tasks, but still experiences stress.
+[Counselor Observations:] The therapist notes Xiaomo’s progress in managing study stress with effective organization but identifies remaining anxiety.
+[Counseling Assignments:] Xiaomo should think of activities they enjoy to use as rewards for hard work and consider discussing their approach with their family.
+[Session Goal:] Encourage Xiaomo to integrate enjoyable activities into their routine as incentives and enhance family support utilization.
+Counseling Summary:
+Xiaomo implemented a new study approach by breaking down subjects into smaller, manageable parts, which helped alleviate some exam-related stress and led to feeling more in control. The consultant encouraged Xiaomo to reward small achievements and share progress with family to harness their supportive influence, strengthening motivation and reducing feelings of isolation. Additionally, the discussion emphasized distinguishing between fears and reality to manage anxiety, fostering self-awareness and empowering Xiaomo to handle stress more effectively.
+
+
+The 5th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo finds drawing break intervals during study as restorative, improving mood and focus.
+[Counselor Observations:] The therapist recognizes Xiaomo’s successful incorporation of personal interests to manage stress and enhance well-being.
+[Counseling Assignments:] Xiaomo should document drawing reflections to observe recurring themes and emotions, recognizing their connection to stress management.
+[Session Goal:] Reinforce using drawing as a coping mechanism while exploring mental state through reflective sketching.
+Counseling Summary:
+Explored Xiaomo's interest in drawing as a therapeutic activity to manage study-related stress and enhance mood. Agreed on implementing drawing breaks between study sessions and documenting themes in sketches to understand emotional patterns and challenge negative thoughts. Encouraged Xiaomo to appreciate efforts and use drawing as a nurturing habit to support personal growth and manage stress effectively.
+
+
+The 6th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Xiaomo is a university student feeling overwhelmed by schoolwork. Recently, they have been experiencing distressing nightmares about failing exams and having difficulty concentrating during classes. 
+
+[Personal Characteristics]  
+Xiaomo used to enjoy drawing, which serves as a relaxing activity, and has a supportive family that values effort as much as results.
+
+[Assessment and Diagnosis]  
+Xiaomo experiences stress and anxiety due to academic pressures, with self-doubt and fears of failing prevalent in their thoughts, but a formal diagnosis of a mental health disorder is not present.
+Counseling Memory:
+[Emotion and Cognitive State:] Xiaomo exhibits increased capacity to manage stress through strategic breaks and hobby integration, feeling more prepared for academic challenges.
+[Counselor Observations:] The therapist observes Xiaomo’s improved confidence in self-management through structured routines and creative outlets.
+[Counseling Assignments:] Reflect on moments when strategies were successfully applied and involve family support continually to fortify these coping mechanisms.
+[Session Goal:] Nurture continual application and development of stress management strategies, reinforcing successful techniques through family encouragement and self-reflection.
+Counseling Summary:
+Explored Xiaomo's strategy of breaking tasks into smaller parts and integrating drawing as a way to manage stress and maintain focus, which has increased her confidence in facing challenges. Recognized the importance of balancing work with interests and taking breaks, resulting in an effective approach to handling stress during study sessions. Xiaomo plans to continue applying these techniques to foster resilience and growth, supported by the guidance received during counseling.
+

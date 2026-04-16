@@ -1,0 +1,418 @@
+Consultant: Hi Xiao D, welcome to our session today. How have you been feeling recently since starting at your new school?
+
+User: Hi. It hasn't been easy. I feel stressed about schoolwork, especially my English classes. I also haven't made any friends yet, which makes me feel quite lonely.
+
+Consultant: I'm sorry to hear that. It sounds like you've been facing a lot of challenges. Would you like to tell me more about your experiences since moving schools?
+
+User: Sure, it's hard to keep up with the classes, especially English. I try my best, but it feels like I'm always falling behind. And I really miss my old friends. Making new ones here seems so difficult.
+
+Consultant: It sounds like balancing your studies and social life has been overwhelming. How have these challenges been affecting your emotions lately?
+
+User: I feel anxious and sometimes even angry. I try to talk to my grandpa about it, but we end up disagreeing, which makes me feel even more upset.
+
+Consultant: Thanks for sharing that with me. For this week's task, I'd like you to write down any specific moments when you feel particularly anxious or upset. Identifying these moments can help us understand your feelings better.
+
+User: Okay, I can try doing that. I'll note them down.
+
+Consultant: Hi Xiao D, glad to have you back for our session. Did you have a chance to note down the moments when you felt anxious or upset?
+
+User: Yes, I did. Most of the time, it happens when I'm in English class or when I'm trying to do my homework. Sometimes it hits me when I see other kids talking and hanging out without me.
+
+Consultant: Thank you for sharing this. When these feelings arise, what are some of the thoughts that come into your mind?
+
+User: I think I won't ever catch up with my classmates, or that I won't ever make any friends here. It feels so hopeless at times.
+
+Consultant: Those thoughts can indeed make you feel more isolated. Can you identify any particular patterns in your thinking that might be making you feel worse?
+
+User: I think I focus too much on what I'm not good at, like English, and ignore anything I actually manage to accomplish.
+
+Consultant: It sounds like there might be an imbalance in how you perceive your strengths. This week, I want you to list down any positives, however small, that happen during your day.
+
+User: Alright, I'll try to keep track of those too.
+
+Consultant: Hi Xiao D, welcome back. How did it go with noticing some positive things in your days?
+
+User: It was a bit hard at first, but I noticed small things, like when I managed to solve a math problem or when I received a smile from a classmate.
+
+Consultant: That's great progress. It seems like focusing on even small positives can make a difference. Did it change how you felt about your school day?
+
+User: It did help. I felt slightly more hopeful by the end of the day when I could see that it wasn't all bad.
+
+Consultant: That's important. Let's think about those distressing thoughts you have about English. What evidence do you have that you won't ever catch up?
+
+User: Well, I guess I don't have solid evidence. It's just a feeling because it seems like everyone else finds it easier.
+
+Consultant: If a friend came to you with this problem, what advice would you give them?
+
+User: I'd probably tell them to seek extra help or to be patient with themselves, because it takes time.
+
+Consultant: Those are wise words. Do you think it might be helpful to approach your teacher for some additional support or resources?
+
+User: I hadn't thought about that. I could try asking for extra help after class.
+
+Consultant: Hi Xiao D, it's great to have you back. Did you manage to speak with your English teacher about extra support?
+
+User: Yes, I did, and she was very understanding. She gave me some extra exercises and offered to explain things after class when needed.
+
+Consultant: That's a fantastic step forward. How did taking that initiative make you feel?
+
+User: It made me feel a bit more confident and less helpless. It feels good to know that there are ways to improve.
+
+Consultant: That's an excellent realization. Thinking back to the social aspect, would you feel comfortable initiating small conversations with your classmates?
+
+User: It feels scary, but I think it might be worth trying when the opportunity arises.
+
+Consultant: Taking small steps can help ease the fear. Would you like to plan a small goal for this week, like talking to one or two classmates?
+
+User: Yes, I think I could manage that. I'll look for a chance to start a conversation.
+
+Consultant: Hi Xiao D, I'm happy to see you again. Did you have any success initiating conversations with your classmates this week?
+
+User: I did. I spoke to a classmate while we were waiting for class to start, and it went okay. We talked about our homework.
+
+Consultant: That's a great move! Did it feel different from having conversations back at your old school?
+
+User: It felt a bit unusual, but good. Like a small step towards building a connection.
+
+Consultant: I'm glad to hear that. Have you thought about other activities or interests that could help you relax or enjoy school more?
+
+User: Well, I used to enjoy drawing, but I haven't done it much lately.
+
+Consultant: Drawing sounds like a wonderful way to express yourself and unwind. Would you be interested in setting aside some time each week to get back into it?
+
+User: I'd love to. Maybe I can do it over the weekend.
+
+Consultant: Setting a routine can bring enjoyment and relief. How about starting with an hour or two on Saturday or Sunday?
+
+User: That sounds doable. I'll give it a shot.
+
+Consultant: Hi Xiao D, it's been great working with you. Could we reflect on your progress and identify which strategies have been most helpful for you?
+
+User: I think recognizing my negative thoughts and focusing on positive things have helped a lot. Initiating conversations was a big step too, even if it was hard.
+
+Consultant: Those are significant accomplishments. What will you take with you to manage similar challenges in the future?
+
+User: I'll try to remember that things aren't always as bad as they seem and that taking action, even in small steps, can make a difference.
+
+Consultant: Those are powerful lessons. As we wrap up our sessions, remember that you have developed many skills to handle life's obstacles. Feel free to reach out if you need more support down the line.
+
+User: Thank you for everything. I feel more capable of handling these challenges now.
+#######
+Consultant: Hi Xiao D, glad to have you back for our session. Did you have a chance to note down the moments when you felt anxious or upset?
+
+User: Yes, I did. Most of the time, it happens when I'm in English class or when I'm trying to do my homework. Sometimes it hits me when I see other kids talking and hanging out without me.
+
+Consultant: Thank you for sharing this. When these feelings arise, what are some of the thoughts that come into your mind?
+
+User: I think I won't ever catch up with my classmates, or that I won't ever make any friends here. It feels so hopeless at times.
+
+Consultant: Those thoughts can indeed make you feel more isolated. Can you identify any particular patterns in your thinking that might be making you feel worse?
+
+User: I think I focus too much on what I'm not good at, like English, and ignore anything I actually manage to accomplish.
+
+Consultant: It sounds like there might be an imbalance in how you perceive your strengths. Have you noticed any small achievements in other aspects of your day-to-day activities that might be worth focusing on?
+
+User: Well, there are times when I manage to solve a problem in math or remember a word in English, but I tend to dismiss them because they seem minor.
+
+Consultant: Those are valid accomplishments, and recognizing them is important. They reflect progress, no matter how small. This week, I want you to list down any positives, however small, that happen during your day.
+
+User: Alright, I'll try to keep track of those too.
+
+Consultant: That's a great approach. What about your interactions with your grandpa? Have they changed lately, or do they still cause you some stress?
+
+User: I still talk to him, but we don't always agree. I feel like I can't make him understand how challenging school is for me right now.
+
+Consultant: Communication can be tough, especially when emotions are involved. Would it be helpful to write down a few things you'd like to express to him and see if finding the right time might make a difference?
+
+User: That might help. I'll try writing down what I really want him to understand.
+
+Consultant: Excellent. This could open up more constructive conversations. In the meantime, let's focus on small steps and see what changes you notice. And how about activities outside school? Have you thought about rekindling your love for drawing?
+
+User: I’ve thought about it. Drawing used to be a way for me to relax, but with all the schoolwork, I haven’t drawn much.
+
+Consultant: Drawing sounds like a wonderful way to express yourself and unwind. Would you be interested in setting aside some time each week to get back into it? It could serve as a nice break from your studies.
+
+User: I'd love to. Maybe I can do it over the weekend.
+
+Consultant: Setting a routine can bring enjoyment and relief. How about starting with an hour or two on Saturday or Sunday?
+
+User: That sounds doable. I'll give it a shot.
+
+Consultant: I think you'll find it quite rewarding. These small commitments can create a positive balance in your week. How do you feel about implementing these changes?
+
+User: It feels like a good start. I don’t want to feel stuck all the time.
+
+Consultant: That's a positive mindset. Remember, progress is often gradual, and it’s okay to take one step at a time. Next time, we can continue exploring more strategies and celebrate the progress you make.
+
+User: Thank you. Looking forward to seeing some changes!
+
+Consultant: You’re doing great, Xiao D. Keep embracing each improvement, and I’m here to support you along every step. Until then, take care!
+#######
+Consultant: Hi Xiao D, welcome back. How did it go with noticing some positive things in your days?
+
+User: It was a bit hard at first, but I noticed small things, like when I managed to solve a math problem or when I received a smile from a classmate.
+
+Consultant: That's great progress. It seems like focusing on even small positives can make a difference. Did it change how you felt about your school day?
+
+User: It did help. I felt slightly more hopeful by the end of the day when I could see that it wasn't all bad.
+
+Consultant: That's important. Let's think about those distressing thoughts you have about English. What evidence do you have that you won't ever catch up?
+
+User: Well, I guess I don't have solid evidence. It's just a feeling because it seems like everyone else finds it easier.
+
+Consultant: If a friend came to you with this problem, what advice would you give them?
+
+User: I'd probably tell them to seek extra help or to be patient with themselves, because it takes time.
+
+Consultant: Those are wise words. Do you think it might be helpful to approach your teacher for some additional support or resources?
+
+Consultant: It seems like initiating a conversation with your teacher could be a beneficial step. What do you think holds you back from asking for help?
+
+User: I suppose I feel embarrassed because it would show I'm struggling, unlike everyone else.
+
+Consultant: It's understandable to feel that way. However, asking for help can actually empower you to improve. How do you feel knowing your teacher might be open to supporting you?
+
+User: I think I'll feel relieved, knowing I'm taking steps to get better.
+
+Consultant: Exactly, Xiao D. Embracing that support can foster growth. Have you considered any other scenarios where you successfully sought help and it turned out positively?
+
+User: I remember once asking my math teacher for guidance, and it made a big difference in understanding the material.
+
+Consultant: That's a wonderful example. Remembering past successes can inspire you in your current challenges. How might you apply this same approach to your English studies?
+
+User: I could start by asking for explanations on topics I find confusing after class.
+
+Consultant: That's a practical plan. It can also actively involve you in your learning process. What might be some initial questions you could ask your teacher?
+
+User: I could ask her to go over some grammar points again, or for extra reading materials to practice.
+
+Consultant: Fantastic. You’ve clearly thought this through. Remember, seeking help is a proactive step, not a sign of weakness. How do you see this impacting your confidence in class?
+
+User: I think it will make me feel more in control and less anxious while participating.
+
+Consultant: That's a positive shift. As you gain more confidence in English, is there another class or activity you'd like to explore or improve in?
+
+User: I'd like to make writing a bit more enjoyable, as it's linked to both English and expression.
+
+Consultant: Writing can be a powerful form of self-expression. Would you consider writing as a way to connect what you're learning with your personal interests like drawing?
+
+User: That's interesting. I could try creating small stories or essays about things I like.
+
+Consultant: That's an excellent idea. Combining writing and illustration can bring joy and deepen your learning. What topic would you want to explore first?
+
+User: I might start with creating a story about a day in the life of a character who loves to draw, like me.
+
+Consultant: That sounds fantastic, Xiao D. This could be a fulfilling project where you apply skills from English, arts, and your creativity. How about dedicating a little time each week to develop this narrative?
+
+User: I can set aside time during the weekends to work on it.
+
+Consultant: Sounds perfect. By gradually developing this story, you build a bridge between academic and personal fulfillment. How do you feel about merging these areas of interest?
+
+User: I feel excited and motivated. It gives purpose and context to my learning.
+
+Consultant: Precisely, and it adds enjoyment to your routine. We'll discuss your story's progress and explore how it affects your approach to English next time. Remember, each step you take adds to your growth.
+
+User: I'm eager to see how it turns out and promise to bring my writings next session.
+
+Consultant: I'm looking forward to it, Xiao D. You're taking remarkable steps in navigating both educational and personal goals. Until then, take care, and keep up this positive momentum!
+#######
+Consultant: Hi Xiao D, it's great to have you back. Did you manage to speak with your English teacher about extra support?
+
+User: Yes, I did, and she was very understanding. She gave me some extra exercises and offered to explain things after class when needed.
+
+Consultant: That's a fantastic step forward. How did taking that initiative make you feel?
+
+User: It made me feel a bit more confident and less helpless. It feels good to know that there are ways to improve.
+
+Consultant: That's an excellent realization. Thinking back to the social aspect, would you feel comfortable initiating small conversations with your classmates?
+
+User: It feels scary, but I think it might be worth trying when the opportunity arises.
+
+Consultant: Taking small steps can help ease the fear. Would you like to plan a small goal for this week, like talking to one or two classmates?
+
+User: Yes, I think I could manage that. I'll look for a chance to start a conversation.
+
+Consultant: Excellent, Xiao D. Small interactions can gradually make things feel less daunting. How do you feel about starting these conversations? Is there anything specific you're concerned about?
+
+User: I worry about saying the wrong things or being awkward. But I guess everyone feels that way sometimes, right?
+
+Consultant: Absolutely, Xiao D. It's normal to feel uneasy about new interactions, yet it's part of learning and growing. What are some topics you're comfortable discussing that might spark a conversation?
+
+User: We could talk about class topics, like homework, or general interests like movies or books.
+
+Consultant: Those sound like great conversation starters. Shared interests can often break the ice. Have you considered any tools or techniques for starting conversations smoothly?
+
+User: I might try to remember a few questions to keep the conversation going, so it doesn't feel awkward.
+
+Consultant: That's a great strategy! Preparing a few questions can definitely help maintain a dialogue. This week, as you try initiating these talks, remember it's about building a connection, not perfection.
+
+User: I'll try to keep that in mind. Starting is always the hardest part.
+
+Consultant: True, but every interaction helps build your confidence. From what you've shared about your love for drawing, maybe discussing art with classmates who share this interest could be a way to connect.
+
+User: That's a good idea. It'd be nice to talk to someone about drawing and see if they share the same passion.
+
+Consultant: It's worth exploring. Sometimes shared hobbies can strengthen new friendships. Speaking of drawing, did you manage to pair it with your writing project over the weekend?
+
+User: I haven't yet, but I'm planning on starting my story about the character who loves to draw.
+
+Consultant: That sounds wonderful, Xiao D. It's a creative journey combining your interests. How do you envision your character's world? Could it perhaps reflect some of your own experiences with drawing?
+
+User: My character will navigate their own challenges with art, a bit like me. It'll be fun to explore that parallel.
+
+Consultant: That's a compelling idea. By reflecting on your experiences, the story could offer new insights into your own journey with drawing and expression. How often do you plan on working on it?
+
+User: I'll try dedicating some time each weekend, maybe an hour or two.
+
+Consultant: That sounds like a balanced commitment. Creating consistency helps in building a habit, and you'll find yourself enjoying it more as you dive deeper. How does combining writing and drawing affect your feelings towards schoolwork now?
+
+User: It gives me something to look forward to. It's less about pressure and more about something I'm excited to explore.
+
+Consultant: That's a powerful shift, turning a task into something enriching and rewarding. As you continue this practice, what do you hope to achieve or learn from it?
+
+User: I hope to gain more confidence in expressing myself and to improve my English skills naturally through storytelling.
+
+Consultant: That's an admirable goal, Xiao D. Merging your passions can enhance not only your skills but also your joy in learning. How might you share this experience with others, maybe with those new classmates you're connecting with?
+
+User: I could share my story with them, or ask if they'd like to draw together. It might help bond over shared activities.
+
+Consultant: Sharing your work and interests is a great way to connect. It opens doors for collaboration and understanding others better. Over time, these interactions could lead to more profound friendships. How optimistic are you about these potential new relationships?
+
+User: I'm cautiously optimistic. It's scary but also exciting to think about making new friends.
+
+Consultant: Embracing that balance of excitement and apprehension is part of the journey. Every step you take builds your social circle and strengthens your personal growth. What do you imagine your social life looking like a few months from now?
+
+User: I imagine having a small group of friends I can talk to about different things and feel comfortable sharing my work and interests with.
+
+Consultant: That’s a clear and achievable vision. Building trust and comfort takes time, but with your enthusiasm and willingness to connect, you're laying the groundwork for meaningful relationships.
+
+User: I'll keep working on it. Thank you for your support and guidance.
+
+Consultant: You're doing wonderfully, Xiao D. Remember, every challenge you've tackled adds to your resilience and growth. Keep nurturing your passions and connections, and I'm here for you whenever you need support.
+
+User: I'll do my best. Thanks again.
+#######
+Consultant: Hi Xiao D, I'm happy to see you again. Did you have any success initiating conversations with your classmates this week?
+
+User: I did. I spoke to a classmate while we were waiting for class to start, and it went okay. We talked about our homework.
+
+Consultant: That's a great move! Did it feel different from having conversations back at your old school?
+
+User: It felt a bit unusual, but good. Like a small step towards building a connection.
+
+Consultant: I'm glad to hear that. Have you thought about other activities or interests that could help you relax or enjoy school more?
+
+User: Well, I used to enjoy drawing, but I haven't done it much lately.
+
+Consultant: Drawing sounds like a wonderful way to express yourself and unwind. Would you be interested in setting aside some time each week to get back into it?
+
+User: I'd love to. Maybe I can do it over the weekend.
+
+Consultant: Setting a routine can bring enjoyment and relief. How about starting with an hour or two on Saturday or Sunday?
+
+User: That sounds doable. I'll give it a shot.
+
+Consultant: Great! Establishing a habit can help create a structured environment where you feel more at ease. Besides, it's a fun way to bring some creativity into your life. What do you think you'd like to draw?
+
+User: Maybe I'll start with some simple sketches, like trees or my favorite animals. I want to avoid making it complicated at first.
+
+Consultant: That sounds perfect. Simple drawings can be very rewarding and give you a sense of accomplishment. How do you think returning to drawing might positively affect your experience at school?
+
+User: I think it might help me unwind after a stressful day. It could give me something positive to focus on.
+
+Consultant: Exactly, having an outlet for your emotions can be a beneficial tool in managing stress. Have you considered sharing your artworks with your classmates as a way to connect?
+
+User: I hadn't thought of that, but it could be a fun way to bond with others who like art.
+
+Consultant: Sharing your art can indeed be a great conversation starter and a way to find peers with similar interests. Have you ever joined any art clubs or groups that could enhance this experience?
+
+User: No, I haven't, but I might look into it if there's one at my school.
+
+Consultant: That's a worthwhile idea. Being part of a club could provide a supportive environment and new friendships centered around shared passions. How comfortable do you feel about seeking out such opportunities?
+
+User: I feel a bit nervous, but also excited. It'd be nice to meet others who enjoy the same hobby.
+
+Consultant: It's completely normal to feel that way when trying something new. Remember, every step you take toward exploring new interests can expand your comfort zone and enrich your school life. How has initiating conversations influenced your view on forming those connections?
+
+User: It showed me that taking action, even if it's scary, can lead to positive outcomes. I'm starting to feel more confident in reaching out.
+
+Consultant: That's an empowering realization, Xiao D. This week, try to build on this momentum by combining conversations with your interest in art. Perhaps you could discuss art techniques or favorite artists with classmates.
+
+User: I'll give it a try. It's exciting to think about the possibilities.
+
+Consultant: Wonderful! By integrating your hobbies into social interactions, you'll not only gain friends but likely deepen your enjoyment of those interests too. How do you think these changes might impact your overall school experience?
+
+User: I believe it could make school feel more positive and less lonely. Having friends and activities I enjoy could really make a difference.
+
+Consultant: Absolutely, and those connections will be invaluable as you continue to adjust to your new environment. It's heartening to see how proactive you're becoming. Before our next session, keep track of how these efforts affect your daily mood and interactions.
+
+User: I can do that. Reflecting on it might help reinforce the positives I'm experiencing.
+
+Consultant: Exactly, Xiao D. Reflecting on your experiences can offer insights into what fulfills you and guide future actions. Is there anything specific you'd like to focus on or discuss in our next session?
+
+User: I'd like to explore ways to improve my art skills and maybe find more activities that align with my interests.
+
+Consultant: Wonderful goals! We can certainly explore those topics and think about how to integrate them into your daily routine. Meanwhile, keep nurturing those budding friendships, and remember that gradual steps lead to significant changes.
+
+User: Thank you for your support. I look forward to our next session.
+
+Consultant: You're making excellent progress, Xiao D. Keep embracing these opportunities for growth, and it's okay to reach out if you need guidance. Until next time, enjoy your art and new conversations.
+
+User: I will. See you next time!
+#######
+Consultant: Hi Xiao D, I'm glad to see you today. Last week, you were working on identifying and challenging those negative thoughts. How did that go for you?
+
+User: Hi! I've been trying to notice when those thoughts pop up and see if they're really as bad as they feel, like we discussed. Sometimes it's hard, but I'm getting better at catching myself.
+
+Consultant: That's a great start, Xiao D! It's not about being perfect, but recognizing those thoughts is an essential step. What did you find challenging about this process?
+
+User: Well, I noticed that during English class, I kept thinking I would never catch up. It was hard to convince myself otherwise because the class keeps moving fast.
+
+Consultant: I understand. It can be daunting when those thoughts feel so true. Considering what you've accomplished so far, such as seeking extra support from your teacher, how might these actions help ease some of those doubts?
+
+User: I guess I need to remind myself that I have taken steps to improve, like talking to my teacher. It's just that patience is tough when I want results quickly.
+
+Consultant: It's natural to want immediate results, but acknowledging the steps you've taken is crucial. How about writing down these positive actions you’ve been taking? It might help counterbalance those anxious thoughts.
+
+User: That might help. I think seeing it on paper could make it more real.
+
+Consultant: Absolutely, it can be very grounding. How about in social settings? Have you been able to connect more with your classmates lately?
+
+User: Yes, I've tried talking to them more often. It's becoming a bit easier, which is encouraging. 
+
+Consultant: That’s wonderful to hear. How has it been discussing art with them, since that’s something you enjoy?
+
+User: I shared some of my sketches with a friend, and they seemed interested. We even talked about our favorite artists, which was fun.
+
+Consultant: That's fantastic! Sharing your interests can lead to deeper connections and more fulfilling interactions. How did this make you feel about attending school?
+
+User: It made school less intimidating. Having someone to talk to makes classes more enjoyable.
+
+Consultant: It sounds like you're building a more supportive environment for yourself. Have you continued to explore any clubs or groups that align with your interests?
+
+User: I found out that there's an art club at school. I'm considering joining, though I'm a bit nervous about it.
+
+Consultant: It’s understandable to feel that way about new experiences. Joining a club could be an excellent opportunity to expand your peer circle and deepen your love for art. How might you prepare for it?
+
+User: Maybe I could start by attending a meeting without any commitment. Just to see what it's like.
+
+Consultant: That's a great approach, Xiao D. Observing first can help ease any apprehensions. Besides, it’ll give you an idea of what to expect. What benefits do you think joining might bring?
+
+User: It could help me improve my art while meeting people with similar interests. It sounds like a good way to feel more connected.
+
+Consultant: Exactly. Engaging with others who share your passion can be inspiring and also provide new learning opportunities. With the positive strides you’ve been making, how do you envision your experience at school changing?
+
+User: I think it'll become more enjoyable. Having a community and activities I like could make school feel like a happier place.
+
+Consultant: That's a likely outcome. Having a support network and engaging in activities you enjoy can transform your overall experience. Keep observing your thoughts and how these changes impact you. Is there anything else you'd like to talk about?
+
+User: Not at the moment, but maybe next time, I’d like to discuss more ways to grow in art and discover other interests.
+
+Consultant: That sounds like a great plan! Always feel free to explore new avenues. Continue noting any positive interactions or thoughts throughout the week as they can be telling. I'm excited to see how these changes impact your journey.
+
+User: Thanks, I'll keep that in mind. I'm looking forward to our next chat.
+
+Consultant: You’re progressing wonderfully, Xiao D. Keep nurturing your curiosities and relationships. Remember, small steps can lead to big strides. See you next time and enjoy your art!
+
+User: Thanks for everything. See you next time!
+#######

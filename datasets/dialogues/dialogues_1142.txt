@@ -1,0 +1,396 @@
+Consultant: Hi Xiaoyu, welcome to our session today. How have you been feeling lately?
+
+User: Hello. I've been under a lot of stress. My classmates seem distant, and it makes me anxious, especially with the pressure of preparing for graduate school exams.
+
+Consultant: I'm sorry to hear that. It sounds tough balancing both academic stress and social strains. Could you tell me more about what's been happening with your classmates?
+
+User: Well, I just feel like they're not as friendly as before. There's a coldness that wasn't there earlier, and it makes me uneasy. I wish we could all get along better.
+
+Consultant: It seems the change in your relationships is adding to the stress. How has this affected your study routine and focus?
+
+User: I find it hard to concentrate. My mind keeps drifting back to these situations, and it leaves me exhausted and worried.
+
+Consultant: It's normal to feel overwhelmed by these thoughts. For today, let's set a personal goal for yourself: try taking short breaks from studying to clear your mind, perhaps with a quick walk or some deep breaths.
+
+User: I'll give that a try. I hope it helps me focus better.
+
+Consultant: Hi Xiaoyu, glad to have you back for another session. Were you able to try taking breaks as we discussed?
+
+User: Hello. Yes, I did. Taking breaks helped a bit, but the thoughts about my classmates still linger.
+
+Consultant: That's understandable. During those moments, did you notice any specific thoughts or feelings that intensified your stress?
+
+User: Yes, I often think that maybe they don't really like me or that I may have upset them somehow. It feels like I'm walking on eggshells around them.
+
+Consultant: It sounds like these assumptions are quite impactful. Have you noticed any patterns in these thoughts that might make you feel even more isolated?
+
+User: I constantly assume the worst. Even if someone is just busy, I think that they're purposefully ignoring me.
+
+Consultant: This pattern could be influencing your emotions. For the next few days, try noting down any negative thoughts and what triggered them. This might help in identifying these thought patterns more clearly.
+
+User: I'll do that. Maybe seeing them written down will help me see things differently.
+
+Consultant: Hi Xiaoyu, welcome back. Let's discuss some of the thoughts you've been recording. How sure are you about these assumptions regarding your classmates?
+
+User: Hi. Looking at what I wrote, I'm not so sure. I haven't actually asked anyone about it, so most of it is conjecture.
+
+Consultant: That makes sense. If a friend of yours was experiencing this, what advice would you give them about these assumptions?
+
+User: I’d probably tell them not to assume things without talking it through and to maybe reach out to clarify things.
+
+Consultant: That's a great perspective. Do you think it might be helpful to discuss your feelings with a few classmates directly?
+
+User: I think it might help. Maybe they're unaware of how this is affecting me.
+
+Consultant: It might be worth considering. For this week, try initiating a small conversation with a classmate you feel comfortable with about a neutral topic to break the ice.
+
+User: Sounds good. I’ll try to start with something casual.
+
+Consultant: Hi Xiaoyu, it's good to see you again. Last time, we discussed breaking the ice with your classmates. How did that go?
+
+User: Hi. I reached out to one of my classmates I used to talk to a lot. We had a nice chat about a lecture, and it was less tense than I expected.
+
+Consultant: I'm glad to hear that went well. What did you find helpful about the interaction?
+
+User: It was relieving to talk without thinking too much about what might be going on in their minds. It felt more natural and less pressured.
+
+Consultant: That's great progress. Open communication can alleviate some of your worries. Would you consider approaching others in a similar way?
+
+User: Yes, I think I could try that with a few more classmates. It seems like a good start.
+
+Consultant: For this week, focus on nurturing these small conversations, and see how they impact your overall comfort level with your peers.
+
+User: I’ll definitely work on that.
+
+Consultant: Hi Xiaoyu, welcome back. Were you able to have more interactions with your classmates this past week?
+
+User: Hi. Yes, I spoke with a couple more classmates. It wasn't as intimidating as I thought, and it helped me feel a bit more connected.
+
+Consultant: It's encouraging to hear that you're finding these interactions helpful. Have you found anything else that boosts your mood during these times?
+
+User: Painting helps me relax. I've started using it as a break activity from studying.
+
+Consultant: That’s wonderful. Engaging in activities you enjoy can significantly lift your spirits. Would you be open to setting a regular time each week specifically for painting?
+
+User: I think that would be beneficial. It gives me something to look forward to amid the studying.
+
+Consultant: Let's make a plan for this week where you set aside dedicated paint time, maybe an hour during the weekend.
+
+User: That sounds like a good idea. I'll plan for a Saturday afternoon.
+
+Consultant: Hi Xiaoyu, I'm glad to see you. Let's reflect on the progress we've made. How have the recent changes and activities helped you manage stress?
+
+User: Hi. Talking with classmates and painting regularly has really helped me feel less isolated and more in control of my emotions. I've also become more aware of when I'm being too hard on myself.
+
+Consultant: That's a significant achievement. What strategies do you think will continue to support you in future situations?
+
+User: I plan to keep engaging with hobbies and reaching out for conversations, and I’ll remind myself to interpret situations more logically.
+
+Consultant: Those are effective strategies. As our sessions conclude, remember that you've developed the skills to navigate these challenges. Know that you can always seek guidance if needed.
+
+User: Thank you. I feel more confident going forward, and I appreciate your help.
+#######
+Consultant: Hi Xiaoyu, glad to have you back for another session. Were you able to try taking breaks as we discussed?
+
+User: Hello. Yes, I did. Taking breaks helped a bit, but the thoughts about my classmates still linger.
+
+Consultant: That's understandable. During those moments, did you notice any specific thoughts or feelings that intensified your stress?
+
+User: Yes, I often think that maybe they don't really like me or that I may have upset them somehow. It feels like I'm walking on eggshells around them.
+
+Consultant: It sounds like these assumptions are quite impactful. Have you noticed any patterns in these thoughts that might make you feel even more isolated?
+
+User: I constantly assume the worst. Even if someone is just busy, I think that they're purposefully ignoring me.
+
+Consultant: This pattern could be influencing your emotions. For the next few days, try noting down any negative thoughts and what triggered them. This might help in identifying these thought patterns more clearly.
+
+User: I'll do that. Maybe seeing them written down will help me see things differently.
+
+Consultant: That's a great plan, Xiaoyu. Writing them down might help you notice that some of these thoughts are assumptions more than facts. Have you had any experiences where your assumptions were proven wrong?
+
+User: Yes, there have been times when I thought someone was upset with me, but it turned out they were just having a bad day.
+
+Consultant: It's really insightful that you can recognize that. When those moments happen, does it change how you feel about similar situations in the future?
+
+User: It does help a bit, but it's like I forget it in the moment and go back to assuming the worst.
+
+Consultant: That's quite common. The key is practicing recognizing these cycles of thought. What do you think would help you break this pattern more consistently?
+
+User: Maybe reminding myself of past experiences where things turned out okay might help.
+
+Consultant: That's an excellent strategy. Retraining your thinking to consider past positive outcomes can gradually shift your perspective. Would you be willing to consciously bring these reminders into your mind when you notice these anxiety-provoking thoughts?
+
+User: I'll try that. It makes sense to remember that not every situation is as bad as it seems.
+
+Consultant: Perfect, Xiaoyu. It's about giving yourself the space to challenge these automatic thoughts. How are you managing time between these thoughts and preparing for your graduate school exams?
+
+User: It's been tough balancing everything. I sometimes feel like I'm not doing enough on either front.
+
+Consultant: Balancing responsibilities can indeed be challenging. Timing your study sessions with breaks and engaging in activities you love, like painting, might help manage this stress. Would you say painting still provides you with that relief?
+
+User: Yes, painting has been a nice escape. It lets me focus on something creative and away from stress.
+
+Consultant: That's wonderful to hear. Creative outlets can be powerful tools for managing stress. Would it be beneficial to incorporate it more strategically into your week?
+
+User: I think so. Maybe having a set time for painting could keep me more grounded.
+
+Consultant: Let's aim to establish a painting schedule, perhaps on evenings or weekends when you're not studying. What do you think?
+
+User: That sounds doable. I'll try setting a regular slot and see how it affects my stress levels.
+
+Consultant: Great! Alongside recording your thoughts, this structured creativity could offer significant balance. I'm here to support you through this process and eager to hear about your experiences in our next session.
+
+User: Thank you. Knowing there's a plan helps, and I'm excited to see how these strategies work together.
+#######
+Consultant: Hi Xiaoyu, welcome back. Let's discuss some of the thoughts you've been recording. How sure are you about these assumptions regarding your classmates?
+
+User: Hi. Looking at what I wrote, I'm not so sure. I haven't actually asked anyone about it, so most of it is conjecture.
+
+Consultant: That makes sense. If a friend of yours was experiencing this, what advice would you give them about these assumptions?
+
+User: I’d probably tell them not to assume things without talking it through and to maybe reach out to clarify things.
+
+Consultant: That's a great perspective. Do you think it might be helpful to discuss your feelings with a few classmates directly?
+
+User: I think it might help. Maybe they're unaware of how this is affecting me.
+
+Consultant: It might be worth considering. For this week, try initiating a small conversation with a classmate you feel comfortable with about a neutral topic to break the ice.
+
+User: Sounds good. I’ll try to start with something casual.
+
+Consultant: Opening up channels of communication can sometimes lead to surprising results. How do you feel about facing such fears of assumption and interaction?
+
+User: It's daunting, but the thought of breaking this cycle of isolation is motivating. I want to feel connected again.
+
+Consultant: That's an important insight, Xiaoyu. Embracing discomfort is part of growth. These initial steps might lead to stronger relationships and decrease stress overall.
+
+User: I hope so. I'm tired of feeling like an outsider when I don't have to.
+
+Consultant: Understanding that mindset is powerful. When you think about the outcomes, what would a successful conversation look like for you?
+
+User: A success would be feeling at ease, having a genuine exchange, and maybe laughing together like we used to.
+
+Consultant: It’s wonderful to have that vision. Fostering these interactions can also help build your confidence. Are there specific topics you feel comfortable discussing initially?
+
+User: Perhaps we could start with school events or plans for the weekend. Neutral topics might make it easier to converse naturally.
+
+Consultant: That's a smart approach. These conversations might gradually deepen over time as comfort increases. Remember to be patient with yourself as you venture out.
+
+User: I’ll try to keep that in mind. Slow progress is better than none.
+
+Consultant: Absolutely, Xiaoyu. Have you thought about how you would handle any awkward moments or silence during these interactions?
+
+User: In those instances, I might steer the topic toward shared interests or future projects we both have.
+
+Consultant: That's a great strategy! Redirecting positively helps maintain engagement. How do you anticipate managing any negative internal dialogue that might arise?
+
+User: I'll remind myself that everyone's busy, and awkward moments are natural. It's about persistence more than perfection.
+
+Consultant: That's an excellent mindset to nurture. Alongside this, continuing to engage in painting might offer you some balance during this process. Does it still provide that sense of solace and release?
+
+User: Yes, painting really grounds me. It helps me declutter my mind and express things I can't always articulate.
+
+Consultant: Embracing creativity can be therapeutic. Would you like to share any recent artwork with your classmates as a conversation starter?
+
+User: That's a brilliant idea. I've painted a couple of pieces inspired by recent lectures we attended. It might spark some interest.
+
+Consultant: Integrating these paintings into discussions sounds promising. It reveals a side of you that they might not see daily, potentially strengthening bonds.
+
+User: I’ll consider that. It feels personal, but possibly rewarding.
+
+Consultant: Sharing personal interests showcases authenticity, building deeper connections. Would you be open to reflecting on these interactions weekly to see what's effective?
+
+User: Yes, regular reflection sounds helpful. It would be nice to track any small victories and learn from them.
+
+Consultant: That kind of self-assessment will definitely enhance your growth. Lastly, is there any aspect of these attempts at conversation that you’re particularly anxious about?
+
+User: My biggest fear is rejection or coming off as pushy. I want the interactions to feel natural.
+
+Consultant: It’s normal to worry about acceptance. But your thoughtful approach and genuine intentions are already setting a positive foundation. Trust in that process.
+
+User: Thank you. I'll keep that in mind as I move forward.
+
+Consultant: You've made significant progress already, Xiaoyu. Let's aim to explore new connections while managing any stress that comes. 
+
+User: Thanks for your support. I'll work on these conversations this week and see how things unfold.
+#######
+Consultant: Hi Xiaoyu, it's good to see you again. Last time, we discussed breaking the ice with your classmates. How did that go?
+
+User: Hi. I reached out to one of my classmates I used to talk to a lot. We had a nice chat about a lecture and it was less tense than I expected.
+
+Consultant: I'm glad to hear that went well. What did you find helpful about the interaction?
+
+User: It was relieving to talk without thinking too much about what might be going on in their minds. It felt more natural and less pressured.
+
+Consultant: That's great progress. Open communication can alleviate some of your worries. Would you consider approaching others in a similar way?
+
+User: Yes, I think I could try that with a few more classmates. It seems like a good start.
+
+Consultant: For this week, focus on nurturing these small conversations and see how they impact your overall comfort level with your peers.
+
+User: I’ll definitely work on that.
+
+Consultant: By doing so, you'll likely notice a shift in your interactions. What aspects of these chats do you find most challenging so far?
+
+User: Sometimes during our talks, I become overly focused on how they might perceive me, and I find myself overthinking my words.
+
+Consultant: It's understandable to be concerned about perceptions. Acknowledging this gives us something to work on. How could you remind yourself during conversations to focus on the connection rather than perceived judgment?
+
+User: I guess I could tell myself that every interaction is a learning experience and that not every thought needs analyzing.
+
+Consultant: Exactly. Giving yourself that mental note can help you stay present. How did you feel after the chat with your classmate, emotionally speaking?
+
+User: I felt kind of relieved and encouraged. It was good to see that my fears were mostly unfounded.
+
+Consultant: That's an important realization. Remember, each positive experience builds your confidence. How can these small successes fuel your motivation to reach out more?
+
+User: They give me a sense of accomplishment and make me want to see what other possibilities there are. Maybe it’s simpler than I thought.
+
+Consultant: Wonderful mindset, Xiaoyu. You may also find these interactions change your perception over time. Which academic or social settings do you feel most comfortable in for such dialogues?
+
+User: I usually feel more at ease during casual settings, like coffee breaks or right after classes.
+
+Consultant: Those moments sound perfect for easing into a smooth conversation. How about trying to incorporate them more into your weekly routine?
+
+User: That's doable. I’ll try to chat with one or two people during breaks.
+
+Consultant: Great plan. Consistent practice will help in making these interactions feel more spontaneous and less structured.
+
+User: I'm hopeful. Just taking these steps makes me feel progress is possible.
+
+Consultant: Confidence can be built, one step at a time. Now, regarding other classmates, do you think activities like group study or working on assignments could foster stronger ties?
+
+User: Yes, I think working together on projects could open up more chances to interact and share ideas.
+
+Consultant: Integrating these activities could naturally anchor conversations. Have you considered inviting classmates for a casual study session or an assignment discussion?
+
+User: I was thinking about it, but I wasn’t sure if they’d be interested. I suppose it wouldn't hurt to ask.
+
+Consultant: Absolutely, proposing such gatherings can display initiative and enthusiasm. Plus, showing genuine interest can sometimes draw others in more naturally.
+
+User: Knowing that possibility makes me feel less apprehensive about suggesting it.
+
+Consultant: It's all about creating balance and shared interests. Don’t forget, incorporating your personal touch, like showing your paintings, might invite curiosity and bridge gaps.
+
+User: My art is quite personal, but sharing it might really encourage different conversations.
+
+Consultant: Precisely, it’s about authenticity. Your paintings could even inspire projects or discussions, strengthening peer connections. How can art continue to be a fixture for your interaction strategy?
+
+User: If I keep painting, I'll have more to share—and it’ll make participating in these chats more enjoyable.
+
+Consultant: Absolutely, showing pieces with classmates creates memorable conversation pieces. As you think about engaging others continually, what might be some non-verbal cues to communicate openness?
+
+User: I think maintaining eye contact and smiling warmly can express friendliness, making me more approachable.
+
+Consultant: Those cues are very inviting. Actively listening with those elements can make others feel valued. Do you feel prepared to implement all these tactics this week?
+
+User: Yes, I'm ready to try all these methods to see where they lead.
+
+Consultant: Fantastic. Embrace every new interaction as an opportunity for growth, Xiaoyu. How will you track these encounters to ensure consistent progress?
+
+User: Maybe I'll jot down notes on how each one went, focusing on what felt successful or needs work.
+
+Consultant: Keeping a reflection journal is a superb idea, helping you monitor patterns and improvements. What’s the next step you want to focus on, specifically?
+
+User: I want to arrange that study session and perhaps bring a recent painting to discuss what I learned during our lectures.
+
+Consultant: That sounds proactive and creative. It encourages academic and personal dialogue, fostering a warm approach toward your peers.
+
+User: I'm excited to see how these strategies unfold.
+
+Consultant: You've laid a thoughtful foundation for stronger connections and less stress. Have faith in your adaptability and the process, Xiaoyu.
+
+User: Thank you. I feel more prepared to tackle these social challenges now.
+
+Consultant: You're already on the right path, Xiaoyu. Let’s aim to continue setting achievable goals, reflect on them, and support your journey toward a connected and fulfilling experience.
+#######
+Consultant: Hi Xiaoyu, welcome back. Were you able to have more interactions with your classmates this past week?
+
+User: Hi. Yes, I spoke with a couple more classmates. It wasn't as intimidating as I thought, and it helped me feel a bit more connected.
+
+Consultant: It's encouraging to hear that you're finding these interactions helpful. Have you found anything else that boosts your mood during these times?
+
+User: Painting helps me relax. I've started using it as a break activity from studying.
+
+Consultant: That's wonderful. Engaging in activities you enjoy can significantly lift your spirits. Would you be open to setting a regular time each week specifically for painting?
+
+User: I think that would be beneficial. It gives me something to look forward to amid the studying.
+
+Consultant: Let's make a plan for this week where you set aside dedicated paint time, maybe an hour during the weekend.
+
+User: That sounds like a good idea. I'll plan for a Saturday afternoon.
+
+Consultant: Excellent. Having this outlet can positively influence your stress levels and overall well-being. Reflecting on your interactions with classmates, what aspects did you find most comfortable or challenging?
+
+User: I found it comfortable to start talking about neutral subjects like a lecture or class assignments. It helped ease us into the conversation. However, sometimes I still worry about what they might think of me.
+
+Consultant: It's natural to have these concerns, Xiaoyu. Acknowledging these thoughts is the first step toward managing them. During these interactions, how might you gently redirect your focus from their perceptions to your intent of simply connecting?
+
+User: I could remind myself that my aim is merely to foster a connection, not to be judged. Focusing on interest in their opinions might help.
+
+Consultant: That's a thoughtful approach. By centering on active listening and shared interests, you can alleviate some self-imposed pressure. Have you noticed any positive changes in your confidence levels?
+
+User: Yes, a small boost. Every successful interaction, no matter how minor, feels like an accomplishment.
+
+Consultant: That's a fantastic perspective. Building confidence in steps is key. Continuing these social engagements will likely enhance your comfort gradually. For activities that involve painting, how does it influence your mindset?
+
+User: Painting allows me to step away from stress. It's a creative release, and it keeps me grounded when overwhelmed.
+
+Consultant: Using art as an emotional anchor is deeply beneficial. Acknowledging its importance, how can you keep this practice both enjoyable and sustainable?
+
+User: I could try experimenting with new painting styles or subjects to maintain excitement. Sharing some of my work with closer classmates might also open up new conversations.
+
+Consultant: This level of openness in sharing personal interests often deepens connections. As you implement these practices, how can you reassure yourself about your progress?
+
+User: Keeping notes on my experiences with dates and details about what worked or how I felt will allow me to see tangible improvements over time.
+
+Consultant: A journal of reflections is a fantastic way to track growth, Xiaoyu. Documenting insights helps understand personal patterns and reinforce positive experiences. What's a small goal you can commit to this week in addition to painting?
+
+User: I want to reach out to a new classmate and initiate a casual conversation during the next coffee break.
+
+Consultant: That’s a reachable and practical goal. Taking it a step further, setting boundaries for perfection expectations can also be beneficial. How do you view the role of imperfection in your journey?
+
+User: Embracing imperfections could free me from limiting beliefs. Ups and downs are natural, and they’re part of learning.
+
+Consultant: Accepting imperfection as a natural aspect of growth enhances resilience. As we progress, what upcoming situations might be beneficial to apply this mindset?
+
+User: Group projects come to mind. Remaining open to mistakes and learning from team interactions will likely create a rich experience.
+
+Consultant: Collaborative environments are indeed great platforms for applying this balanced view. How do you intend to communicate this openness with your team members?
+
+User: By openly discussing ideas and showing willingness to listen. Encouraging diverse points of view can strengthen team dynamics.
+
+Consultant: Lovely approach, Xiaoyu. Valuing varied perspectives enriches collective outcomes. With these developments, how do you now perceive your academic and social environments compared to when we started?
+
+User: Initially, they seemed intimidating and filled with tension. Now, they feel less imposing because I’m equipped with positive engagement strategies.
+
+Consultant: Insightful realization. Recognizing the shift in your perception proves your capability to navigate these spaces with confidence and ease. Proceeding with the week's plan, where do you feel you’ll need the most support, if any?
+
+User: Maybe in sustaining this momentum. I worry about slipping back during particularly stressful periods.
+
+Consultant: Understandably, maintaining progress requires intentional effort. Regularly revisiting your coping tools, such as painting or journaling, can help mitigate these concerns. What affirmations might keep you centered during overwhelming moments?
+
+User: Telling myself 'I'm more than enough' and reminding myself of the progress I've made. Trusting the process regardless of setbacks can be reassuring.
+
+Consultant: Those affirmations empower self-belief, offering a calming influence. The journey of growth involves revisiting these reminders to stay aligned with your purpose. What's something you're looking forward to exploring in the upcoming sessions?
+
+User: Deepening these strategies and possibly introducing mindfulness techniques to manage stress further.
+
+Consultant: Mindfulness can certainly complement your existing practices, enhancing emotional awareness and control. As we conclude today, is there a particular insight or realization you’d like to carry forward?
+
+User: Being able to reshape situations with positivity feels empowering. It’s a skill I aim to continually hone.
+
+Consultant: Harnessing that perspective transforms potential challenges into opportunities for growth. It's gratifying to see your evolving resilience. As always, remember our discussions and strategies are tools at your disposal. Reach out if guidance is ever needed.
+#######
+Consultant: Hi Xiaoyu, I'm glad to see you. Let's reflect on the progress we've made. How have the recent changes and activities helped you manage stress?
+
+User: Hi. Talking with classmates and painting regularly has really helped me feel less isolated and more in control of my emotions. I've also become more aware of when I'm being too hard on myself.
+
+Consultant: That's a significant achievement. What strategies do you think will continue to support you in future situations?
+
+User: I plan to keep engaging with hobbies and reaching out for conversations, and I’ll remind myself to interpret situations more logically.
+
+Consultant: Those are effective strategies. As our sessions conclude, remember that you've developed the skills to navigate these challenges. Know that you can always seek guidance if needed.
+
+User: Thank you. I feel more confident going forward, and I appreciate your help.
+#######

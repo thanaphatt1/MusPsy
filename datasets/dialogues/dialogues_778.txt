@@ -1,0 +1,404 @@
+Consultant: Hi Zheng, it's great to meet you today. How have you been feeling lately?
+
+User: Hi. I've been feeling pretty stressed and upset. My mom's been on my case about my grades because they dropped after I got into this game competition at school.
+
+Consultant: I'm sorry to hear that. It sounds like you're going through a tough time. Could you share more about how this gaming competition has affected your schoolwork?
+
+User: Well, I really got into the games and started playing more, which meant less time for homework and studying. Now my grades are suffering, and my mom's really unhappy about it.
+
+Consultant: It seems that gaming has become a big part of your life, which is affecting your studies. How is this impacting your feelings about school and your relationships at home?
+
+User: It's making me really anxious about school, and my mom's always worried and angry with me. I just feel caught in the middle of it all.
+
+Consultant: Thank you for sharing that. For our task this week, I’d like you to reflect on the time you spend playing games and how it makes you feel. Can you try to keep track of your gaming time and emotions?
+
+User: Sure, I can try to do that.
+
+Consultant: Hi Zheng, welcome back. How did the task of tracking your gaming habits go? Did you notice any patterns?
+
+User: Hi. Yeah, I realized I play a lot whenever I'm stressed or upset, and it helps me escape, but it also makes things worse in the long run.
+
+Consultant: That’s insightful. Often, we turn to something that provides quick relief, even if it's not the best for us long-term. What kind of thoughts do you have during those stressful times?
+
+User: I keep thinking that I'm useless and that I’ll never get my grades back up. It’s like a cycle of feeling bad and then playing more to avoid it.
+
+Consultant: Those are some strong feelings. Do you find yourself focusing only on negative outcomes or believing the worst about your situation?
+
+User: Yeah, I always assume my grades will stay bad and my mom will be angry forever.
+
+Consultant: Let's continue exploring this. For your task this week, try to note any times when you think these negative thoughts. Just being aware of them is a great first step.
+
+User: Okay, I’ll try to do that.
+
+Consultant: Hi Zheng, it's good to see you again. How did your reflection on your thoughts go? Were you able to recognize when negative assumptions appeared?
+
+User: Hi. Yes, I noticed I tend to think the worst whenever anything goes wrong. I keep telling myself that it's all hopeless.
+
+Consultant: It’s understandable to feel that way sometimes. Let’s consider this: If a friend of yours was in the same situation, how would you encourage them?
+
+User: I'd probably tell them to take a break, calm down, and maybe ask for help with schoolwork instead of just giving up.
+
+Consultant: That’s a thoughtful approach. Do you think you could apply this advice to yourself? Perhaps seek help or set small goals to gradually improve your grades?
+
+User: I hadn’t thought of that. It might be worth trying. Maybe I should ask my mom or teachers for help.
+
+Consultant: That sounds like a constructive plan, Zheng. For this week, why don't you come up with a few small, manageable goals for your study sessions?
+
+User: I’ll definitely give it a go.
+
+Consultant: Hi Zheng, I'm glad to see you back. Did you have the chance to set some goals for your studies? How did that go?
+
+User: Hi. Yes, I started setting little goals, like finishing one assignment a night. It’s actually been helpful.
+
+Consultant: That’s fantastic, Zheng. Achieving these goals can definitely boost your confidence. How are you feeling about your progress with these small tasks?
+
+User: It feels good to finally get something done. I feel like maybe I can actually improve my grades if I keep it up.
+
+Consultant: That’s a wonderful insight. When you feel more confident in your schoolwork, you'll likely feel less stressed about it. How do you think you could build on this success?
+
+User: I think I’ll try to make a regular schedule, so I have dedicated time for studying and playing games.
+
+Consultant: That’s an excellent idea. Creating structure can help maintain this balance. For this week, try to establish a consistent routine that combines study and relaxation time.
+
+User: I’ll work on setting that up.
+
+Consultant: Hi Zheng, it’s good to see you've made some progress. Have you had the chance to think about activities that bring you joy outside of gaming?
+
+User: Hi. I do enjoy drawing. I haven't done it much lately, but I remember it being really fun and relaxing.
+
+Consultant: That's a fantastic interest to explore. Engaging in different hobbies can help lower stress. Would you be interested in incorporating some drawing into your weekly routine?
+
+User: Yeah, I think I’d like that. It would be nice to do something calming after all the schoolwork.
+
+Consultant: Great to hear, Zheng. Creating time for drawing can be a wonderful way to unwind. How about setting aside a specific time each week to sketch or create something?
+
+User: That sounds good. I’ll try to do it after finishing my homework as a reward.
+
+Consultant: Perfect plan. For this week, try to find a time that works best for you to enjoy some drawing.
+
+User: I’ll do that.
+
+Consultant: Hi Zheng, it’s been wonderful working with you. Can we look back at what you've learned and achieved over our sessions?
+
+User: I’ve realized how important it is to not let negative thoughts take over. Setting goals and routines helped too. Talking to my mom more openly has also made things better between us.
+
+Consultant: That’s great progress, Zheng. It's important to have supportive relationships and realistic thinking. What strategies will you take with you to help face future challenges?
+
+User: I’ll focus on breaking tasks into small, manageable parts and try to keep a balanced schedule. Also, staying open about my feelings instead of keeping them bottled up.
+
+Consultant: Those are empowering strategies, Zheng. You’ve developed some valuable skills. Remember, you can handle difficult times and you're not alone. If ever you need support, you can reach out for help.
+
+User: Thank you for all your help. I feel more capable of managing things on my own now.
+#######
+Consultant: Hi Zheng, welcome back. How did the task of tracking your gaming habits go? Did you notice any patterns?
+
+User: Hi. Yeah, I realized I play a lot whenever I'm stressed or upset, and it helps me escape, but it also makes things worse in the long run.
+
+Consultant: That’s insightful. Often, we turn to something that provides quick relief, even if it's not the best for us long-term. What kind of thoughts do you have during those stressful times?
+
+User: I keep thinking that I'm useless and that I’ll never get my grades back up. It’s like a cycle of feeling bad and then playing more to avoid it.
+
+Consultant: Those are some strong feelings. Do you find yourself focusing only on negative outcomes or believing the worst about your situation?
+
+User: Yeah, I always assume my grades will stay bad and my mom will be angry forever.
+
+Consultant: Let's continue exploring this. Recognizing these feelings is a critical step in addressing them. How do you believe these thoughts might affect your daily activities, like studying or even gaming?
+
+User: They make studying really hard because I get so overwhelmed that I don't even want to start. And then, when I play games to escape, I feel guilty later, which only worsens things.
+
+Consultant: That’s understandable. The cycle of negative thoughts and gaming can certainly cloud your ability to see the situation clearly. Let’s think about how you can begin to break this cycle. Have you considered stepping back and assessing these thoughts critically?
+
+User: I haven't thought about it like that. Sometimes, they just feel so real that I don't even question them.
+
+Consultant: It makes sense that they'd feel that way. However, questioning the validity of these thoughts might help you uncover whether they're based on reality or if they’re more of a distortion. How would challenging these thoughts change your perspective?
+
+User: Maybe I’d be less quick to assume the worst. It could make things seem less overwhelming.
+
+Consultant: Exactly, by reframing those thoughts, you can potentially find a more balanced perspective. An approach could be writing these thoughts down when they occur and then reflecting on them. This can be a useful way to defuse their intensity.
+
+User: I think I could try that. Seeing them on paper might help me see how exaggerated they are.
+
+Consultant: That’s a great first step, Zheng. For your task this week, try to note any times when you think these negative thoughts. Just being aware of them is a great first step.
+
+User: Okay, I’ll try to do that.  
+
+Consultant: Awareness is key, and from there, we can explore other coping strategies. Are there specific situations or triggers you notice that tend to bring on these negative thoughts?
+
+User: Mostly when I get a bad grade on a test or assignment. I immediately start worrying about my mom’s reaction and what that means for my future.
+
+Consultant: Those triggers seem powerful. It's helpful to identify them. This awareness allows us to prepare and perhaps respond differently. If we think about your mom’s reaction, how do you usually interpret her concerns in these moments?
+
+User: I guess I automatically assume she’s disappointed and that I’ve failed to meet her expectations.
+
+Consultant: That's a common reaction. And sometimes, our assumptions about others' thoughts can amplify our own worries. How do you think you can approach this differently?
+
+User: Maybe I could try talking to her more about my feelings. That way, I might better understand her perspective instead of just assuming.
+
+Consultant: That's a constructive resolution, Zheng. Communicating openly can prevent misunderstandings and strengthen your relationship. For this week, along with noting your thoughts, try having a conversation with your mom about your feelings.
+
+User: I’ll try to talk to her about it. It could clear up some of my worries.
+
+Consultant: Wonderful. Remember, you're taking important steps towards managing these feelings and thoughts. I'm here to support you as you explore these new strategies.
+
+User: Thanks, I appreciate it. I’m starting to see how I can make changes.
+
+Consultant: You're doing a fantastic job, Zheng. Let's see how these reflections and conversations help you over the next week. Looking forward to hearing about your progress.
+
+User: Thanks. I’ll keep you updated on how it goes.
+#######
+Consultant: Hi Zheng, it's good to see you again. How did your reflection on your thoughts go? Were you able to recognize when negative assumptions appeared?
+
+User: Hi. Yes, I noticed I tend to think the worst whenever anything goes wrong. I keep telling myself that it's all hopeless.
+
+Consultant: It’s understandable to feel that way sometimes. Let’s consider this: If a friend of yours was in the same situation, how would you encourage them?
+
+User: I'd probably tell them to take a break, calm down, and maybe ask for help with schoolwork instead of just giving up.
+
+Consultant: That’s a thoughtful approach. Do you think you could apply this advice to yourself? Perhaps seek help or set small goals to gradually improve your grades?
+
+User: I hadn’t thought of that. It might be worth trying. Maybe I should ask my mom or teachers for help.
+
+Consultant: That sounds like a constructive plan, Zheng. For this week, why don't you come up with a few small, manageable goals for your study sessions?
+
+User: I’ll definitely give it a go.
+
+Consultant: I'm glad to hear that. Setting small goals can really help you build momentum without overwhelming you. How do you think reaching out for help might change your perspective on your current challenges?
+
+User: I think it would help me not feel so isolated in my struggle. It might also take off some of the pressure I’m feeling.
+
+Consultant: Exactly. Support from others can provide a sense of relief and encouragement. Have you considered specific ways you'd ask your mom or a teacher for assistance?
+
+User: I’m thinking of telling my mom about my struggles with balancing games and studies. As for my teachers, I could ask for tips on focusing better in class.
+
+Consultant: Those are fantastic ideas, Zheng. Communicating your needs and challenges is crucial in receiving the support you deserve. How do you feel about having these conversations?
+
+User: I feel a bit nervous, but I know it’s needed. Especially since I want my mom to worry less.
+
+Consultant: It's completely normal to feel that way. Remember, approaching with honesty about your feelings can make these discussions more productive. You'll likely find that your mom and teachers are very willing to help.
+
+User: Yeah, I hope so. It would be nice to have them on my side.
+
+Consultant: Let's aim for that. Reflecting on your thoughts and asking for support can significantly help break the cycle of negativity. How do you plan to keep track of the small goals you mentioned?
+
+User: I’m thinking of writing them down in a planner, so I can track my progress and make adjustments as needed.
+
+Consultant: That's an effective strategy. Having a visual representation of your goals and accomplishments can be very motivating. Beyond academics, have you thought about other areas where you could set goals?
+
+User: I guess I could set goals for my gaming, like limiting my playtime, so it doesn't affect my study.
+
+Consultant: That's a wise approach. Setting boundaries around your gaming time can help create a healthier balance with your school responsibilities. How do you think establishing these limits might benefit you in the long run?
+
+User: It could help me focus more on what's important, like my grades. And maybe even give me time to explore other hobbies like drawing.
+
+Consultant: Absolutely, exploring other interests can also enrich your experiences and reduce stress. Rediscovering a hobby like drawing could bring you some joy and relaxation outside of gaming and studying.
+
+User: That sounds really nice. I always enjoyed drawing but kind of forgot about it with all the schoolwork and games.
+
+Consultant: It might be refreshing to reintroduce drawing to your weekly routine. Perhaps as part of your reflection, you can designate a creative time for yourself each week.
+
+User: I like that idea. I’ll try to fit in some drawing time during the week.
+
+Consultant: Great, Zheng. Integrating different activities in your routine can create a well-rounded lifestyle. As you track your academic and personal goals, how do you plan to stay motivated?
+
+User: I think reminding myself of the benefits will help, like maybe thinking about how following my plans can reduce stress and improve my grades.
+
+Consultant: That's an excellent motivation. Remember, recognizing the positives that come with discipline and balance can reinforce your commitment to change. How can I support you in this process?
+
+User: Just having someone to talk to and guide me, like what we’re doing, is really helpful. I feel like I can manage things better now.
+
+Consultant: I'm here to support you, Zheng. You're making significant progress, and all these strategies and reflections will help you continue moving forward. Let me know how this week goes with your goals and conversations.
+
+User: I will. Thank you for your help and understanding.
+
+Consultant: Anytime, Zheng. Keep believing in your capabilities. Looking forward to hearing more about your successes next time.
+
+User: Thanks, I’m looking forward to it.
+#######
+Consultant: Hi Zheng, it's good to see you again. Last time we discussed setting a regular schedule integrating both study and gaming. How's that been going for you?
+
+User: Hi. I’ve actually started to implement a regular study routine, and it’s helping. I set aside time each evening for my homework before I allow myself any game time. It feels great to have some structure.
+
+Consultant: That sounds like a positive change, Zheng. How does this new routine affect how you feel about both your academics and personal time?
+
+User: It’s definitely making me feel more accomplished, and surprisingly, I don't feel as stressed because I know everything has its time slot. 
+
+Consultant: That's a wonderful insight. A structured routine can help not only with stress but also with productivity. Have you noticed any shifts in how you approach challenges or distractions since implementing this schedule?
+
+User: Yes, I’m more focused on the tasks at hand, and it’s easier for me to resist the urge to game when I know there’s time for it later. It's become more about balance.
+
+Consultant: Balance is indeed crucial. I'm glad you're experiencing these benefits. Have your interactions at home changed now that you’ve started to manage your study and gaming time more effectively?
+
+User: My mom seems less worried now. I guess she sees that I’m putting effort into my studies, so she’s been more supportive and less stressed, which is a relief.
+
+Consultant: That’s excellent news. A supportive home environment can make such a difference. With this positive change, what's one area of your life you'd like to focus on next?
+
+User: I’d like to spend more time doing things other than gaming and studying, especially rediscovering drawing because it used to make me really happy.
+
+Consultant: That’s a fantastic idea, Zheng. Engaging in creative activities like drawing can be a great way to relax and might offer a new dimension to your routine. How do you plan to integrate this into your schedule?
+
+User: I’m thinking of setting aside a weekend hour just for drawing. It can be a reward after completing the week's studies.
+
+Consultant: That sounds like a perfect plan. Drawing can also help clarify thoughts and feelings. Have you thought about what subjects you'd like to explore with your drawings?
+
+User: I haven’t given it much thought, but I used to love drawing nature and landscapes. I think starting there might reignite the passion.
+
+Consultant: Nature scenes can be both calming and inspiring. Exploring this creative outlet can help maintain your mental well-being. How do you feel about using drawing occasionally to reflect on how you’re feeling?
+
+User: That seems like a good idea. It could be a relaxing way to understand and express myself better.
+
+Consultant: It's truly beneficial. Artistic expression can sometimes capture emotions that are hard to verbalize. As you plan your artistic time, what else can support your ongoing growth this week?
+
+User: I’ll keep working on my routine and make sure I’m balancing my time well. Maybe plan ahead for school projects so they don’t pile up.
+
+Consultant: Planning ahead is a great strategy for staying on top of everything. Is there anything specific you'd like guidance on moving forward with these goals?
+
+User: Just knowing you’re here to talk things through is helpful. It’s reassuring to have someone guide me through setting and reviewing my goals.
+
+Consultant: I’m here for you, Zheng. You’re doing remarkably well with these positive changes. As we continue, don’t hesitate to bring up new challenges or achievements. Your dedication is truly inspiring.
+
+User: Thanks, I appreciate our sessions. They’ve been really helpful in changing how I approach my problems.
+
+Consultant: I’m pleased to hear that. Keep reflecting on your progress and being kind to yourself. Don’t forget—support and balance are keys to success. Looking forward to hearing more about your drawing experiences next time.
+
+User: I will. See you next time.
+#######
+Consultant: Hi Zheng, it's good to see you've made some progress. Have you had the chance to think about activities that bring you joy outside of gaming?
+
+User: Hi. I do enjoy drawing. I haven't done it much lately, but I remember it being really fun and relaxing.
+
+Consultant: That's a fantastic interest to explore. Engaging in different hobbies can help lower stress. Would you be interested in incorporating some drawing into your weekly routine?
+
+User: Yeah, I think I’d like that. It would be nice to do something calming after all the schoolwork.
+
+Consultant: Great to hear, Zheng. Creating time for drawing can be a wonderful way to unwind. How about setting aside a specific time each week to sketch or create something?
+
+User: That sounds good. I’ll try to do it after finishing my homework as a reward.
+
+Consultant: Perfect plan. For this week, try to find a time that works best for you to enjoy some drawing.
+
+User: I’ll do that.
+
+Consultant: Excellent. How do you feel about starting with subjects that appeal to you, perhaps nature or landscapes like you mentioned before?
+
+User: I still love the idea of drawing nature. It used to be very calming for me, so that sounds perfect.
+
+Consultant: Nature has a way of inspiring calmness. As you engage with your drawing sessions, have a moment to reflect on any thoughts or emotions you experience. It might help you connect more deeply with your feelings.
+
+User: That’s a great idea. I should use that time to better understand myself.
+
+Consultant: Art can be a mirror to our inner world, Zheng. Don't hesitate to explore different themes, and use this creative time to decompress. How does your drawing ambition sit alongside your current routine?
+
+User: I think it fits well. After studying, I could see it as time to relax before going to bed.
+
+Consultant: A perfect way to wind down. Maybe jot down how you feel after each session; it could provide insight into your moods or how relaxed you feel.
+
+User: I can do that. It may help to see if there’s a change over time.
+
+Consultant: Exactly. Sometimes acknowledging these changes can foster more appreciation for the activity itself. How are your relationships at home supporting this newfound interest?
+
+User: My mom’s really supportive. Now that we talk more, she seems happy to see me explore activities beyond gaming.
+
+Consultant: Support from family can be incredibly encouraging. It might also be a way to share some finished pieces with her, if that interests you.
+
+User: I never thought about sharing my drawings. It might be fun to show her, since she appreciates things I create.
+
+Consultant: That sounds wonderful, Zheng. Sharing art can be a beautiful bonding experience. As you dive into your art more, how would you like to keep making progress in balancing your interests?
+
+User: I think I need to continue managing my time well, so I want to ensure I have that balance between responsibilities and relaxing activities like drawing.
+
+Consultant: That’s a commendable focus. Maintaining this balance supports both your emotional well-being and productivity. What do you think will be your biggest challenge in keeping this balance?
+
+User: Maybe not letting my school workload overshadow my time to relax. I get caught up sometimes with upcoming exams.
+
+Consultant: It's understandable to feel that way. Perhaps setting clear boundaries, like predetermined drawing sessions, will give you something to look forward to as a break.
+
+User: That makes sense. It would help to have something enjoyable scheduled regularly.
+
+Consultant: Planning for pleasure is just as important as planning for work, Zheng. What’s one small action you can take this week to support this balance?
+
+User: I’ll schedule drawing sessions once I finish all my homework each Friday.
+
+Consultant: That’s an actionable goal and might give you some peace going into the weekend. As we continue, don't hesitate to explore how your artistic practice influences your overall outlook.
+
+User: I look forward to discovering how it affects me. Thanks for helping me think about this.
+
+Consultant: You’re most welcome, Zheng. Engaging in activities that bring joy is crucial for your happiness. Keep investing in what matters to you, and remember, you're making wonderful progress.
+
+User: All right. I’ll keep it up and let you know how it goes next time!
+#######
+Consultant: Hi Zheng, it's been wonderful working with you. Can we look back at what you've learned and achieved over our sessions?
+
+User: I’ve realized how important it is to not let negative thoughts take over. Setting goals and routines helped too. Talking to my mom more openly has also made things better between us.
+
+Consultant: That’s great progress, Zheng. It's important to have supportive relationships and realistic thinking. What strategies will you take with you to help face future challenges?
+
+User: I’ll focus on breaking tasks into small, manageable parts and try to keep a balanced schedule. Also, staying open about my feelings instead of keeping them bottled up.
+
+Consultant: Those are empowering strategies, Zheng. You’ve developed some valuable skills. Remember, you can handle difficult times and you're not alone. If ever you need support, you can reach out for help.
+
+User: Thank you for all your help. I feel more capable of managing things on my own now.
+
+Consultant: Could you share more about your journey toward open communication with your mom?
+
+User: Sure. At first, it was really hard to talk about my gaming habits and school issues, because I was worried about her reaction. But when I started discussing small things, like my daily routine and drawing, she seemed to become more understanding. It's improved our relationship little by little.
+
+Consultant: That's such a positive change, Zheng. Open communication builds trust. How has this openness affected your daily life?
+
+User: It's made things at home less tense. I'm not constantly worried about hiding things from her, and I feel like I can focus more on schoolwork and hobbies like drawing.
+
+Consultant: It sounds like you're creating a more supportive environment for yourself. How has this new dynamic at home helped with your studies?
+
+User: It's been a good influence. When I feel supported, I have more energy to concentrate on my tasks. It’s less about fearing disappointment and more about setting personal goals and achieving them.
+
+Consultant: That's a powerful realization. Prioritizing your own goals and well-being is crucial. How do you envision maintaining this positive momentum?
+
+User: I think with a simple routine that includes study time, drawing, and family discussions, I can keep things balanced.
+
+Consultant: That makes perfect sense. Consistency in your routine can foster stability. Do you think setting aside specific times to evaluate your progress could be useful?
+
+User: Yes, I've found that reflecting on my week every Sunday night helps. It gives me a clear picture of what went well and what needs improvement.
+
+Consultant: That’s an insightful practice. Reflection can help guide you in refining your strategies. As you continue to grow, which skills do you think you've strengthened the most?
+
+User: I believe time management and emotional awareness have become significantly stronger. By noting my feelings through activities like drawing, I've understood myself better and how I react to stress.
+
+Consultant: Awareness and management are indeed essential skills. They enable better decision-making and emotional regulation. How might you apply these skills in other areas of your life?
+
+User: In dealing with friendships and other social interactions, I can use these skills to communicate effectively and manage any conflicts calmly.
+
+Consultant: That's a great application, Zheng. Cultivating effective communication can nurture stronger relationships. How do you feel about using art as an expression tool in these interactions?
+
+User: Art could definitely be a way to express emotions I struggle to verbalize. Sharing drawings with friends and family can be a great opener for conversations.
+
+Consultant: That’s a creative approach. Visual expression can convey things words sometimes can't. How do you plan to incorporate art into strengthening these connections?
+
+User: Maybe by occasionally organizing small get-togethers where we draw together or share creative projects. It seems like a fun and engaging way to bond.
+
+Consultant: What a wonderful idea, Zheng. Group activities can deepen connections through shared experiences. Do you feel confident sharing your work with others?
+
+User: I do feel a bit nervous, but the thought of receiving genuine feedback excites me. I think it will improve my creativity and openness.
+
+Consultant: Embracing feedback is a significant step in personal growth. It aids in understanding perspectives, enhancing skills, and boosting confidence. How will you handle constructive criticism?
+
+User: I'll try to view it as an opportunity for improvement rather than discouragement. Understanding others' viewpoints can teach me valuable lessons.
+
+Consultant: That’s a mature perspective. Criticism can indeed provide learning moments. How can your supportive environment help in processing these experiences?
+
+User: By relying on my mom and close friends, I’ll have a solid support system that reassures and guides me through rough patches.
+
+Consultant: It sounds like you have thought this through well. Having a robust support system is invaluable. As you look towards the future, what keeps you motivated to maintain this progress?
+
+User: The feeling of accomplishment when I succeed motivates me, along with knowing that it contributes to my personal and educational growth.
+
+Consultant: That's encouraging to hear. Progress often stems from intrinsic motivation paired with external support. What’s one word that best describes your outlook now?
+
+User: Hopeful. I feel hopeful about continuing my journey and facing whatever challenges come my way confidently.
+
+Consultant: Zheng, your resilience and adaptability are commendable. It's a pleasure seeing your growth over these sessions. Please remember, you're never alone on this path, and I'm here if you need guidance.
+
+User: Thanks so much, I really appreciate your support. I’ll keep working hard and reach out if needed.
+
+Consultant: You're doing an amazing job, Zheng. Keep nurturing your interests and maintaining balance. I'm confident you'll continue to achieve great things. Take care until next time!
+
+User: Thank you. I'll see you next session!
+#######

@@ -1,0 +1,422 @@
+Consultant: Hi Xiao H, welcome to our session today. How have you been feeling lately?
+
+User: Hi. I've been feeling really angry and isolated. My classmates have been avoiding me because they think I have bad habits.
+
+Consultant: I'm sorry to hear that. It sounds like a difficult situation. Could you tell me more about what has been happening and how it's making you feel?
+
+User: Well, it started with some issues regarding cleanliness. Now, everyone thinks I'm dirty and refuses to talk to me. It makes me feel really frustrated and alone.
+
+Consultant: It sounds like this has been impacting your relationships with your classmates significantly. How has this situation affected you emotionally?
+
+User: I feel really betrayed and angry. I didn't mean to cause any trouble, but now I feel like nobody understands me.
+
+Consultant: Let's work together to explore your feelings and find ways to improve your situation. For now, try keeping a journal to note down your feelings throughout the day. It might help you understand your emotions better.
+
+Consultant: Hi Xiao H, it's good to see you again. Did you get a chance to write down some of your feelings during the week?
+
+User: Yes, I wrote about how I couldn't stop thinking that my classmates really hate me. It's all I can focus on sometimes.
+
+Consultant: I see. These thoughts might contribute to your anger and loneliness. Did you notice any patterns in your thinking that make things seem worse?
+
+User: I always think they are talking behind my back or mocking me even when I'm not sure if it's true. I just assume the worst about what they think of me.
+
+Consultant: It seems like your mind is focusing on negative outcomes. Let's try to understand how these thoughts affect your emotions further. In the meantime, try talking to someone you trust about these feelings.
+
+User: I haven't really talked to anyone about all of this yet. It feels a bit overwhelming even thinking about opening up.
+
+Consultant: Opening up to someone you trust can be helpful. It might offer you a different perspective and lessen the weight of carrying these thoughts alone. Is there someone, maybe a friend or family member, you feel comfortable talking to?
+
+User: My grandparents come to mind. They've always been kind and supportive. I hadn't thought about discussing these issues with them before.
+
+Consultant: That sounds like a great choice. Your grandparents could provide you with some comfort and guidance. How would you feel about sharing your journal entries with them?
+
+User: I think they might help me see the situation more clearly and give some advice. I can try talking to them this weekend.
+
+Consultant: That sounds like a solid plan, Xiao H. Taking these small steps might begin to shift your perspective on how your classmates view you. 
+
+User: I hope it will. I hate feeling so disconnected all the time.
+
+Consultant: It's understandable to feel that way. Let's explore how you might address your classmates. What would you want to express to them if you could speak openly?
+
+User: I want them to know that I'm not trying to upset anyone and I'm working on changing my habits. 
+
+Consultant: Being open about your efforts could help bridge the gap. Do you think having such a conversation with one or two classmates could be beneficial?
+
+User: It might help. Maybe they don't realize how I'm feeling or notice any changes I've been trying to make.
+
+Consultant: That's an insightful thought, Xiao H. It could be a chance for them to understand you better. If you're feeling ready, this could be an opportunity to alleviate some tension and misunderstanding.
+
+User: I feel nervous thinking about it, but it could be worth it.
+
+Consultant: Remember, you're not alone in these feelings. Running the idea by your grandparents might also give you a confidence boost. Would it be helpful to plan what you'd like to say before the conversation?
+
+User: Yes, that might make me feel more prepared and less anxious about it.
+
+Consultant: Great strategy. Write down the key points you’d like to communicate. Approach this gradually and at your own pace. 
+
+User: I'll give it a try. Having a plan might ease some of my worries.
+
+Consultant: You're making positive strides, Xiao H. This week, try to not only practice reaching out but also focus on things you enjoy, like soccer. Remember how engaging in your hobbies can be a great stress reliever?
+
+User: Yes, playing soccer always helps me shift my focus. I remember how good it felt.
+
+Consultant: I'm glad to hear that. Setting some time for soccer might strengthen the positive impact of our discussions.
+
+User: I’ll talk to my grandparents about joining the neighborhood team. It could be the change I need.
+
+Consultant: That sounds perfect. It might also be an additional opportunity to bond with new people and build connections.
+
+User: That's something I look forward to. Thanks for guiding me through this.
+
+Consultant: You're doing wonderfully, Xiao H. Remember, progress takes time, and each step you take counts. Feel free to discuss anything with me in our next sessions. I’m here to support you.
+
+User: Thank you so much. I feel a bit more hopeful about handling everything now. I'll try to talk to my grandparents and maybe some classmates.
+
+Consultant: You're taking great steps forward. I look forward to hearing how these conversations unfold in our next session. Until then, take care, Xiao H.
+
+User: Thank you, I appreciate it. I'll see you next time.
+#######
+Consultant: Hi Xiao H, it's good to see you again. Did you get a chance to write down some of your feelings during the week?
+
+User: Yes, I wrote about how I couldn't stop thinking that my classmates really hate me. It's all I can focus on sometimes.
+
+Consultant: I see. These thoughts might contribute to your anger and loneliness. Did you notice any patterns in your thinking that make things seem worse?
+
+User: I always think they are talking behind my back or mocking me even when I'm not sure if it's true. I just assume the worst about what they think of me.
+
+Consultant: It seems like your mind is focusing on negative outcomes. Let's try to understand how these thoughts affect your emotions further. In the meantime, try talking to someone you trust about these feelings.
+
+User: I haven't really talked to anyone about all of this yet. It feels a bit overwhelming even thinking about opening up.
+
+Consultant: Opening up to someone you trust can be helpful. It might offer you a different perspective and lessen the weight of carrying these thoughts alone. Is there someone, maybe a friend or family member, you feel comfortable talking to?
+
+User: My grandparents come to mind. They've always been kind and supportive. I hadn't thought about discussing these issues with them before.
+
+Consultant: That sounds like a great choice. Your grandparents could provide you with some comfort and guidance. How would you feel about sharing your journal entries with them?
+
+User: I think they might help me see the situation more clearly and give some advice. I can try talking to them this weekend.
+
+Consultant: That sounds like a solid plan, Xiao H. Taking these small steps might begin to shift your perspective on how your classmates view you.
+
+User: I hope it will. I hate feeling so disconnected all the time.
+
+Consultant: It's understandable to feel that way. Let's explore how you might address your classmates. What would you want to express to them if you could speak openly?
+
+User: I want them to know that I'm not trying to upset anyone and I'm working on changing my habits.
+
+Consultant: Being open about your efforts could help bridge the gap. Do you think having such a conversation with one or two classmates could be beneficial?
+
+User: It might help. Maybe they don't realize how I'm feeling or notice any changes I've been trying to make.
+
+Consultant: That's an insightful thought, Xiao H. It could be a chance for them to understand you better. If you're feeling ready, this could be an opportunity to alleviate some tension and misunderstanding.
+
+User: I feel nervous thinking about it, but it could be worth it.
+
+Consultant: Remember, you're not alone in these feelings. Running the idea by your grandparents might also give you a confidence boost. Would it be helpful to plan what you'd like to say before the conversation?
+
+User: Yes, that might make me feel more prepared and less anxious about it.
+
+Consultant: Great strategy. Write down the key points you’d like to communicate. Approach this gradually and at your own pace.
+
+User: I'll give it a try. Having a plan might ease some of my worries.
+
+Consultant: You're making positive strides, Xiao H. This week, try to not only practice reaching out but also focus on things you enjoy, like soccer. Remember how engaging in your hobbies can be a great stress reliever?
+
+User: Yes, playing soccer always helps me shift my focus. I remember how good it felt.
+
+Consultant: I'm glad to hear that. Setting some time for soccer might strengthen the positive impact of our discussions.
+
+User: I’ll talk to my grandparents about joining the neighborhood team. It could be the change I need.
+
+Consultant: That sounds perfect. It might also be an additional opportunity to bond with new people and build connections.
+
+User: That's something I look forward to. Thanks for guiding me through this.
+
+Consultant: You're doing wonderfully, Xiao H. Remember, progress takes time, and each step you take counts. Feel free to discuss anything with me in our next sessions. I’m here to support you.
+
+User: Thank you so much. I feel a bit more hopeful about handling everything now. I'll try to talk to my grandparents and maybe some classmates.
+
+Consultant: You're taking great steps forward. I look forward to hearing how these conversations unfold in our next session. Until then, take care, Xiao H.
+
+User: Thank you, I appreciate it. I'll see you next time.
+#######
+Consultant: Hi Xiao H, welcome back. Let's talk about some of the distressing thoughts you've been having. How certain are you that your classmates are judging you harshly?
+
+User: Not very certain. I haven't seen anyone talking about me directly, but it just feels like they might be.
+
+Consultant: It's understandable to feel that way. If a friend of yours was in the same situation, what advice would you give them?
+
+User: I'd probably tell them not to assume the worst and try to talk things over with their classmates to clear up any misunderstandings.
+
+Consultant: That's a wise approach. Do you think it might be helpful for you to try having an open conversation with a few classmates?
+
+User: I hadn't thought of that. It could be worth trying. They might not know how I'm feeling.
+
+Consultant: Considering this perspective can shift the dynamic. Before planning such a conversation, let's think about how you'd communicate your feelings and concerns. What would be important for you to express?
+
+User: I guess I'd want them to know that I'm making an effort to change and that the situation is really affecting me emotionally.
+
+Consultant: That’s a meaningful starting point. Expressing how the situation impacts you emotionally can open up an understanding dialogue. Do you feel ready to initiate such a talk?
+
+User: I feel hesitant, but also somewhat motivated. I don't like feeling distant from everyone.
+
+Consultant: It's natural to feel hesitant. Perhaps easing into this by speaking with one or two approachable classmates first might make it less daunting. How do you feel about starting there?
+
+User: That seems like a manageable way to begin. I can focus on those I used to get along with before this all happened.
+
+Consultant: That sounds like a solid plan, Xiao H. Reaching out to those you were closer to could provide a supportive atmosphere for discussion. What do you think are the particular points you’d like to address with them?
+
+User: I’d like to explain my perspective and the changes I’m making to be more considerate of others.
+
+Consultant: Articulating your intentions clearly can help clear misconceptions. Creating an outline of what you'd like to say might ease the conversation. What do you think?
+
+User: That could definitely help me feel more prepared. I'll give it a try.
+
+Consultant: Excellent idea. As you prepare, think about positive ways to approach this topic. Consider how you'd want to invite them to share their own feelings too.
+
+User: Inviting them to share their side might make the conversation more balanced and open.
+
+Consultant: Absolutely. Showing interest in their feelings can pave the way for healing. How would you feel about practicing this conversation beforehand, maybe with a friend or a family member?
+
+User: Practicing with my grandparents might actually help. They’re very understanding and supportive.
+
+Consultant: That's a wonderful idea, Xiao H. Their feedback could also offer comfort and guidance. While you practice, pay attention to your tone and expressions, which can greatly influence the outcome.
+
+User: Definitely. I don't want to come off as defensive, so I'll work on keeping my tone calm.
+
+Consultant: Maintaining a calm and open demeanor can indeed be powerful. Alongside practicing, remember to be patient with yourself throughout this process.
+
+User: I'll try. It's tough not to worry about how they might react, though.
+
+Consultant: That's understandable, but remind yourself that this is about fostering understanding rather than changing their minds in one conversation. Taking gradual steps is key. 
+
+User: I'll keep that in mind. Maybe focusing on just one conversation at a time will make it feel less overwhelming.
+
+Consultant: An excellent approach, Xiao H. Handling these conversations step by step gives you room to adjust and learn along the way. Each one contributes to your progress.
+
+User: Thanks. I feel a bit more confident about addressing them now.
+
+Consultant: That's great to hear. On another note, continue engaging in activities you love, like soccer, which can offer relaxation while you're working on these conversations.
+
+User: Soccer definitely helps me unwind. I’ve started talking to my grandparents about me joining the neighborhood team.
+
+Consultant: That’s wonderful progress. Soccer can bring joy and new friendships, which might help lessen this sense of disconnection. Have you decided on a time to meet up with the team yet?
+
+User: I'm planning to go to a practice session this weekend.
+
+Consultant: Excellent. Joining the team might help you establish new bonds and connections. Remember, each positive experience contributes to building your confidence.
+
+User: I’m looking forward to it. It really sounds like it could be good for me.
+
+Consultant: It does, Xiao H. As you move forward with your conversations and activities, celebrate each step, no matter how small it may seem.
+
+User: I’ll try. I’ll take things one step at a time.
+
+Consultant: That’s the spirit. Embracing each attempt will provide more clarity and ease. I’m here to support you with each step, so feel free to reach out whenever you need guidance.
+
+User: I appreciate your help a lot. I’ll keep working on everything we’ve discussed.
+
+Consultant: You're doing wonderfully, Xiao H. Keep nurturing these efforts, and know that you’re never alone in this journey. I look forward to hearing how everything unfolds in our next session.
+
+User: Thank you. I feel more hopeful now. Looking forward to our next chat!
+#######
+Consultant: Hi Xiao H, glad to see you again. Last time, we discussed the idea of speaking to your classmates. How do you feel about taking that step?
+
+User: I thought about talking to a few of them, especially those who've been avoiding me the most.
+
+Consultant: That's a great step forward. What would you like them to understand about your side of the story?
+
+User: I want them to know that I'm trying to follow the rules better and that I'm not trying to upset anyone on purpose.
+
+Consultant: Being open about your intentions and feelings could help reduce the tension. How do you feel about planning this discussion?
+
+User: I'm a bit nervous about it, but I also feel a bit hopeful that it might help change things.
+
+Consultant: Feeling nervous is completely natural, Xiao H. Let's work together on forming a plan that makes you feel more comfortable. Which classmates do you think would be the best to approach first?
+
+User: I think starting with those I used to talk to more might be helpful, like Jing and Mei. They weren't really involved in the issue but started distancing themselves anyway.
+
+Consultant: That's a thoughtful choice. Those previous connections can make the conversation easier to initiate. How do you plan to convey your feelings and intentions to them?
+
+User: I suppose I’d like to be honest about how the situation has affected me and reassure them that I’m genuinely making changes.
+
+Consultant: That's a sincere approach. Expressing honesty and vulnerability can often lead to understanding. What worries do you have about how they might react?
+
+User: I'm worried they might not believe me or still hold onto what they've heard from others.
+
+Consultant: It's understandable to feel that way. How might you address their potential doubts or questions during your conversation?
+
+User: Maybe by explaining specific changes I've been making, like paying more attention to cleanliness and respecting shared spaces more.
+
+Consultant: Giving tangible examples could help them see your commitment to improvement. Have your conversations with family, like your grandparents, provided any insights or encouragement that could support you in this?
+
+User: Yes, my grandparents suggested I focus on being patient and persistent, and not to expect instant results.
+
+Consultant: Wise advice indeed, Xiao H. Patience is key in these situations. How about preparing a few questions to ask them about their feelings to keep the conversation open and inviting?
+
+User: That's a good idea. It might help make it clear that I’m genuinely interested in reconciling and understanding their perspectives.
+
+Consultant: Precisely. Encouraging dialogue can help rebuild trust. How do you think you'll manage any anxiety that arises before or during these talks?
+
+User: Practicing deep breathing techniques could help, and maybe I could remind myself of my intentions to stay calm.
+
+Consultant: Those are effective strategies. Focusing on your breathing can center you in stressful moments. Could discussing this plan with your grandparents or practicing with them provide additional comfort?
+
+User: Yes, practicing with them could definitely ease some of my nerves and they could offer feedback on how I come across.
+
+Consultant: That's an excellent idea. Their perspective can offer both comfort and constructive criticism. As you prepare, remember to be gentle with yourself throughout this process.
+
+User: I will try to keep that in mind. It's just hard not to overthink how they might respond.
+
+Consultant: That's only natural, but staying focused on making steady progress rather than perfect outcomes can relieve some pressure. Gradual improvement is the ultimate goal.
+
+User: I guess taking things one step at a time makes it less overwhelming.
+
+Consultant: Exactly, Xiao H. Step-by-step progress allows you to adapt and evolve as needed. Remember you can lean on your favorite activities like soccer to unwind and recharge.
+
+User: Soccer does help me divert my focus. I’ve decided to join the neighborhood team and have spoken with my grandparents about it.
+
+Consultant: That's wonderful! Engaging in soccer will not only provide joy but also open new social avenues for connections and support. Have you scheduled a practice session yet?
+
+User: I'm planning to attend a session this weekend and get involved more actively.
+
+Consultant: Fantastic! Participating in the team can nurture both your personal and social well-being. Let each positive interaction support your overall journey.
+
+User: I'm optimistic about it. It sounds like it could really help me reconnect socially.
+
+Consultant: It certainly does, Xiao H. Celebrate each small success, and remember that every step you take counts towards your growth. I'm eager to hear about your experiences in the next session.
+
+User: Thank you for your support. I'll work on taking those steps and see where it leads.
+#######
+Consultant: Hi Xiao H, it's nice to see you. Have you found any activities or things that make you feel happy during stressful times?
+
+User: Yes, I've always enjoyed playing soccer. It helps me focus on something other than my problems.
+
+Consultant: That's a fantastic passion to have. Engaging in activities you love can be a great way to lift your mood. Would you like to make a plan to play soccer more often?
+
+User: Definitely. I've been thinking about joining the neighborhood team but haven’t made a move yet.
+
+Consultant: How about setting aside some time each week for soccer practice, maybe with the local team? It could be fun and help relieve stress.
+
+User: That sounds like a good idea. I'll talk to my grandparents about it.
+
+Consultant: Great to hear, Xiao H. How has soccer helped you focus better instead of letting those troubling thoughts take over?
+
+User: Playing soccer lets me focus on the game, the strategies, and my teammates. It gives me a sense of purpose and belonging.
+
+Consultant: That sense of purpose and teamwork is a powerful tool against stress. When you're on the field, what are some thoughts you notice yourself having that feel different from when you're off the field?
+
+User: On the field, I feel confident and capable. I'm part of something bigger than myself, which is comforting.
+
+Consultant: Confidence is such a valuable feeling. Outside of soccer, are there moments in life where you've felt similarly confident and connected?
+
+User: I remember feeling that way during a family gathering when I helped organize it, and everyone had a great time.
+
+Consultant: That's wonderful to recall, Xiao H. It seems that contributing to groups, whether it's family or a sports team, plays an important role in boosting your mood. How could these insights translate into your daily routine?
+
+User: I could try involving myself more in activities that allow collaboration, such as group projects or volunteering.
+
+Consultant: That's a great starting point. Seeking opportunities for collaboration can replicate that confidence in everyday life. As you prepare to engage with your neighborhood team, what other goals would you like to explore?
+
+User: I want to improve my skills in soccer and with that, hopefully, make new friends and strengthen my social ties.
+
+Consultant: Improving your skills and forming those connections sound like fulfilling goals. As you work on these, have you considered how you might handle any setbacks or challenges that arise?
+
+User: I know I might face challenges, but I’m willing to learn from them, maybe talk about them with my grandparents or a trusted friend.
+
+Consultant: Excellent approach. Learning to see challenges as opportunities for growth and discussing them with trusted people can provide both insights and support. How do you feel about tracking your progress in a journal to keep the momentum going?
+
+User: I like that idea. Writing down my thoughts and progress might help me see how far I've come.
+
+Consultant: Keeping a journal can be both a reflective and motivational tool. In it, you could also write down moments of gratitude or successes on and off the field. How might your family support your journey both in soccer and emotionally?
+
+User: My grandparents are really supportive and encouraging. They want me to be happy and they'll likely help in any way they can.
+
+Consultant: That's a strong support system you have, Xiao H. Leaning on them for encouragement is vital. Perhaps they could attend a match or cheer you on during practice to reinforce their support.
+
+User: That would be nice for them to see me play. It might also be a chance for them to understand why soccer helps me so much.
+
+Consultant: Exactly. Sharing your interests with them can bridge understanding and strengthen your bond. As you embrace these new steps, how comfortable are you feeling about balancing your commitments in school and soccer?
+
+User: Managing both might be challenging, but I think as long as I stay organized and focused, I can do it.
+
+Consultant: Developing a plan to manage your time will certainly help. Setting achievable goals in both areas should maintain equilibrium and prevent overload. Have you thought about specific strategies for managing your time effectively?
+
+User: I suppose dedicating specific times of the week for studying and soccer practice, as well as keeping a calendar, could help.
+
+Consultant: That's an excellent strategy. Making a tangible schedule can bring clarity and reduce stress. How will you ensure to include moments of rest and relaxation amidst these activities?
+
+User: I'm planning to set aside some leisure time during weekends to just relax and maybe spend time with family.
+
+Consultant: Incorporating rest is crucial and will recharge your energy for both soccer and school. As you lay these plans, what reminders might you give yourself to stay kind and patient towards your progress?
+
+User: I’ll remind myself to take things one step at a time, celebrate small victories, and not be too hard on myself.
+
+Consultant: Beautifully put, Xiao H. Acknowledging every success, no matter the size, fosters a positive outlook and resilience. If any difficulties arise, remember you have your grandparents and this safe space for support.
+
+User: I will keep that in mind. It's comforting to know I have support where I need it.
+
+Consultant: You're definitely on the right path. Trust in your process and abilities. I'm truly eager to hear about your experiences in our next session, whether on the field or in your daily routines.
+
+User: Thank you. I’ll work on these and update you next time!
+#######
+Consultant: Hi Xiao H, it's been great working with you. Let's go over your progress and pinpoint the strategies that helped you most.
+
+User: I've learned to better understand and challenge my negative thoughts. Sharing my feelings with others has also helped.
+
+Consultant: That's very encouraging. When faced with similar challenges in the future, what strategies do you think will support you best?
+
+User: I'll try to think about situations more realistically and talk with someone I trust. Connecting with friends could also make a big difference.
+
+Consultant: Those are solid strategies. As we wrap up, remember you've developed many skills to handle challenges ahead. You're always welcome to return if you need more support.
+
+User: Thank you so much for your guidance. I feel more equipped to manage things on my own now.
+
+Consultant: I'm so pleased to hear that, Xiao H. Reflecting on how far you've come, is there anything specific that has surprised you about your ability to handle these situations?
+
+User: I was surprised at how much talking to my grandparents about my feelings actually helped. I didn't expect them to understand so well.
+
+Consultant: That’s a wonderful realization. Having supportive family members can greatly enhance your coping skills. How do your grandparents usually react when you share your feelings with them?
+
+User: They're very understanding and always tell me to just do my best. Their reassurance means a lot to me.
+
+Consultant: It’s amazing to have such encouragement. How might you incorporate their support into your strategy for handling future challenges?
+
+User: I can continue to talk to them regularly, especially when I'm feeling overwhelmed, and remind myself of their positive reinforcements.
+
+Consultant: That sounds like a solid plan. It’s about creating a support system that empowers you at different times. Moving forward, what role do you envision sports and teamwork playing in your ongoing journey?
+
+User: I think playing soccer and being part of a team will keep giving me confidence and a sense of belonging, which is important for my overall happiness.
+
+Consultant: Those elements of confidence and belonging are crucial for your well-being. How would you like to grow these aspects even further in other areas of your life?
+
+User: Maybe by getting involved in more group activities or clubs at school. Building that similar sense of teamwork could be really good for me.
+
+Consultant: Integrating teamwork and group activities sounds beneficial. As you explore these new avenues, what challenges do you feel you might face, and how can you prepare for them?
+
+User: Balancing my time between schoolwork, soccer, and family can be tough. But I think staying organized and asking for help when I need it is key.
+
+Consultant: Exactly. Time management and seeking support are great strategies to prevent overwhelm. Do you have any ideas about how you can remind yourself of these strategies daily?
+
+User: I could set daily reminders on my phone or keep a motivation board with all my goals and positive affirmations.
+
+Consultant: Those are excellent ideas for keeping yourself anchored. Taking small steps toward your goals while appreciating the journey is essential. Do you feel more equipped to handle unexpected obstacles using these insights?
+
+User: Yes, I do. I think with a bit of practice, my confidence will grow even in the face of new challenges.
+
+Consultant: That’s an empowering attitude, Xiao H. Embracing confidence and growth over time will be beneficial. Engaging in reflection through your journal can continually provide that insight and clarity.
+
+User: Writing things down definitely helps me process and gain perspective on what's happening.
+
+Consultant: Maintaining perspective through journaling not only reveals how far you’ve come, but it also helps chart future progress. How do you plan to celebrate your successes, both big and small?
+
+User: I might reward myself with something I enjoy, or just take a moment to appreciate the achievement and share it with my grandparents.
+
+Consultant: Celebrating with those you love adds significance to your achievements. I look forward to hearing about your continued success and reflections in our next session.
+
+User: Thank you! I'm grateful for the guidance, and I’ll keep you updated on how things go.
+
+Consultant: You're doing an amazing job, Xiao H. Keep nurturing your resilience and stay committed to this positive journey. Take care until we meet again!
+
+User: I will. See you next time!
+#######

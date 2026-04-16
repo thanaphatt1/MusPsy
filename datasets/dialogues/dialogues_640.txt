@@ -1,0 +1,370 @@
+Consultant: Hi A, welcome to our session today. I'm glad you could join me. How have you been feeling lately?
+
+User: Hi. I don't know. I just feel upset and ignored most of the time, especially with my dad always being away for work.
+
+Consultant: I'm so sorry to hear that, A. It sounds like you're experiencing a tough time. Can you share more about how this has been affecting you?
+
+User: Well, my dad rarely comes home, and even when we talk on the phone, it feels like he doesn't really listen. It makes me feel very lonely and unloved.
+
+Consultant: It's quite understandable to feel lonely when your dad seems distant. This can make daily life feel more challenging. How has this impacted your school or time with friends?
+
+User: I find it hard to focus at school, and I don't really want to hang out with my classmates anymore. I just stay to myself most of the time.
+
+Consultant: Thank you for sharing that with me, A. For this week, how about we try writing a little journal each day about your thoughts and feelings? This might help us both understand your situation better.
+
+User: Writing sounds good. I'll give it a try.
+
+Consultant: I'm glad to hear that, A. Writing your thoughts and feelings can be a powerful way to gain insight into what you're experiencing. Let's explore this further together.
+
+User: Alright. I’ll start writing in a journal and see how it goes.
+
+Consultant: Excellent. As you jot down your thoughts, try to note any emotions that come up during the day. This can help us identify patterns or specific triggers.
+
+User: I’ll keep that in mind. It's interesting to think about patterns in my moods.
+
+Consultant: Yes, identifying patterns can be quite revealing. Are there times when you notice feeling happier or more relaxed?
+
+User: I guess when I'm drawing or when I'm just lost in something I enjoy, like a good book or even while listening to music.
+
+Consultant: Those are great activities that seem to bring you peace. Incorporating them more into your routine might be beneficial. Have you thought about ways to ensure you're making time for these activities?
+
+User: Sometimes, but when I'm feeling down, it's hard to motivate myself to actually do them.
+
+Consultant: That's perfectly understandable. Let's try setting small, manageable goals. Maybe start with a short, daily activity that makes you happy?
+
+User: I could try to read for at least 20 minutes before bed. That sounds manageable.
+
+Consultant: That sounds like a perfect start, A. It might not only help calm your mind but could also provide a nice distraction from those recurring thoughts.
+
+User: I think it could help. I like that it's not too demanding.
+
+Consultant: Absolutely, starting small can make a big difference. How have you felt about opening up your thoughts to someone?
+
+User: It's been helpful to talk to someone and feel understood. I was worried at first, but I think it’s been good.
+
+Consultant: I'm really glad to hear that, A. It's important to feel like you have a safe space to express yourself. Together, we'll work through these feelings.
+
+User: Thanks. It’s comforting to know there's support.
+
+Consultant: You're welcome, A. It's quite courageous to address these feelings head-on, and I’m here to support you through this process. Next time, we can discuss how your journaling has been going and any new feelings or thoughts you've noticed.
+
+User: Sounds good. I'll start writing and paying attention to my feelings more.
+
+Consultant: That’s wonderful, A. If you ever feel stuck or need to talk, don't hesitate to reach out. Keep noting down your thoughts, and I look forward to hearing about your experiences next time.
+
+User: I will. Thank you. I appreciate your help.
+
+Consultant: You're very welcome, A. Take care until we speak again.
+#######
+Consultant: Hi A, glad to see you again. Last time, we talked about keeping a journal. How did it go? Did you notice any recurring thoughts or feelings while writing?
+
+User: Yeah, I wrote some thoughts down. I often feel like it's my fault that dad doesn't want to be around.
+
+Consultant: I'm sorry you feel that way, A. Those thoughts can definitely be tough. How do those thoughts make you feel when you think about them?
+
+User: They make me feel really guilty and sad. Like maybe if I were different or better, he would come home more.
+
+Consultant: I understand. It seems like these thoughts might be impacting your mood and self-esteem. Do you think there's a pattern to when these feelings come up?
+
+User: I find myself thinking about it mostly at night when it's quiet and I'm alone, or when I see other kids with their parents.
+
+Consultant: I see. Let's focus on how these thoughts can be really powerful. For this week, can you try to notice when these thoughts appear again and write them down, along with how they make you feel?
+
+User: I'll do that. It might help to see it written out.
+
+Consultant: That's a wise approach, A. Writing things down can sometimes offer a new perspective. How have you been feeling after those moments of self-reflection?
+
+User: It varies. Sometimes I feel a little lighter after writing, but other times it brings up more emotions. It's like an emotional rollercoaster.
+
+Consultant: That's understandable. Emotions can be quite fluctuating, especially during reflection. Have any specific emotions or memories been particularly prominent?
+
+User: Memories of my dad being at home, like when he used to make time to play games with me. Those were good times.
+
+Consultant: It sounds like those memories hold a special place for you. Focusing on positive times can sometimes help counterbalance the difficult thoughts. How do you feel about trying to recall these moments more actively when you're feeling down?
+
+User: I think it could help. I like remembering the good times.
+
+Consultant: That's a great start, A. It's like you're slowly building a foundation with positive moments to lean on during tougher times. How has it been sharing these thoughts with others, perhaps friends or family?
+
+User: I haven't really shared much with anyone else. It's hard to open up.
+
+Consultant: That's completely understandable, A. Trust is something that builds over time. When you're ready, sometimes reaching out to someone you trust can offer support and connection. Do you find it helpful speaking about this here?
+
+User: Yes, it helps to talk it through. It's nice knowing there's someone to listen.
+
+Consultant: I'm glad to hear that, A. Remember, you're not alone on this journey. It's important to have a support system, whether it's friends, family, or even us here. Are there any places or situations where you feel more at ease?
+
+User: When I'm drawing, I can lose myself and forget about things. It’s peaceful.
+
+Consultant: That's a wonderful way to find peace, A. Art can be a powerful outlet. Maybe you can build on this, incorporating more drawing into your routine as a way to manage stress. How does that sound?
+
+User: I like that idea. It could keep me occupied and give me something positive to look forward to.
+
+Consultant: Perfect. Let's consider making a small plan to draw daily, even just for a short while. Over time, these small changes can add up to significant improvements in how you feel.
+
+User: I'll give it a try. I think setting aside time for it could be good.
+
+Consultant: Fantastic, A. Creating that time for yourself is an important step in taking care of your emotional well-being. Next session, we can talk about how incorporating more drawing has been working out for you. 
+
+User: Sounds like a plan. I look forward to it.
+
+Consultant: Great, A. Keep up the wonderful work you're doing. Always remember, taking one step at a time can lead to lasting positive change. See you next session.
+
+User: Thank you, I appreciate your support. See you next time!
+#######
+Consultant: Hello A, welcome back. In our last session, we talked about recognizing those difficult thoughts when they arise. How has that been going?
+
+User: Well, I've been noticing them a lot. They just keep popping up, especially the idea that I'm not good enough for my dad.
+
+Consultant: That's good progress in noticing these thoughts, A. How certain do you feel about these assumptions being true?
+
+User: Not very certain. I mean, it's just how I feel, but I don't really have any proof.
+
+Consultant: That makes sense. If a classmate of yours was worried about something similar, what advice do you think you'd give them?
+
+User: I'd probably tell them that it's not their fault and that their parent still cares about them, even if they aren't around much.
+
+Consultant: That sounds like really caring advice. How do you feel about applying this kind of thinking to your own situation?
+
+User: It might help. Maybe I'm just being too hard on myself.
+
+Consultant: It’s possible those thoughts could be less true than they feel at the moment. When these thoughts arise, could you pause and check if they are entirely rational?
+
+User: I could try that. It’s not easy, but I guess it's worth checking if I'm being too hard on myself.
+
+Consultant: Absolutely, A. Recognizing that these thoughts aren’t necessarily the complete truth is a significant step. Are there moments when remembering good times with your dad feels easier for you?
+
+User: I think when I see old photos, it reminds me of times he was around and we were happy.
+
+Consultant: That's a wonderful tactic, A. Photos can be powerful reminders of loving moments. When tough thoughts come in, recalling these photos could provide some comfort. How do you feel about this strategy?
+
+User: I feel like it might help. It’s comforting to know there were good times.
+
+Consultant: Great. Now, let's consider if there's a way to incorporate these warming reminders into your daily routine. Would it be possible to spend a few moments daily focusing on something you cherish from those memories?
+
+User: I can try looking at a favorite photo every day. It might help me start the day better.
+
+Consultant: That sounds perfect, A. A morning routine like that might set a positive tone for your day. How about we pair it with a little journaling about what you appreciate, too?
+
+User: I think that could work. Noting down what I'm grateful for might shift my focus.
+
+Consultant: I agree. Writing can anchor those good feelings and frame your mindset for the day. Could you tell me more about what else helps you through tougher emotions lately, besides remembering good times?
+
+User: Drawing definitely helps. It’s a quiet space where I don’t think about anything else.
+
+Consultant: That's excellent, A. Art can be a tremendous outlet. How about designating certain calm times strictly for drawing, treating it as a personal retreat?
+
+User: I love that idea. Making specific time for drawing sounds helpful and relaxing.
+
+Consultant: Fantastic. Establishing rituals can also nurture a sense of stability and control. Over the coming week, see how you feel about these routines. We can discuss how they’ve influenced your mood next time. 
+
+User: I'll try incorporating both. Maybe I’ll start to see some positive changes.
+
+Consultant: That's a valuable approach, A. Each step you take is a move towards personal strength and well-being. Is there anything that feels particularly challenging regarding the strategies we've discussed so far?
+
+User: Just remembering to do them when the negative thoughts start. Sometimes they just come without warning.
+
+Consultant: That’s a common struggle, A. Perhaps setting gentle reminders might support you in practicing these strategies without it feeling forced. How does that sound to you?
+
+User: It might work. I’ll set an alarm or leave a note for myself.
+
+Consultant: Brilliant idea, A. Small reminders often create a difference and keep intentions fresh in your mind. How are you feeling about this week's focus?
+
+User: I feel optimistic. It's good to have a plan that I think could help.
+
+Consultant: I’m glad to hear that, A. Remember, every small effort matters. Be kind to yourself as you embark on these practices. I’m eager to hear what you observe during our next session.
+
+User: Thanks for the encouragement. I'll work on it and see how it goes.
+
+Consultant: You're doing really well, A. Keep building on these positive habits, and I look forward to hearing about your progress. Take care and see you next time.
+
+User: I will. See you next session!
+#######
+Consultant: Hi A, it's great to have you back. Last time, we explored applying a different perspective to those tough thoughts. Have you thought more about this?
+
+User: Yeah, I've tried to think more like how I would advise a friend, but it's hard sometimes.
+
+Consultant: I understand, it's not always easy. What do you think might help you to relax these thoughts when they come up?
+
+User: Maybe reminding myself of the good times with my dad... like when he did come home and spent time with us.
+
+Consultant: That's a great idea, A. Thinking of positive memories can definitely help balance out those tough moments. How do you feel about trying this next time those feelings arise?
+
+User: I'd like to try it. I think it might make me feel less sad.
+
+Consultant: Wonderful to hear. Is there any favorite memory with your dad that stands out, one that instantly brings a smile to your face?
+
+User: I remember this one time we went fishing. I was pretty young but really happy. We laughed a lot that day.
+
+Consultant: That's beautiful. Keeping such joyful moments in mind could indeed serve as a cushion during challenging times. How often do you get to enjoy such memories, and how do they impact your mood?
+
+User: Not as much as I'd like, but when I do, it makes me feel warm inside, like everything's a bit brighter.
+
+Consultant: What about integrating a quick visualization exercise with these memories? For instance, when you start feeling overwhelmed, take a minute to picture that fishing day in detail. How does that sound?
+
+User: That sounds like a good idea. I might feel more grounded if I do that.
+
+Consultant: Perfect, A. Engaging your senses through visualization can also make the memory feel more vivid, providing even stronger comfort. Have you tried any other strategies we discussed, like journaling or setting gentle reminders?
+
+User: I tried writing some things down, and it helped me sort through my thoughts. I haven't set reminders yet, though.
+
+Consultant: That's a commendable start with journaling. As for the reminders, it could be as simple as a note on your phone or a sticky note where you'll see it during the day. What do you think?
+
+User: I can try that. Maybe a reminder will help me use the strategies before the bad thoughts take over.
+
+Consultant: Exactly. It’s about catching those thoughts early. Besides drawing, are there any other activities you enjoy that could bring a similar sense of peace?
+
+User: I like taking walks in the park. The fresh air helps clear my mind.
+
+Consultant: Outdoor walks are a fantastic idea. Nature often has a calming effect. Perhaps combining your walks with some time for reflection on those positive memories could enhance the calming experience. How does that resonate with you?
+
+User: I think it might work. I'll try to focus on the good memories while walking.
+
+Consultant: Great approach, A. Over the next week, try to dedicate some time to this practice. Noticing how your body and mind respond can help refine what works best for you.
+
+User: I'll pay attention to that. It could be interesting to see any changes.
+
+Consultant: Wonderful mindset, A. It's all about small observations leading to larger insights. How confident do you feel about holding onto these feelings of warmth and comfort when needed?
+
+User: I'm hopeful. It feels like I'm beginning to build a toolbox of ideas that can help.
+
+Consultant: That's an encouraging perspective, A. Remember, it's perfectly normal to face setbacks, but you've already shown tremendous resilience. Do you feel prepared to continue exploring these strategies independently?
+
+User: Yes, I want to keep trying. Knowing I have these strategies helps a lot.
+
+Consultant: I'm delighted to hear this, A. Be gentle with yourself as you practice these techniques. Each step you take is important progress. How are you feeling about our discussion today?
+
+User: I feel good about it. It's nice to have a plan and know that it's okay to take small steps.
+
+Consultant: Taking it one step at a time is always a wise strategy, A. In our next session, I'd love to hear how these techniques have influenced your mood and thoughts.
+
+User: I'll be sure to keep track and let you know. Thanks again for your support.
+
+Consultant: It's my pleasure, A. You're doing incredible work. Keep nurturing these positive habits. I'll see you next session, and take care until then.
+
+User: I will. See you next time!
+#######
+Consultant: Hi A, welcome back to our session. Last time, we discussed incorporating drawing into your routine as a way to manage stress. Have you had the chance to try drawing when you felt overwhelmed?
+
+User: Hi, yes, I tried drawing a few times when I started feeling stressed. It was really nice to have something to focus on and take my mind off things.
+
+Consultant: That's wonderful to hear, A. Drawing can definitely help redirect your thoughts and provide a sense of relief. Have you noticed any particular times or situations when it seems most effective?
+
+User: It's most helpful at the end of the day after finishing my schoolwork. When I start feeling drained, drawing seems to help me unwind and relax.
+
+Consultant: That's great awareness. Having a creative outlet like drawing at those moments can be quite powerful. How do you feel about continuing this practice and perhaps even exploring different types of art to expand your experience?
+
+User: I’m open to trying different things. I was thinking of maybe trying some painting too.
+
+Consultant: Painting sounds like a fantastic idea. Exploring new forms of art can keep things interesting and provide even more opportunities for relaxation. What kind of styles or subjects do you enjoy drawing or have an interest in painting?
+
+User: I like sketching nature scenes and maybe I'll try painting landscapes. It feels peaceful and calming.
+
+Consultant: Nature scenes can be incredibly soothing. Painting landscapes could be a great way to deepen that sense of peace. Have you ever brought any of these themes into your walks in the park, perhaps observing the scenery for inspiration?
+
+User: Not really, but that's an interesting idea. I could look for inspiration during my walks.
+
+Consultant: That could be a perfect combination, enjoying the fresh air while gathering ideas for your artwork. How do you think observing nature might influence your mood and creativity?
+
+User: It might help me feel more connected to what I'm drawing. Plus, being outside always gives me a clearer mind.
+
+Consultant: Exactly, A. Nature has a wonderful way of refreshing the mind. Are there other activities you enjoy that bring a similar peace, maybe something you haven't explored yet but are curious about?
+
+User: I've heard about meditation but haven't tried it. Some people say it's good for calming the mind.
+
+Consultant: Meditation can be an excellent practice for reducing stress and enhancing awareness. It doesn't have to be a long session; even a few minutes of focused breathing can make a difference. Would you be open to giving it a try?
+
+User: Yes, I’d be interested in trying it out. Maybe I could start after my walks.
+
+Consultant: That's a great time to incorporate meditation. You can begin with simple breathing exercises and then gradually explore other techniques. How does it feel to have a blend of these practices—drawing, nature walks, and meditation—as part of your routine?
+
+User: It feels like a balanced approach, something that could help me manage stress better.
+
+Consultant: Indeed, having a variety of tools at your disposal can increase your resilience. It's inspiring to see how you're integrating these calming activities into your life. Do you foresee any challenges in maintaining this practice?
+
+User: I think the hardest part is just remembering to do them when I'm stressed.
+
+Consultant: That's a common challenge, A. Setting subtle reminders on your phone or having a visual cue at home might help keep these practices in mind. What kind of reminders might work best for you?
+
+User: Maybe a picture of a peaceful scene or a reminder app with motivational quotes could help.
+
+Consultant: Those sound like excellent ideas. You could choose images or quotes that resonate with your goal of staying calm and centered. How confident are you about using these reminders to stay on track?
+
+User: I feel quite positive about it. With a little nudge, I think I can manage my stress better.
+
+Consultant: That's fantastic to hear, A. Embracing positivity will only enhance your progress. Over the coming week, I encourage you to continue exploring these practices and notice any shifts in how you feel.
+
+User: I'll definitely keep working on it and see what changes come.
+
+Consultant: I'm looking forward to hearing about your experience. You're making great strides, A, and every small step counts. How does our discussion today feel for you?
+
+User: It feels very reassuring, like I have more control over my emotions.
+
+Consultant: That's a wonderful realization, A. Knowing you have the power to influence your feelings is a significant part of building emotional strength. I look forward to our next session and hearing about your journey with these strategies.
+
+User: Thank you. I’ll keep you updated on how things go.
+
+Consultant: You're very welcome, A. Remember to be kind to yourself and celebrate the small victories. I'll see you in our next session. Take care until then.
+#######
+Consultant: Hi A, it's been a pleasure working with you. We've talked a lot about different strategies. Which ones have you found the most helpful?
+
+User: Noticing my thoughts has been helpful, and thinking about times when dad showed he cared. Drawing also helps me relax.
+
+Consultant: That's great progress, A. When similar feelings come up in the future, what strategies do you think might support you the most?
+
+User: I'll try reminding myself of the good times and draw more to calm myself down.
+
+Consultant: These are excellent strategies, A. You're building strong skills to cope with life's challenges. So reflecting on these positive moments can help alter your mood significantly. Do you think visualizing these good times could impact your stress levels too?
+
+User: Yes, I believe that visualizing those moments could definitely reduce my stress. It makes me feel like there’s a balance between the challenging and positive experiences.
+
+Consultant: That's truly insightful, A. Our minds sometimes need those gentle reminders that the full picture includes good memories alongside the tough ones. Have you found specific places or situations where these visualizations are especially effective?
+
+User: Mostly when I’m alone in my room, thinking back to when my dad and I used to have fun together. It’s quiet and free of distractions, which helps me concentrate on the good times.
+
+Consultant: That sounds like a perfect environment for such reflections. Creating a space like that can be quite healing. Would you consider incorporating this practice more regularly throughout your day?
+
+User: I think I can try that, perhaps in the evenings when everything quiets down. It might become a calming pre-sleep routine.
+
+Consultant: That could indeed deepen your relaxation and improve your sleep. Establishing this routine might truly enhance your nightly winding down process. Are there other calming activities that might complement this practice?
+
+User: Maybe I could pair it with some soft music or nature sounds to make it even more relaxing.
+
+Consultant: Sounds wonderful, A. Music and nature sounds can enhance that peaceful atmosphere. Do you have a favorite playlist or any particular sounds you enjoy, like ocean waves or forest sounds?
+
+User: I love the sound of rain or gentle piano music. Both help me feel at ease and detached from worries.
+
+Consultant: Those are excellent choices. Such sounds can quite effectively channel peacefulness and concentration. How would you like to structure this into your daily routine so it fits naturally without feeling forced?
+
+User: Perhaps listening to those sounds while stretching or doing some light reading before bedtime. It could be a nice transition into sleep.
+
+Consultant: That seems like a serene bedtime ritual. Stretching and reading, along with those comforting sounds, could really soothe a busy mind. How do you anticipate these changes supporting you outside of reducing stress?
+
+User: I think they might help me start the day in a better mood by helping me wake up more refreshed.
+
+Consultant: That’s very likely, A. Walking into the day with a refreshing start can color your interactions and tasks with more positivity. If any challenges arise, this refreshing approach could give you added resilience.
+
+User: Right, and if I'm calmer, I might react better to stressors and support more positive interactions throughout the day.
+
+Consultant: Exactly, it creates a cascade of well-being that influences your experiences overall. Looking at this holistic approach, do you foresee setting specific goals for your emotional growth?
+
+User: My goal could be to maintain a balanced emotional state and be kinder to myself when things get difficult.
+
+Consultant: Those are admirable objectives, A. Maintaining balance and self-compassion can certainly steer you through life's ups and downs. With these in mind, how can you affirm this commitment in your everyday life?
+
+User: Perhaps by reminding myself daily of my progress and the tools I’m equipped with to manage emotions.
+
+Consultant: Fantastic idea, A. These affirmations can greatly reinforce your emotional strides and remind you of your growth. Would you like to choose a specific affirmation that resonates with you?
+
+User: Maybe something like, “I am resilient and growing with each experience that comes my way."
+
+Consultant: That's a powerful affirmation, A. It captures your journey perfectly. Keeping that in mind will help you remember how capable you are of handling life's uncertainties. How confident are you about applying these strategies consistently?
+
+User: I feel quite assured that with dedication, I can make these changes stick.
+
+Consultant: That's wonderful to hear, A. Your confidence is an integral part of your journey. As you continue practicing these strategies, remember to celebrate your progress, no matter how small. You're not alone. If you ever want to reach out again, I'm here for you.
+
+User: Thank you for listening. I feel a bit more prepared now.
+
+Consultant: You're very welcome, A. It's been a pleasure guiding you these past sessions. I look forward to hearing about the positive transformations as they unfold. Take care until we meet again.
+#######

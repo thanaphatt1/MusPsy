@@ -1,0 +1,374 @@
+Consultant: Hi Yuma, welcome to our session today. How are you feeling right now?
+
+User: Okay... I think, just... don't know.
+
+Consultant: That's alright. I'm here to help you express how you feel. Is there anything that's been making you feel not okay recently?
+
+User: Noise, lots of noise. Can't stop it.
+
+Consultant: I understand how overwhelming it can be when there's a lot of noise. Can you tell me which situations make the noise feel overwhelming to you?
+
+User: School... classmates are loud. Makes my head feel funny.
+
+Consultant: It sounds like being around a loud environment can be challenging. What do you usually do when you feel this way?
+
+User: I cover ears. Makes it better but still there.
+
+Consultant: That's a good strategy. Let's find more ways to help you feel more comfortable in those noisy places. For our next session, try to notice if there are specific times or places where the noise feels less distressing.
+
+---
+
+Consultant: Hi Yuma, welcome back. Last time we talked about the noise in school. Did you notice any differences in how you felt about the noise since then?
+
+User: Some places better. Library okay, classroom not.
+
+Consultant: It's good that you found some quieter spots like the library. When you're in the classroom and feel the noise is too much, what thoughts come to mind?
+
+User: I think... too much, can't stay, want to go.
+
+Consultant: Those thoughts sound like they make you feel like escaping the situation. Have you noticed if these feelings worsen when you're already tired or stressed?
+
+User: Maybe... tired when noisy gets too much.
+
+Consultant: Let's try to track your thoughts when you're feeling overwhelmed. This week, try to write down the thoughts you have when the noise becomes unbearable. We'll look at them in our next session.
+
+Consultant: Hi Yuma, I'm glad to see you again. Did you have an opportunity to note down some thoughts from your noisy moments?
+
+User: Wrote a few... says... "want quiet", "can't think".
+
+Consultant: Thank you for sharing those. These thoughts show how much you need a calmer environment. If one of your friends felt this way, what advice would you give them?
+
+User: Tell him... find quiet place, maybe bring earplugs?
+
+Consultant: That's very practical advice. Do you feel comfortable trying this idea yourself in noisy situations?
+
+User: Can try... maybe in classroom.
+
+Consultant: Great idea! Try using earplugs or taking a moment outside when you feel overwhelmed. Let me know how it works next time.
+
+---
+
+Consultant: Hi Yuma, it's nice to see you again. How did it go with trying earplugs or finding quieter places when things got loud?
+
+User: Used earplugs... helped a little, not as bad.
+
+Consultant: That's really good progress. Having a way to make the noise more manageable is important. How do you think other strategies, like talking to someone about how you feel, might help?
+
+User: Maybe tell teacher... about noise? Not sure.
+
+Consultant: Speaking up could give others a chance to help. Teachers might be able to create a space that feels better for you. How would you feel about talking to your teacher about this?
+
+User: Can try... but feels scary.
+
+Consultant: It's normal to feel nervous, but sharing can make a big difference. Perhaps you can practice what to say with someone you trust before approaching your teacher.
+
+---
+
+Consultant: Hi Yuma, I'm glad we're meeting again. Did you have a chance to think about activities you enjoy that help you feel calm?
+
+User: I like... drawing. Makes it quiet in my head.
+
+Consultant: That's a wonderful activity. Drawing can indeed be very soothing. How often do you usually draw?
+
+User: Sometimes... when have time.
+
+Consultant: Would you be interested in setting a time each week specifically for drawing? It could be a nice routine to relax.
+
+User: Can try... weekends maybe.
+
+Consultant: That sounds perfect. Giving yourself that time can create a peaceful routine. We can talk more about how it goes next time.
+
+---
+
+Consultant: Hi Yuma, it's been great seeing your progress. Let's reflect on the strategies that have worked for you. What's been the most helpful thing you've learned?
+
+User: Earplugs good... and drawing. Helps with noise.
+
+Consultant: That's great to know. When you find yourself in challenging situations in the future, what strategies do you feel will be most useful?
+
+User: Try calm places and... talk if too much.
+
+Consultant: That's a solid approach. Remember, taking those steps shows you're taking good care of yourself. If you need any further help, you can always reach out.
+
+User: Thank you... I will try.
+#######
+Consultant: Hi Yuma, I'm glad you could make it to our session today. From our last discussion, we talked about the noise in school. Have you had the chance to note down any thoughts about how the noise affects you?
+
+User: Yes, I wrote a few things… it says things like "want quiet" and "can't think clearly."
+
+Consultant: Thank you for sharing, Yuma. These observations highlight how much a calm environment is important for you. Let's think about a situation where a friend feels the same way. What advice might you give them?
+
+User: I might tell them they should find a quieter place and maybe use earplugs.
+
+Consultant: That's really practical advice, Yuma. How do you feel about trying these suggestions yourself in a classroom setting or elsewhere?
+
+User: I can try it in the classroom. Might be helpful.
+
+Consultant: That's a great start! Trying out earplugs or taking a breather outside when it's overwhelming could be very beneficial. Please let me know how this works out for you next time we meet.
+
+User: Okay, I'll give it a go and tell you how it was.
+
+Consultant: I'm really interested to hear about your experience with the earplugs and finding quieter spaces next time. In the meantime, have you considered how sharing your feelings about the noise might help you?
+
+User: I've thought about maybe telling my teacher about it, but not sure how that would go.
+
+Consultant: Bringing it up might open up opportunities for others to support you. If your teachers know, they might help in making the classroom a more pleasant space for you. How does the idea of talking to your teacher feel to you right now?
+
+User: It feels a bit scary, honestly, but I think I could try to do it.
+
+Consultant: It's entirely normal to feel nervous. Practicing what you might say with someone you trust could make it less daunting. How do you feel about giving that a try?
+
+User: That might help. I'll think about practicing first.
+
+Consultant: Wonderful. Getting comfortable with what to say can ease some of that anxiety. Let's consider what other activities you enjoy that bring a sense of calm. Do you have any hobbies like that?
+
+User: I enjoy drawing. It makes everything quiet in my mind.
+
+Consultant: Drawing is such a powerful way to soothe and express oneself. How often do you usually allow yourself time to draw?
+
+User: I draw sometimes, whenever I find the time.
+
+Consultant: Would you be willing to set aside a specific time each week for drawing? Creating a routine could be very beneficial.
+
+User: I think I could try to do it on weekends.
+
+Consultant: That sounds like a good plan. Having a dedicated time to draw can provide a consistent opportunity to unwind. Let's touch base next time to see how it's working for you.
+
+User: I’ll try to make it happen and tell you about it.
+
+Consultant: I’m looking forward to hearing about your drawing sessions. Remember, it's all about finding what works best. Let's also reflect on the progress you've made so far—what's helped you the most with managing the noise?
+
+User: The earplugs and drawing have really helped make things better.
+
+Consultant: That's fantastic, Yuma. When thinking about future challenges, what strategies do you feel equipped with now?
+
+User: I’ll aim for calm places and try to talk to someone if things get too much.
+
+Consultant: That's an excellent strategy. By taking these steps, you're showing a real commitment to your well-being. It's always okay to reach out for help if you need it in the future.
+#######
+Consultant: Hi Yuma, it's wonderful to see you again. Did you have a chance to write down some of your thoughts during those noisy situations since our last meeting?
+
+User: I wrote a few things down... like "want quiet" and "can't think."
+
+Consultant: I appreciate you sharing that with me, Yuma. Those notes really capture how much you value a peaceful setting. If you were to give advice to a friend who is also distressed by noise, what would you suggest to them?
+
+User: I'd probably tell them to find a quiet place and maybe use earplugs.
+
+Consultant: That's excellent advice! Do you feel ready to try using earplugs or seeking out quieter spots yourself when you need them?
+
+User: I can try, maybe in the classroom.
+
+Consultant: Fantastic idea! Trying out earplugs or even stepping outside for a short break when things get overwhelming could provide relief. Please share with me how this strategy works out after our next session.
+
+User: Sure, I'll try and let you know how it goes.
+
+Consultant: Thank you, Yuma. Your willingness to try something new is great. Have you thought about how discussing your thoughts on noise with someone, like a teacher, could help?
+
+User: I've thought about maybe telling my teacher about it... but it feels a bit scary.
+
+Consultant: It's perfectly understandable to feel anxious about this. How would practicing what you'd say with someone you trust sound to you?
+
+User: That could help. I think I'll try practicing first.
+
+Consultant: Excellent. Practicing can make the conversation less intimidating. Besides dealing with noise, do you have any hobbies or activities that help you feel calm and peaceful?
+
+User: I like drawing—it makes everything quiet in my mind.
+
+Consultant: Drawing is such a calming and expressive activity. How frequently do you get to indulge in drawing?
+
+User: I do it sometimes, whenever I have time.
+
+Consultant: How about we aim to set aside a regular time each week for your drawing sessions? It might help you to relax more consistently.
+
+User: Weekends could work for that, I think.
+
+Consultant: Perfect. Making drawing a regular part of your weekend sounds like a beneficial routine. I’d love to hear how this impacts your sense of calm in our next session.
+
+User: I will try to make it a weekend habit and update you.
+
+Consultant: That's wonderful, Yuma. Drawing every weekend could really enhance your relaxation time. Reflecting back, what strategies have you found most useful in managing noisy environments so far?
+
+User: Using earplugs and drawing have really helped when things get loud.
+
+Consultant: That's fantastic to hear. When you think about future situations that might be challenging, what do you feel prepared to handle effectively now?
+
+User: I'll aim for calm spaces and try to talk to someone if things get too much.
+
+Consultant: You're showing excellent foresight and self-care with this approach. Never hesitate to reach out for assistance if needed. Looking forward to hearing about your experiences next time.
+
+User: Thank you. I'll keep working on it and see you next time!
+#######
+Consultant: Hi Yuma, it's always nice to see you. Since our last session, have you had a chance to practice speaking to someone you trust about your experience with noise, like we discussed?
+
+User: A little bit... I talked to a friend, but not my teacher yet. It was still comforting to share.
+
+Consultant: That's a great start, Yuma! Sharing your feelings with a friend can be really validating. How did it feel to open up about your experiences?
+
+User: It was a little scary at first, but afterwards, I felt lighter. Like I wasn't carrying it all alone.
+
+Consultant: It's amazing to hear that, Yuma. Opening up can indeed make the burden feel a bit lighter. Do you think practicing what you'd say to your teacher in front of a mirror or with your friend could help make it less intimidating?
+
+User: Yeah, that could be helpful. Maybe saying it out loud a few times will make me more confident.
+
+Consultant: I believe it's a wonderful strategy. The more you practice, the more natural it will feel. When you're ready to talk to your teacher, remember you're giving them a chance to understand and support you too. How does the thought of having their support feel?
+
+User: It feels kind of reassuring... like I won't have to handle everything by myself.
+
+Consultant: Exactly, Yuma. Their support could make a big difference. Meanwhile, have you managed to incorporate more regular drawing sessions into your weekends like we talked about?
+
+User: Yes, I did some drawing last weekend. It felt calming and helped distract me from everything else.
+
+Consultant: That's fantastic to hear! Making time for drawing as a regular practice sounds like it's been beneficial. Have you thought about sharing your artwork with your friend or teacher to express what you feel about noise?
+
+User: I never thought of that... But maybe it could help them see from my perspective.
+
+Consultant: It could indeed be a powerful way to communicate. Art can convey emotions that words sometimes can't. How do you feel about trying that next time you draw something you're comfortable sharing?
+
+User: I think I'll give it a try. It might be a new way to talk about how I feel without words.
+
+Consultant: Wonderful, Yuma. This creative approach could really help in expressing your inner experiences. In talking about your thoughts on noise, have you noticed if drawing helps change your mindset about it?
+
+User: Yes, drawing seems to quiet my mind and lets me focus on something positive instead.
+
+Consultant: That's such a positive impact. It's great to see these activities are nurturing a sense of calm. Keep nurturing this space for yourself. Have there been any noisy situations recently where you used your earplugs or another strategy to manage better?
+
+User: I used earplugs in a crowded place last week, and it helped a lot. I felt more in control.
+
+Consultant: That's a significant step, Yuma! Feeling in control during such moments can make a big difference in how you experience them. When you use earplugs or any other strategy, try to notice the changes in your feelings and thoughts. It could be insightful.
+
+User: I'll start paying more attention to that. It might help me see what works best for me.
+
+Consultant: An excellent idea. Noticing these changes can help refine your strategies. I'm really proud of the steps you're taking. Is there anything else you'd like to focus on or explore more in our next session?
+
+User: I think I'd just like to continue what we've been doing and maybe talk more about practicing conversations.
+
+Consultant: Absolutely, Yuma. We can certainly focus on that. Practicing further might make those conversations feel even more comfortable. I'm looking forward to hearing your experiences with the drawings and conversations.
+
+User: Thank you for everything. I'll keep doing my best.
+
+Consultant: You're doing wonderfully, Yuma. Stay kind to yourself, and I'll see you in our next session. Take care!
+#######
+Consultant: Hi Yuma, I'm glad we're meeting again. Did you have a chance to think about activities you enjoy that help you feel calm, like we discussed before?
+
+User: I like... drawing. Makes it quiet in my head.
+
+Consultant: That's a wonderful activity. Drawing can indeed be very soothing. How often do you usually draw?
+
+User: Sometimes... when have time.
+
+Consultant: Would you be interested in setting a specific time each week for drawing? It could be a nice routine to relax.
+
+User: Can try... weekends maybe.
+
+Consultant: That sounds perfect. Giving yourself that time can create a peaceful routine. We can talk more about how it goes next time.
+
+User: Okay, sounds like a plan.
+
+Consultant: Great, Yuma. Now, reflecting back on that moment at the crowded place where you used earplugs, what do you think was most helpful about that experience?
+
+User: Earplugs made things quieter, less overwhelming. Felt in control.
+
+Consultant: That's significant. Feeling in control can really change your experience in overwhelming situations. Have you noticed if there are specific thoughts that go through your mind when you're in a loud place without them?
+
+User: I start thinking... can't handle it, want to leave.
+
+Consultant: Those thoughts can certainly be distressing. Let's try to find a calmer perspective. What might you say to yourself in those moments to reassure yourself?
+
+User: Maybe... that it'll be okay, the noise won't last forever.
+
+Consultant: That's a wonderful idea. Reminding yourself that it’s temporary can shift your focus. Maybe even visualizing a peaceful scene from one of your drawings could help center your thoughts.
+
+User: I hadn't thought of that. I can picture one of my favorite drawings.
+
+Consultant: Excellent. Visualization can be a powerful tool. Have you shared this drawing technique or any of your artwork with anyone yet, as we discussed?
+
+User: I showed a drawing to my friend. We talked about how it helps me feel.
+
+Consultant: That sounds like a meaningful exchange. How did your friend respond?
+
+User: They were surprised but really supportive. It felt good to have them understand.
+
+Consultant: That’s heartwarming to hear, Yuma. Having supportive friends makes a huge difference. How about with your teacher? Have you had the chance to express your feelings about noise there?
+
+User: Not yet... but I practiced what to say, and I feel a bit more ready.
+
+Consultant: That's great progress. Practicing can indeed boost your confidence. When you decide to talk to your teacher, remember it’s about helping them understand your needs so they can support you better.
+
+User: I'll keep practicing and see when I feel comfortable.
+
+Consultant: A good approach. When you feel ready, you'll know it's the right time. With these strategies, like using earplugs and drawing, do you feel prepared for upcoming situations that might be challenging?
+
+User: I think so. It's getting easier to handle.
+
+Consultant: I'm so glad to hear that, Yuma. We'll continue to build on these strategies and work through any new ones you might want to explore.
+
+User: Thank you for helping me. It's nice to have these talks.
+
+Consultant: You're making amazing progress, Yuma. Remember, I'm here for support whenever you need it. Keep nurturing that creative side, and I'll see you in our next session.
+
+User: Thanks. See you next time!
+#######
+Consultant: Hi Yuma, it's been great seeing your progress. Let's reflect on the strategies that have worked for you. What's been the most helpful thing you've learned?
+
+User: Earplugs good... and drawing. Helps with noise.
+
+Consultant: That's great to know. When you find yourself in challenging situations in the future, what strategies do you feel will be most useful?
+
+User: Try calm places and... talk if too much.
+
+Consultant: That's a solid approach. Remember, taking those steps shows you're taking good care of yourself. If you need any further help, you can always reach out.
+
+User: Thank you... I will try.
+
+Consultant: I'm glad to hear that, Yuma. Speaking of reaching out, have you thought more about discussing the noise situation with someone like your teacher?
+
+User: A bit... still feels a bit scary though.
+
+Consultant: It's completely normal to feel apprehensive, Yuma. Sometimes voicing your thoughts to someone who can help requires a little courage. Have you tried writing down what you might want to say, as we talked about practicing before?
+
+User: Yes, I wrote some things... makes it seem less scary.
+
+Consultant: That's excellent progress. Writing can often help organize your thoughts and make things more manageable. Do you want to share what you wrote, or discuss any particular concerns you have?
+
+User: Okay... I wrote: "The classroom is very loud, and it makes it hard for me to concentrate."
+
+Consultant: That's a clear and honest statement, Yuma. You’re expressing your feelings and the difficulties you're facing, which is an important part of communication. How do you think your teacher would respond to this?
+
+User: I think... they might try to help, maybe make it quieter.
+
+Consultant: That's a positive outlook, Yuma. Teachers are often eager to help when they understand the challenges their students face. Preparing to express your feelings can really contribute to finding solutions. 
+
+User: I hope so. It's hard being overwhelmed by noise all the time.
+
+Consultant: Absolutely. It's important to seek out understanding and support. In the meantime, those earplugs and visualization techniques with your drawings are great ways to manage your current environment. Have any particular drawings inspired a calm for you lately?
+
+User: Yes, I drew a quiet forest... it feels very peaceful.
+
+Consultant: That sounds beautiful. Visualizing yourself in that forest when you're overwhelmed can be a powerful way to capture that peace. Have you tried sharing this with your friends, as you did with the previous drawing?
+
+User: Not yet, but I could. My friend liked the last one, so maybe they will like this one too.
+
+Consultant: It sounds like your friends are supportive. Sharing these peaceful elements of your hobbies can also be encouraging for them. It might even inspire them to try their own version of finding calm.
+
+User: That would be nice. I'll think about showing it.
+
+Consultant: Great idea, Yuma. Strengthening your connections with friends who support you is just as helpful as using your creative outlets. Their understanding adds another layer of support in managing situations like these.
+
+User: Yeah, it's good to have them around.
+
+Consultant: Indeed. I'm really proud of how open you are to exploring different strategies and support systems. Do you have any other thoughts about approaching noisy situations differently or further steps you're considering?
+
+User: I think... maybe trying to be more patient with myself when it gets too much. Not to panic.
+
+Consultant: That's a fantastic mindset, Yuma. Practicing self-compassion and patience when things feel overwhelming can change your entire experience. It's part of being kind to yourself, just like you would be with others.
+
+User: I'll try to remember that... being kind to myself.
+
+Consultant: Absolutely, that's an important part of this journey. You're doing such a fantastic job, and remember, the steps you're taking bring you closer to a more comfortable and peaceful day-to-day experience.
+
+User: Thanks. I appreciate your guidance.
+
+Consultant: You're very welcome, Yuma. Let's keep working on building these strategies and strengthening the ones you find most helpful. I'm here to support you every step of the way.
+
+User: Thank you again. See you in our next session.
+#######

@@ -1,0 +1,382 @@
+Consultant: Hi Wang, it's great to meet you today. How have you been feeling lately? 
+
+User: Hi. I've been a bit anxious since returning to school for sophomore year. I'm adapting, but last semester's grades have been bothering me a lot.
+
+Consultant: I understand. It seems like your academic performance is causing you some stress. Can you share more about how this has been impacting your daily life?
+
+User: Well, I've been finding it hard to focus, and I often worry about whether I'll be able to improve my grades. It's been affecting my sleep too.
+
+Consultant: It sounds like these concerns are quite overwhelming. Let's start by exploring the connection between your thoughts, feelings, and behaviors. This might help us identify areas we can work on together. 
+
+User: That sounds helpful. I definitely want to find a way to manage this better.
+
+Consultant: For this week, try to notice any specific moments when you feel particularly anxious and jot down what you're thinking at that time. This will be useful for our next discussion. 
+
+Consultant: Hi Wang, welcome back. Did you have a chance to observe your thoughts during those stressful moments? 
+
+User: Yes, I did. Whenever I think about my grades, I find myself believing that I'm not smart enough to succeed in the military academy.
+
+Consultant: Thank you for sharing that. These thoughts can certainly contribute to feelings of anxiety. Do these thoughts tend to follow any particular pattern or theme? 
+
+User: I often assume that failure is inevitable for me, and I feel like I'm letting my parents down.
+
+Consultant: This sounds like you might be viewing things in a highly negative light. Identifying these thought patterns is the first step towards understanding them better. 
+
+User: Yeah, I guess I'm often too hard on myself.
+
+Consultant: As your task, try to identify any assumptions you make this week that might not be entirely realistic. We can discuss them more next time.
+
+Consultant: Hi Wang, glad to see you again. Let's talk about the assumptions you've identified about yourself and your abilities. How confident are you in those beliefs?
+
+User: Honestly, not very. I doubt myself a lot, but there's this fear that maybe it's true.
+
+Consultant: It's normal to have doubts, but let's consider this: How would you advise a friend in a similar situation regarding their self-doubt?
+
+User: I'd probably tell them to look at their strengths and also consider that one semester doesn't define their entire academic potential.
+
+Consultant: That's excellent advice. Do you think applying a similar perspective could help you see your situation differently?
+
+User: Yes, I suppose it could. Maybe I need to remind myself of what I've accomplished so far.
+
+Consultant: For this week, think about small achievements you've made, both in academics and other areas of life. 
+
+Consultant: Hey Wang, it's great to have you here again. How have you been reflecting on your achievements since our last session?
+
+User: I've realized that I've done well in other areas, like staying physically fit and maintaining relationships with my friends from Shaanxi.
+
+Consultant: It's wonderful to hear that. Recognizing your strengths is crucial. How can you apply this insight to view your academic challenges from a more balanced perspective?
+
+User: I think I can remind myself that I'm capable in other areas and use those strengths to tackle my academic challenges more effectively.
+
+Consultant: That's a powerful realization. How do you feel about creating a plan to approach your studies with this new mindset?
+
+User: I'm feeling more optimistic about it. I think planning my study schedule might help.
+
+Consultant: Let's try setting realistic goals for your studies this week and see how you feel about them next time. 
+
+Consultant: Hi Wang, nice to meet you again. Were you able to implement some of the study strategies we discussed? 
+
+User: Yes, I've started planning my studies, and it feels more structured now. I also tried to focus on what I've achieved rather than just thinking about the negatives.
+
+Consultant: That's great progress. Have you engaged in activities or hobbies outside of academics that bring you joy? 
+
+User: I've been trying to spend more time with friends and occasionally playing sports, which has been nice.
+
+Consultant: Engaging in activities that make you happy is key to maintaining your overall well-being. Would you be open to including more of these activities in your routine?
+
+User: Definitely. I'll try to balance my schedule to make room for these activities.
+
+Consultant: Excellent. Let's set a goal of dedicating some time every week to things you enjoy, starting this week.
+
+Consultant: Hi Wang, I'm glad to see you once more. Let's reflect on the progress you've made. What do you feel has worked best for you?
+
+User: I've realized the importance of balancing studies with activities I enjoy, and I've become more aware of how my thoughts affect my feelings.
+
+Consultant: Those are valuable insights. As you move forward, what strategies will you rely on to handle stress or self-doubt?
+
+User: I plan to remind myself of past successes and maintain a balanced schedule. Also, talking to friends helps when I'm feeling down.
+
+Consultant: You've built a robust set of strategies to address life's challenges. Feel free to reach out if needed in the future.
+
+User: Thank you for your support. I'm confident I can manage things better on my own now.
+#######
+Consultant: Hi Wang, welcome back. Did you have a chance to observe your thoughts during those stressful moments?
+
+User: Yes, I did. Whenever I think about my grades, I find myself believing that I'm not smart enough to succeed in the military academy.
+
+Consultant: Thank you for sharing that. These thoughts can certainly contribute to feelings of anxiety. Do these thoughts tend to follow any particular pattern or theme?
+
+User: I often assume that failure is inevitable for me, and I feel like I'm letting my parents down.
+
+Consultant: This sounds like you might be viewing things in a highly negative light. Identifying these thought patterns is the first step towards understanding them better.
+
+User: Yeah, I guess I'm often too hard on myself.
+
+Consultant: As your task, try to identify any assumptions you make this week that might not be entirely realistic. We can discuss them more next time.
+
+User: I can do that. I'll try to keep track of those assumptions.
+
+Consultant: Hi Wang, glad to see you again. Let's talk about the assumptions you've identified about yourself and your abilities. How confident are you in those beliefs?
+
+User: Honestly, not very. I doubt myself a lot, but there's this fear that maybe it's true.
+
+Consultant: It's normal to have doubts, but let's consider this: How would you advise a friend in a similar situation regarding their self-doubt?
+
+User: I'd probably tell them to look at their strengths and also consider that one semester doesn't define their entire academic potential.
+
+Consultant: That's excellent advice. Do you think applying a similar perspective could help you see your situation differently?
+
+User: Yes, I suppose it could. Maybe I need to remind myself of what I've accomplished so far.
+
+Consultant: For this week, think about small achievements you've made, both in academics and other areas of life.
+
+User: I'll give that a try. Focusing on the positive might help.
+
+Consultant: It sounds like a beneficial approach, Wang. Can you recall a specific instance where you've succeeded, even in a small way, that might boost your confidence?
+
+User: Well, I did help a classmate understand a difficult topic last week. That felt good.
+
+Consultant: That’s a wonderful example! How did that experience make you feel about your abilities?
+
+User: It was encouraging. It made me feel like maybe I am capable of understanding and explaining things well.
+
+Consultant: It sounds like a significant confidence booster. How can you use this positive experience to influence your view on academic challenges?
+
+User: I guess I can remind myself of moments like that when I'm feeling low about my abilities.
+
+Consultant: That's a great plan. Let's think about how you could build more of those positive instances into your routine to counterbalance any self-doubt.
+
+User: Maybe I could make a habit of reviewing what's gone well each day. That might help change my outlook.
+
+Consultant: Making a note of daily successes sounds incredibly constructive, Wang. How do you think this habit might impact your view of academic pressures?
+
+User: It might help me notice the good things more and not get so caught up in negatives.
+
+Consultant: Exactly. This shift in focus could gradually transform how you perceive and react to stress. What are some other achievements outside academics that you're proud of?
+
+User: I've been keeping up with my exercise routine, and I've stayed close with my friends from Shaanxi. 
+
+Consultant: Maintaining those aspects is impressive and shows your capability in managing various areas of your life. How does acknowledging these successes influence your self-perception?
+
+User: It makes me feel more balanced, like I have qualities and strengths beyond just academics.
+
+Consultant: That perspective is key. Keep building on these moments of self-awareness. Perhaps, you could set a reminder each day to celebrate even small victories.
+
+User: That sounds like a good idea. I'll try to incorporate it into my routine.
+
+Consultant: Wonderful. By the next session, reflect on how acknowledging these daily victories impacts your stress levels. I'm eager to hear about your experiences.
+
+User: I'm looking forward to seeing the effects as well. Thanks for the guidance!
+
+Consultant: You're making terrific progress, Wang. Keep these strategies in mind and continue embracing your strengths. I'll see you in our next session.
+
+User: Thank you! I'll see you next time!
+#######
+Consultant: Hi Wang, glad to see you again. Let's talk about the assumptions you've identified about yourself and your abilities. How confident are you in those beliefs?
+
+User: Honestly, not very. I doubt myself a lot, but there's this fear that maybe it's true.
+
+Consultant: It's normal to have doubts, but let's consider this: How would you advise a friend in a similar situation regarding their self-doubt?
+
+User: I'd probably tell them to look at their strengths and also consider that one semester doesn't define their entire academic potential.
+
+Consultant: That's excellent advice. Do you think applying a similar perspective could help you see your situation differently?
+
+User: Yes, I suppose it could. Maybe I need to remind myself of what I've accomplished so far.
+
+Consultant: For this week, think about small achievements you've made, both in academics and other areas of life.
+
+User: Sure, I can do that. I think it might help to shift my focus.
+
+Consultant: It’s about recognizing your accomplishments as they are, without undervaluing them. Did anything in particular come to mind when reflecting on these small wins?
+
+User: I've actually managed to maintain my physical fitness routine and kept in touch with my friends from Shaanxi, even though I've been busy with school.
+
+Consultant: That's impressive, Wang. Staying connected with friends and keeping up with your fitness is a real commitment to personal well-being. How does acknowledging these facts influence your view of your academic journey?
+
+User: It reassures me that I'm capable of achieving a balance in different aspects of my life, so maybe I can apply that balance to my studies.
+
+Consultant: Absolutely. Balancing different commitments is a key skill. When you're balancing your social life, fitness, and studies, how do you prioritize your time effectively?
+
+User: I try to plan my day in advance, but sometimes it's hard to stick to the schedule when unexpected things come up.
+
+Consultant: That makes sense. Flexibility within structure can sometimes be more beneficial than a rigid schedule. How do you handle it when plans change?
+
+User: I get a bit stressed when things don't go as planned, but I'm learning to adapt and adjust my expectations.
+
+Consultant: That's a great approach. Flexibility can reduce stress significantly. Would writing down adaptive strategies help solidify this shift?
+
+User: It could. I think it would help to have a list of actions to take when things don't go as expected.
+
+Consultant: Let's try creating that list this week. Think about ways to adapt when plans change and how you can remind yourself to stay focused on your strengths.
+
+User: I'll work on that. It would probably be a helpful reference during unexpected moments.
+
+Consultant: Perfect. I’m looking forward to hearing how this strategy works for you. Is there anything else you’d like to focus on during the upcoming week?
+
+User: Not specifically, but I'm hoping this helps increase my confidence in handling my responsibilities.
+
+Consultant: Consistently reflecting on and adapting to new situations might just be the answer to boosting that confidence. Remember, acknowledging your efforts is key.
+
+User: Thanks for the encouragement. I'm confident this will help me see things more positively.
+
+Consultant: You're welcome, Wang. I look forward to our next session together. Let's see how these strategies positively influence your experiences moving forward. Take care until then.
+
+User: Thank you. I'll see you next time!
+#######
+Consultant: Hey Wang, it's great to have you here again. How have you been reflecting on your achievements since our last session?
+
+User: I've realized that I've done well in other areas, like staying physically fit and maintaining relationships with my friends from Shaanxi.
+
+Consultant: It's wonderful to hear that. Recognizing your strengths is crucial. How can you apply this insight to view your academic challenges from a more balanced perspective?
+
+User: I think I can remind myself that I'm capable in other areas and use those strengths to tackle my academic challenges more effectively.
+
+Consultant: That's a powerful realization. How do you feel about creating a plan to approach your studies with this new mindset?
+
+User: I'm feeling more optimistic about it. I think planning my study schedule might help.
+
+Consultant: Let's try setting realistic goals for your studies this week and see how you feel about them next time.
+
+---
+
+Consultant: Hi Wang, nice to see you again. Were you able to implement some of the study strategies we discussed?
+
+User: Yes, I've started planning my studies, and it feels more structured now. I also tried to focus on what I've achieved rather than just thinking about the negatives.
+
+Consultant: That's great progress. Have you engaged in activities or hobbies outside of academics that bring you joy?
+
+User: I've been trying to spend more time with friends and occasionally playing sports, which has been nice.
+
+Consultant: Engaging in activities that make you happy is key to maintaining your overall well-being. Would you be open to including more of these activities in your routine?
+
+User: Definitely. I'll try to balance my schedule to make room for these activities.
+
+Consultant: Excellent. Let's set a goal of dedicating some time every week to things you enjoy, starting this week. Whether it's chatting with your friends from Shaanxi or getting active through sports, keeping these in your schedule should help.
+
+User: I'll remember that, it should help me keep a balanced mindset and not get too bogged down by stress.
+
+Consultant: That's exactly the approach you should aim for. Balance really helps in managing stress and keeping a positive outlook. How do you feel about noting down each time you achieve a balance between your studies and your hobbies?
+
+User: I think that could help, just to have a record of what I'm doing right and improve on it.
+
+Consultant: Great to hear, Wang. It’s all about recognizing those moments where you manage well. What’s your plan for the upcoming week in terms of balancing these activities with your academic goals?
+
+User: I plan on creating a more detailed schedule, aiming to assign specific times for study and for relaxation with my friends or sports.
+
+Consultant: Having a structured schedule can definitely ease some of the academic pressure. And by making sure it includes time with people important to you and activities you love, you’ll be strengthening your support network, which is crucial.
+
+User: That makes sense. I think that involving my friends can also help me stay accountable.
+
+Consultant: Accountability is indeed a strong motivator. Are there particular friends who you feel are particularly supportive and could join you in some of these activities?
+
+User: Yes, my friends from Shaanxi are very supportive and enjoy playing sports or just hanging out, which is really nice.
+
+Consultant: That's perfect, Wang. Sharing these moments with supportive friends can also make the experiences more enjoyable. Moving forward, how do you think having this support will influence your academic performance and overall well-being?
+
+User: I believe it will keep me more grounded and less worried about my classes, allowing me to focus better and feel less stressed.
+
+Consultant: Precisely, fostering a supportive environment can work wonders. Since you’re trying to create a healthier study-life balance, how about also exploring new ways to make your studies interesting, maybe by integrating what you enjoy into your study time?
+
+User: I can try that. Maybe if I make my study sessions like friendly competitions or involve my friends, it could be more engaging.
+
+Consultant: That sounds like a fun idea! Turning study time into a game or team effort could certainly make things more lively and less burdensome. It’s all about making the process enjoyable.
+
+User: I’ll give it a try and see how it works out.
+
+Consultant: Awesome, Wang. Feel free to experiment and adjust things as you go along. Remember, the objective is to transform challenges into opportunities for growth. What other strategies do you feel might be useful to incorporate at this time?
+
+User: For now, I think maintaining the current plan sounds good. Maybe later I can expand on it as I get more accustomed.
+
+Consultant: That’s a wise approach. Starting simple and building upon it suits you well. As you gain confidence, you can integrate more strategies as needed. Is there anything else concerning your studies or well-being you'd like to discuss?
+
+User: Not at the moment. I just need to focus on what we’ve talked about and see the results from there.
+
+Consultant: Sounds like a plan, Wang. Let’s continue reflecting on your achievements and how they empower you to approach your academic challenges with a newfound perspective. Feel free to journal these thoughts if it helps reinforce that mindset.
+
+User: I’ll keep that in mind. Writing things down could certainly help solidify what I've been working on.
+
+Consultant: I'm eager to hear about how things unfold for you, Wang. You're making significant strides, and your willingness to grow is commendable. Until our next session, keep up the excellent work.
+
+User: Thank you so much for the guidance and support! I’ll apply these strategies and report back.
+#######
+Consultant: Hi Wang, nice to meet you again. Were you able to implement some of the study strategies we discussed?
+
+User: Yes, I've started planning my studies, and it feels more structured now. I also tried to focus on what I've achieved rather than just thinking about the negatives.
+
+Consultant: That's great progress. Have you engaged in activities or hobbies outside of academics that bring you joy?
+
+User: I've been trying to spend more time with friends and occasionally playing sports, which has been nice.
+
+Consultant: Engaging in activities that make you happy is key to maintaining your overall well-being. Would you be open to including more of these activities in your routine?
+
+User: Definitely. I'll try to balance my schedule to make room for these activities.
+
+Consultant: Excellent. Let's set a goal of dedicating some time every week to things you enjoy, starting this week.
+
+Consultant: I'm curious, how does spending time with friends or playing sports influence your mood or stress levels?
+
+User: It really helps. When I'm with my friends, I feel more relaxed and less focused on my academic worries. Sports give me a chance to clear my mind and just enjoy the moment.
+
+Consultant: That sounds wonderful, Wang. It seems like these activities are a valuable way to channel your energy positively. Do they impact your study habits in any way?
+
+User: Yes, when I'm less stressed, I can study more effectively. I find it easier to concentrate and I'm not as overwhelmed by my thoughts.
+
+Consultant: It's inspiring to hear that you're noticing such positive effects. Now, as we continue, let's explore how we might further use these beneficial strategies in the context of your studies. What do you think could be the next step in incorporating them more fully into your routine?
+
+User: Maybe I could schedule regular breaks during my study sessions to engage in some physical activity or chat with my friends.
+
+Consultant: That's a practical approach. Balancing study with break periods can enhance productivity. What type of activities do you think could be most effective during these study breaks?
+
+User: Short walks or light exercises would be refreshing. Catching up with friends online for a few minutes is also a good way to recharge.
+
+Consultant: Those sound like excellent choices, Wang. Establishing a routine that includes these activities might help sustain your motivation and focus. How often would you like to incorporate these breaks into your study sessions?
+
+User: Perhaps every hour or so during my study blocks. That way, I stay refreshed without losing too much time.
+
+Consultant: That's a sensible plan. Implementing these pauses should help improve your concentration over the long term. As you continue with this new routine, what challenges do you anticipate might arise, and how would you address them?
+
+User: The biggest challenge might be staying disciplined about returning to my studies after a break. I could set reminders or alarms to help with that.
+
+Consultant: Great idea. Setting alarms can keep you on track. Additionally, you could try reflecting on how you feel after each break, whether you feel more focused or recharged. How does that sound?
+
+User: That sounds helpful. I'll try to be more mindful of my energy levels and adjust accordingly.
+
+Consultant: Excellent, Wang. Being mindful of your energy and mood is crucial. Let’s consider documenting any changes in your stress or productivity levels as you implement these breaks. It might provide valuable feedback for our next session.
+
+User: I can do that. Keeping a record might also help me identify which activities are most beneficial.
+
+Consultant: Perfect, Wang. Tracking your progress can highlight what works best and further tailor your routine. As we wrap up, how do you feel about this plan, and do you have any questions or concerns before we meet again?
+
+User: I feel optimistic. No particular questions right now, but I’ll keep you updated if any arise.
+
+Consultant: I’m glad to hear that. Maintain this positive outlook as you incorporate these strategies. I’m looking forward to hearing about your experiences in our next session. Keep up the great work, Wang.
+#######
+Consultant: Hi Wang, I'm glad to see you once more. Let's reflect on the progress you've made. What do you feel has worked best for you?
+
+User: I've realized the importance of balancing studies with activities I enjoy, and I've become more aware of how my thoughts affect my feelings.
+
+Consultant: Those are valuable insights. As you move forward, what strategies will you rely on to handle stress or self-doubt?
+
+User: I plan to remind myself of past successes and maintain a balanced schedule. Also, talking to friends helps when I'm feeling down.
+
+Consultant: It's excellent that you've built a robust set of strategies to address life's challenges. Remember, reaching out to your friends or engaging in enjoyable activities can be very grounding. What specific activity recently brought you joy?
+
+User: Spending time in nature has been really peaceful. I went hiking with my friends from Shaanxi last weekend, and it felt refreshing.
+
+Consultant: That sounds like a wonderful experience. Nature can indeed have a calming effect and give a new perspective. Do you think incorporating more such activities might help keep your stress levels in check?
+
+User: Definitely. It's like a reset button for my mind, helping me forget about stress for a while.
+
+Consultant: A mental reset is crucial. It seems like these experiences help frame your perspective positively. Considering your recent approach to balancing your academic life, do you notice any changes in how you perceive challenges?
+
+User: Yeah, I've become more optimistic and less overwhelmed. I still have moments of doubt, but they're less frequent now.
+
+Consultant: Progress is usually gradual, and you're heading in the right direction, Wang. Acknowledge these moments of doubt but focus on your capacity for growth. Can you identify specific thoughts or scenarios where you've successfully reframed a challenge recently?
+
+User: Yes, when I received feedback on my latest project, I initially felt inadequate. But then I remembered earlier successes, which made it easier to take the feedback positively.
+
+Consultant: That's a significant breakthrough in changing how you respond to criticism and challenges. How can you apply this mindset to other areas where you might feel vulnerable?
+
+User: I guess I could practice the same with exams, viewing them as opportunities to learn and improve rather than just tests of my ability.
+
+Consultant: Excellent, viewing exams as learning opportunities can reduce anxiety and increase motivation. As you continue this practice, focus on enjoying the process of learning itself. How does this approach to learning change your attitude towards upcoming courses or exams?
+
+User: It feels less daunting now. Instead of focusing on outcomes, I want to appreciate the knowledge I'm gaining in the academy.
+
+Consultant: That's a healthy and sustainable shift. Try to share this perspective with your friends too. Sometimes verbalizing positive perspectives can further solidify them. 
+
+User: I'll try that. Discussing these thoughts out loud might reinforce my accountability to this new approach.
+
+Consultant: Great idea. Reinforcing positive habits through conversation can have a profound effect. Let’s continue to hone this skill. For this week, I suggest noting down any situation where you successfully shifted your thinking and reflecting on it.
+
+User: I can do that. Maintaining a record would help me see my progress over time.
+
+Consultant: Perfect, Wang. Remember, this is about gradual progress and becoming more attuned to your thought patterns. Continue balancing activities that energize you with your responsibilities.
+
+User: I'll keep working on that balance. Thanks for the guidance.
+
+Consultant: You're doing remarkably well. Feel free to reach out if needed in the future. Until then, keep nurturing your strengths and enjoy the journey.
+
+User: Thank you for your support. I'm confident I can manage things better on my own now.
+#######

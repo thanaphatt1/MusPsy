@@ -1,0 +1,340 @@
+Consultant: Hi Wang, welcome to today's session. How are you feeling recently?
+
+User: Hi. I've been really stressed and tired. I've been trying to find a job and taking multiple exams, but none have gone well. It's been overwhelming.
+
+Consultant: It sounds like you've been going through a challenging time. Finding a job after graduation can be stressful. Could you tell me more about how these experiences have impacted your daily life?
+
+User: Well, since the exams, my study efficiency has dropped, I can't sleep well, and I don't feel like eating much.
+
+Consultant: It seems the stress from the exams has significantly affected your well-being. How do you usually cope with stress?
+
+User: Honestly, I'm not sure. I usually just try to study more, but that hasn't been working for me.
+
+Consultant: It’s understandable to feel that way. For this week's assignment, let's try to identify what activities in the past have helped you feel more relaxed and plan to incorporate them more frequently into your schedule. Would you be open to trying that?
+
+User: Yeah, I can give that a shot. I used to enjoy reading and drawing, maybe I'll try those again.
+
+Consultant: Hi Wang, glad to have you back for our session. Last time, we talked about finding relaxing activities. How did that go for you?
+
+User: I tried reading and drawing, but I found it hard to concentrate with everything else on my mind.
+
+Consultant: That's okay. It's good that you tried. Now, when you find yourself feeling overwhelmed, what thoughts come to your mind?
+
+User: I keep thinking that I'm a failure because I haven't passed any exams. I worry that I'll never find a job.
+
+Consultant: It seems like these thoughts are weighing heavily on you. They might be adding to your stress. Do you notice any patterns in these thoughts that might make things seem worse?
+
+User: I guess I often jump to the conclusion that I'll never succeed, even though I know it's not true. But it's hard to shake off the feeling.
+
+Consultant: It sounds like these thoughts might be distorting your view of reality. For this week, let's focus on writing down these negative thoughts as they come and identifying if they are based on facts or assumptions. How does that sound for a task?
+
+User: I think I can try that. I'll keep a notebook and jot down these thoughts.
+
+Consultant: Hi Wang, welcome back. Last time, we discussed identifying when your thoughts might not be based on reality. Were you able to record any thoughts?
+
+User: Yes, I wrote down some of the negative thoughts like thinking I would fail every time. But honestly, I don't have much evidence for those beliefs.
+
+Consultant: That’s a great step forward. Understanding that these thoughts might not have evidence can lessen their impact on you. If you had a friend in a similar situation, what advice would you offer?
+
+User: I would tell them to not lose hope and maybe to focus on preparing for the next opportunity instead of thinking about past failures.
+
+Consultant: That's a very supportive perspective. Do you think approaching your situation with this mindset might help you feel a little lighter?
+
+User: Yeah, I think it would help me look forward rather than dwell on the past.
+
+Consultant: For this week, let's try to apply this advice to yourself. Consider identifying small steps you can take to better prepare for the next opportunity. Does that sound manageable?
+
+User: Yes, I'll look into better ways to prepare and focus on those steps.
+
+Consultant: Hi Wang, glad to see you. Last time, we talked about focusing on preparing for future opportunities. How did it go?
+
+User: I started researching different preparation strategies and felt a bit more positive by taking proactive steps.
+
+Consultant: That's excellent to hear. Taking action can really help shift our perspective. Did you feel any change in how you approach these challenges?
+
+User: I felt a bit more in control and less like things are just happening to me.
+
+Consultant: That’s fantastic progress. It’s important to remember these shifts in thinking when challenges arise. If you face similar negative thoughts, what steps can you take to challenge or restructure them?
+
+User: I think focusing on what evidence I have and what I can do would help. Also, remembering past successes whenever I start feeling like a failure.
+
+Consultant: Those sound like effective methods. For this week, let’s try to maintain this approach and continue practicing these skills as you prepare. How does that sound?
+
+User: Sounds good. I'll keep applying what I've learned.
+
+Consultant: Hi Wang, it's wonderful to see you again. Have you been able to incorporate more enjoyable activities into your routine?
+
+User: Yes, I spent some time drawing, and it helped me feel more relaxed and distracted from my worries.
+
+Consultant: That’s excellent. Doing something relaxing and creative can be a great way to recharge. Have you noticed any positive effects on your daily life?
+
+User: I feel a bit more relaxed at home, and it seems to help me take a break from constantly worrying.
+
+Consultant: That’s wonderful to hear. Let’s see if we can build on this by planning activities that bring you enjoyment. Could you set aside regular time each week for drawing or reading?
+
+User: I think I could do that. Allocating a specific time might help me stick to it.
+
+Consultant: Making a simple schedule can help you create a consistent routine. Let’s start with just an hour each week and gradually increase it if it feels right. Does that work for you?
+
+User: Yes, I can start with that.
+
+Consultant: Hi Wang, we've been making good progress together. Let's take some time to reflect on the strategies that have been most helpful for you.
+
+User: Realizing that my negative thoughts often aren't based on reality has been a big help. Also, actively planning steps to prepare for the future has given me more focus.
+
+Consultant: That's excellent to hear. When you encounter similar situations in the future, what strategies will you use to support yourself?
+
+User: I'll try to remember to evaluate the evidence for my thoughts and keep actively engaging in activities that help me relax. Also, focusing on preparing for the things I can control.
+
+Consultant: Those are powerful strategies you have developed. As we wrap up our sessions, remember the skills you have gained to manage challenges. Feel free to reach out if you need support in the future.
+
+User: Thank you for your help. I feel like I have tools now to handle difficulties on my own.
+#######
+Consultant: Hi Wang, glad to have you back for our session. Last time, we talked about finding relaxing activities. How did that go for you?
+
+User: I tried reading and drawing, but I found it hard to concentrate with everything else on my mind.
+
+Consultant: That's understandable. It's great that you made the effort despite the challenges. When you’re feeling overwhelmed, what thoughts tend to surface?
+
+User: I often think I’m a failure because I haven’t passed any exams, and it’s scary to think I might never find a job.
+
+Consultant: Those are heavy thoughts to carry. It seems like they're contributing to your stress. Do you notice any patterns in how these thoughts occur?
+
+User: I think I often jump to conclusions, deciding I’ll never succeed, even when deep down I know it’s not completely true. But it’s tough to shake off that feeling.
+
+Consultant: It’s understandable why those thoughts are difficult to dismiss. They seem to distort the reality of your situation. For this week, let’s focus on writing down these negative thoughts as they come. Identify if they are based on facts or assumptions. How does that sound for a task?
+
+User: I think I can try that. I'll keep a notebook and jot down these thoughts.
+
+Consultant: That’s a great plan, Wang. Recording your thoughts can offer some perspective and help diminish their power. As you record them, try identifying any underlying assumptions.
+
+User: I’ll give it a try. Hopefully, it will help me see things more clearly.
+
+Consultant: It can certainly provide insight. Do you have any past situations where similar thoughts were inaccurate in hindsight?
+
+User: There have been times when I worried intensely about failing something, only to realize later it wasn't as bad as I imagined.
+
+Consultant: Exactly. These past experiences show that thoughts aren't always reliable indicators of reality. Remembering these instances can help you challenge current thoughts. What do you think?
+
+User: It makes sense. Sometimes remembering those occasions helps lessen my current worries.
+
+Consultant: I’m glad to hear that. Tell me, what could be a small, immediate action you take when battling these thoughts?
+
+User: Maybe taking a break to write or just step away for a moment. Even a short walk might help.
+
+Consultant: Those are excellent strategies. A brief pause can be refreshing and recalibrate your mindset. Have you tried reaching out to friends or family when these thoughts occur?
+
+User: Not really. I tend to deal with it on my own, but I guess talking might help.
+
+Consultant: Reaching out can offer valuable support. People in your life, like friends or family, might provide different perspectives. Would you consider trying that this week?
+
+User: I’ll think about it. It might be worth seeing how it feels to talk about these worries with someone else.
+
+Consultant: Great. It can be freeing to share your thoughts. If a supportive conversation benefits you, keep it in your strategy toolbox. Looking ahead, are there any areas where you'd like to build more confidence?
+
+User: I think my job search and exam preparations are the biggest areas. If I felt more confident, the pressure might not be so overwhelming.
+
+Consultant: Boosting confidence in those areas could certainly ease some stress. Reflecting on what you've achieved in the past might help. Are there any achievements that stand out to you?
+
+User: I did pretty well in college on a big project, which gave me confidence back then.
+
+Consultant: That’s wonderful memory to draw strength from. How might recalling your success in that project help you in your current challenges?
+
+User: It reminds me that I have the ability to handle big tasks. Maybe I can use what I learned from that experience to approach these new challenges.
+
+Consultant: Absolutely. Tapping into past successes can refocus your confidence. For this week, along with jotting down your thoughts, remind yourself of your abilities and achievements. How does that plan sound?
+
+User: It sounds helpful. I'll work on building confidence through my past successes and keeping track of my thoughts.
+
+Consultant: Perfect, Wang. Remember, you're not alone in this journey. I look forward to hearing your reflections next time. Take care and be kind to yourself.
+
+User: Thank you for your support. I'll see you next time!
+#######
+Consultant: Hi Wang, welcome back. Last time, we discussed identifying when your thoughts might not be based on reality. Were you able to record any thoughts?
+
+User: Yes, I wrote down some of the negative thoughts like thinking I would fail every time. But honestly, I don't have much evidence for those beliefs.
+
+Consultant: That’s a great step forward. Understanding that these thoughts might not have evidence can lessen their impact on you. If you had a friend in a similar situation, what advice would you offer?
+
+User: I would tell them to not lose hope and maybe to focus on preparing for the next opportunity instead of thinking about past failures.
+
+Consultant: That's a very supportive perspective. Do you think approaching your situation with this mindset might help you feel a little lighter?
+
+User: Yeah, I think it would help me look forward rather than dwell on the past.
+
+Consultant: For this week, let's try to apply this advice to yourself. Consider identifying small steps you can take to better prepare for the next opportunity. Does that sound manageable?
+
+User: Yes, I'll look into better ways to prepare and focus on those steps.
+
+Consultant: Excellent. Let's think about what specific actions might help you feel more equipped for your job search or exams. Could it be something like setting a study schedule or researching potential employers?
+
+User: I think making a study plan would be a good start. Also, maybe looking into companies I haven't considered before.
+
+Consultant: That sounds like a solid plan. Creating a structured approach can give you a sense of control and direction. Do you have any support systems, like friends or hobbies, that might help you stay motivated?
+
+User: My family has been really supportive, and I guess going for a run sometimes clears my head.
+
+Consultant: That's wonderful, Wang. Engaging in activities like running and having your family's support can be invaluable. Maybe you could plan to have regular check-ins with a family member or friends to share your progress and feelings?
+
+User: That might be helpful. I usually keep things to myself, but sharing might make me feel less isolated.
+
+Consultant: Absolutely, opening up to others can be quite relieving. They might also provide encouragement or new perspectives. How do you feel about setting this as one of your goals for the week?
+
+User: I think I can do that. It will probably help me stay on track and not get too bogged down with stress.
+
+Consultant: Great. Alongside preparing for opportunities, try to reflect on these interactions and see if they make a difference in your mindset. Are there other skills or practices you think might benefit you moving forward?
+
+User: I want to improve my ability to stay calm under pressure. Maybe some mindfulness practice could help?
+
+Consultant: Mindfulness is a powerful tool for maintaining calm. You could start with short daily practices, such as deep breathing exercises or a brief meditation. Would you like to try this along with your current goals?
+
+User: Yes, I'll try incorporating some mindfulness exercises into my routine. It might help with my stress levels.
+
+Consultant: That's a positive step, Wang. You'll find that even a few minutes each day can make a noticeable difference. As you try these new strategies, remember to be patient and compassionate toward yourself.
+
+User: I’ll remember that. I often push myself hard, but maybe I need to be gentler with myself.
+
+Consultant: It’s important to practice kindness towards yourself, just as you would with a close friend. You’re making significant progress, and it’s okay to acknowledge your efforts. Let’s reconnect next time to see how these strategies are working for you.
+
+User: Alright, thank you. It feels good to have a plan and focus on making positive changes.
+
+Consultant: I'm glad to hear that, Wang. Continue with this momentum, and feel free to jot down any thoughts or experiences to share in our next session. I look forward to seeing how these changes influence your outlook.
+
+User: Thank you so much for your guidance. See you next time!
+#######
+Consultant: Hi Wang, glad to see you. Last time, we talked about focusing on preparing for future opportunities. How did it go?
+
+User: I started researching different preparation strategies and felt a bit more positive by taking proactive steps.
+
+Consultant: That's excellent to hear. Taking action can really help shift our perspective. Did you feel any change in how you approach these challenges?
+
+User: I felt a bit more in control and less like things are just happening to me.
+
+Consultant: That’s fantastic progress. It’s important to remember these shifts in thinking when challenges arise. If you face similar negative thoughts, what steps can you take to challenge or restructure them?
+
+User: I think focusing on what evidence I have and what I can do would help. Also, remembering past successes whenever I start feeling like a failure.
+
+Consultant: Those sound like effective methods. For this week, let’s try to maintain this approach and continue practicing these skills as you prepare. How does that sound?
+
+User: Sounds good. I'll keep applying what I've learned.
+
+Consultant: Wonderful, Wang. Now that you're exploring different preparation strategies, have you considered making a detailed action plan? It might help you feel even more in control.
+
+User: A detailed plan sounds like a good idea. I usually have a general idea of what I need to do, but I think writing it down could make it clearer.
+
+Consultant: Exactly. Writing it down can provide clarity and serve as a guide. Maybe you could start by listing your goals and breaking them down into smaller, actionable steps. How does that sound?
+
+User: I like that. It would help me see what needs to be done and not overwhelm me.
+
+Consultant: I’m glad to hear that. Alongside that, have you been able to share your progress or seek feedback from friends or family? They can sometimes offer valuable insights or encouragement.
+
+User: I tend to keep things to myself, but I see how getting input could be beneficial.
+
+Consultant: Sharing can indeed provide new perspectives or even just the support you might need. Is there someone you could talk to about your progress this week?
+
+User: I could talk to my sister. She's always been supportive, and I think she'd be interested in how things are going for me.
+
+Consultant: That's great, Wang. Having a supportive sibling to share with can be really encouraging. How about you plan to discuss your goals and progress with her sometime this week?
+
+User: I can do that. I'll set up some time to chat with her about it.
+
+Consultant: Excellent. Let's also touch on the importance of recognizing and celebrating small victories along the way. Have you been acknowledging your achievements, no matter how small?
+
+User: To be honest, I probably don’t do that enough. I often focus on what's next rather than appreciating what I've done.
+
+Consultant: It’s common, but celebrating achievements can boost motivation and reinforce positive thinking. Can you think of any recent achievements you could acknowledge?
+
+User: I guess starting the research and coming up with new strategies is something to celebrate. It felt daunting at first, but I did it.
+
+Consultant: Absolutely, and that's a significant achievement. Acknowledging these steps can be empowering. Perhaps you could reward yourself in a small way when you accomplish parts of your plan this week?
+
+User: That sounds nice. Maybe I'll treat myself to a nice dinner or a relaxing evening with my favorite movie.
+
+Consultant: That’s a wonderful incentive, Wang. Remember, reinforcing positive actions is crucial in maintaining momentum. I’m confident in your ability to keep progressing.
+
+User: Thanks. I appreciate the encouragement and feel more prepared to tackle challenges.
+
+Consultant: I'm glad to hear that, Wang. Keep practicing these strategies and focusing on what you can control. I look forward to hearing about your experiences in our next session.
+
+User: Thank you for the guidance. I’ll keep up the work and have things to share next time.
+
+Consultant: You're making great strides, Wang. Take care and remember to be kind to yourself as you move forward. See you next time!
+
+User: Will do. Thanks, see you!
+#######
+Consultant: Hi Wang, it's wonderful to see you again. Have you been able to incorporate more enjoyable activities into your routine?
+
+User: Yes, I spent some time drawing, and it helped me feel more relaxed and distracted from my worries.
+
+Consultant: That’s excellent. Doing something relaxing and creative can be a great way to recharge. Have you noticed any positive effects on your daily life?
+
+User: I feel a bit more relaxed at home, and it seems to help me take a break from constantly worrying.
+
+Consultant: That’s wonderful to hear. Let’s see if we can build on this by planning activities that bring you enjoyment. Could you set aside regular time each week for drawing or reading?
+
+User: I think I could do that. Allocating a specific time might help me stick to it.
+
+Consultant: Making a simple schedule can help you create a consistent routine. Let’s start with just an hour each week and gradually increase it if it feels right. Does that work for you?
+
+User: Yes, I can start with that.
+
+Consultant: Great. Having a set time can truly make a difference. While doing activities you enjoy, you can also explore how these make you feel emotionally. It can help you stay in tune with your mental state.
+
+User: That sounds helpful. I did notice I felt more at peace while drawing, which was nice.
+
+Consultant: It's amazing how creativity can impact our well-being positively. Besides drawing, are there any other interests or hobbies you might want to explore?
+
+User: I’ve always wanted to try some light reading again, maybe start with a mystery novel.
+
+Consultant: That’s a wonderful idea. Sometimes a good book can provide a temporary escape and refresh your mind. Have you set aside any books that you're particularly excited about?
+
+User: I have a few in mind and I'll probably start with one that a friend recommended.
+
+Consultant: Fantastic, Wang. Let's include reading as part of your weekly routine as well. How about starting with short reading sessions and increasing them as you find yourself enjoying it more?
+
+User: Yes, that sounds manageable. I’ll start with a couple of chapters a week.
+
+Consultant: Excellent. Setting achievable goals makes it easier to keep up with new habits. While you’re working on this, it's great to observe how these activities are benefiting you.
+
+User: I’ll definitely pay attention to that. It’s motivating to know that small changes are helping.
+
+Consultant: Absolutely, and reflecting on your progress is essential. If you face any challenges incorporating these activities, what initial steps can you take to overcome them?
+
+User: I think reminding myself of the positive effects I've noticed so far could help me stay committed.
+
+Consultant: That's an effective approach. Doing so can strengthen your resolve. Another helpful strategy could be to discuss your progress with someone close to you who can offer encouragement.
+
+User: Maybe I’ll talk to my sister about how adding these activities is going. She’s good at keeping me motivated.
+
+Consultant: It’s great to have supportive family members. Sharing with your sister could bring in new perspectives and encouragement. Do you think she would be interested in doing some of these activities with you?
+
+User: Yeah, we used to read together. We might even do that again.
+
+Consultant: Wonderful, Wang. Engaging in activities with someone else can make the experience more fulfilling. As you continue implementing these habits, remember to also take note of any obstacles you encounter.
+
+User: I’ll do that. Being aware of challenges makes it easier to address them.
+
+Consultant: Exactly. It's all part of growing and evolving. If you’re comfortable, we can discuss any difficulties you face in our future sessions and explore strategies to manage them.
+
+User: That would be helpful, thank you. I’m feeling optimistic about keeping this momentum going.
+
+Consultant: I'm delighted to hear that, Wang. You'll be amazed at the growth you'll see as you persist. Always remember, balancing responsibilities with enjoyable activities is key to long-term well-being.
+
+User: Thanks for the reminder. I look forward to continuing this journey.
+
+Consultant: You're making amazing progress, Wang. Keep being kind to yourself, and I anticipate even more positive outcomes as you move forward. See you in the next session!
+
+User: Thank you. I’ll keep up the effort and look forward to our next meeting.
+#######
+Consultant: Hi Wang, we've been making good progress together. Let's take some time to reflect on the strategies that have been most helpful for you.
+
+User: Realizing that my negative thoughts often aren't based on reality has been a big help. Also, actively planning steps to prepare for the future has given me more focus.
+
+Consultant: That's excellent to hear. When you encounter similar situations in the future, what strategies will you use to support yourself?
+
+User: I'll try to remember to evaluate the evidence for my thoughts and keep actively engaging in activities that help me relax. Also, focusing on preparing for the things I can control.
+
+Consultant: Those are powerful strategies you have developed. As we wrap up our sessions, remember the skills you have gained to manage challenges. Feel free to reach out if you need support in the future.
+
+User: Thank you for your help. I feel like I have tools now to handle difficulties on my own.
+#######

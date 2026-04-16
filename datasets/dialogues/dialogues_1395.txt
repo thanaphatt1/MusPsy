@@ -1,0 +1,358 @@
+Consultant: Hi Pengpeng, welcome to our session today. How have you been feeling recently?
+
+User: Hi. I just started going to a new kindergarten class, and I'm feeling a bit scared and stressed. Everyone already knows each other, and I feel like I'm the odd one out.
+
+Consultant: I'm sorry to hear that. Starting in a new environment can be challenging. Can you tell me more about what's been making you feel this way?
+
+User: Well, all my classmates play together, and I don't know how to join them. Sometimes, I get worried that they won't like me.
+
+Consultant: It sounds like you're feeling worried about making friends and fitting in. How do you feel during playtime or when you're in class?
+
+User: I feel anxious, like everyone is staring at me. It's like I'm different from everyone else, and I just want to be part of the group.
+
+Consultant: Thank you for sharing that with me, Pengpeng. As a little challenge, let's try to notice any positive interactions or friendly gestures from classmates this week. We'll talk about it in our next session.
+
+User: I'll try to pay attention to any nice things my classmates do.
+
+Consultant: Hi Pengpeng, it's nice to have you back. How did it go with noticing friendly behaviors this past week?
+
+User: Hi. Yes, I noticed that one boy shared his toy with me during playtime, which was nice.
+
+Consultant: That's great to hear! It sounds like there are people who are open to making friends. Can you tell me about times when you felt nervous and what thoughts you had?
+
+User: I usually think that maybe they all know something I don't, and they might not want to include me. I feel like I'm just different and nobody will want to be friends.
+
+Consultant: Those are tough feelings, Pengpeng. It seems like you're assuming the worst about how your classmates see you. Let's work on understanding how these thoughts might be affecting your emotions.
+
+User: I realize that when I have these thoughts, I feel really alone and hesitant to approach them.
+
+Consultant: Hi Pengpeng, welcome back. Let's talk more about those thoughts. How sure are you that your classmates don't want to include you?
+
+User: Not very sure. It's just a feeling I have, like maybe I'm not trying enough to talk to them.
+
+Consultant: That's a valid feeling. If you had a friend in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to just try saying hello and joining in, even if it's a little scary.
+
+Consultant: That's great advice. Do you think it would help to try approaching your classmates and joining their activities?
+
+User: I think it might be good to try. Maybe they're waiting for me to make the first move.
+
+Consultant: Hi Pengpeng, it's nice to see you again. Have you thought of ways to join classmates in their activities?
+
+User: I thought about saying hello more often and maybe asking if I can play with them.
+
+Consultant: That's a great start. What do you think your classmates need to know about you to feel that they can be friends?
+
+User: I want them to know that I like playing games like them, and I'm not really that different.
+
+Consultant: Sharing your interests can help break the ice. How do you feel about taking these steps to make new friends?
+
+User: I'm a bit nervous, but I think it could help me not feel so left out.
+
+Consultant: Hi Pengpeng, it's good to have you back. Have you found any activities that bring you joy when you feel stressed?
+
+User: I like drawing pictures. It makes me feel happy and calm for a while.
+
+Consultant: Drawing is a wonderful hobby. Engaging in activities you enjoy can really brighten your mood. Do you want to plan some time for drawing each day?
+
+User: Yes, I think drawing after school could help me feel better.
+
+Consultant: That's a wonderful idea. Dedicating even a little time each day to something you enjoy can make a big difference. Let’s try for 15 minutes a day for a start.
+
+User: I think I can do that. I'll find some time after I get home.
+
+Consultant: Hi Pengpeng, it's been great having these sessions with you. Can we reflect on some strategies you've found helpful?
+
+User: I think noticing nice things classmates do and trying to join them worked well. Drawing helped me feel better too.
+
+Consultant: That's excellent to hear. When you face similar feelings in the future, what strategies do you think will support you best?
+
+User: I'll remember to say hi and try joining classmates. Drawing can be my go-to when I feel stressed.
+
+Consultant: These are powerful strategies. You've learned a lot about managing your feelings and making new friends. I'm confident you'll continue to do great. Remember, you can always reach out if you want more support in the future.
+
+User: Thank you for your help. I feel more confident about meeting new friends now.
+#######
+Consultant: Hi Pengpeng, glad to see you again. Were you able to notice any friendly behavior from your classmates last week?
+
+User: Hi. Yes, I noticed that one boy shared his toy with me during playtime, which was nice.
+
+Consultant: That's great to hear! It sounds like there are people who are open to making friends. Can you tell me about times when you felt nervous and what thoughts you had?
+
+User: I usually think that maybe they all know something I don't, and they might not want to include me. I feel like I'm just different and nobody will want to be friends.
+
+Consultant: Those are tough feelings, Pengpeng. It seems like you're assuming the worst about how your classmates see you. Let's work on understanding how these thoughts might be affecting your emotions.
+
+User: I realize that when I have these thoughts, I feel really alone and hesitant to approach them.
+
+Consultant: Hi Pengpeng, welcome back. Let's talk more about those thoughts. How sure are you that your classmates don't want to include you?
+
+User: Not very sure. It's just a feeling I have, like maybe I'm not trying enough to talk to them.
+
+Consultant: That's a valid feeling. If you had a friend in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to just try saying hello and joining in, even if it's a little scary.
+
+Consultant: That's a great advice. Do you think it would help to try approaching your classmates and joining their activities?
+
+User: I think it might be good to try. Maybe they're waiting for me to make the first move.
+
+Consultant: Sometimes taking that first step can really open up new opportunities. How would you feel about starting with a simple "hello" to someone you'd like to be friends with?
+
+User: It would be a bit nerve-wracking at first, but I think I could manage that.
+
+Consultant: It sounds like a good idea, and it doesn't have to be perfect. Have you ever tried doing something similar before?
+
+User: Not really, but I've thought about it a lot.
+
+Consultant: Having those thoughts is already a step towards action. How would you handle it if your attempt doesn't go as planned?
+
+User: I might feel disappointed, but I guess I could try again the next day.
+
+Consultant: Exactly. It's important not to be too hard on yourself. Are there any other situations where you've tried something similar and it worked out?
+
+User: I haven't had many chances, but I remember one time when I smiled at a classmate and got a smile back.
+
+Consultant: That's a wonderful example of small actions leading to positive responses. Let's build on that. How did it make you feel?
+
+User: It felt nice and gave me a bit more confidence.
+
+Consultant: That's the power of positive interactions. How about setting a small goal for this week to approach a classmate during playtime?
+
+User: I could aim to say "hi" to two or three classmates during playtime.
+
+Consultant: That sounds like a fantastic goal. How do you plan to remind yourself to take action on this?
+
+User: Maybe I'll remind myself every time I feel nervous during playtime.
+
+Consultant: That's a thoughtful approach. Let's talk about drawing since you mentioned it's a happy activity for you. Have you drawn anything that you'd feel comfortable sharing with your classmates?
+
+User: Yes, I have a few drawings that I like. Maybe showing those could be a conversation starter.
+
+Consultant: Absolutely, sharing something that's personal and positive could be a great icebreaker. Would you feel comfortable doing that?
+
+User: I think so. If I have my drawings with me, it might make it easier to talk to them.
+
+Consultant: It's wonderful to hear you're open to this idea. Let's make showing your drawings a part of your plan for opening up to new friendships.
+
+User: Okay, I can try that. It might help me start conversations.
+
+Consultant: Perfect. As you go through with these plans, remember these moments of courage in our next session. It's all part of making progress.
+
+User: I'll do my best and remember our talk when I feel unsure.
+
+Consultant: You're doing brilliantly, Pengpeng. I'm proud of you taking these brave steps. Let's keep discussing these experiences next time. Take care!
+
+User: Thanks, I will. Bye!
+#######
+Consultant: Hi Pengpeng, welcome back. Let's talk more about those thoughts. How sure are you that your classmates don't want to include you?
+
+User: Not very sure. It's just a feeling I have, like maybe I'm not trying enough to talk to them.
+
+Consultant: That's a valid feeling. If you had a friend in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to just try saying hello and joining in, even if it's a little scary.
+
+Consultant: That's great advice. Do you think it would help to try approaching your classmates and joining their activities?
+
+User: I think it might be good to try. Maybe they're waiting for me to make the first move.
+
+Consultant: It sounds like you have a thoughtful approach, Pengpeng. Imagine how your classmates might respond if you started by sharing a little about yourself, such as your love for drawing or your favorite games.
+
+User: I think they might find it interesting. Maybe they'd be curious to play games with me.
+
+Consultant: Absolutely, knowing common interests can be a great way to connect. What games do you think would be fun to introduce to them?
+
+User: I really like tag and hide and seek. Everyone seems to enjoy those.
+
+Consultant: Perfect! These are great games for getting everyone involved. How do you feel about inviting a classmate to play these games with you during recess?
+
+User: It sounds exciting but also makes me nervous. What if they say no?
+
+Consultant: It's natural to feel nervous, but taking that first step is important. Remember, even if someone says no, it doesn't mean they don't like you. It's just part of making new friends.
+
+User: I'll try to keep that in mind. Maybe I can start small by inviting just one person.
+
+Consultant: That sounds like a perfect plan. Trying it out with one person can be a great way to build confidence.
+
+User: I’ll do my best to say hello more often and invite them to play next week.
+
+Consultant: I'm glad to hear that, Pengpeng. Sharing positive experiences and staying open to new connections can nurture these budding friendships.
+
+User: Yeah, I think so too. It’s scary but it might be worth it.
+
+Consultant: I believe you're on the right track, and it seems like you're ready to take small steps towards building these friendships. How's your drawing coming along? It might also serve as a way to connect with your classmates.
+
+User: I've been drawing more recently. Maybe I can show some of my drawings to them; they might like it.
+
+Consultant: Great idea! Sharing something personal like your drawings could show them a bit more about who you are.
+
+User: Hopefully, it'll help in building a stronger connection.
+
+Consultant: I’m sure it will, Pengpeng. You've got a lot of creative ideas to connect with others, and I look forward to hearing about your progress in our next session.
+
+User: Thank you for helping me think of these plans. I hope they'll work out.
+
+Consultant: You're very welcome. Remember, relationships take time, but your efforts are important. I’m excited to hear how it goes next time.
+#######
+Consultant: Hi Pengpeng, it's nice to see you again. Have you thought of ways to join classmates in their activities? 
+
+User: I thought about saying hello more often and maybe asking if I can play with them.
+
+Consultant: That's a great start. What do you think your classmates need to know about you to feel that they can be friends?
+
+User: I want them to know that I like playing games like them, and I'm not really that different.
+
+Consultant: Sharing your interests can help break the ice. How do you feel about taking these steps to make new friends?
+
+User: I'm a bit nervous, but I think it could help me not feel so left out.
+
+Consultant: It's completely normal to feel nervous when trying something new. But taking small steps, like saying hello, can help build your confidence gradually. What kind of games do you think you'd enjoy playing with them?
+
+User: I like tag and hide and seek. They're fun, and I think other kids like them too.
+
+Consultant: Those are great choices! They’re popular games that can involve lots of classmates. What do you imagine happening when you ask someone if you can join in their game?
+
+User: Maybe they'll say yes, and we can have fun together. Or maybe they'll say no, but I can try again another time.
+
+Consultant: That's a positive way to look at it. It’s important to remember that trying is a brave and necessary step. What might encourage you to try again if they say no the first time?
+
+User: If I remember that not every attempt will be a yes, but it doesn't mean I shouldn't try, it’ll make it easier.
+
+Consultant: Absolutely. Every ‘no’ is just a moment, not a definition of who you are. Do you have anyone you feel more comfortable with that you could start talking to?
+
+User: There's a girl in my class who seems nice. I've seen her play alone sometimes.
+
+Consultant: That might be a good opportunity to start. When you both are playing, you could ask if she wants to join your game, too.
+
+User: I could try that. Maybe if she feels the same way, we can become friends.
+
+Consultant: Isn't it nice to think that those feelings of wanting to belong are common to many people? How would you feel if this worked out and she became your friend?
+
+User: I'd feel happy and more confident. I wouldn't be as scared to meet new people.
+
+Consultant: That's encouraging, Pengpeng. Building confidence can lead to more friendships and fun. What will you do if you start to feel uncertain about trying?
+
+User: I’ll remind myself that trying is part of making friends, and I should keep going.
+
+Consultant: Such a resilient mindset! When you think back to times you've successfully approached new situations, what helped you then?
+
+User: Remembering that everyone starts somewhere and that being brave doesn't mean not being scared.
+
+Consultant: Precisely. Bravery is about taking steps despite the fear. Keeping your drawing hobby as a moment of calm is also a great way to recharge. Will you continue drawing if you start feeling overwhelmed?
+
+User: Yes, definitely. Drawing always calms me down.
+
+Consultant: It's wonderful to have that kind of outlet. Let's see how this week goes and perhaps you can share any new experiences with your classmates next time. Does that sound good?
+
+User: That sounds good. I'll try talking to the girl and see what happens.
+
+Consultant: You're showing so much courage and initiative, Pengpeng. Keep those spirits up and remember, every small step can lead to big changes. I look forward to our next conversation.
+
+User: Thanks. I’m feeling a bit better already. See you next time!
+#######
+Consultant: Hi Pengpeng, it's good to have you back. Have you found any activities that bring you joy when you feel stressed?
+
+User: I like drawing pictures. It makes me feel happy and calm for a while.
+
+Consultant: Drawing is a wonderful hobby. Engaging in activities you enjoy can really brighten your mood. Do you want to plan some time for drawing each day?
+
+User: Yes, I think drawing after school could help me feel better.
+
+Consultant: That's a wonderful idea. Dedicating even a little time each day to something you enjoy can make a big difference. Let’s try for 15 minutes a day for a start.
+
+User: I think I can do that. I'll find some time after I get home.
+
+Consultant: Fantastic, Pengpeng. How have you been feeling in your new kindergarten class recently? Have things become a bit more comfortable?
+
+User: Well, a little bit. I still feel a bit nervous, but I think the drawing helps to calm down those worries.
+
+Consultant: That's good to hear. It's perfectly normal to feel a bit nervous when you're still settling in. Have there been any moments when you felt more included with your classmates?
+
+User: There were a couple of times when some kids asked me to join their games during playtime, and that made me feel nice.
+
+Consultant: That's excellent, Pengpeng. It shows that your classmates are opening up to involving you. How did it feel when they invited you to join their games?
+
+User: It made me feel happy, like they see me as part of the group.
+
+Consultant: I’m glad to hear that. Now that you're feeling more like a part of the group, do you think that setting aside some time for drawing has also helped you in these social situations?
+
+User: Yes, I think so. Drawing helps me relax and not be as scared, so I'm better at trying to talk to them.
+
+Consultant: It's amazing how having an outlet like drawing can make a big difference. As you continue finding your place in class, would you like us to think of ways to express your interests to others?
+
+User: Yes, maybe I could show them something I drew. I think they might like it.
+
+Consultant: That's a great idea! Sharing your drawings with friends can be a wonderful way to connect and show them a little bit more about who you are.
+
+User: I think it would be nice. Maybe they'll even want to draw with me.
+
+Consultant: That sounds like a fun activity you could share with them. It might also be a good opportunity to bond over creating something together.
+
+User: Yeah, I hope they’ll like that.
+
+Consultant: As we continue working on this, let's remember how meaningful these small steps can be. Perhaps you can try inviting a classmate to draw with you once you've shown them your artwork.
+
+User: I think I can do that. I’ll show them my favorite drawings.
+
+Consultant: That's wonderful, Pengpeng. Keep in mind how much progress you've made already. This week, let’s focus on those interactions and the feelings they bring.
+
+User: Okay, I’ll pay attention to how I feel when I show them my drawings.
+
+Consultant: Fantastic. Remember that it’s all about exploring and enjoying these connections. The more you practice sharing and interacting, the more comfortable you’ll become.
+
+User: Thanks for your help. I feel like I’m getting better at this.
+
+Consultant: You're doing an amazing job, Pengpeng. Keep up the wonderful work, and I'll be excited to hear all about your journey next time we meet.
+
+User: Thank you! I’m looking forward to it.
+#######
+Consultant: Hi Pengpeng, it's been great having these sessions with you. Can we reflect on some strategies you've found helpful?
+
+User: I think noticing nice things classmates do and trying to join them worked well. Drawing helped me feel better too.
+
+Consultant: That's excellent to hear. Your proactive approach in noticing positive interactions is really encouraging. When you face similar feelings in the future, what strategies do you think will support you best?
+
+User: I'll remember to say hi and try joining classmates. Drawing can be my go-to when I feel stressed.
+
+Consultant: These are powerful strategies. It's wonderful to see you developing these skills. You've learned a lot about managing your feelings and making new friends. Just imagine how these can help you in the future scenarios like joining new activities or classes.
+
+User: I feel more capable and ready, just knowing I have practical steps to try.
+
+Consultant: I'm confident you'll continue to do great. Remember, you can always reach out if you want more support in the future. How are you feeling about putting these strategies into action consistently?
+
+User: I feel more confident about meeting new friends now. It seems less daunting.
+
+Consultant: It's wonderful to hear that, Pengpeng. Confidence can really open up new opportunities for connection. I'm sure you'll encounter more friendly gestures just like the toy-sharing incident you mentioned earlier.
+
+User: Yes, that was a good moment and makes me hopeful for more.
+
+Consultant: And the fact that you're willing to say hello more often is a positive step. Consistency can solidify these interactions and ease the fear of being the odd one out.
+
+User: I guess the more I try, the more natural it will become.
+
+Consultant: Absolutely, just like with drawing. The more you do it, the better you might feel each time. Have you noticed any changes in your feelings towards your classmates since you started these strategies?
+
+User: Yes, I feel a little more relaxed. It's not always easy, but I can tell it's getting better.
+
+Consultant: That's a significant change, Pengpeng. Remember, small steps can lead to big progress over time. 
+
+User: I've also been thinking that maybe they're also nervous, not just me.
+
+Consultant: That's a very understanding perspective. Sometimes, others are in the same situation, and a simple 'hello' can break the ice. Have you thought about how you might use drawing as a way to connect with them, perhaps by drawing together?
+
+User: That sounds like a fun way to get to know each other better!
+
+Consultant: Exactly! Sharing your interest can be an invitation for others to open up as well. It could form a new circle of friends who appreciate and enjoy the same activities.
+
+User: I'll try suggesting it next time, maybe someone will want to join me.
+
+Consultant: That's a great plan, Pengpeng. Exploring friendships through shared interests can lead to valuable connections. Plus, you'll continue growing more comfortable with these interactions.
+
+User: Thanks so much for helping me see things differently. I feel more hopeful about my situation!
+
+Consultant: You're doing really well. Keep being kind to yourself, and I look forward to our next session where we can dive deeper into these reflections. Take care, Pengpeng.
+
+User: Thanks. I'll see you next time!
+#######

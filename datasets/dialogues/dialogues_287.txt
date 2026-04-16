@@ -1,0 +1,410 @@
+Consultant: Hi, Wang. Welcome to our session today. How have you been feeling lately?
+
+User: Hi. I've been having trouble with math recently and it's been really frustrating. I used to like it, but now I'm just avoiding it altogether.
+
+Consultant: It sounds like this has been a tough experience for you. Can you tell me a bit more about what has led you to feel this way about math?
+
+User: Well, it all started when my math teacher made some comments that I felt were unfair. Ever since then, I've been really upset and it's hard for me to focus in class.
+
+Consultant: It's understandable that you're feeling upset. How do these feelings affect you in other aspects of your life or your interactions with family and friends?
+
+User: I just feel stressed and a bit annoyed. My parents are very focused on my grades, and I don’t want to let them down, but I can't seem to shake off how I feel about math.
+
+Consultant: It sounds like you're facing a lot of pressure, both externally and internally. For our next session, let's try a simple task—write down how you feel in different situations, especially during math class, and bring it next time.
+
+---
+
+Consultant: Hi, Wang. How was your experience with the task I gave you in our last session? Did writing down your feelings help you gain insight?
+
+User: Hi. Yes, I did try it. I noticed that whenever I thought about math class, I'd automatically feel tense and start thinking I can't do it.
+
+Consultant: That's a useful observation. Those automatic thoughts can have a big impact on how we feel and act. Did you notice any common themes in your thoughts?
+
+User: I often think things like I'll never understand math or my teacher doesn't like me, which just makes me feel worse.
+
+Consultant: Let's explore these thoughts further. Do you think there are ways your mind might be exaggerating the situation or drawing conclusions without enough evidence?
+
+User: Possibly. I guess I haven't done as bad in math as I sometimes think, but I still find it hard to shake off these thoughts.
+
+Consultant: I understand. For your task this time, try to catch and write down these automatic thoughts when they occur, and bring it next time so we can work through them together.
+
+---
+
+Consultant: Hi, Wang. Were you able to capture any automatic thoughts since our last session that you'd like to discuss today?
+
+User: Hi. Yes, I did. I realized I often think "it's hopeless" right before entering the math class.
+
+Consultant: That's an important thought to examine. What makes you believe it's hopeless, and do you think there might be other ways to view the situation?
+
+User: I guess I think it's hopeless because I start feeling lost as soon as the teacher talks. But maybe I could try asking questions or looking at different resources.
+
+Consultant: That's a great alternative approach. What advice would you give a friend in a similar situation, someone who feels like giving up on a subject?
+
+User: I'd probably tell them to find ways to engage with the material differently, like online tutorials or study groups.
+
+Consultant: Excellent. As a new task, consider trying one of these approaches before our next session. Keep track of how it influences your thoughts and feelings about math.
+
+---
+
+Consultant: Hi, Wang. Did you have the opportunity to try engaging with math differently since our last session?
+
+User: Hi. I watched some video tutorials and used a math app. They helped a bit, especially when I was stuck on a problem.
+
+Consultant: That's fantastic to hear! It sounds like you're actively taking steps to change your perspective on math. How do you feel about this change?
+
+User: I feel slightly more confident. It's still a challenge, but now it doesn't seem completely impossible.
+
+Consultant: It's great that you're feeling more confident. What aspects of these new resources positively impacted your approach to learning?
+
+User: I liked that I could learn at my own pace without feeling rushed or judged.
+
+Consultant: That’s valuable. Can you continue experimenting with these tools and observe how your confidence evolves over time?
+
+User: I think I can keep using them more. It's a start, at least.
+
+---
+
+Consultant: Hi, Wang. Can we explore some activities that bring you joy or help you relax, especially outside studying?
+
+User: I enjoy playing basketball with my friends. It helps me clear my mind and have fun.
+
+Consultant: That's a wonderful way to relieve stress. Regularly engaging in activities like basketball can be really beneficial. Could you plan to incorporate it into your routine more often?
+
+User: Sure, I can try playing more regularly. It might help me feel less stressed about school.
+
+Consultant: Planning specific times to play basketball can be refreshing and help you manage stress better. Would you consider creating a simple routine to incorporate basketball?
+
+User: I think setting a regular time to play after school or on weekends would work well.
+
+---
+
+Consultant: Hi, Wang. As we conclude our sessions, let's reflect on the progress you've made. What strategies have you found most helpful?
+
+User: I've learned to challenge my negative thoughts and try new ways of learning math. Talking about my feelings has also been very helpful.
+
+Consultant: Those are significant gains. Moving forward, what coping strategies or approaches do you think you'll benefit from the most?
+
+User: I'll remind myself to stay open to new methods and not get trapped in negative thinking. Discussing challenges with friends or family can also help.
+
+Consultant: Those plans sound effective. You've gained many skills to face challenges in the future. Remember, we're always here if you want more support.
+
+User: Thanks a lot for your help. I feel better equipped to manage my issues now.
+#######
+Consultant: Hi, Wang. Were you able to capture any automatic thoughts since our last session that you'd like to discuss today?
+
+User: Hi. Yes, I did. I realized I often think "it's hopeless" right before entering the math class.
+
+Consultant: That's an important thought to examine. What makes you believe it's hopeless, and do you think there might be other ways to view the situation?
+
+User: I guess I think it's hopeless because I start feeling lost as soon as the teacher talks. But maybe I could try asking questions or looking at different resources.
+
+Consultant: That's a great alternative approach. What advice would you give a friend in a similar situation, someone who feels like giving up on a subject?
+
+User: I'd probably tell them to find ways to engage with the material differently, like online tutorials or study groups.
+
+Consultant: Excellent. As a new task, consider trying one of these approaches before our next session. Keep track of how it influences your thoughts and feelings about math.
+
+User: I will give that a shot. Trying those different resources might help me see things in a new way.
+
+Consultant: Wang, what kind of resources have you found to be most helpful when dealing with difficult subjects in the past?
+
+User: Besides tutorials, sometimes reading over the notes with a friend helps. They might explain things in a manner that's easier for me to understand.
+
+Consultant: Collaborating with classmates can be very beneficial. Do you have friends who might be interested in forming a study group with you?
+
+User: I think so. A couple of my friends are also struggling, and we could learn better together.
+
+Consultant: That sounds promising. Working together could improve your understanding and make math feel less isolating. What could be the next steps in forming this group?
+
+User: I can talk to them after school today and see if they're interested in meeting a few times a week.
+
+Consultant: Great, Wang. Consistency is key, so setting regular times to meet might help you all stay committed. Do you think you'll encounter any challenges in organizing the group?
+
+User: Perhaps finding a time that works for everyone might be challenging, but I think it'll be worth it.
+
+Consultant: It's good to anticipate potential obstacles. Being flexible with meeting times could help. Have you noticed any change in how you feel about math since we started these sessions?
+
+User: Yes, a bit. I've started feeling that if I approach it differently and seek help, it's not entirely undoable.
+
+Consultant: That mindset is crucial, Wang. The belief that you can improve is the first step toward real change. Have there been any particular strategies or reflections that stood out to you as most helpful?
+
+User: Writing down my automatic thoughts and trying alternate strategies have been helpful. It's making me more aware of my reactions.
+
+Consultant: Awareness is the first step in making any change, and it's encouraging to see you embracing this process. Do you have any other subjects where you think similar strategies might help?
+
+User: Perhaps science. I enjoy it, but sometimes I get overwhelmed by the amount of information.
+
+Consultant: Applying these strategies to science could provide similar benefits and make the information more manageable. How might you start implementing these changes in your science studies?
+
+User: I could start by breaking down the topics into smaller parts and tackling them one at a time, similar to what I did with math.
+
+Consultant: That's a solid plan. Taking small, manageable steps often leads to better understanding and retention. As you continue reflecting on these automatic thoughts, remember to be kind to yourself. How might you practice self-kindness in these moments?
+
+User: By reminding myself that it's okay not to know everything immediately and that learning takes time.
+
+Consultant: Exactly, Wang. Acknowledging your efforts and being patient with yourself allows you to grow constructively. Would you like to set any goals for our next session?
+
+User: I want to establish that study group with my friends and continue noting my thoughts, both positive and negative.
+
+Consultant: Those are excellent goals. Keep up with these actions, and you'll likely notice more positive changes. I'll be looking forward to hearing how the study group works out for you.
+
+User: Thank you for your support. I'm feeling optimistic about these changes.
+
+Consultant: You're doing wonderfully, Wang. Remember, I'm here to support you as you continue this journey. Looking forward to our next session!
+#######
+Consultant: Hi, Wang. Were you able to capture any automatic thoughts since our last session that you'd like to discuss today?
+
+User: Hi. Yes, I did. I realized I often think "it's hopeless" right before entering the math class.
+
+Consultant: That's an important thought to examine. What makes you believe it's hopeless, and do you think there might be other ways to view the situation?
+
+User: I guess I think it's hopeless because I start feeling lost as soon as the teacher talks. But maybe I could try asking questions or looking at different resources.
+
+Consultant: That's a great alternative approach. What advice would you give a friend in a similar situation, someone who feels like giving up on a subject?
+
+User: I'd probably tell them to find ways to engage with the material differently, like online tutorials or study groups.
+
+Consultant: Excellent. As a new task, consider trying one of these approaches before our next session. Keep track of how it influences your thoughts and feelings about math.
+
+User: I will give that a shot. Trying those different resources might help me see things in a new way.
+
+Consultant: Wang, what kind of resources have you found to be most helpful when dealing with difficult subjects in the past?
+
+User: Besides tutorials, sometimes reading over the notes with a friend helps. They might explain things in a manner that's easier for me to understand.
+
+Consultant: Collaborating with classmates can be very beneficial. Do you have friends who might be interested in forming a study group with you?
+
+User: I think so. A couple of my friends are also struggling, and we could learn better together.
+
+Consultant: That sounds promising. Working together could improve your understanding and make math feel less isolating. What could be the next steps in forming this group?
+
+User: I can talk to them after school today and see if they're interested in meeting a few times a week.
+
+Consultant: Great, Wang. Consistency is key, so setting regular times to meet might help you all stay committed. Do you think you'll encounter any challenges in organizing the group?
+
+User: Perhaps finding a time that works for everyone might be challenging, but I think it'll be worth it.
+
+Consultant: It's good to anticipate potential obstacles. Being flexible with meeting times could help. Have you noticed any change in how you feel about math since we started these sessions?
+
+User: Yes, a bit. I've started feeling that if I approach it differently and seek help, it's not entirely undoable.
+
+Consultant: That mindset is crucial, Wang. The belief that you can improve is the first step toward real change. Have there been any particular strategies or reflections that stood out to you as most helpful?
+
+User: Writing down my automatic thoughts and trying alternate strategies have been helpful. It's making me more aware of my reactions.
+
+Consultant: Awareness is the first step in making any change, and it's encouraging to see you embracing this process. Do you have any other subjects where you think similar strategies might help?
+
+User: Perhaps science. I enjoy it, but sometimes I get overwhelmed by the amount of information.
+
+Consultant: Applying these strategies to science could provide similar benefits and make the information more manageable. How might you start implementing these changes in your science studies?
+
+User: I could start by breaking down the topics into smaller parts and tackling them one at a time, similar to what I did with math.
+
+Consultant: That's a solid plan. Taking small, manageable steps often leads to better understanding and retention. As you continue reflecting on these automatic thoughts, remember to be kind to yourself. How might you practice self-kindness in these moments?
+
+User: By reminding myself that it's okay not to know everything immediately and that learning takes time.
+
+Consultant: Exactly, Wang. Acknowledging your efforts and being patient with yourself allows you to grow constructively. Would you like to set any goals for our next session?
+
+User: I want to establish that study group with my friends and continue noting my thoughts, both positive and negative.
+
+Consultant: Those are excellent goals. Keep up with these actions, and you'll likely notice more positive changes. I'll be looking forward to hearing how the study group works out for you.
+
+User: Thank you for your support. I'm feeling optimistic about these changes.
+
+Consultant: You're doing wonderfully, Wang. Remember, I'm here to support you as you continue this journey. Looking forward to our next session!
+#######
+Consultant: Hi, Wang. Did you have the opportunity to try engaging with math differently since our last session?
+
+User: Hi. I watched some video tutorials and used a math app. They helped a bit, especially when I was stuck on a problem.
+
+Consultant: That's fantastic to hear! It sounds like you're actively taking steps to change your perspective on math. How do you feel about this change?
+
+User: I feel slightly more confident. It's still a challenge, but now it doesn't seem completely impossible.
+
+Consultant: It's great that you're feeling more confident. What aspects of these new resources positively impacted your approach to learning?
+
+User: I liked that I could learn at my own pace without feeling rushed or judged.
+
+Consultant: That’s valuable. Can you continue experimenting with these tools and observe how your confidence evolves over time?
+
+User: I think I can keep using them more. It's a start, at least.
+
+Consultant: I'm glad to hear that, Wang. How have your recent experiences with these resources impacted your overall feelings about math?
+
+User: I've begun to feel less anxious before math class, and I'm starting to believe I can improve if I keep using these tools.
+
+Consultant: That's a positive shift in your perspective. Have you noticed any changes in your mood or thoughts when engaging with math now that you've integrated these resources?
+
+User: Yes, I've been a bit less tense, and it feels like I'm slowly building up confidence with each session.
+
+Consultant: Maintaining this awareness is important. Can you identify any particular features of the tutorials or app that seem to make a big difference in your understanding?
+
+User: The step-by-step explanations really stand out. They help me see where I can go wrong and how to correct mistakes without feeling overwhelmed.
+
+Consultant: That's insightful. The ability to correct yourself can foster deeper learning. Can we talk about how this approach might translate into overcoming other challenging subjects?
+
+User: Sure, I think applying the same method of step-by-step learning could help in areas like science.
+
+Consultant: That sounds promising. Breaking things down into manageable segments can be beneficial in many contexts. Have you thought of setting some small goals for these subjects, just like you did with math?
+
+User: Yes, I want to tackle science topics bit by bit, so I don't get overwhelmed.
+
+Consultant: Excellent plan, Wang. Tracking your progress in small steps can really add up. How do you feel about discussing your learning journey with friends or family?
+
+User: I'm open to it. Sharing my experiences might help relieve some pressure and provide encouragement.
+
+Consultant: That's great, Wang. Having a support network can be comforting and motivating. Are you planning to share specifically about your math experience and how these strategies help?
+
+User: Yes, I might talk to my family about it at dinner. I think they'd be happy to see I'm making progress.
+
+Consultant: That sounds like a supportive environment to share in. How have your interactions with your family been around academics recently?
+
+User: They're very focused on grades but are supportive when they see I’m trying to improve.
+
+Consultant: It's good to have that kind of backing. How do you feel when they acknowledge your efforts?
+
+User: It feels rewarding and makes me want to keep pushing forward.
+
+Consultant: That recognition can really boost motivation. Could this sense of reward be something you aim to achieve with other challenging subjects, too?
+
+User: Definitely. I think knowing my hard work is noticed makes a big difference.
+
+Consultant: That's a powerful motivator, Wang. Along with the step-by-step approach, what other methods do you think could support your study habits?
+
+User: Perhaps scheduling regular study times and incorporating breaks, so I don't burn out.
+
+Consultant: That's a well-rounded strategy. Regular study times create structure, and breaks help reset your mind. Did playing basketball provide any relief or positive effects during study breaks?
+
+User: Absolutely, playing basketball with friends clears my mind and refreshes my energy.
+
+Consultant: Physical activities like basketball are great stress relievers. Could you tie this into your study routine for both relaxation and a sense of achievement?
+
+User: Yes, I can plan basketball sessions as a reward after completing study goals.
+
+Consultant: That sounds effective. Rewarding yourself with enjoyable activities can reinforce positive habits. What kind of positive self-talk might you use during these times?
+
+User: I'll remind myself that it's okay to make mistakes and that improvement comes with practice.
+
+Consultant: Perfect. Emphasizing progress rather than perfection promotes a healthier mindset. Ready to continue with these strategies and share your experiences soon?
+
+User: Yes, I'm eager to see how these approaches benefit me and share my progress.
+
+Consultant: Wonderful, Wang. You're making steady and significant strides. I'm excited to hear how you incorporate these strategies in our upcoming sessions.
+#######
+Consultant: Hi, Wang. Can we explore some activities that bring you joy or help you relax, especially outside studying?
+
+User: I enjoy playing basketball with my friends. It helps me clear my mind and have fun.
+
+Consultant: That's a wonderful way to relieve stress. Regularly engaging in activities like basketball can be really beneficial. Could you plan to incorporate it into your routine more often?
+
+User: Sure, I can try playing more regularly. It might help me feel less stressed about school.
+
+Consultant: Planning specific times to play basketball can be refreshing and help you manage stress better. Would you consider creating a simple routine to incorporate basketball?
+
+User: I think setting a regular time to play after school or on weekends would work well.
+
+Consultant: That sounds great, Wang. Let's go a bit deeper into how we can make this a habit. Have you tried scheduling activities like this before?
+
+User: Not really, but I think it’s something that could help me stay organized and manage my time better.
+
+Consultant: Time management can definitely alleviate stress. Do you have any other activities or hobbies that you enjoy, which could be part of a balanced routine?
+
+User: I enjoy listening to music and sometimes playing video games. They both help me relax when I'm feeling overwhelmed.
+
+Consultant: That's good to know. Integrating a variety of activities you enjoy can create a well-rounded routine. How do you feel when you listen to music or play games?
+
+User: Music calms me down, and games are a fun way to take my mind off things. They both help me unwind.
+
+Consultant: It’s great that you have these outlets. Establishing a routine that includes basketball, music, and gaming could help you balance your studies and relaxation. Let’s consider how to schedule these throughout your week. Would that work for you?
+
+User: Yes, I think it would. Having a structure might help me handle school stress better.
+
+Consultant: Wonderful. Let’s outline a possible schedule together. How about picking specific times for each activity? For example, basketball after school on certain days and music during study breaks.
+
+User: That sounds like a good idea. Maybe playing basketball twice a week after school and listening to music in the evenings.
+
+Consultant: Great start. How about including short gaming sessions as a reward after completing study goals? This way, you have something to look forward to.
+
+User: Yes, I like that. I can play games after finishing my homework or a study session.
+
+Consultant: Excellent. Creating this balanced routine can help you unwind and stay motivated. Now, let’s think about those moments you feel overwhelmed or stressed. What quick methods can you use to calm down and refocus?
+
+User: Taking deep breaths and maybe stepping outside for a few minutes could help. I think just giving myself a short break would work.
+
+Consultant: Those are effective strategies. Deep breathing and taking breaks can quickly alleviate stress. How do you think your friends or family might support these new habits?
+
+User: I think they’d be supportive, especially if they see I’m committed to managing my time better and reducing stress.
+
+Consultant: Support from others can boost your efforts. Have you discussed your goals with them, and do you think it would help to involve them in your planning?
+
+User: I haven't yet, but I think telling my family would help. They could remind me to stick to my schedule.
+
+Consultant: That’s a great idea. Sharing your plans can also motivate you to stick to them. Having their encouragement can be a powerful component in maintaining your routine. Are there any concerns or challenges you anticipate in following through with this plan?
+
+User: Maybe just sticking to it when I feel overwhelmed or if I get really busy with schoolwork.
+
+Consultant: That’s understandable. Two important things to remember are flexibility and self-compassion. There might be days when it’s harder to stick to the plan, and that’s okay. The goal is gradual progress. How might you adjust your schedule on particularly busy or stressful days?
+
+User: I guess on tough days, I could shorten some activities or mix them up to fit what I can handle.
+
+Consultant: That sounds like a good approach. Flexibility in your routine ensures it’s manageable and sustainable. It’s also important to acknowledge your efforts and be kind to yourself on tougher days. How has discussing these plans and strategies made you feel about the upcoming weeks?
+
+User: I feel more prepared. Having a plan and knowing I can adjust it when needed makes everything feel more manageable.
+
+Consultant: I’m glad to hear that, Wang. Establishing and maintaining a routine can offer great support through more challenging times. Could you keep a simple journal or notes about how these activities help you manage stress over the next week?
+
+User: Sure, I can do that. It might help me stay on track and see what’s working well.
+
+Consultant: Excellent. Reflecting on your experiences and seeing the benefits will be encouraging. I'm looking forward to hearing about your progress and any adjustments you find necessary. Before we finish, is there anything else you’d like to discuss about your routine or any other concern?
+
+User: Not at the moment. I think I have a good plan to start with.
+
+Consultant: That’s wonderful to hear. You’ve done a great job creating this plan, and I believe it will be very effective in helping you manage stress while balancing your activities. I look forward to our next session and hearing how it’s working out for you.
+
+User: Thanks. I’m feeling positive about putting this into practice.
+
+Consultant: That’s the spirit, Wang. Keep up the good work, and don’t forget to be patient with yourself. Have a great week, and see you in our next session.
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi, Wang. As we're wrapping up our sessions, I wanted to take a moment to reflect on the incredible progress you've made. What strategies have you found to be most helpful during our time together?
+
+User: Hi. Throughout this journey, I've learned to challenge my negative thoughts, especially regarding math. Trying new ways of learning and expressing my feelings has also been hugely beneficial.
+
+Consultant: Those are significant achievements. Recognizing and challenging negative thoughts is a foundational skill that you'll carry forward. As you look ahead, what coping strategies do you think will be most beneficial in continuing your progress?
+
+User: I think reminding myself to stay open to new methods, like different study techniques, is key. I've realized discussing challenges with my friends and family can really help too.
+
+Consultant: That’s a great approach, Wang. You've equipped yourself with a toolkit of skills that will serve you well in facing future challenges. Remember, reaching out to friends and family ensures a supportive environment. What do you feel the most confident about right now?
+
+User: I feel more confident in my ability to manage my thoughts and emotions. Knowing that I have these strategies to fall back on makes me feel more secure.
+
+Consultant: It's wonderful to hear that you're feeling more confident. Building resilience through these techniques means you're well-prepared to handle whatever comes your way. Have these skills influenced other areas of your life too?
+
+User: Definitely. I've noticed I'm not as reactive in stressful situations, which is a big change for me. I'm able to take a step back, breathe, and reassess the situation more rationally.
+
+Consultant: That’s very insightful. Being able to pause and evaluate a situation is a critical life skill. Are there particular situations or challenges where you've seen this ability make a difference?
+
+User: Mostly during school challenges and even in my interactions with my family. It's easier to communicate and not let misunderstandings escalate as much.
+
+Consultant: Effective communication is essential in any relationship and helps reduce unnecessary stress. Moving forward, how do you plan to maintain and further develop these skills?
+
+User: I'll keep practicing mindfulness and reflecting on my experiences through journaling. Also, I'll continue to seek input and support from those around me.
+
+Consultant: That’s an excellent plan. Journaling and mindfulness practices can reinforce your coping mechanisms. Knowing when to seek support from your network is vital, and don't hesitate to reach out if you need additional guidance from professionals too. Is there anything you'd like us to focus on in these concluding sessions?
+
+User: I'm just hoping to solidify these approaches and feel more prepared for whatever challenges come my way.
+
+Consultant: You've made remarkable strides, Wang. Trust in your journey and your ability to adapt and grow from each experience. Remember, I’m always here if you find yourself in need of more support in the future.
+
+User: Thank you for all your help. I really appreciate everything, and I feel much better equipped to handle my issues now.
+
+Consultant: It's been my pleasure working with you, Wang. You've shown incredible commitment and growth, and I'm confident in your ability to continue thriving. Take care, and remember that every step forward, no matter how small, is a victory. I'll be here whenever you need another session.
+
+User: Thanks again. I feel positive about the future and ready to tackle anything that comes my way.
+
+Consultant: That’s the spirit, Wang. A positive mindset is a powerful tool. Have a wonderful time exploring your new strategies in life. Goodbye for now.
+
+User: Goodbye. I'll see you next time if I need more guidance!
+#######

@@ -1,0 +1,390 @@
+Consultant: Hi Xiaoxin, welcome to our session today. How have you been doing recently?
+
+User: Hi. I've been feeling a bit overwhelmed. Everything seems to have changed a lot since I moved here. I miss my mom and sometimes feel quite alone at school.
+
+Consultant: I'm sorry to hear that, Xiaoxin. It sounds like you've been going through a difficult period. Moving back to Zhejiang and adjusting to a new environment must be challenging. Can you tell me more about what's been happening?
+
+User: Well, since I started living with my dad, he isn't around much, and even though he calls to check on my studies, we don't talk much about other things. I really miss my mom, and I don't have many friends at school.
+
+Consultant: That sounds tough, being away from your mom and adjusting to school without many friends. How has this been affecting you emotionally?
+
+User: It's made me feel kind of isolated and sad. I used to share everything with my mom, and now I feel a bit lost without her close by.
+
+Consultant: It’s important to acknowledge these feelings. Let’s work on building your support system here. For now, try to reflect on a few things you enjoy doing that might help you feel more connected or joyful, and we can explore them next time.
+
+Consultant: Hi Xiaoxin, glad to have you back. Did you have the opportunity to think about things you enjoy doing or things that make you happy?
+
+User: Yeah, I've started painting a bit more. It helps me forget about missing my mom for a while.
+
+Consultant: That's wonderful, Xiaoxin. Art can really be a relaxing outlet. Now, let's talk about your thoughts and feelings. Are there moments when you find yourself feeling particularly down or worried?
+
+User: Yes, sometimes I think it's my fault that I'm here and not with my mom. I keep worrying about how things might have been different if I stayed with her.
+
+Consultant: Those thoughts must be difficult to carry. It seems like they're adding to your distress. Do you find you sometimes jump to negative conclusions about your situation?
+
+User: I guess so. Whenever I think about it, I automatically assume things are worse because I'm away from my mom.
+
+Consultant: It's understandable to think that way. Let’s keep a journal to recognize these thoughts and see how they impact your feelings. We'll use it to work on a more balanced perspective next time.
+
+Consultant: Hi Xiaoxin, welcome back. Did you get a chance to write down some of those thoughts you've been having?
+
+User: Yeah, I've jotted some things down. I realized how often I blame myself for the move.
+
+Consultant: It's insightful to notice that. Now, let’s see, how confident are you in this assumption that it's your fault or things wouldn’t have changed for the better?
+
+User: I don't really know. I mean, these things just happened, but I can't help but think it's my fault at times.
+
+Consultant: It’s natural to feel that way, Xiaoxin. If a friend of yours were in a similar situation, how would you advise them about these thoughts?
+
+User: I'd probably tell them not to be too hard on themselves since they can't control everything.
+
+Consultant: That’s great advice. Let's use that same idea for yourself. Try to apply this perspective to your situation. Can you think of one instance where you might do this before our next session?
+
+User: I could remind myself that I'm doing my best under the circumstances, especially when I start feeling down.
+
+Consultant: Hi Xiaoxin, great to see you again. How did it go as you attempted to shift your perspective when those negative thoughts came up?
+
+User: I tried to remind myself it's not my fault that things changed. Sometimes it helped, but it’s still tough.
+
+Consultant: It can be challenging, yet recognizing this is a significant step forward. Did you think about how you might share these emotions with your mother, perhaps during your conversations over weekend calls?
+
+User: I want to, but I'm afraid I'll make her worry. I don't want to burden her with my problems.
+
+Consultant: It's considerate of you, but sharing feelings can also create support and understanding. What do you think your mother needs to know to understand your side better, without worrying too much?
+
+User: I want her to know that I miss her a lot and sometimes struggle, but I'm trying to adjust.
+
+Consultant: Expressing those thoughts openly might help. Feeling understood by her could lessen some pressure you’re feeling. How does the idea of bringing some of these topics into your conversation with her sound to you?
+
+User: I feel nervous, but also hopeful that it could help us both feel closer.
+
+Consultant: Hi Xiaoxin, it's nice to see you. Have you had any additional thoughts about activities that might help lift your mood or reduce your stress?
+
+User: Lately, I've been thinking of spending more time painting. It’s something I really enjoy.
+
+Consultant: That's a great choice, Xiaoxin. Incorporating such hobbies into your routine can improve your mood. Would you like to create a plan to set aside time for your painting regularly?
+
+User: Yes, I think it would help. I’d like to start doing it more often but haven’t really made the time.
+
+Consultant: How about beginning with just an hour each weekend dedicated to painting? You can treat it as your personal relaxation time.
+
+User: That sounds doable. I'll try to find some quiet time to focus on it.
+
+Consultant: Hi Xiaoxin, it’s been wonderful working with you. Let’s reflect on your journey and the strategies that proved helpful. What stands out for you?
+
+User: I've realized how much my thoughts impact my feelings. Talking about them has really helped, and having painting as an outlet makes a difference.
+
+Consultant: Those are valuable insights, Xiaoxin. When facing similar challenges in the future, what strategies do you feel will support you the best?
+
+User: I’ll try to assess my thoughts more carefully and remind myself not to jump to conclusions. I’ve also found that expressing feelings to my mom helps.
+
+Consultant: Those are powerful strategies. As we conclude our sessions, remember you're equipped with many skills for handling life's challenges. You are always welcome to reach out again whenever you feel the need.
+
+User: Thank you so much for everything. I feel more capable of managing things on my own now.
+#######
+Consultant: Hi Xiaoxin, glad to have you back. Did you have the opportunity to think about things you enjoy doing or things that make you happy?
+
+User: Yeah, I've started painting a bit more. It helps me forget about missing my mom for a while.
+
+Consultant: That's wonderful, Xiaoxin. Art can really be a relaxing outlet. Now, let's talk about your thoughts and feelings. Are there moments when you find yourself feeling particularly down or worried?
+
+User: Yes, sometimes I think it's my fault that I'm here and not with my mom. I keep worrying about how things might have been different if I stayed with her.
+
+Consultant: Those thoughts must be difficult to carry. It seems like they're adding to your distress. Do you find you sometimes jump to negative conclusions about your situation?
+
+User: I guess so. Whenever I think about it, I automatically assume things are worse because I'm away from my mom.
+
+Consultant: It's understandable to think that way. Let’s keep a journal to recognize these thoughts and see how they impact your feelings. We'll use it to work on a more balanced perspective next time.
+
+User: I think that could help. Writing usually helps me see things from a slightly different angle.
+
+Consultant: Excellent, Xiaoxin. Journaling your thoughts can bring clarity and a more objective perspective. What kind of thoughts have you noticed tend to recur?
+
+User: Mostly thoughts about how I could have made things better by staying or how I might be the cause of the changes.
+
+Consultant: It's perfectly natural to feel that way, but remember, change isn't always something we can control entirely. Let's explore these feelings more deeply. When you're feeling down, what would you say to your best friend if they were having similar thoughts?
+
+User: I'd probably tell them that it's not all on them, that sometimes changes happen and it's okay to feel sad or alone but they shouldn't blame themselves entirely.
+
+Consultant: That's a compassionate piece of advice. Can you see yourself applying this kind of kindness to yourself?
+
+User: It's a bit hard, but I could try reminding myself of that viewpoint.
+
+Consultant: That’s a significant step, Xiaoxin. Compassion towards ourselves can be incredibly healing. Before our next session, how about practicing this by noting whenever you have such thoughts, and then actively thinking about what you'd say to your best friend in that moment?
+
+User: I can try that. It might help to stop being so hard on myself.
+
+Consultant: Exactly, and it can help ease some of the pressure. Do you remember a specific situation recently when this kind of thought process came up?
+
+User: Yes, last weekend when I was missing an event back home. I was upset and immediately thought that it's my fault for not being there.
+
+Consultant: Let's delve into that. How do you think adopting a more forgiving stance towards yourself could change how you felt in that moment?
+
+User: Maybe I wouldn't have spiraled into guilt. It might have allowed me to remember that missing events doesn't mean I've abandoned my life there.
+
+Consultant: That’s a profound insight, Xiaoxin. It highlights that shifting your perspective can change the emotional impact. Remember, holding onto understanding is as important as recognizing the thought itself.
+
+User: I'll keep that in mind. It is a bigger relief than I initially thought.
+
+Consultant: I'm glad to hear that, Xiaoxin. Let's also consider how sharing these feelings with your mom might help both of you. What are your thoughts on discussing some aspects with her during your calls?
+
+User: I want to tell her how much I miss her and how tough it feels sometimes. But I'm also afraid it might worry her too much.
+
+Consultant: It's a valid concern. But sharing can foster understanding between you. How about focusing on expressing your need for her support rather than only highlighting the negatives?
+
+User: That makes sense. Maybe it'll make her see that I just need to feel connected too.
+
+Consultant: Absolutely, openness can strengthen your bond. How comfortable do you feel trying this out, and what might you share with her first?
+
+User: I'm a bit nervous yet hopeful. I think I'll start by telling her I miss her and the little things we used to do together.
+
+Consultant: That's a lovely start, Xiaoxin. I'm confident it will open up avenues for more supportive conversations going forward. Feel free to take it at a pace you are comfortable with.
+
+User: Thanks, I think it's okay to start small and see where it leads.
+
+Consultant: You're doing great, Xiaoxin. Before the next session, give yourself permission to explore these discussions and remember, you're not alone in this journey. Your feelings are valid and deserving of expression.
+
+User: I appreciate that. I feel more ready to address these feelings now.
+
+Consultant: Fantastic progress, Xiaoxin. Let's see how these reflections and conversations unfold. I look forward to hearing about your experiences next time.
+#######
+Consultant: Hi Xiaoxin, welcome back. Did you get a chance to write down some of those thoughts you've been having?
+
+User: Yeah, I've jotted some things down. I realized how often I blame myself for the move.
+
+Consultant: It's insightful to notice that. Now, let’s see, how confident are you in this assumption that it's your fault or things wouldn’t have changed for the better?
+
+User: I don't really know. I mean, these things just happened, but I can't help but think it's my fault at times.
+
+Consultant: It’s natural to feel that way, Xiaoxin. If a friend of yours were in a similar situation, how would you advise them about these thoughts?
+
+User: I'd probably tell them not to be too hard on themselves since they can't control everything.
+
+Consultant: That’s great advice. Let's use that same idea for yourself. Try to apply this perspective to your situation. Can you think of one instance where you might do this before our next session?
+
+User: I could remind myself that I'm doing my best under the circumstances, especially when I start feeling down.
+
+Consultant: That's a wonderful starting point. Imagine if you could build these moments of kindness toward yourself into a regular practice. What sort of changes do you think that could bring to your mindset over time?
+
+User: It might help reduce some of the guilt and anxiety. Maybe I'd be able to focus more on the present instead of dwelling on what I can't change.
+
+Consultant: Exactly. Developing a habit of self-compassion can be empowering. Would you feel comfortable trying to integrate this thought process right when you catch yourself in self-blame?
+
+User: I think I could try. It sounds like it would be worth it to see how it affects my day-to-day feelings.
+
+Consultant: That’s great to hear, Xiaoxin. Consistency in these efforts will make a considerable difference. Can you recall a recent instance where you noticed these thoughts coming up?
+
+User: Yes, last Saturday, I was thinking about a family gathering I missed, and I started blaming myself for not being there.
+
+Consultant: That's a tough spot to be in. How do you think reframing those thoughts might change your experience of missing such events?
+
+User: Maybe I wouldn't feel as guilty. I could tell myself that missing events doesn't mean I don't care about my family. It's just part of the situation right now.
+
+Consultant: That's exactly the kind of healthy perspective shift we're aiming for. Consider what it feels like to remind yourself of your intentions rather than focusing solely on outcomes.
+
+User: It sounds reassuring. I want to try and internalize that mindset more actively.
+
+Consultant: You’re already making strides just by recognizing these thoughts, Xiaoxin. I’m confident that strengthening this practice will further ease feelings of distress.
+
+User: I'll keep practicing this approach. It might take time, but it seems like a step in the right direction.
+
+Consultant: Remember, it’s about progress, not perfection. What plans do you have that could serve as opportunities to implement these changes?
+
+User: I plan to use this approach next weekend when I'm on a call with my mom, to reassure myself that doing my best is enough.
+
+Consultant: That’s a perfect opportunity. Let’s also explore how you could gently communicate your feelings to her, showing her that while you miss her, you are making efforts to cope.
+
+User: I’d like to tell her that I miss our talks and maybe share how I'm adjusting. Perhaps it would help her understand better without worrying too much.
+
+Consultant: Opening up can indeed be helpful. How do you think she'll respond upon hearing that you miss her but are also finding ways to adapt?
+
+User: I hope she sees that I care about staying connected, even from a distance. It might bring us closer.
+
+Consultant: Absolutely, Xiaoxin. Your relationship could become an even stronger source of support through these honest exchanges. 
+
+User: Yeah, I'll give it a try. I feel more ready to approach the conversation with this mindset.
+
+Consultant: That’s wonderful progress. For now, just keep embracing these moments of self-awareness and compassion. Remember to record your thoughts, as they can be a helpful reference for our future discussions.
+
+User: I will. It's reassuring to know there are ways to manage these emotions.
+
+Consultant: You're doing great work, Xiaoxin. Looking forward to hearing how these endeavors unfold. Until then, take care and keep nurturing those positive shifts.
+#######
+Consultant: Hi Xiaoxin, great to see you again. How did it go as you attempted to shift your perspective when those negative thoughts came up?
+
+User: I tried to remind myself it's not my fault that things changed. Sometimes it helped, but it’s still tough.
+
+Consultant: It can be challenging, yet recognizing this is a significant step forward. Did you think about how you might share these emotions with your mother, perhaps during your conversations over weekend calls?
+
+User: I want to, but I'm afraid I'll make her worry. I don't want to burden her with my problems.
+
+Consultant: It's considerate of you, but sharing feelings can also create support and understanding. What do you think your mother needs to know to understand your side better, without worrying too much?
+
+User: I want her to know that I miss her a lot and sometimes struggle, but I'm trying to adjust.
+
+Consultant: Expressing those thoughts openly might help. Feeling understood by her could lessen some pressure you’re feeling. How does the idea of bringing some of these topics into your conversation with her sound to you?
+
+User: I feel nervous, but also hopeful that it could help us both feel closer.
+
+Consultant: I understand it's a delicate balance, Xiaoxin. Perhaps you could consider starting with smaller topics that won't cause too much concern but still share your feelings?
+
+User: That might be easier. Maybe I can mention how painting has been a positive outlet for me lately.
+
+Consultant: That's a wonderful idea. Sharing something uplifting like your painting hobby shows you're actively finding ways to cope while still letting her know about your life.
+
+User: Yes, and hopefully, she'll be happy to hear about the painting and not worry too much.
+
+Consultant: Exactly, and over time, as you get more comfortable, you can gradually introduce more of your feelings. How do you think this gradual approach might help?
+
+User: I think it would make it less overwhelming for both of us and help ease into bigger conversations.
+
+Consultant: Certainly, Xiaoxin. And remember, you can always express your gratitude for her support, reinforcing that you're doing your best to adapt.
+
+User: I will. It's important that she knows I'm appreciative.
+
+Consultant: Absolutely. Keep this open line of communication, and let it be a source of strength for you both.
+
+User: I hope so. I'll try to talk to her during our next call.
+
+Consultant: Great. Speaking of connections, have you thought more about engaging with your new environment or making friends?
+
+User: I'm trying, but it's still a bit hard since I'm quite new and shy about reaching out.
+
+Consultant: That's understandable. How about this: next time at school, try to engage in a group activity or club that interests you, like art or another hobby?
+
+User: I think I could try an art club. It's something I know and feel somewhat comfortable with.
+
+Consultant: Perfect. Being in an environment related to your interests might make it easier to connect with others.
+
+User: I'll look into it. It seems like a good way to meet people who share similar hobbies.
+
+Consultant: Wonderful initiative. Participating in local events or clubs can naturally expand your social circle.
+
+User: I hope so. It would be nice to have someone to talk to at school.
+
+Consultant: You'll get there, Xiaoxin, step by step. Remember to be gentle with yourself throughout this process.
+
+User: I will. Thanks for the encouragement.
+
+Consultant: Keep nurturing both your personal and social life balance. You're making meaningful strides.
+
+User: I'll keep that in mind as I go forward. Thanks for your support throughout.
+
+Consultant: It's my pleasure. As always, record your feelings as they arise. We'll continue refining our strategies together.
+
+User: I’ll make sure to do that. Looking forward to seeing how it goes.
+
+Consultant: You're doing excellent work. Let's keep building on these experiences in our upcoming sessions. Take care, Xiaoxin.
+
+User: Thank you. I’ll see you next time!
+#######
+Consultant: Hi Xiaoxin, it's nice to see you. Have you had any additional thoughts about activities that might help lift your mood or reduce your stress?
+
+User: Lately, I've been thinking of spending more time painting. It’s something I really enjoy.
+
+Consultant: That's a great choice, Xiaoxin. Incorporating such hobbies into your routine can improve your mood. Would you like to create a plan to set aside time for your painting regularly?
+
+User: Yes, I think it would help. I’d like to start doing it more often but haven’t really made the time.
+
+Consultant: How about beginning with just an hour each weekend dedicated to painting? You can treat it as your personal relaxation time.
+
+User: That sounds doable. I'll try to find some quiet time to focus on it.
+
+Consultant: Wonderful. While painting, pay attention to how it makes you feel. Does it help you relax or bring up any particular thoughts or emotions?
+
+User: I think it makes me feel calmer and more in control. It feels like a little escape from everything else going on.
+
+Consultant: That's fantastic, Xiaoxin. Having that space for yourself is important. Have you noticed any parallels between the feelings you experience during painting and other areas of your life?
+
+User: Sometimes during painting, I realize how critical I can be on myself. There's always this urge to make everything perfect, which I think spills over into my schoolwork and relationships.
+
+Consultant: It's interesting you've spotted that. The pursuit of perfection can be exhausting. How might you apply some of the peace you feel while painting to these other areas?
+
+User: Maybe by focusing more on the process rather than the outcome. Allowing myself to enjoy what I'm doing instead of fixating on everything being perfect.
+
+Consultant: That's a brilliant insight, Xiaoxin. Shifting focus can alleviate some pressure. What do you think could be some practical ways to remind yourself of this during everyday activities?
+
+User: Perhaps I could take a moment before starting tasks to set my intention for enjoying the process rather than just finishing.
+
+Consultant: That sounds promising. Also, consider using the phrases like "enjoy the journey" as gentle reminders. Now, have you managed to engage with any peers at school or the art club you considered?
+
+User: I joined the art club! It was great to be around people who share my interest, and it gave me a sense of belonging.
+
+Consultant: That's excellent to hear. Making those connections is a significant step. Do you feel more comfortable now reaching out or engaging in conversations with club members?
+
+User: Yes, a bit more. It feels reassuring to have common ground with someone new, which makes it easier to talk.
+
+Consultant: Building on these interactions can make the transition to your new environment smoother. How do you feel about possibly expanding these conversations beyond just art-related topics?
+
+User: I think I could try that. It would be nice to learn more about them and share more about myself too.
+
+Consultant: Fantastic approach. Sharing interests beyond art can deepen these connections. Meanwhile, how has your communication with your mom evolved?
+
+User: I've been opening up more to her. It's been a relief to share how I'm adjusting here and what I'm doing to feel better.
+
+Consultant: That's a healthy move, Xiaoxin. Expressing both the good and challenging aspects helps maintain a balanced relationship. Do you feel this has influenced any other aspects of your daily life?
+
+User: Yes, it makes me feel lighter and less overwhelmed. I'm reassured knowing that she understands and supports me.
+
+Consultant: That's a solid foundation. Be sure to take this understanding forward in areas where you might encounter stress or uncertainty.
+
+User: I'll definitely keep that in mind. Having her support really makes a difference.
+
+Consultant: You're doing an amazing job integrating these strategies into your life. Remember, there's no urgency to perfect everything immediately. Progress takes time.
+
+User: Thank you. I'll try to keep that perspective. Focusing on the small steps feels more manageable.
+
+Consultant: Wonderful, Xiaoxin. Keep nurturing your passions like painting and the connections you're building. Reflecting on these experiences will continue to pave a positive path for you.
+
+User: Will do. I'm feeling more hopeful about things now.
+
+Consultant: That's the spirit, Xiaoxin. You have the tools and mindset to navigate challenges. As always, you can reach out if support is needed.
+
+User: Thank you for your guidance. It's been extremely helpful.
+
+Consultant: I’m delighted to assist. Looking forward to hearing more about your painting progress and school experiences in our future sessions.
+
+User: Yes, I'm excited to share more about my journey. See you next time!
+#######
+Consultant: Hi Xiaoxin, it’s been wonderful working with you. Let’s reflect on your journey and the strategies that proved helpful. What stands out for you?
+
+User: I've realized how much my thoughts impact my feelings. Talking about them has really helped, and having painting as an outlet makes a difference. 
+
+Consultant: That's a great realization, Xiaoxin. Expressing your thoughts and using creative hobbies like painting can be powerful tools. How has painting been helping you lately?
+
+User: Painting helps me to clear my mind and stop overthinking. It's like I can express myself without words, which feels liberating. 
+
+Consultant: That’s wonderful to hear. Your artwork can indeed be a silent voice, illustrating what sometimes feels difficult to say. Have there been any moments in your recent paintings that made you consider things differently?
+
+User: Yes, sometimes I notice themes in my art that relate to what I'm experiencing or feeling, like being free or constrained. It often gives me a new perspective on things.
+
+Consultant: That's insightful, Xiaoxin. Recognizing those themes in your work can serve as a mirror to your emotions and thoughts. Have you shared any of these artworks or their meanings with your mom or the art club?
+
+User: I shared a couple of pieces with my mom, and it brought us closer. At the art club, I shared my thoughts during a group discussion, and they understood completely.
+
+Consultant: That’s fantastic. Sharing those inner thoughts through your work helps in building deeper connections. How has it felt sharing these pieces and narratives with others in those settings?
+
+User: It was nerve-wracking at first, but I felt validated knowing others could relate or appreciated what I was expressing.
+
+Consultant: It's significant to have your feelings validated, isn't it? Now as you reflect on the insights from these interactions, what new strategies have you considered for approaching similar situations in the future?
+
+User: I'll try to assess my thoughts more carefully and remind myself not to jump to conclusions. I’ve also found that expressing feelings to my mom helps.
+
+Consultant: Those are powerful strategies. Reflecting and discussing your thoughts can lead to calmer, clearer thinking. How do these realizations influence your interactions with peers or school-related stresses?
+
+User: I find myself being less hard on myself and more open to listening and engaging with others, which is improving my overall experience at school.
+
+Consultant: That’s great progress, Xiaoxin. School can be a breeding ground for stress, and building this confidence to engage with peers helps immensely. Do you think maintaining this pattern is achievable even during busier times?
+
+User: Yes, I think by focusing on these small, positive steps, it can become a habit. It feels more achievable than trying to do it all at once.
+
+Consultant: Absolutely. Every small victory paves the way for larger changes. Speaking of routines, is painting something you're planning to continue integrating into your weekly schedule to channel stress?
+
+User: Definitely. I plan to set aside some time each week to continue painting. It’s become an essential part of my routine now.
+
+Consultant: That's wonderful, Xiaoxin. Keeping it as a regular practice can provide ongoing emotional support and creative exploration. As we conclude our sessions, remember you're equipped with many skills for handling life's challenges. 
+
+User: Thank you so much for everything. I feel more capable of managing things on my own now.
+
+Consultant: That's a great outcome, Xiaoxin. Always remember that you're more resilient than you might realize. You are always welcome to reach out again whenever you feel the need. Keep exploring and nurturing your creative side.
+#######

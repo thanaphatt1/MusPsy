@@ -1,0 +1,360 @@
+Consultant: Hi Xiaomi, welcome to today's session. How have you been feeling recently? 
+
+User: Hi. I've been feeling really tense and shaky. My grades have started to drop, and I'm worried.
+
+Consultant: I'm sorry to hear that. It's understandable that these changes might be stressful. Have there been any recent events that have added to this stress?
+
+User: Yes, a few months ago, my mom and I had an argument about her wanting me to go back to our hometown to study. It's been difficult.
+
+Consultant: It sounds like this situation has really affected you. Have you noticed how these thoughts and feelings are connected to your actions or behaviors?
+
+User: Well, I find it hard to concentrate on schoolwork now. I feel nervous all the time, and I don't know how to deal with it.
+
+Consultant: We can work on understanding these connections and explore ways to help you feel more at ease. For our next session, try to keep track of your thoughts and emotions, especially those contributing to your stress.
+
+Consultant: Hi Xiaomi, glad to see you back for our session. Did you get a chance to observe your thoughts and emotions from last time?
+
+User: Yes, I noticed that whenever I start feeling stressed, I think about how disappointed my parents will be if my grades don't improve.
+
+Consultant: It's understandable that such thoughts would increase your anxiety. Have you identified any specific patterns that make these thoughts more intense or persistent?
+
+User: I tend to assume that my mom will be really upset or harsh if I don't do well, even if she hasn't said anything.
+
+Consultant: It seems like you're focusing on potential negative reactions. Have you thought about whether your assumptions might be influenced by previous situations or perceptions?
+
+User: I guess it's because she's always been strict about academics, and I've felt pressured to do well. It's hard not to worry.
+
+Consultant: For our next session, write down any automatic thoughts or assumptions you notice during stressful times.
+
+Consultant: Hi Xiaomi, welcome back. How did observing your automatic thoughts go? Were there any surprising realizations?
+
+User: I realized that I always think my mom will punish me or be angry if I don't perform perfectly in exams.
+
+Consultant: It's interesting to notice these thoughts. What percentage of certainty do you feel about these assumptions? Are there any other possible interpretations?
+
+User: I feel about 70% sure, but now I think it might just be my fear. She sometimes praises my efforts, even when I don't get the highest marks.
+
+Consultant: That's an insightful observation. If a friend was in your place, what advice would you offer them?
+
+User: I'd tell them to focus on doing their best and not assume the worst about their family's reaction.
+
+Consultant: Great perspective. For our next session, consider one small experiment: openly share your struggles with your mom and observe her reaction.
+
+Consultant: Hi Xiaomi, it's nice to see you again. Did you try talking to your mom about your academic stress?
+
+User: Yes, I tried. She was surprisingly understanding and encouraged me to take things one step at a time.
+
+Consultant: That's a positive response. It shows that your assumptions might not always match reality. How did having that conversation make you feel?
+
+User: Relieved, actually. It felt good to express my worries and hear her support.
+
+Consultant: It's wonderful to see your progress. Open dialogue often helps. What do you think might be a reasonable way to keep this communication going?
+
+User: I could try to talk to her more regularly about my feelings and school pressure.
+
+Consultant: For our next session, keep reflecting on how these conversations impact your stress and record any insights.
+
+Consultant: Hi Xiaomi, I'm happy to see you again. Have you thought of any activities that help you unwind during stressful times?
+
+User: Yes, I enjoy drawing. It takes my mind off things and helps me relax.
+
+Consultant: That's a great hobby to have. Engaging in enjoyable activities can significantly help you manage stress. Would you like to create a plan to integrate more drawing into your routine?
+
+User: Sure, I've been meaning to set aside more time for it. I just haven't yet.
+
+Consultant: Setting a simple weekly schedule might help. Perhaps start with dedicating time on weekends to drawing?
+
+User: That sounds doable, I’ll try to make it a habit.
+
+Consultant: Excellent. For our next meeting, let's see how this change impacts your well-being.
+
+Consultant: Hi Xiaomi, it's been great working with you. Let's reflect on your journey and identify the strategies you found most helpful.
+
+User: Recognizing my negative thinking patterns and expressing my feelings have been really useful. Drawing has also helped calm me down.
+
+Consultant: Those are powerful realizations. As you move forward, which strategies do you think will best support you during challenging times?
+
+User: I'll remember to address my negative assumptions and share my feelings instead of bottling them up. Drawing will definitely be in my routine too.
+
+Consultant: You've built incredible skills for handling life's challenges. Remember, you're always welcome to reach out if you need more support.
+
+User: Thank you for your help. I feel more equipped to manage things on my own now.
+#######
+Consultant: Hi Xiaomi, glad to see you back for our session. Did you get a chance to observe your thoughts and emotions from last time?
+
+User: Yes, I noticed that whenever I start feeling stressed, I think about how disappointed my parents will be if my grades don't improve.
+
+Consultant: It's understandable that such thoughts would increase your anxiety. Have you identified any specific patterns that make these thoughts more intense or persistent?
+
+User: I tend to assume that my mom will be really upset or harsh if I don't do well, even if she hasn't said anything.
+
+Consultant: It seems like you're focusing on potential negative reactions. Have you thought about whether your assumptions might be influenced by previous situations or perceptions?
+
+User: I guess it's because she's always been strict about academics, and I've felt pressured to do well. It's hard not to worry.
+
+Consultant: That's a lot to carry on your shoulders, Xiaomi. Have you noticed any situations or triggers that intensify this pressure?
+
+User: Mostly before exams or when I hear about a relative or friend's child doing well. It makes me question my own efforts and abilities.
+
+Consultant: It's common to compare ourselves to others, but it can be quite draining. What if we consider tackling these comparisons by focusing on your unique strengths or achievements instead?
+
+User: That sounds like a good idea, but it's hard not to fall into the comparison trap.
+
+Consultant: Acknowledging that is a powerful step. How would you feel about creating a journal to document your achievements, no matter how small, to help shift your focus?
+
+User: I think that might help. I'll try to start writing things down this week.
+
+Consultant: Excellent. Alongside journaling, if you notice those comparison thoughts creeping in, you might try reminding yourself of the effort you’re putting in.
+
+User: I can do that. It might help to see them on paper so I can reflect on them.
+
+Consultant: That's a constructive approach, Xiaomi. Reflecting can often reveal a lot about our mental patterns. Have you thought about discussing these feelings with a peer or friend for more perspective?
+
+User: I have a friend who also feels a lot of academic stress. Maybe talking to them would be beneficial.
+
+Consultant: It's a great idea to have a support system. When you talk with them, it might help you realize that you're not alone in feeling this way.
+
+User: Yeah, it would be nice to get her thoughts and see how she deals with these things too.
+
+Consultant: Perfect, Xiaomi. For our next session, keep a log of these conversations and your thoughts, just like you're doing with your journal. It could provide insights into changes in your mood or stress levels.
+
+User: I'll make sure to note everything down. I'm curious to see the patterns emerge.
+
+Consultant: I'm eager to see how this self-reflection affects you. It sounds like you're on a positive path. Remember, these adjustments aren't going to be immediate, but every small step counts.
+
+User: Thanks for your encouragement. I'll keep working on it.
+
+Consultant: You're doing wonderfully, Xiaomi. Remember, being kind to yourself in this process is key. Looking forward to our next session where we can delve deeper into what you've uncovered.
+
+User: Thank you for your guidance. Talk soon!
+#######
+Consultant: Hi Xiaomi, welcome back. How did observing your automatic thoughts go? Were there any surprising realizations?
+
+User: I realized that I always think my mom will punish me or be angry if I don't perform perfectly in exams.
+
+Consultant: It's interesting to notice these thoughts. What percentage of certainty do you feel about these assumptions? Are there any other possible interpretations?
+
+User: I feel about 70% sure, but now I think it might just be my fear. She sometimes praises my efforts, even when I don't get the highest marks.
+
+Consultant: That's an insightful observation. If a friend was in your place, what advice would you offer them?
+
+User: I'd tell them to focus on doing their best and not assume the worst about their family's reaction.
+
+Consultant: Great perspective. For our next session, consider one small experiment: openly share your struggles with your mom and observe her reaction. Observing reality can sometimes help us differentiate between fear and fact.
+
+User: I'll give it a try. It sounds a bit nerve-wracking, but I see the value in it.
+
+Consultant: That's the spirit, Xiaomi. Remember, it's about taking small, manageable steps. How do you feel about the potential reaction or feedback she might give?
+
+User: I guess it's a mix of fear and hope. I'm anxious about her reaction but hopeful that it could help me see things more clearly.
+
+Consultant: Acknowledging both emotions is important. Paying attention to her actual responses rather than assuming might help reduce some anxiety over time. How often do you think you'll be comfortable initiating these conversations?
+
+User: Maybe start with once a week? It might be tough at first, but I think that could be a realistic goal.
+
+Consultant: Starting with once a week sounds like a solid plan. When you're prepared, perhaps sharing specific moments when you're feeling stressed might invite an open dialogue. 
+
+User: That makes sense. I'll try to use specific situations to help explain what's going on in my mind.
+
+Consultant: Fantastic approach, Xiaomi. After your conversation, you might also want to jot down any new insights or how the interaction made you feel. This can help deepen your understanding of your reactions and assumptions.
+
+User: That's a good idea. Reflecting on what happens could be really helpful.
+
+Consultant: I'm glad you think so. Another way to build trust is through showing appreciation for her listening. How does expressing gratitude feel to you?
+
+User: Gratitude isn't something I think about often, but I could already feel how acknowledging her understanding might improve our connection.
+
+Consultant: It's a powerful practice. Small acts of gratitude can strengthen bonds and create a more positive interaction space. How do you anticipate these practices will influence your stress levels?
+
+User: I think it might gradually reduce my stress because I won't be carrying all these assumptions around. It'll encourage a more balanced perspective.
+
+Consultant: Exactly. Balance in perception can indeed lessen the burden of stress. As you become more comfortable with communication, do you think you'll feel more supported during challenging times?
+
+User: Absolutely. Knowing I have support, especially from my mom, could make a big difference in how I handle pressure.
+
+Consultant: It's wonderful to hear you're open to this change. These first steps you’re taking toward open communication show profound courage. As you move forward, is there anything you'd like to discuss or have more support with?
+
+User: Not at the moment. I feel like I've got a lot to work on with what we've discussed already.
+
+Consultant: You've shown tremendous insight and readiness to embrace these changes. For our next session, let's focus on how these practices affect your perceptions and interactions.
+
+User: That sounds great. I'll pay attention to how things evolve and be ready to share my experiences next time.
+
+Consultant: I look forward to hearing about your journey, Xiaomi. Remember, you’re making significant progress just by being open to change. Take care until then.
+
+User: Thanks, I appreciate the support. See you in our next session!
+#######
+Consultant: Hi Xiaomi, it's nice to see you again. Did you try talking to your mom about your academic stress?
+
+User: Yes, I tried. She was surprisingly understanding and encouraged me to take things one step at a time.
+
+Consultant: That's a positive response. It shows that your assumptions might not always match reality. How did having that conversation make you feel?
+
+User: Relieved, actually. It felt good to express my worries and hear her support.
+
+Consultant: It's wonderful to see your progress. Open dialogue often helps. What do you think might be a reasonable way to keep this communication going?
+
+User: I could try to talk to her more regularly about my feelings and school pressure.
+
+Consultant: That sounds like a good plan. Regular communication can help you manage stress better. Did you prepare or think about specific points before you approached the conversation with her?
+
+User: I did think about it. I wanted to make sure I wasn't sounding too whiny, just explaining why I felt so pressured.
+
+Consultant: Preparing beforehand can be a valuable strategy. How do you envision the dynamics of your ongoing conversations with her?
+
+User: Ideally, I'd like to be able to share openly without fearing her judgment or disappointment.
+
+Consultant: That openness is a healthy goal. How do you think your mom usually reacts when you express your emotions?
+
+User: She seems to be more understanding than I give her credit for. It's my own anxiety that makes me expect the worst.
+
+Consultant: It's insightful to recognize how anxiety can shape our expectations. Now that you're more aware of this, how might you approach future conversations differently?
+
+User: I'll try to focus more on expressing how I feel rather than worrying about her reaction. 
+
+Consultant: That's a productive shift. Would you say this experience has altered any perceptions you held about your mom?
+
+User: Yes, it has shown me she's more supportive than I thought. My fear was somewhat unfounded.
+
+Consultant: That's a great realization. Trusting this support could be a strong foundation for your relationship. Thinking back, do you notice any emotional or physiological responses when you share with your mom?
+
+User: I feel less tense. My shoulders seem to relax and my thoughts become clearer.
+
+Consultant: It's interesting how our emotions manifest physically. How do you think maintaining this positive dialogue with your mom might influence your academic stress?
+
+User: It might help me feel less isolated with my problems, knowing she's there for me.
+
+Consultant: Exactly. Isolation often intensifies stress. Can you identify any shifts in your academic performance or motivation since that conversation?
+
+User: I feel a bit more focused. Not entirely stress-free, but more at ease when studying.
+
+Consultant: That's some encouraging progress. Have you noticed any other areas of your life that have improved as a result of reducing this stress?
+
+User: I have more energy for my hobbies like drawing, and I'm not as anxious about future assignments.
+
+Consultant: That's great to hear. Engaging with your hobbies can promote relaxation. Speaking of drawing, have you considered channeling your emotions into your artwork?
+
+User: It's funny you mention that. I've started sketching whenever I feel overwhelmed, and it seems to help.
+
+Consultant: Art can be a powerful emotional outlet. How do you think adding regular drawing sessions could bolster your stress management plan?
+
+User: It would likely provide a healthier coping mechanism for when I start feeling anxious or stressed.
+
+Consultant: Establishing a routine of creativity can be grounding. How might you integrate these art sessions into your weekly routine consistently?
+
+User: I think setting aside specific times on weekends or after particularly stressful days would be beneficial.
+
+Consultant: That sounds like a very practical approach. Have you ever shared any of your concerns or struggles through art with your mom?
+
+User: No, not yet. But it might be another way to communicate my feelings.
+
+Consultant: It could indeed offer an indirect and expressive way of sharing. Would you be open to showing her a piece that represents your emotional landscape?
+
+User: I might give that a try. It could open up more discussions about how I've been feeling.
+
+Consultant: I'm eager to hear how that experience unfolds. Reflecting on today’s conversation, do you have any takeaways or insights that stand out?
+
+User: I realize that I need to trust more and communicate openly. My mom can understand more than I assumed.
+
+Consultant: Trust and open communication are such important elements. For our next session, keep reflecting on how these conversations impact your stress and record any insights.
+
+User: I will. It seems like a good way to track my progress and refine my approach over time.
+
+Consultant: You're on a promising path with these strategies, Xiaomi. Remember, this journey is about making gradual changes, and you're progressing well.
+
+User: Thanks, I appreciate your guidance a lot.
+
+Consultant: You're welcome, Xiaomi. Keep up the great work, and I look forward to our next session to see how these conversations evolve further. Take care until then.
+
+User: Thank you, see you next time!
+#######
+Consultant: Hi Xiaomi, I'm happy to see you again. Have you thought of any activities that help you unwind during stressful times?
+
+User: Yes, I enjoy drawing. It takes my mind off things and helps me relax.
+
+Consultant: That's a great hobby to have. Engaging in enjoyable activities can significantly help you manage stress. Would you like to create a plan to integrate more drawing into your routine?
+
+User: Sure, I've been meaning to set aside more time for it. I just haven't yet.
+
+Consultant: Setting a simple weekly schedule might help. Perhaps start with dedicating time on weekends to drawing?
+
+User: That sounds doable, I’ll try to make it a habit.
+
+Consultant: Excellent. For our next meeting, let's see how this change impacts your well-being.
+
+User: Sounds good to me. I'll let you know how it goes.
+
+Consultant: Great, Xiaomi. In addition to drawing, have you considered any other outlets that might help you unwind or feel more at ease during tough times, especially with the stress from school?
+
+User: I've thought about it. I sometimes listen to music or take walks, which helps a bit.
+
+Consultant: Both are excellent choices. When you listen to music or take walks, do you find your thoughts becoming more positive or clear?
+
+User: Yes, I guess those activities allow me to clear my head momentarily. But when I'm back to studying, the worries return.
+
+Consultant: It's common for stressors to resurface. Have you tried integrating these activities into shorter breaks during your study sessions to help maintain a clearer mind?
+
+User: No, but that's a good idea. Maybe a little music break between subjects could help.
+
+Consultant: That could indeed make a difference. Let's see if incorporating these short, refreshing breaks can ease the pressure and help your focus return more effectively during your study sessions.
+
+User: I'm willing to give that a try. Small changes could help a lot.
+
+Consultant: Fantastic, Xiaomi. As you try this out, pay attention to whether these breaks influence the kind of thoughts you have about your academic performance.
+
+User: I'll do that and see if there's a change in how I process my worries.
+
+Consultant: Wonderful. Alongside this, as you prepare for exams, remember to remind yourself of the effort and dedication you put in, instead of solely focusing on outcomes.
+
+User: I'll try to shift my focus on that and see if it lightens the stress.
+
+Consultant: It's all about progress over perfection. Would you like to set any specific goals related to this new study approach for the upcoming week?
+
+User: I could aim to incorporate a 10-minute music session after each study hour.
+
+Consultant: That sounds like a great plan, Xiaomi. Being mindful of these practices can support you in managing academic stress better. I look forward to hearing how this new routine works for you. 
+
+User: I'm hopeful it will help. I'll make sure to keep track of my progress.
+
+Consultant: Excellent approach, Xiaomi. Keep observing how these habits influence your stress levels, and encourage yourself for small victories. You're doing incredibly well.
+
+User: Thank you. I'll keep it up and let you know how things go.
+
+Consultant: Perfect, Xiaomi. I'll see you next time to discuss your insight and any adjustments we might make. Take care!
+
+User: Thanks! See you in the next session.
+#######
+Consultant: Hi Xiaomi, it's been great working with you. Let's reflect on your journey and identify the strategies you found most helpful.
+
+User: Recognizing my negative thinking patterns and expressing my feelings have been really useful. Drawing has also helped calm me down.
+
+Consultant: Those are powerful realizations. I'm curious, when you started addressing your negative thoughts, did you notice any changes in your interactions with others or in how you approached tasks?
+
+User: Yes, I actually did. I've become more open with my friends about how I'm feeling, and that has strengthened our relationships. It feels like a weight is lifted off my shoulders when I share things instead of keeping them to myself.
+
+Consultant: That's a fantastic development. Your ability to open up also seems to be positively impacting your social interactions. Have your friends noticed this change as well?
+
+User: They've mentioned I seem more relaxed and happier. It's encouraging to hear that from them.
+
+Consultant: That's wonderful feedback, Xiaomi. It sounds like expressing your feelings is not only helping you but also enhancing your connections with others. How has drawing played a role in this process?
+
+User: Drawing helps me process my emotions in a more visual way. It's a form of self-expression that feels very personal and freeing. It's like a break from all the mental noise.
+
+Consultant: It’s great to have such a meaningful outlet. Incorporating drawing into your routine seems to be a key element in managing stress. Are there specific moments when you find it most helpful to draw?
+
+User: Before or after a stressful day is ideal. It gives me a chance to unwind or prepare myself mentally for what's coming.
+
+Consultant: That sounds like a well-thought-out strategy. As you move forward, which strategies, like addressing negative assumptions and engaging in drawing, do you think will best support you during particularly challenging times?
+
+User: I'll remember to address my negative assumptions and share my feelings instead of bottling them up. Drawing will definitely be in my routine too.
+
+Consultant: You've built incredible skills for handling life's challenges. It's impressive how proactive you've been in finding what works best for you. Have you thought about maintaining this momentum by perhaps setting new personal goals or continuing to practice these strategies?
+
+User: Setting new goals sounds like a good idea. I could aim to increase the time I devote to drawing each week or regularly check in with my emotions.
+
+Consultant: That's a proactive approach. Sustaining your growth by setting new goals will help keep you on track. Remember, you're always welcome to reach out if you need more support.
+
+User: Thank you for your help. I feel more equipped to manage things on my own now.
+
+Consultant: It's been a pleasure to watch your progress, Xiaomi. Keep nurturing these strategies, and I'm confident you'll continue to thrive. Take care!
+#######

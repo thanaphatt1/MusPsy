@@ -1,0 +1,406 @@
+Consultant: Hi! Thank you for joining me today. How have you been feeling recently, especially after experiencing the reaction during your first blood donation?
+
+User: Hi. I haven't been doing too well. Ever since that day, I've been feeling extremely anxious and have been avoiding social situations. I also have trouble sleeping and can't seem to focus on anything.
+
+Consultant: I'm really sorry to hear that. It sounds like a very challenging and stressful time for you. Could you share more about how you're feeling on a daily basis? For example, are you experiencing any physical symptoms or specific thoughts that worry you?
+
+User: Yes, I often feel dizzy and my hands tremble. I wake up a lot at night, and my heart races whenever I think about the blood donation incident. I also have a hard time eating and interacting with other people.
+
+Consultant: Those sensations must be really difficult to cope with. I'm here to support you and together we can understand the connections between your thoughts, emotions, and behaviors. To start, I'd like you to try and note down any repeated troubling thoughts or feelings you experience over the next week. Can you do that?
+
+User: I think I can try. It might help me see things more clearly.
+
+Consultant: Hi! It's great to have you back. I wanted to start by asking about the exercise we talked about last time. Were you able to note down any recurring thoughts or feelings?
+
+User: Hi. Yes, I've noticed that I often find myself thinking about the worst-case scenarios. My mind keeps replaying the blood donation incident and the reactions I witnessed. I feel a great deal of fear and helplessness.
+
+Consultant: I see. It seems that these thoughts are amplifying your anxiety. Have you observed any patterns that might be making these thoughts more intense?
+
+User: I think I'm always assuming that something bad will happen whenever I see a hospital or hear someone talk about donating blood. It’s like I instantly panic without considering that it might not be as bad as I fear.
+
+Consultant: It sounds like your mind is automatically linking certain situations with negative outcomes. Let's continue exploring how these thoughts might influence your feelings. To help break the cycle, try to challenge these thoughts next time by asking yourself if there's any real evidence supporting them.
+
+User: I’ll give it a try. It’s hard, but I see how it could make a difference.
+
+Consultant: That's great to hear you're willing to take that step. When you start noticing these negative automatic thoughts, it might be useful to pause and reframe them in a way that reduces their impact.
+
+User: That makes sense. I'd like to try seeing the situations from a different perspective.
+
+Consultant: Fantastic. Think of it like being an investigator, collecting evidence to support or refute these worrying thoughts. With time, you might notice a change in how intense or frequent they are.
+
+User: Yes, that approach could possibly lessen their hold over me, I think.
+
+Consultant: Exactly. And don't hesitate to reach out if you find yourself needing extra support during this process. Now, since feeling less anxious is a priority, is there anything you find soothing or comforting that you could incorporate into your routine?
+
+User: Well, I used to enjoy knitting. It always helped me unwind and clear my mind.
+
+Consultant: Knitting sounds like a great therapeutic outlet. Maybe bringing it back into your daily routine could provide some relief from anxiety.
+
+User: I haven't thought about doing that again, but it could definitely be relaxing.
+
+Consultant: Perfect. How about setting aside a little time each day to get back into knitting? It gives you the chance to engage in something you love while also managing stress.
+
+User: Yes, I'll try to start knitting a little each evening. It would be nice to have that time to myself.
+
+Consultant: Wonderful, dedicating this time to yourself can be incredibly beneficial. As you knit, perhaps it could be a moment to reflect on the progress you're making in reframing your thoughts.
+
+User: That's a good suggestion. Combining the two might strengthen my efforts.
+
+Consultant: I'm very pleased you're open to this. Would setting any small goals around knitting help make it even more rewarding?
+
+User: Maybe I could aim to complete a small project each month. It could give me something to look forward to.
+
+Consultant: That's an excellent goal. Completing a project will give you a sense of accomplishment and remind you of your capabilities. Let’s also keep track of how these practices influence your feelings over time.
+
+User: I'm excited to start, and I'll pay attention to any changes.
+
+Consultant: Great! As we wrap up today, we’ve established some constructive approaches for addressing the anxiety. Remember, it’s about taking it one step at a time and recognizing the positive strides you make along the way.
+
+User: Thank you so much. I feel a bit more hopeful in tackling my anxiety now.
+
+Consultant: You're very welcome. Keep nurturing that hope, and be gentle with yourself throughout this journey. I look forward to hearing about your knitting projects and how you feel next time we meet. Take care!
+
+User: I will. See you next time!
+#######
+Consultant: Hi! It's great to have you back. I wanted to start by asking about the exercise we talked about last time. Were you able to note down any recurring thoughts or feelings?
+
+User: Hi. Yes, I've noticed that I often find myself thinking about the worst-case scenarios. My mind keeps replaying the blood donation incident and the reactions I witnessed. I feel a great deal of fear and helplessness.
+
+Consultant: I see. It seems that these thoughts are amplifying your anxiety. Have you observed any patterns that might be making these thoughts more intense?
+
+User: I think I'm always assuming that something bad will happen whenever I see a hospital or hear someone talk about donating blood. It’s like I instantly panic without considering that it might not be as bad as I fear.
+
+Consultant: It sounds like your mind is automatically linking certain situations with negative outcomes. Let's continue exploring how these thoughts might influence your feelings. To help break the cycle, try to challenge these thoughts next time by asking yourself if there's any real evidence supporting them.
+
+User: I’ll give it a try. It’s hard, but I see how it could make a difference.
+
+Consultant: That's great to hear you're willing to take that step. When you notice these negative automatic thoughts, it might be useful to pause and reframe them in a way that reduces their impact.
+
+User: That makes sense. I'd like to try seeing the situations from a different perspective.
+
+Consultant: Fantastic. Think of it like being an investigator, collecting evidence to support or refute these worrying thoughts. With time, you might notice a change in how intense or frequent they are.
+
+User: Yes, that approach could possibly lessen their hold over me, I think.
+
+Consultant: Exactly. It might also be helpful to build a sense of awareness around what truly triggers these thoughts. Are there particular memories or situations that you find contribute most significantly to these invasive thoughts?
+
+User: Any mention of hospitals or seeing medical equipment tends to do that. My thoughts spiral out of control before I even realize it.
+
+Consultant: It seems like some of these environments automatically trigger anxious responses. It could be valuable to practice grounding techniques when faced with these triggers to help manage your response better.
+
+User: I've heard of grounding techniques before but haven't tried them seriously.
+
+Consultant: We can certainly explore some simple techniques that might be effective for you. For example, focusing on your breathing or identifying and naming five things you can see, touch, hear, smell, and taste could be a good start.
+
+User: I like that idea. It seems grounding could really help when my mind starts racing.
+
+Consultant: Excellent. These techniques aim to bring you back to the present moment and interrupt the anxiety cycle. Practicing these regularly can gradually build resilience against those automatic thought patterns.
+
+User: I see how that would be helpful. It places me back in control rather than letting my anxiety run unchecked.
+
+Consultant: Absolutely. As we work towards this, allow space for self-compassion. We all experience challenging thoughts, and being kind to yourself during these times is essential for healing and growth.
+
+User: That's something I struggle with, being kind to myself. It's much easier to make myself responsible for these feelings.
+
+Consultant: Remember, it's important to acknowledge how your thoughts and emotions arise as reactions to past experiences rather than faults of your own. You're doing your best under tough circumstances, and that deserves kindness.
+
+User: There's comfort in that reassurance. Sometimes I need to hear that it's okay not to have everything figured out.
+
+Consultant: Yes, every step you take is progress towards your goals, and it's perfectly fine to have moments of uncertainty. Exploring these emotions and extending yourself patience as you navigate through them is crucial.
+
+User: I'll keep reminding myself of that. It will take practice, but I think I can get there.
+
+Consultant: That's the spirit. It's truly wonderful to see your openness to positive change and resilience. Let’s set a small task which involves reflecting on your day-to-day and noting any positive experiences or thoughts, no matter how minor, to reinforce this mindset.
+
+User: I'm willing to try it out. Noting small positives could shift my focus.
+
+Consultant: It’s often the small steps that create lasting transformation. As you draw attention to these moments, it could build a more balanced perspective, gradually altering the dominant presence of negative thoughts.
+
+User: I'll definitely try incorporating that into my routine, along with the grounding exercises.
+
+Consultant: That's a great plan. And remember, it's alright to reach out whenever needed. I'm here to support you every step of the way. I'm looking forward to hearing about the positive changes as you continue this journey.
+
+User: Thanks, it means a lot to have this support and guidance. I'll take these steps forward and check in next time.
+
+Consultant: You're most welcome. Remember, each little progress is significant. Stay kind to yourself. Take care, and see you in our next session.
+#######
+Consultant: Hi again! In our last session, we explored those distressing thoughts. I'm curious, how confident are you in your assumptions about the situations that trigger your fears?
+
+User: Honestly, not too confident. It's just the way I feel, even though I don't have concrete proof that these worst-case scenarios will unfold.
+
+Consultant: That's understandable. Imagine if a friend of yours was dealing with similar fears, how would you advise them to think about these situations?
+
+User: I'd probably tell them to stay calm and step back to see if the fears are based on reality or just assumptions. Maybe try facing the triggers slowly to gain more confidence.
+
+Consultant: That's a very thoughtful approach. Do you think applying this line of thinking could help your situation as well?
+
+User: It might. I hadn’t thought about approaching it in a similar way.
+
+Consultant: Often, we hold ourselves to different standards than we would a friend. Allowing yourself the same patience and understanding could be a positive shift. How about practicing this for small triggers you encounter?
+
+User: That makes sense. I think taking small steps could help build my confidence gradually.
+
+Consultant: Exactly. Building confidence incrementally can lessen the overall impact of those triggers. Have you thought about which small step you might take first?
+
+User: Perhaps starting with small exposures, like visiting a clinic without actually donating blood yet, might be a good start.
+
+Consultant: That's a practical and manageable step. We call this method gradual exposure, and it can be very effective in reducing anxiety over time. What are some of the feelings or thoughts you foresee during this first step?
+
+User: I imagine there will still be some anxiety, but hopefully, it won't be as overwhelming if I remind myself it's only a visit.
+
+Consultant: It's great to anticipate and mentally prepare for those feelings. Bringing in some grounding techniques to these visits can also help manage any immediate anxiety.
+
+User: I remember we talked about grounding techniques before. Like focusing on my breathing or sensory details around me, right?
+
+Consultant: Exactly. Practicing these can reinforce presence and reduce feelings of anxiety. Doing this consistently will strengthen your resilience in such settings over time.
+
+User: I'm willing to try it. Practicing the techniques beforehand could make a difference.
+
+Consultant: Sounds like a solid plan. Consistent practice will make them feel more natural. Have you had the chance to try them in other situations recently?
+
+User: I tried during a stressful meeting at work, and it did help me calm down before speaking.
+
+Consultant: That's wonderful to hear that they’re already benefiting you. Drawing from these experiences can build confidence in using these techniques when approaching your blood donation scenario.
+
+User: Yes, I think having that reassurance will be useful. It's a reminder that I can manage the anxiety with a little practice.
+
+Consultant: Exactly. Alongside grounding, affirming your progress with small rewards can further motivate you. This reinforces positive experiences associated with facing these fears.
+
+User: That’s a good idea. I rarely acknowledge the small wins, but maybe I should start.
+
+Consultant: Absolutely! Celebrating small victories will strengthen your progress and boost your morale. Maybe even setting up moments for relaxation after these exposures could serve as positive reinforcement.
+
+User: That could be enjoyable, rewarding myself with something small after each milestone.
+
+Consultant: Perfect. Those moments of indulgence can significantly support this journey of overcoming anxiety. Have you thought about what you might treat yourself to after a successful exposure?
+
+User: Perhaps treating myself to some quiet drawing time, since I do find it quite relaxing.
+
+Consultant: Incorporating your drawing has an added bonus of relaxation and unwinding. Channeling the creativity in those moments can deepen this rewarding experience.
+
+User: Indeed. I think it can create a balance, making exposure less daunting with something pleasant to look forward to.
+
+Consultant: Finding a creative outlet during this process is a healthy emotional release. What would starting this drawing ritual look like to you?
+
+User: Setting specific time slots for this, perhaps after each step in my exposure plan, might work. Just me, some paper, and pens.
+
+Consultant: That sounds idyllic and self-compassionate. This plan signifies actively nurturing your well-being alongside the work on lowering anxiety.
+
+User: I suppose it does. It’s easy to overlook how even small acts of self-kindness contribute to healing.
+
+Consultant: Exactly. Nurturing this habit of self-kindness will pave the way for sustained emotional balance. Would you like any guidance in sculpting this drawing ritual?
+
+User: I think starting simple and letting it evolve naturally feels right. Just focusing on the pleasure of creating.
+
+Consultant: An organic approach sounds perfect, allowing for spontaneity and enjoyment. Trusting the process will unfold genuine comfort and relief.
+
+User: You’re right. This talk helped me realize it’s not only about reducing fears but also enriching my life in other ways.
+
+Consultant: That's a profound insight. Enhancing life with positive elements can overshadow the anxious moments, promoting holistic healing.
+
+User: I'm ready to start implementing these changes, small steps at a time.
+
+Consultant: You're on a wonderful path toward progress. Embrace each step with patience and celebrate every tiny gain. I eagerly await hearing how these experiences evolve.
+
+User: Thank you for guiding me through this. I appreciate having this support system.
+
+Consultant: My pleasure entirely. You have immense potential and courage to reshape your experiences. Take care until next time!
+#######
+Consultant: Welcome back! Last time we talked, we discussed challenging your thoughts. Have you had a chance to reflect on how you might address your fear of blood donation?
+
+User: Well, I thought it might help if I slowly expose myself to small aspects of donation scenarios, like reading about it or being near the donation setting, without actually participating for a start.
+
+Consultant: That sounds like an excellent plan. Gradual exposure can help reduce the anxiety linked to those scenarios. What do you hope to achieve or understand by taking these steps?
+
+User: I hope it will help me feel less fearful over time and become less affected by the scenario reminders.
+
+Consultant: That's a great goal. It's important to move at a pace that's comfortable for you, and celebrating each small victory will boost your confidence. Let’s plan your first step together.
+
+User: I like that idea. Maybe I'll start by reading some success stories about blood donation.
+
+Consultant: Success stories can indeed serve as inspiration and help shift perspective. They might contribute to building a more positive association with the process.
+
+User: Yes, it would be reassuring to see real-life examples of people overcoming similar fears.
+
+Consultant: In addition to the stories, reflecting on your response can give us insights. What comes to mind if you think about these stories initially?
+
+User: There's a mix of anxiety and curiosity, I guess. The anxiety because it’s still closely tied to the experience I had, but curiosity about how others managed to overcome it.
+
+Consultant: Recognizing both the anxiety and curiosity is a constructive step. Is there an element in these stories that you find particularly motivating or intriguing?
+
+User: I think knowing that others were able to help people and feel good about that is very motivating. It aligns with my values of wanting to help others.
+
+Consultant: Focusing on how your values connect with the positive aspects of donating could foster motivation. Would it be helpful to set small goals reflecting these values?
+
+User: I believe so. Perhaps focusing on the potential benefits to others might help me reduce my own fear.
+
+Consultant: It's wonderful to align your actions with your values. How about starting with small, manageable goals, such as reading one story a week and taking note of each person's strategy to manage their fear?
+
+User: That’s a manageable first step. I could see how they dealt with it and try to apply some ideas.
+
+Consultant: Exactly, adopting strategies that resonate with you could be empowering. How does it feel to incorporate some of this inspiration into your journey?
+
+User: It feels promising. I like the idea of learning from others and adapting that to my process.
+
+Consultant: That's a great mindset. Remember to be kind to yourself throughout this journey. It's about gradual progress, not perfection.
+
+User: Thank you for the reminder. Patience is something I'm working on too.
+
+Consultant: It's part of the process. Balancing patience with determination can transform your approach. In conjunction with reading, have you thought about incorporating any specific grounding techniques when anxiety arises?
+
+User: Breathing exercises have helped before. Maybe using them when I feel anxious during reading could be useful.
+
+Consultant: That's a solid plan. Breathing exercises can help maintain calmness and focus during anxiety. Consistency here will pay off in time.
+
+User: I’ll aim to practice regularly, starting alongside the reading.
+
+Consultant: Establishing it as part of your routine strengthens the habit. Do you find any particular time of day more conducive to practicing these techniques?
+
+User: Perhaps in the evening when things are quieter. It might help me wind down for the day as well.
+
+Consultant: Evening sounds ideal for relaxation and reflection. Bringing in a calming atmosphere can enhance effectiveness.
+
+User: Yes, I think creating a relaxing environment will encourage consistency.
+
+Consultant: Absolutely. A comfortable setting aids focus and regularity in practice. Have you considered a quiet activity post-reading to help solidify these moments?
+
+User: Maybe some drawing, as I mentioned before, could serve as a way to process everything.
+
+Consultant: Drawing would indeed complement your practice by allowing introspection and soothing tension. How do you envision the flow of these activities?
+
+User: Reading followed by breathing and finishing with drawing should create a nice routine.
+
+Consultant: That sounds well-structured and nurturing. This holistic approach will encourage ongoing engagement and enjoyment.
+
+User: I’m eager to start incorporating these changes and see the impact over time.
+
+Consultant: You're on a promising path. Embrace each step, celebrate progress, and stay gentle with yourself. I’m keen to hear about your experiences.
+
+User: Thank you for the continued support and guidance. I look forward to sharing how it all unfolds.
+
+Consultant: It's my pleasure. Remember, you’re not alone, and I’m here to assist as you continue this valuable work on yourself.
+#######
+Consultant: Hi! It's good to see you again. Have you thought about finding activities or exercises that might bring you joy and help ease stress?
+
+User: Yes, I used to enjoy drawing. When I lose myself in it, it tends to calm my mind and distracts me from my worries.
+
+Consultant: Drawing is a wonderful way to express yourself and relax. Engaging in this hobby can certainly elevate your mood and provide a therapeutic outlet. Would setting a regular time to draw each week be something you’re open to trying?
+
+User: Absolutely. I've wanted to pick it back up but haven't committed to it yet.
+
+Consultant: Establishing a routine could help make this a consistent and enjoyable habit. Starting with perhaps an hour on weekends might be a nice way to get back into it.
+
+User: That sounds feasible. I'll aim to do just that.
+
+Consultant: Great! Maybe you can share your creations with friends or family to rekindle that connection and get some positive feedback, too.
+
+User: That's a neat idea. It would be nice to share with others what I'm working on.
+
+Consultant: Sharing could bring some encouragement and further inspire your efforts. How do you feel after rediscovering drawing, and does it relieve stress?
+
+User: I feel a bit lighter and more in tune with myself. It’s like taking a little vacation from the chaos.
+
+Consultant: I’m glad to hear that. Drawing can be a medium of expressing feelings that are hard to articulate in words. What sorts of themes or subjects do you enjoy illustrating?
+
+User: Nature scenes. They remind me of peaceful and happy moments.
+
+Consultant: Nature is inherently calming and offers a vast array of inspiration. Capturing its beauty might intensify feelings of serenity and accomplishment.
+
+User: Yes, it feels grounding to portray elements from the natural world.
+
+Consultant: It’s important to bring elements of calm and enjoyment into your life since they act as anchors. Have there been any challenges popping up as you re-engage with your art?
+
+User: Sometimes I struggle with self-doubt about the quality of my work. I end up being too critical.
+
+Consultant: A lot of artists experience similar feelings. It's important to remember that the value lies in the process, not just the final product. Each piece is a step in your journey.
+
+User: That makes sense. I suppose judging my work less harshly could help me enjoy it more.
+
+Consultant: Definitely. Consider approaching each session with openness and kindness towards yourself. It might help to reflect on what the artwork means rather than focusing on perfection.
+
+User: I’ll try that. Letting go of expectations could make it more fulfilling.
+
+Consultant: How might approaching your artwork this way impact your overall stress levels and emotional well-being?
+
+User: By shifting focus from perfectionism to expression, I think it could help reduce tension and let me enjoy the process more.
+
+Consultant: That sounds promising. Would it be helpful to create an art journal to record your thoughts and feelings alongside your artwork?
+
+User: I like the idea of an art journal. It can serve as both a creative outlet and a personal diary.
+
+Consultant: Exactly. As you engage in this exercise, it might be revealing to note any insights or changes in your emotions.
+
+User: I'm curious to see how this unfolds and shapes my perspective over time.
+
+Consultant: Your openness to embrace new approaches is inspiring. Do you think incorporating a specific time frame for your art and journal entries each week would be beneficial?
+
+User: Scheduling a specific time each week could make it easier to stick with it consistently.
+
+Consultant: Establishing a routine can help turn this into a sustaining practice. How about integrating a quick review of your art journal entries monthly to observe patterns or progress in your stress management?
+
+User: That seems like a constructive habit. It would offer a chance to celebrate any progress and recognize patterns.
+
+Consultant: Seeing tangible growth and insights can indeed motivate you to continue. Have you considered other complementary activities to support this new habit?
+
+User: Alongside drawing, revisiting some breathing techniques might help balance everything.
+
+Consultant: Combining both could enhance relaxation and focus. How do you visualize blending breathing exercises within your art sessions?
+
+User: I might start each session with a few minutes of deep breathing to clear my mind and end with reflection.
+
+Consultant: Incorporating mindfulness throughout the process can make it even more rewarding. Would setting small, attainable weekly goals be something you’d like to integrate into this routine?
+
+User: Yes, they could keep the motivation alive and make it easier to measure success.
+
+Consultant: Gradual progress often leads to sustainable achievement. What small goals could you implement this first week?
+
+User: Perhaps complete one sketch and write a short reflection on it in the journal.
+
+Consultant: That sounds manageable and fulfilling. Being intentional with your time will empower you to enjoy each moment more deeply.
+
+User: I'm feeling motivated to weave these practices into daily life.
+
+Consultant: It's great to hear that, and remember to be patient and compassionate with yourself as you re-engage with these creative activities.
+
+User: Thank you for the encouragement. I’m looking forward to seeing how this impacts my outlook.
+
+Consultant: I'm eager to hear about your experiences and any insights that come up. Feel free to share your journey whenever you're ready.
+
+User: I will. It's amazing how revisiting a simple hobby can rejuvenate the spirit.
+
+Consultant: It truly is. Keep nurturing these practices and know that you're creating positive change one step at a time.
+
+User: I appreciate this supportive space to unravel my thoughts and find clarity.
+
+Consultant: Always here to support you. Celebrate each small victory, and I look forward to our next session. Take care and enjoy your art!
+
+User: Thanks. I’ll keep you updated with my progress!
+#######
+Consultant: Hi there! It's been a thoughtful journey working together. I’d like us to reflect on your progress and highlight strategies that have been beneficial for you. How have you been feeling after implementing some of the techniques we've discussed?
+
+User: Hi! I've learned to pause and rethink my immediate reactions to anxiety triggers. It's helped shift my perspective in a more positive way, especially since I've started picking up drawing again.
+
+Consultant: That's wonderful to hear. Your dedication to drawing seems to be an incredible outlet for expressing emotions and relieving stress. In dealing with future challenges, what methods do you believe will support you best?
+
+User: I'll remind myself to focus on realistic viewpoints and tackle situations slowly. Engaging with my friends or looking for advice might also help ease my concerns.
+
+Consultant: You've developed strong coping strategies. Focusing on these steps can build resilience and empower you to manage life's hurdles. Your connection with nature through drawing is a unique strength in your toolkit. Do you find sharing your artwork with friends helpful in gathering positive reinforcement?
+
+User: Yes, actually. Sharing with my friends has brought about some encouraging feedback, which boosts my confidence and helps in reaffirming my progress.
+
+Consultant: Feedback from a supportive network can indeed be uplifting. As you continue nurturing this habit, what do you think will be important to maintain this momentum and reassure yourself during tougher days?
+
+User: I think keeping an art journal will help; documenting my thoughts alongside my sketches lets me track emotional progress and insights. Reflecting on patterns might also be beneficial.
+
+Consultant: That's a significant insight. Observing tangible growth through your art journal will be a profound experience. Remember, I'm here for context and support whenever you feel stuck. Have you considered setting small milestones for your art journey and how they can contribute to this reflective practice?
+
+User: Yes, small goals keep me motivated. Like completing at least one drawing a week alongside journal reflections, so I can recognize my progress.
+
+Consultant: That's an excellent approach. Small, consistent efforts lead to substantial growth over time. If you need extra support or face new hurdles, I’m here or feel free to reach out any time to discuss them.
+
+User: That’s comforting to know. Thank you so much for all your guidance. I'm feeling more equipped to handle things myself now, and I’m looking forward to seeing how this creative outlet continues to influence my well-being.
+
+Consultant: It's inspiring to witness your journey and the resilience you’ve cultivated. Celebrate these accomplishments, and I eagerly anticipate our next session where we can dig deeper into your reflections. Take care of yourself and immerse in the joy of creativity!
+
+User: Thanks. I’ll definitely update you on my progress. Take care!
+#######

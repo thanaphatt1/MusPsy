@@ -1,0 +1,364 @@
+Consultant: Hello Hong, welcome to our session today. How are you feeling recently?
+
+User: Hi. Lately, I've been quite overwhelmed and uninterested in my studies. Ever since we returned to in-person classes, I've had a hard time catching up.
+
+Consultant: I'm sorry to hear that. It seems like the transition back to school has been challenging. Could you tell me more about what's been bothering you?
+
+User: It's mainly because I didn't attend online classes properly during that period. Now, I feel like I'm lagging behind, and it's frustrating.
+
+Consultant: I understand how that can be distressing. How have these feelings been affecting your day-to-day life?
+
+User: I'm finding it hard to focus in class, and I often feel anxious when I think about falling further behind.
+
+Consultant: Let's explore how your thoughts and emotions are interconnected. Perhaps, together, we can find ways to ease the stress. For your task this week, try noting down instances when you feel particularly stressed while studying and what thoughts go through your mind. This will help us better understand your patterns.
+
+Consultant: Hi Hong, it's great to see you again. Have you had a chance to observe those thoughts and emotions during stressful moments?
+
+User: Yes, I've noticed that I often think I'll never be able to catch up, and it makes me anxious and discouraged.
+
+Consultant: I see. These thoughts can increase your stress and feeling of being overwhelmed. Have you noticed any patterns in how these thoughts arise?
+
+User: I tend to assume the worst, like failing exams, even without knowing how things will turn out. It feels like I'm always expecting the worst.
+
+Consultant: Your mind seems to be jumping to negative conclusions. Let's further explore how these thoughts are influencing your emotions. For this week, try not to immediately accept these thoughts as truths. See if you can challenge them or consider alternative perspectives.
+
+User: I can try that, though I'm not sure if it will be easy.
+
+Consultant: It's absolutely normal for it to feel challenging at first. Remember, the goal is to gradually train your mind to recognize these thought patterns and question their validity. Can you think of moments when things turned out better than you expected?
+
+User: Well, there was a math test I was really worried about, and it actually went okay in the end.
+
+Consultant: That's a great example. How did realizing the test went better than expected affect your feelings afterwards?
+
+User: I felt relieved and a bit more confident about my abilities.
+
+Consultant: Exactly, acknowledging these positive outcomes can help shift your perspective. Try to keep track of instances where the outcome was better than your fears. This can reinforce more balanced thinking over time.
+
+User: I'll give it a try. It might be useful to remember those times I'm wrong about failing.
+
+Consultant: Perfect. This week, practice noting down moments when your expectations don't match reality—in a positive way. It may help reduce the belief in those pessimistic thoughts over time.
+
+User: That sounds like a good approach. Maybe seeing it on paper will help it sink in.
+
+Consultant: Absolutely, Hong. Seeing this written down can empower you to notice patterns that challenge your anxious predictions. How do you think engaging in this exercise might influence your focus during study sessions?
+
+User: If I can shift my mindset and not expect failure, it might help me focus more during study sessions instead of being anxious.
+
+Consultant: That's a likely outcome, and it's wonderful that you're considering this potential shift. Creating these small changes in thoughts can lead to more effective study sessions.
+
+User: I'm hopeful it could make a difference.
+
+Consultant: I believe it will, too, Hong. Let's keep optimizing these strategies. For now, keep analyzing these experiences and challenging those negative thoughts as you become more aware of them.
+
+User: I'll work on it. I'm curious to observe how my thoughts shift in response.
+
+Consultant: Wonderful. Remember, this is a process, and every step counts. What's your plan for balancing these changes with seeking support from peers and teachers?
+
+User: Actually, I'm thinking about discussing some study techniques with classmates. Maybe that'll provide different insights.
+
+Consultant: That sounds like a beneficial way to both support your learning and connect with others. Peer support can be incredibly validating.
+
+User: Yeah, I agree. It could be a good change from feeling so isolated in my worries.
+
+Consultant: Establishing these connections can indeed break that sense of isolation. As we proceed, what's something else you might want to incorporate into your routine for added support?
+
+User: Possibly scheduling short breaks to play video games, since they help me unwind.
+
+Consultant: Incorporating some leisure activities like gaming can be an excellent stress reliever. Planning these breaks mindfully will give you time to recharge effectively.
+
+User: I think I can manage that, keeping a balance should help.
+
+Consultant: That's a positive plan, Hong. Creating a healthy balance is key, and you're taking impressive steps towards achieving it. I'm eager to hear about how these strategies work for you in our next session.
+
+User: Thank you. I'll keep track of things and let you know how it goes.
+
+Consultant: Looking forward to your insights, Hong. Keep moving forward, and take care until our next meeting.
+
+User: I will. Thanks for the support!
+#######
+Consultant: Hi Hong, welcome back. Let's discuss some of the stressful thoughts you've been experiencing. How certain are you about these beliefs of always being behind?
+
+User: Honestly, not very certain. It's just a fear I have, though I don't have any proof it's true.
+
+Consultant: It's understandable to feel that way. If a friend of yours was in a similar situation, what would you advise them?
+
+User: I’d tell them not to worry too much and maybe talk to teachers or classmates for help.
+
+Consultant: That's a practical approach. Would you consider reaching out to someone at school who could support you in catching up?
+
+User: I hadn’t thought about that, but it could help. Maybe talking to my teachers would be beneficial.
+
+Consultant: Let's plan to take a small step towards that. For this week's task, try initiating a conversation with a teacher or classmate for guidance.
+
+User: It sounds like a reasonable idea. I think I will give it a try and see how they can help me.
+
+Consultant: Fantastic, Hong. Building those connections can be very beneficial. Now, when you do feel overwhelmed with the thought of falling behind, are there other activities that help calm you down?
+
+User: Sometimes, playing my favorite video games helps me take my mind off things. It’s a bit of an escape.
+
+Consultant: Using gaming as relaxation can be a helpful strategy, as long as it's balanced well with study. How often do you play, and do you find it impacts your study routine?
+
+User: I don’t have a fixed time for it. Sometimes I play for an hour or two after school, depending on how anxious I feel.
+
+Consultant: It might be helpful to schedule your gaming time as a reward after study sessions, ensuring both your relaxation and academic tasks get attention. What do you think?
+
+User: That’s a great idea, actually. It would motivate me to finish my studies before playing.
+
+Consultant: Perfect, Hong. Let’s try incorporating that into your routine this week. Balancing effort and relaxation can improve focus and reduce stress.
+
+User: I think it will work. Plus, setting a schedule might help me feel more in control.
+
+Consultant: Exactly. Having control over your routine can make a significant difference. Alongside setting this schedule, how else can you revise your approach to studying?
+
+User: Maybe creating a study group with friends from my class might provide mutual support and motivation.
+
+Consultant: Forming a study group sounds like an excellent plan. It could offer diverse perspectives and ease the pressure of studying alone.
+
+User: Yeah, and having set times for group study should help keep me accountable.
+
+Consultant: Accountability is crucial, and learning with peers can enhance your understanding and retention of materials. Are you confident about initiating these group sessions?
+
+User: I’m a bit anxious about organizing it but excited to try it out.
+
+Consultant: That’s a natural feeling, and it's wonderful seeing your enthusiasm. It’s all about taking small steps. What might be the first step in setting this up?
+
+User: Probably reaching out to a few classmates who I think might be interested and discussing a suitable time.
+
+Consultant: That sounds like a well-thought-out plan, Hong. For this week, focus on inviting classmates and planning your first study session.
+
+User: Alright, I’ll do that. It’s nice having a structured plan to follow.
+
+Consultant: Absolutely, Hong. Remember that these adjustments take time and patience, but each small change is progress toward your goals.
+
+User: I'm ready to give it my best shot.
+
+Consultant: Fantastic. You’ve got a clear plan for both studies and relaxation. Let’s see how these strategies help you, and we can refine them as needed in our next meeting.
+
+User: I’m optimistic about the outcome. Thanks for guiding me through these steps.
+
+Consultant: You're doing so well, Hong. Continue to stay open to these experiences and adjustments. I’m looking forward to hearing about your progress.
+
+User: Thank you. I’ll keep track of everything and share how it goes next time.
+#######
+Consultant: Hi Hong, I'm glad to see you again. How has your week been since our last session, especially regarding your plan to reach out to teachers or classmates?
+
+User: Hi. It's been an interesting week. I did manage to talk to my history teacher, as I mentioned before. She was very understanding and pointed me towards some helpful resources. 
+
+Consultant: That's excellent, Hong! Taking that step to reach out is very courageous. How did it feel to have that conversation?
+
+User: It was a bit nerve-wracking at first, but ultimately relieving. Knowing that I'm not alone in this and that there are people willing to help made a big difference.
+
+Consultant: I'm really glad to hear that. It can be so empowering to realize there are people around who want to support you. Have you thought about reaching out to classmates as well?
+
+User: I have. I'm considering talking to a couple of my friends about forming a study group, like we discussed.
+
+Consultant: Forming a study group is a fantastic idea. It could help make studying more interactive and less isolating. What support do you think you could offer each other in the group?
+
+User: I think being able to explain things to each other and hold each other accountable would be beneficial. Plus, it might be fun to study together.
+
+Consultant: That sounds really constructive. Sometimes teaching or explaining concepts can deepen our own understanding. How do you think you might set this up with your classmates? 
+
+User: I plan to suggest a few regular times each week when we can all meet up, maybe after school or during the weekends. 
+
+Consultant: That’s a strong plan, Hong. Structuring these sessions will definitely build consistency. How confident do you feel about organizing it?
+
+User: I feel a bit nervous but also excited. It seems like a good step forward.
+
+Consultant: It’s okay to feel that way. New experiences often bring mixed feelings. What might be the first step to get this moving?
+
+User: I guess I should start by talking to my friends to gauge their interest and see if they’re available.
+
+Consultant: That’s a great start, Hong. Once you see who's on board, deciding on the study goals for each meeting could also be useful. 
+
+User: Yes, defining what we need to achieve could keep us focused and make the most out of our sessions.
+
+Consultant: Exactly, and that focus will help reinforce the learning. Speaking of which, at last session, we spoke about balancing study with relaxation. Have you been able to incorporate some gaming time into your schedule?
+
+User: Yes, I have started scheduling a bit of gaming time as a reward after my study sessions. It honestly feels more satisfying to play knowing that I've been productive.
+
+Consultant: That's wonderful, Hong! Scheduling downtime as a reward can make leisure activities more enriching. How has this affected your stress levels?
+
+User: It's made a noticeable difference. I feel less guilty about playing video games now that I know I've accomplished my study goals first.
+
+Consultant: That’s an excellent point. Balancing work with rest can really enhance your well-being. Besides gaming, have you considered any other forms of relaxation or hobbies you enjoy?
+
+User: I've thought about going for short walks or maybe reading a book. I think adding those could also be beneficial.
+
+Consultant: Incorporating physical activity and reading into your routine can offer great mental breaks. How do you plan to fit these activities in alongside study and gaming?
+
+User: I might try small walks after studying and reading before bed to unwind, spreading out these activities throughout the week.
+
+Consultant: That sounds balanced, ensuring you have diversity in your relaxation. A varied routine can help maintain motivation. In terms of your study habits, have you noticed any improvements?
+
+User: Yes, being able to track and manage my tasks better has helped me feel more in control of my workload.
+
+Consultant: That's fantastic progress, Hong. Feeling in control can significantly reduce anxiety and improve focus. What strategies will you continue to use moving forward?
+
+User: I'll keep organizing my tasks, reaching out for help when needed, and maintaining my balanced schedule.
+
+Consultant: Excellent choices. As you develop these habits, remember they are valuable skills you’re building for the long term. Is there anything else you’d like to discuss today?
+
+User: I think we've covered a lot. I'm feeling more optimistic about handling things now.
+
+Consultant: That’s great to hear. Keep taking things at your own pace and remember, I’m here to support you. Look forward to hearing about your study sessions and new routine next time.
+
+User: Thank you. I really appreciate your guidance, and I’ll keep you updated on how things go.
+#######
+Consultant: Hi Hong, how are you today? Last time, we spoke about creating a study plan. Were you able to draft something that helps manage your workload?
+
+User: Hi! Yes, I managed to draw up a simple study plan. It's been helping me keep track of my tasks better.
+
+Consultant: That's excellent, Hong. Having a plan can significantly alleviate stress. How has following this plan affected your daily routine?
+
+User: It’s actually allowed me to see what I need to prioritize, and I don't feel as overwhelmed by everything.
+
+Consultant: That's promising to hear. Recognizing priorities can lead to being more organized. Have you noticed any specific barriers when sticking to your plan?
+
+User: Sometimes, I find myself procrastinating, especially when a task seems too daunting.
+
+Consultant: It’s normal to feel that way. Let’s explore how you typically respond to these feelings of procrastination. What goes through your mind?
+
+User: I often get stuck in a cycle of thinking I have so much to do, and then I end up doing nothing because it's too overwhelming.
+
+Consultant: That sounds like a challenging mindset. Recognizing when you're entering that cycle is important. Have you tried breaking down tasks into smaller, more manageable steps?
+
+User: I have started to. It seems to make things less intimidating when I only focus on one small part at a time.
+
+Consultant: That's an effective approach, Hong. Perhaps visualizing your success with each small step can shift your mindset from feeling overwhelmed to feeling motivated. How does that idea resonate with you?
+
+User: It makes sense. Celebrating small victories might help keep me motivated throughout the process.
+
+Consultant: Exactly! Progress is progress, no matter the size. Besides studying, how do you feel about the balance of your other responsibilities?
+
+User: I’m still trying to find time for relaxation. The study plan helps, but I need to include more fun activities.
+
+Consultant: Balancing your workload with leisure is essential for maintaining well-being. Besides gaming, have you come across any other activities you'd like to explore or reintroduce into your routine?
+
+User: I’ve become interested in drawing again. It used to be something I enjoyed a lot.
+
+Consultant: That sounds like a wonderful hobby! Engaging in creative activities can be a great outlet. How might you incorporate drawing into your week?
+
+User: Maybe I could set aside some time in the evenings to doodle or work on a small piece.
+
+Consultant: That’s a fantastic idea, Hong. It could serve as a relaxing end to the day. Do you have any specific drawings or projects in mind?
+
+User: I want to try sketching some nature scenes. They’ve always inspired me.
+
+Consultant: Nature scenes can be quite soothing. Sketching those could provide you with a calming connection to the environment. How do you feel about sharing your art with family or friends?
+
+User: It’s a bit intimidating, but I think sharing might make it more fulfilling.
+
+Consultant: Sharing your creations could be rewarding and encourage you to continue. Now, thinking about all these aspects, would you say your approach to managing stress has changed since we first met?
+
+User: Yes, definitely. I feel like I’m slowly building a routine that’s more balanced and fulfilling.
+
+Consultant: That’s an impressive shift, Hong. As you continue to enhance this routine, what will be your next immediate move?
+
+User: I’ll make sure to keep up with my study plan and also include drawing time a few nights a week.
+
+Consultant: Staying consistent with these habits will help cement them. As a parting thought, keep tuning into your feelings about what works and what doesn’t, adjusting as necessary. 
+
+User: Thank you, I’ll definitely keep that in mind. I’m feeling much more proactive and hopeful about managing everything.
+
+Consultant: You’re making excellent progress. Keep nurturing these skills, Hong. I’m looking forward to hearing how the drawing and your study sessions unfold. Take care until next time!
+
+User: Appreciate it! I’ll see you next session.
+#######
+Consultant: Hi Hong, it's great to see you again. Have you thought about any activities that might bring you joy or relaxation in these stressful times?
+
+User: I've always enjoyed playing video games. It helps me unwind after a long day.
+
+Consultant: That's a valuable way to relieve stress. Balancing your studies with activities you love can greatly enhance your overall well-being. How do you feel about incorporating some gaming into your weekly schedule?
+
+User: That sounds like something I could do. I just need to balance my time between study and leisure.
+
+Consultant: Let's create a balanced schedule that includes study time and time for relaxation activities. Starting with small steps, like dedicating an hour for gaming each weekend, could work well. 
+
+User: That definitely sounds manageable. I think it would help me relax more.
+
+Consultant: Great, Hong. As you incorporate gaming, have you thought about any specific types or games that you particularly enjoy?
+
+User: I really like RPGs, they take me to another world and help me forget my worries for a while.
+
+Consultant: RPGs sound perfect for unwinding and exploring creativity. Besides gaming and your renewed interest in drawing, do you have any friends or family members you share these interests with?
+
+User: Yeah, my brother and I sometimes play games together, and he's also good at drawing. We used to do that a lot when we were younger.
+
+Consultant: That sounds like a wonderful bonding experience. Sharing these activities with your brother could strengthen your connection and provide mutual support. How about planning a weekend gaming session or drawing together?
+
+User: That actually sounds like a good idea. It could be fun to do something together again.
+
+Consultant: It can indeed be a great way to relax and build your relationship. Looking back over our sessions, how have you felt about the changes we've worked on together?
+
+User: I think slowly adding these hobbies back into my life has helped a lot. It makes handling school stress feel more manageable.
+
+Consultant: I'm glad to hear that, Hong. You've made a lot of progress in finding balance and recognizing what works for you. Are there any new challenges you're anticipating as you continue to balance these aspects?
+
+User: Well, sometimes I still struggle with getting started. I think if I don't plan well, I might slip back into old habits.
+
+Consultant: That's an important insight. Maintaining a structured plan can certainly prevent setbacks. How about periodically reflecting on your routine and making adjustments as needed to keep it effective?
+
+User: Sounds like a good strategy. It might help me stay proactive and adaptive.
+
+Consultant: Fantastic, Hong. Trying out that strategy and sharing achievements or struggles with your brother might provide additional motivation. How do you think he'd respond to you wanting to share those moments?
+
+User: I believe he'd be supportive and even offer some advice or encouragement.
+
+Consultant: Having such a supportive figure can really be advantageous. It sounds like a promising way to keep each other inspired. In light of your progress and experiences, what would you see as your next immediate step?
+
+User: I'll stick to my schedule, make sure to make time for drawing and gaming, and involve my brother to reinforce these habits.
+
+Consultant: That sounds like a well-rounded plan. You have a good grip on blending your interests with your responsibilities. Is there anything else we should explore or prepare for in these upcoming weeks?
+
+User: Not that I can think of, I feel prepared to handle things right now.
+
+Consultant: That’s reassuring to hear, Hong. It's been rewarding to work through these with you. As you move forward, remember the importance of balance, openness, and the relationships that enrich your life. Do reach out in the future if anything new arises.
+
+User: Thank you for everything. I'm more confident about my ability to manage work and stress now.
+
+Consultant: You're very welcome, Hong. You've invested great effort in understanding and bettering yourself. Keep nurturing these skills, and I'm certain you'll continue to thrive. Take care, and I'll be here if you need guidance.
+
+User: Thanks so much! I'll keep all this in mind and stay proactive.
+#######
+Consultant: Hi Hong, it's been a pleasure having these sessions with you. Could we reflect on your progress and identify which strategies have been most effective?
+
+User: I've learned to identify and challenge my negative thoughts better. Talking to my teachers has also been a big help.
+
+Consultant: That's encouraging to hear. When facing future challenges, what strategies do you think will best support you?
+
+User: I'll remind myself to stay open to experiences and actively seek help when needed. Keeping a balanced schedule with things I enjoy will also be key.
+
+Consultant: These are excellent strategies you've developed. As our sessions come to a close, remember you have gained valuable skills to face life's challenges. Always feel free to reach out if you need further support.
+
+User: Thank you for your guidance and understanding. I feel much more ready to manage my studies and emotions now.
+
+Consultant: I'm really glad to hear that, Hong. You've made significant strides in acknowledging your stressors and implementing practical solutions. Reflecting back, are there any particular moments from our sessions that stand out to you as transformative?
+
+User: I think when I first realized that not all my negative thoughts are based on reality was a turning point. Also, being encouraged to reach out and talk to my teachers gave me a lot of relief.
+
+Consultant: Those insights and actions have clearly had a positive impact. It's great that identifying unhelpful thoughts and connecting with those who can offer support were pivotal for you. Now that you’re wrapping up these sessions, what do you feel most proud of achieving?
+
+User: I'm proud that I didn't shy away from confronting my challenges. Learning to balance my interests with studies and not letting stress overwhelm me is something I always wanted to achieve.
+
+Consultant: You have every reason to feel proud of those achievements. Balancing responsibilities with personal interests is a nuanced skill, and you've managed it skillfully. How do you think continuing this balance might impact other areas of your life?
+
+User: I believe it will help me approach challenges with a clearer mind and maintain a more positive outlook. I feel more prepared to adapt to new situations now.
+
+Consultant: That's a wonderful perspective, Hong. Embracing adaptability and maintaining positivity are powerful tools for navigating life's ups and downs. As you continue to cultivate these habits, have you considered how you might keep motivated?
+
+User: Staying connected with my brother and friends who share similar interests helps keep me motivated. We support each other, which makes a big difference.
+
+Consultant: Having a supportive network is indeed invaluable. Their encouragement can act as both a reminder and a motivator for you to stay on track. As we conclude, what would you like to cement as your personal mantra moving forward?
+
+User: I want to remember that it's okay to seek help and that making time for myself is essential for my well-being.
+
+Consultant: That's an excellent mantra to carry forward. Remember, asking for help is a strength, not a weakness. As you continue on your journey, these insights will undoubtedly guide you. Is there anything else you'd like to discuss or reflect on before we part?
+
+User: I think we've covered everything important. I feel ready to apply what I've learned in real life.
+
+Consultant: Very well, Hong. It's been a privilege to witness your growth and dedication. Don't hesitate to reach out if ever you find yourself needing guidance again. Wishing you all the best in your endeavors and personal development.
+
+User: Thank you for everything. I've appreciated all the support and advice. I'll definitely keep what I've learned in mind.
+
+Consultant: You're very welcome, Hong. Take care, and continue to be the resourceful and resilient individual you've become. Until next time, if needed.
+#######

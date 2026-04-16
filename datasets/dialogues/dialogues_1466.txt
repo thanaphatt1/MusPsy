@@ -1,0 +1,364 @@
+Consultant: Hi Xiaozhuang, welcome to our session today. How are you feeling these days?
+
+User: Hi. I've been feeling overwhelmed and very stressed. My parents have been really strict about my grades, and since I didn't perform well recently, things have been difficult.
+
+Consultant: I’m sorry to hear that you're going through such a challenging time. Could you share some more about what happened recently?
+
+User: Well, my grades weren't as high as expected in the last tests, and my parents got really upset. They scolded me, and it just made my stress even worse.
+
+Consultant: It sounds like you're under a lot of pressure from this situation. How has this been affecting your emotions and daily life?
+
+User: I feel anxious all the time and a bit lost. It's hard to focus on my studies, and I just feel down.
+
+Consultant: Thank you for sharing that with me. This week, I suggest trying to reflect on your thoughts when you feel most stressed to help us understand more about what might be going on.
+
+Consultant: Hi Xiaozhuang, it’s good to see you again. Did you have a chance to reflect on your thoughts during stressful times as we discussed last time?
+
+User: Yes, I noticed that I keep thinking I'm disappointing my parents and that I’m not good enough. These thoughts keep coming up.
+
+Consultant: It sounds like these thoughts are quite distressing. How do they make you feel?
+
+User: They make me feel very anxious and worthless. Like, no matter what I do, it won't be enough.
+
+Consultant: I understand. Do you think your reactions might be magnifying the problem? For instance, do you believe there's a pattern to how you perceive these situations?
+
+User: Sometimes it feels like I’m only focused on the negative aspects, and I assume the worst-case scenario is the truth.
+
+Consultant: Recognizing this pattern is an important step. Maybe you can try to catch those thoughts as they occur and write them down for us to look at next time.
+
+Consultant: Hi Xiaozhuang, welcome back. Let's talk about those negative assumptions you have. How certain are you that they're true?
+
+User: Honestly, I'm not sure. I just feel like they might be because of my recent performance. But there’s no solid proof.
+
+Consultant: That's understandable. If a friend was in your shoes, what advice would you give them about these assumptions?
+
+User: I’d probably tell them to focus on the effort they’re putting in and not let a single event define them.
+
+Consultant: That's great advice. Do you think it could be helpful to apply this thinking to your situation?
+
+User: I think it might help. It's hard, but I’ll try to give myself some slack.
+
+Consultant: Wonderful. How about this week, you try to remind yourself of your positive traits and accomplishments when negative thoughts come up?
+
+Consultant: Hi Xiaozhuang, it's nice to see you again. Last time, we talked about recognizing your efforts and positive traits. Have you been able to practice this?
+
+User: I've tried reminding myself about my efforts and what I’m good at. It's tough, but I think it has helped a bit.
+
+Consultant: I'm glad to hear that. Sometimes reframing our thoughts can create new perspectives. Is there a specific way you found this practice helpful?
+
+User: Yes, I noticed that when I focused on what I had achieved, I felt a little better, even if it was just for a short while.
+
+Consultant: That’s great progress! Would you like to continue this practice and maybe even share your proud moments with your parents?
+
+User: I'd like that. Maybe they also need to see that it's not just about the grades.
+
+Consultant: Definitely. Sharing your efforts with them directly could open up a meaningful dialogue. For this week, try talking to them about something you're proud of.
+
+Consultant: Hi Xiaozhuang, I'm glad you're here. Have you been able to discuss your accomplishments and efforts with your parents?
+
+User: Yes, I gathered some courage and talked to them about my recent efforts in school projects. They seemed surprised at first but listened to me.
+
+Consultant: That's a wonderful step forward! How did that conversation make you feel?
+
+User: It was liberating to share it. I realized they might not be aware of everything I’m doing besides just grades.
+
+Consultant: It’s amazing how communication can impact relationships positively. Do you feel this could change how they perceive your efforts from now on?
+
+User: I hope so. I think it's a start, at least.
+
+Consultant: It's definitely a positive step. How about thinking of some activities that make you happy and incorporate them into your week? This could help with managing stress.
+
+Consultant: Hi Xiaozhuang, it's great to meet you for our last session. Shall we review the progress and helpful strategies you've explored?
+
+User: I've learned to challenge my negative thoughts a bit more and that talking things over with my parents helped. I think these are my biggest takeaways.
+
+Consultant: It's fantastic that you've been using these strategies. How do you plan to apply them in the future when you face stressful situations?
+
+User: I’ll keep reminding myself to see the bigger picture and not just focus on negatives. Also, maintaining open communication with my parents will definitely help.
+
+Consultant: Those are strong and proactive strategies. Remember, you now have the skills to tackle life’s challenges. If you ever need support, I'm here.
+
+User: Thank you so much for everything. I feel more equipped to deal with my stresses now.
+#######
+Consultant: Hi Xiaozhuang, it's great to see you again. Did you have a chance to reflect on your thoughts during stressful times as we discussed last time?
+
+User: Yes, I noticed that I keep thinking I'm disappointing my parents and that I’m not good enough. These thoughts keep coming up.
+
+Consultant: It sounds like these thoughts are quite distressing. How do they make you feel?
+
+User: They make me feel very anxious and worthless. Like, no matter what I do, it won't be enough.
+
+Consultant: I understand. Do you think your reactions might be magnifying the problem? For instance, do you believe there's a pattern to how you perceive these situations?
+
+User: Sometimes it feels like I’m only focused on the negative aspects, and I assume the worst-case scenario is the truth.
+
+Consultant: Recognizing this pattern is an important step. Maybe you can try to catch those thoughts as they occur and write them down for us to look at next time.
+
+User: That sounds like a good idea. I think having them on paper might help me see them from a different perspective.
+
+Consultant: Absolutely, Xiaozhuang. By writing these thoughts down, we can analyze them together and explore if they are based on reality or if they're a result of negative thinking patterns.
+
+User: I’m a bit nervous about facing these thoughts head-on, but I think it might be worth it.
+
+Consultant: It's natural to feel apprehensive, but facing them can offer clarity and relief. Have you noticed if any particular events or situations trigger these negative thoughts more than others?
+
+User: Yes, mainly when there’s an upcoming test or when I think about my parents’ expectations. It’s like a constant reminder of what's at stake.
+
+Consultant: That can be challenging. How do you usually cope when these thoughts become overwhelming?
+
+User: I try to study harder, but it mostly results in burnout. I end up feeling exhausted and even more anxious.
+
+Consultant: It’s admirable that you want to work hard, but sometimes we need to balance effort with self-care. Have you thought about any activities that you enjoy that could help alleviate some stress?
+
+User: I used to enjoy reading and playing basketball, but lately, I’ve been too focused on schoolwork to do either.
+
+Consultant: Incorporating enjoyable activities into your routine can be a great way to manage stress. How about setting aside a small amount of time each day for reading or playing basketball?
+
+User: I suppose I could try. Maybe taking a break would help clear my mind a bit.
+
+Consultant: It could. Even short breaks can make a big difference in how we handle stress. Perhaps you can start with a set time per week and go from there.
+
+User: Thanks for the suggestion. I'll see if it makes a difference.
+
+Consultant: Excellent. Remember, understanding that you're more than just your grades is crucial. Reflecting on your strengths and small victories can change the narrative in your mind.
+
+User: I find it hard to believe sometimes, but I’m willing to give it a shot.
+
+Consultant: Trying is half the battle, Xiaozhuang. How about we focus on mindfulness techniques in our next session to help manage those anxious feelings?
+
+User: Mindfulness sounds interesting. I’d like to learn more about that.
+
+Consultant: I'm glad you're open to it. Learning mindfulness can provide tools to center yourself during anxious moments. Until then, keep noting down those thoughts.
+
+User: I will. Thank you for your help so far.
+
+Consultant: You're doing a remarkable job, Xiaozhuang. Keep it up, and I look forward to hearing about your observations next time. Take care!
+#######
+Consultant: Hi Xiaozhuang, welcome back. Let's talk about those negative assumptions you have. How certain are you that they're true?
+
+User: Honestly, I'm not sure. I just feel like they might be because of my recent performance. But there’s no solid proof.
+
+Consultant: That's understandable. If a friend was in your shoes, what advice would you give them about these assumptions?
+
+User: I’d probably tell them to focus on the effort they’re putting in and not let a single event define them.
+
+Consultant: That's great advice. Do you think it could be helpful to apply this thinking to your situation?
+
+User: I think it might help. It's hard, but I’ll try to give myself some slack.
+
+Consultant: Wonderful. How about this week, you try to remind yourself of your positive traits and accomplishments when negative thoughts come up? It's important to give yourself credit where it's due.
+
+User: Yes, I'll do that. Sometimes I overlook the things I actually do well because I'm so focused on what's going wrong.
+
+Consultant: That's a common experience. Reflecting on what you do well can build confidence over time. We're often our own toughest critics, don't you think?
+
+User: Definitely. I don't usually take the time to acknowledge my good qualities or achievements as much as I should.
+
+Consultant: It's a great start that you're recognizing this pattern. What do you think you could do to keep this positive momentum going?
+
+User: Maybe by writing down one positive thought about myself each day? I think that could help reinforce a better mindset.
+
+Consultant: That sounds like a practical and hopeful approach. And how about adding one more thing? Could you try to balance every negative thought with at least one positive one?
+
+User: I could try that. It might be a bit challenging initially, but I see how it would make a difference in how I perceive things.
+
+Consultant: It might feel challenging at first, but you'll likely find it gets easier with practice. Do you think setting small, achievable goals each week could complement this practice?
+
+User: Yeah, setting small goals could be helpful. It could provide a sense of accomplishment and motivation.
+
+Consultant: Absolutely, Xiaozhuang. And don't hesitate to celebrate those small victories. Everything counts towards progress.
+
+User: I never really thought about celebrating small achievements, but I suppose they matter just as much.
+
+Consultant: Every step forward is worth celebrating. They serve as reminders of your capabilities. By the way, how has interacting with friends been for you lately?
+
+User: Well, I've been a bit withdrawn because of the stress, but a few friends have reached out and it helped lift my spirits.
+
+Consultant: That's wonderful to hear. Social support can be a great buffer against stress. Could engaging more with your friends be part of your positivity strategy?
+
+User: Yes, definitely. They remind me of the good things in my life and offer perspective when I'm feeling down.
+
+Consultant: Perfect. Engaging with friends encourages positive interactions. Have you considered any specific ways you can keep that connection strong?
+
+User: Maybe meeting up for weekly study sessions or just having regular catch-ups. It would be good to have some planned time together.
+
+Consultant: That sounds like a solid plan. Consistent interaction like that can have a positive ripple effect on your well-being. For this week, focus on maintaining those connections and balancing your thoughts. How does that sound?
+
+User: It sounds good. I feel hopeful about getting into a better frame of mind with these strategies.
+
+Consultant: I'm glad to hear that, Xiaozhuang. You're making great progress. Keep building on these strategies, and we'll continue to explore more ways in our next session.
+
+User: Thanks so much for your support and guidance. I'm looking forward to seeing how these changes impact my daily life.
+#######
+Consultant: Hi Xiaozhuang, it's nice to see you again. Last time, we talked about recognizing your efforts and positive traits. Have you been able to practice this?
+
+User: I've tried reminding myself about my efforts and what I’m good at. It's tough, but I think it has helped a bit.
+
+Consultant: I'm glad to hear that. Sometimes reframing our thoughts can create new perspectives. Is there a specific way you found this practice helpful?
+
+User: Yes, I noticed that when I focused on what I had achieved, I felt a little better, even if it was just for a short while.
+
+Consultant: That’s great progress! Would you like to continue this practice and maybe even share your proud moments with your parents?
+
+User: I'd like that. Maybe they also need to see that it's not just about the grades.
+
+Consultant: Definitely. Sharing your efforts with them directly could open up a meaningful dialogue. For this week, try talking to them about something you're proud of.
+
+User: I'm willing to try that, although it makes me a bit nervous.
+
+Consultant: That's completely understandable, Xiaozhuang. Talking about your achievements can feel daunting, especially when you're used to focusing on grades. But this conversation might help build a tighter bond with your parents by sharing the things that make you proud.
+
+User: It does make sense. It's just that I often worry about their reaction. What if they don't see it as meaningful?
+
+Consultant: A valid concern. But remember, this is about expressing your experience. Their reaction doesn't lessen your achievements. Perhaps starting with something small can make you feel more comfortable.
+
+User: Alright, I can begin with small achievements from my recent school projects. It might be easier to talk about those.
+
+Consultant: Excellent choice. Those projects demonstrate where you've put effort and creativity, which is something to be very proud of. I'm excited to hear how this goes for you.
+
+User: I'll give it a go. It's worth a try to see how it changes things.
+
+Consultant: Absolutely, Xiaozhuang. This seems like a wonderful opportunity to set a new tone in your interactions with your parents. Reflecting on their initial reactions could provide further insight.
+
+User: I hope so, too. Sometimes, I just wish they'd get a glimpse of this part of my life.
+
+Consultant: By sharing, you're giving them a chance to engage with this part of you. It could be a learning experience for both sides. Remember to express why these efforts matter to you personally.
+
+User: That's a good point. It's important for them to know that I value these experiences for more than just recognition.
+
+Consultant: Exactly, explaining the significance can create understanding and empathy. As you reflect on this, you might also find that it enhances your self-acceptance.
+
+User: I think it might do just that. I'm starting to feel a bit more confident about talking to them.
+
+Consultant: Confidence is key, and it's commendable to see you embrace this confidence. It demonstrates growth and resilience.
+
+User: Thank you for your support. I'm beginning to view these conversations as opportunities rather than challenges now.
+
+Consultant: That's a significant mindset shift, Xiaozhuang. Viewing challenges as opportunities can transform how you engage with them. Remember, growth often occurs outside of our comfort zones.
+
+User: That's true. I'm slowly learning to be more open to such changes.
+
+Consultant: You're doing incredibly well. This transparency might just bring about a more fulfilling dialogue with your parents. I'm eager to hear about your experience next time.
+
+User: I'll keep you updated. And thanks again for helping me see things differently.
+
+Consultant: You're very welcome. For now, focus on this new approach, and continue recognizing your efforts and accomplishments beyond just academic success.
+
+User: I will. It's been a great help to have these sessions and gain new insights.
+
+Consultant: It's a pleasure to be part of your journey, Xiaozhuang. Remember, the way you view your experiences is crucial to navigating stress positively.
+
+User: I'll definitely take that to heart. Thanks for everything.
+
+Consultant: I'm looking forward to hearing about your progress. Take care, and speak to you soon!
+
+User: Take care!
+#######
+Consultant: Hi Xiaozhuang, I'm glad you're here. Have you been able to discuss your accomplishments and efforts with your parents?
+
+User: Yes, I gathered some courage and talked to them about my recent efforts in school projects. They seemed surprised at first but listened to me.
+
+Consultant: That's a wonderful step forward! How did that conversation make you feel?
+
+User: It was liberating to share it. I realized they might not be aware of everything I’m doing besides just grades.
+
+Consultant: It’s amazing how communication can impact relationships positively. Do you feel this could change how they perceive your efforts from now on?
+
+User: I hope so. I think it's a start, at least.
+
+Consultant: It's definitely a positive step. How about thinking of some activities that make you happy and incorporate them into your week? This could help with managing stress. 
+
+User: That sounds like a good idea. I've been missing out on playing guitar, which used to relax me.
+
+Consultant: Playing the guitar is an excellent way to unwind and express yourself creatively. Could you set aside a small amount of time this week to enjoy playing it?
+
+User: I can try to squeeze in some time during the evenings. It might bring some joy back.
+
+Consultant: Fantastic. As you do that, it might be worth noting how engaging in these activities makes you feel, especially in contrast to the stress.
+
+User: I'll keep track of it and let you know how it goes.
+
+Consultant: That sounds great, Xiaozhuang. Also, considering the positive reaction from your parents when you shared your efforts, have you thought of any other topics you might want to discuss with them?
+
+User: Maybe I could talk about what I enjoy or my hobbies, like my interest in music and how playing the guitar gives me peace.
+
+Consultant: That’s a wonderful topic. Do you think sharing these interests could help them understand you better outside the context of academic performance?
+
+User: It might. They seem to know very little about what I'm passionate about, so it could open up new conversations.
+
+Consultant: Exactly, opening up about your interests could help foster a deeper connection. How do you think they might react?
+
+User: I think they’d be curious and maybe even supportive. They just don’t know because I’ve never talked about it before.
+
+Consultant: This could be a good opportunity to change that dynamic. For this week, perhaps you can pick one or two things you'd like them to know and see how it feels to share those with them.
+
+User: I'll try that. It seems a little scary, but it might strengthen our relationship.
+
+Consultant: You're being very brave, Xiaozhuang, and it’s inspiring. Remember, these discussions don't have to be perfect—they’re steps towards better understanding.
+
+User: Thank you. I’ll give it a shot and see where it leads.
+
+Consultant: Excellent. Also, while engaging with your guitar, if you feel inspired, it might be interesting to think about what songs or pieces you enjoy most and why they resonate with you.
+
+User: That’s a good thought. Playing certain songs does make me feel more relaxed and content.
+
+Consultant: Reflecting on why these pieces impact you the way they do can be therapeutic as well. Let’s touch base on how these activities have influenced your stress levels next time.
+
+User: I’ll try to observe and take notes. Hopefully, I’ll have some positive results to share.
+
+Consultant: That’s the spirit! I am looking forward to hearing about your discoveries next time. Keep nurturing these open dialogues with your parents.
+
+User: I will. Thanks for all the guidance.
+
+Consultant: You're doing wonderfully, Xiaozhuang. Remember, this journey is about progression, and the steps you’re taking are very positive.
+
+User: Thank you. I really appreciate it.
+
+Consultant: You're very welcome. Take care of yourself and enjoy playing your guitar this week. We’ll catch up soon.
+
+User: I will, and I'll see you next time!
+#######
+Consultant: Hi Xiaozhuang, it's great to meet you for our last session. Shall we review the progress and helpful strategies you've explored?
+
+User: I've learned to challenge my negative thoughts a bit more and that talking things over with my parents helped. I think these are my biggest takeaways.
+
+Consultant: It's fantastic that you've been using these strategies. How did you feel when you challenged those negative thoughts in practical situations?
+
+User: It felt empowering at times, but also a bit challenging. However, when I managed to see things from a different perspective, it did relieve some of my stress.
+
+Consultant: That's a strong observation. When you spoke with your parents, what was their reaction, and how did it contribute to your stress management?
+
+User: They were receptive and relieved to hear me open up. It also felt like a weight had been lifted off my shoulders after sharing my feelings with them.
+
+Consultant: Communication is indeed a powerful tool. Do you find that maintaining an open line with them helps in handling other challenges as well?
+
+User: Definitely. Knowing they understand my situation better gave me more confidence to approach them in the future.
+
+Consultant: That’s a valuable support system you've strengthened. Let’s think about how you might apply this when future stresses arise. What are some specific scenarios where these strategies could be useful?
+
+User: I suppose during exam periods or when starting a new project, I’ll need to remind myself to see the bigger picture and communicate openly with my family.
+
+Consultant: Those are strong and proactive strategies. Additionally, having a list of positive affirmations or a gratitude journal could reinforce this mindset. How do you feel about incorporating that into your routine?
+
+User: That sounds helpful. It might keep me grounded and remind me of what’s working well in my life.
+
+Consultant: Awesome, Xiaozhuang. Having these tools ready can offer reassurance and clarity. Looking back at your journey, do you notice any significant shifts in your outlook on stress?
+
+User: Yes, I feel more equipped now to face stressful situations. I understand that it’s okay to not have everything under control all the time.
+
+Consultant: That's a wonderful realization. Practicing self-compassion and acknowledging your efforts can reinforce this understanding. How do you plan to remind yourself of this going forward?
+
+User: I want to set regular check-ins with myself, maybe weekly, to reflect on my thoughts and feelings.
+
+Consultant: A reflective practice like that can cultivate self-awareness and growth. It's like nurturing a personal growth journey. Is there anything else you’d like to explore or share?
+
+User: I feel grateful for this space to talk through my challenges. It feels like a fresh start with new strategies.
+
+Consultant: I'm delighted to hear that. Remember, you now have the skills to tackle life’s challenges. If you ever need support, I'm here.
+
+User: Thank you so much for everything. I feel more equipped to deal with my stresses now.
+
+Consultant: You're very welcome, Xiaozhuang. Keep nurturing your strengths and maintain your openness in communication. I wish you all the best on your journey.
+
+User: Thanks again. Take care!
+#######

@@ -1,0 +1,396 @@
+Consultant: Hi Xiao, welcome to our session today. How have you been feeling lately?
+
+User: Hi. I've been feeling quite overwhelmed and a bit lost. Since I came back home after the incident, things have been tense, and I'm struggling to find my footing.
+
+Consultant: I'm really sorry to hear that. It must be difficult dealing with everything that's happened. Can you tell me more about what you're experiencing right now?
+
+User: Well, everything started going downhill during the exams. With all the pressure, I couldn't handle it and ended up taking impulsive actions. Now, being at home is a mix of relief and frustration.
+
+Consultant: It seems like the pressure and your current environment are weighing on you significantly. How has this been affecting your days lately?
+
+User: I've been feeling anxious and a bit demotivated. It's hard to get myself to do anything productive or even enjoy simple activities.
+
+Consultant: Let's focus on understanding these feelings and how they connect to what's going on in your life. This could be key to finding ways to feel better. For now, how about trying to set one small, achievable goal for yourself this week?
+
+User: That sounds like a good idea. Maybe I could try to establish a simple daily routine.
+
+Consultant: Hi Xiao, how have you been since our last session? Did you manage to establish that daily routine you mentioned?
+
+User: Hi again. I tried, but it's been really hard to stick with it. I often find my mind racing with negative thoughts about the future.
+
+Consultant: It's understandable, given what you've been through. When you find yourself in those moments, what thoughts usually come to mind? How do they make you feel?
+
+User: I keep thinking about failing or that I'm disappointing my family. It makes me feel anxious and defeated.
+
+Consultant: Those thoughts sound quite heavy and distressing. Do you notice any patterns, like jumping to conclusions or focusing solely on the negatives?
+
+User: Yes, it feels like I automatically assume the worst-case scenario, even when things aren't certain. I end up feeling stuck in a negative loop.
+
+Consultant: This pattern can contribute significantly to anxiety. Let's explore more about how these thoughts are affecting you. For this week, try writing down those thoughts when they occur, along with any emotions that arise. This might help us understand them better.
+
+User: I can do that. It might be helpful to see them on paper rather than just in my head.
+
+Consultant: Hi Xiao, welcome back. How did it go with writing down your thoughts and emotions last week?
+
+User: Hi. It was a new experience, and I was surprised to see how often my mind drifts towards negativity.
+
+Consultant: It's great that you noticed this pattern. Now that we're aware, let's challenge these thoughts together. For instance, with the idea of disappointing your family, what's the evidence that supports or contradicts it?
+
+User: Well, my parents have been supportive despite everything. It's more of a feeling than something they've said.
+
+Consultant: That's an important distinction. If you had a friend in a similar situation, how might you advise them to approach these feelings?
+
+User: I'd probably remind them of their parents' support and suggest they focus on healing at their own pace.
+
+Consultant: That sounds like wise advice. Do you think it might be helpful to apply this to your thinking? Perhaps acknowledging the support and giving yourself some grace?
+
+User: Yes, I think so. It's hard, but I realize I need to give myself a break.
+
+Consultant: Hi Xiao, glad to see you again. Last time, we talked about acknowledging support and being kind to yourself. Have you been able to practice this approach?
+
+User: Hi. I've been trying, and it does help at times to remind myself that perfection isn't necessary.
+
+Consultant: That's a valuable insight. Let's consider whether there might be specific scenarios where your thoughts could be adjusted. Can you think of a recent example?
+
+User: Well, I recently felt anxious about discussing my future plans with my sister. She's accomplished so much, and I feared judgment.
+
+Consultant: It sounds challenging to compare yourself to her. What if you view this as an opportunity to discuss your feelings with her  instead of assuming judgment?
+
+User: That's interesting. Maybe opening up could ease some of the pressure I feel.
+
+Consultant: That could be a positive step. Expressing vulnerability often leads to understanding and support. What might be the outcome if you shared this with her?
+
+User: I guess she might understand my situation better and maybe offer some advice or encouragement.
+
+Consultant: Hi Xiao, it's good to have you back. Have you managed to open up to your sister or try other activities to ease your tension?
+
+User: Hi. I did talk to my sister, and it went better than I expected. She's been really kind and gave me some helpful advice.
+
+Consultant: That's wonderful to hear. Emotional support from loved ones can be incredibly uplifting. Have you been able to engage in any activities that bring you joy?
+
+User: I used to enjoy reading and drawing, but I've found it difficult to concentrate lately.
+
+Consultant: It's understandable given everything on your mind. How about picking something straightforward and familiar to start with? Maybe a short, light book or a simple drawing exercise?
+
+User: That sounds manageable. I'll try to dedicate some time to it without pressuring myself too much.
+
+Consultant: Perfect. Sometimes little enjoyable moments can break overwhelming feelings. Setting an achievable goal, like reading a chapter or drawing for 15 minutes, might be a good start.
+
+User: I'll give it a try and see how it feels.
+
+Consultant: Hi Xiao, it's been a journey, hasn't it? Let's reflect on your progress and what you've found helpful throughout our sessions.
+
+User: Hi. I've learned to challenge my negative thoughts and to express my feelings more openly. Realizing my family's support has been a major takeaway for me.
+
+Consultant: That's excellent, and it shows personal growth. When you encounter difficulties in the future, which strategies do you think you'll rely on?
+
+User: I plan to continue being mindful of my thoughts and to keep communicating with my family. Also, finding time for small pleasures will help me stay grounded.
+
+Consultant: Those are strong strategies. As we conclude, remember you're equipped with tools to manage life's ups and downs. Should you ever need further support, know that help is always available.
+
+User: Thank you so much for your guidance. I feel more optimistic about handling my emotions and thoughts now.
+#######
+Consultant: Hi Xiao, welcome back. How did it go with writing down your thoughts and emotions last week?
+
+User: Hi. It was a new experience, and I was surprised to see how often my mind drifts towards negativity.
+
+Consultant: It's great that you noticed this pattern. Now that we're aware, let's challenge these thoughts together. For instance, with the idea of disappointing your family, what's the evidence that supports or contradicts it?
+
+User: Well, my parents have been supportive despite everything. It's more of a feeling than something they've said.
+
+Consultant: That's an important distinction. If you had a friend in a similar situation, how might you advise them to approach these feelings?
+
+User: I'd probably remind them of their parents' support and suggest they focus on healing at their own pace.
+
+Consultant: That sounds like wise advice. Do you think it might be helpful to apply this to your thinking? Perhaps acknowledging the support and giving yourself some grace?
+
+User: Yes, I think so. It's hard, but I realize I need to give myself a break.
+
+Consultant: I'm glad to hear that, Xiao. Recognizing the need for self-compassion is a huge step. Have you had any specific instances in the past week where you were able to be more kind to yourself?
+
+User: Yes, there was a moment when I started to spiral into negative thoughts before bed. I remembered to remind myself of my efforts rather than criticize my shortcomings.
+
+Consultant: That's wonderful progress. How did it feel to interrupt that negative spiral and practice self-compassion instead?
+
+User: It felt a little awkward at first, but eventually, I felt a sense of relief. It calmed me down enough to fall asleep without too much trouble.
+
+Consultant: That's a significant step forward. Interrupting the negative thought cycle can be challenging but very rewarding. Do you think this is something you can continue practicing?
+
+User: I hope so. I still find it challenging in the moment, but I'm willing to keep trying.
+
+Consultant: It's normal for new habits to take time to develop. Remember, it's about progress, not perfection. Besides practicing self-compassion, are there other strategies or activities that have helped you manage your thoughts and emotions?
+
+User: Talking to my parents helps sometimes. They remind me that they're proud of me no matter what, which eases some of the pressure.
+
+Consultant: That emotional support is incredibly valuable. How often have you been able to talk to them about your feelings?
+
+User: Not as often as I'd like, but I've been trying to open up more when I feel overwhelmed.
+
+Consultant: That's a good start. Having open communication with your loved ones can be a strong pillar of support. How do you feel about setting a small goal to have these conversations more regularly?
+
+User: I think that would be helpful. Maybe I can try to talk to them once a week about how I'm feeling.
+
+Consultant: That sounds like a constructive goal. Alongside that, let's also focus on creating a journaling habit. Writing down your thoughts has already given you some insights, and doing it regularly might reinforce a more balanced perspective.
+
+User: I agree. Writing helped me see patterns in my thinking that I wasn't fully aware of.
+
+Consultant: Excellent. For this week, let's combine these strategies. Set a time daily for journaling, even if it's just for a few minutes, and schedule a weekly talk with your parents. How does that sound?
+
+User: That sounds manageable and beneficial. I'll set a reminder to keep track.
+
+Consultant: Great, Xiao. It's all about small, consistent steps. How have you been doing with finding time for activities you enjoy, like reading and drawing?
+
+User: I attempted a few short drawing sessions. They were relaxing, even though I struggled to focus entirely.
+
+Consultant: That's a positive start. Engaging in enjoyable activities, even for a short time, can improve your mood. Consider continuing those short sessions and gradually increasing the time as you feel more comfortable.
+
+User: I'll do that. I'll aim for at least 15 minutes a day and see how it goes.
+
+Consultant: That sounds perfect. Sometimes, carving out these moments of joy can significantly reduce overall stress. As you establish these routines, keep an eye on how they impact your thoughts and feelings.
+
+User: I'll keep track of my experiences. I believe noting the positive changes will keep me motivated.
+
+Consultant: Absolutely. Reflecting on your progress can be very encouraging. When facing challenging thoughts, remind yourself of the constructive steps you're taking and the support around you.
+
+User: I will. It helps to remember that I'm not alone in this.
+
+Consultant: You're certainly not alone. Remember, each step you take towards managing your thoughts and emotions is valuable. I'm looking forward to hearing more about your progress next time.
+
+User: Thank you. I'm feeling more hopeful each session. I'll work on the journaling and having those weekly talks.
+
+Consultant: You're doing a great job, Xiao. Continue being kind to yourself, and I look forward to catching up on your progress in our next session. Take care.
+
+User: Thanks, see you next time!
+#######
+Consultant: Hi Xiao, welcome back. How did it go with writing down your thoughts and emotions last week?
+
+User: Hi. It was a new experience, and I was surprised to see how often my mind drifts towards negativity.
+
+Consultant: It's great that you noticed this pattern. Now that we're aware, let's challenge these thoughts together. For instance, with the idea of disappointing your family, what's the evidence that supports or contradicts it?
+
+User: Well, my parents have been supportive despite everything. It's more of a feeling than something they've said.
+
+Consultant: That's an important distinction. If you had a friend in a similar situation, how might you advise them to approach these feelings?
+
+User: I'd probably remind them of their parents' support and suggest they focus on healing at their own pace.
+
+Consultant: That sounds like wise advice. Do you think it might be helpful to apply this to your thinking? Perhaps acknowledging the support and giving yourself some grace?
+
+User: Yes, I think so. It's hard, but I realize I need to give myself a break.
+
+Consultant: I'm glad to hear that, Xiao. Recognizing the need for self-compassion is a huge step. Have you had any specific instances in the past week where you were able to be more kind to yourself?
+
+User: Yes, there was a moment when I started to spiral into negative thoughts before bed. I remembered to remind myself of my efforts rather than criticize my shortcomings.
+
+Consultant: That's wonderful progress. How did it feel to interrupt that negative spiral and practice self-compassion instead?
+
+User: It felt a little awkward at first, but eventually, I felt a sense of relief. It calmed me down enough to fall asleep without too much trouble.
+
+Consultant: That's a significant step forward. Interrupting the negative thought cycle can be challenging but very rewarding. Do you think this is something you can continue practicing?
+
+User: I hope so. I still find it challenging in the moment, but I'm willing to keep trying.
+
+Consultant: It's normal for new habits to take time to develop. Remember, it's about progress, not perfection. Besides practicing self-compassion, are there other strategies or activities that have helped you manage your thoughts and emotions?
+
+User: Talking to my parents helps sometimes. They remind me that they're proud of me no matter what, which eases some of the pressure.
+
+Consultant: That emotional support is incredibly valuable. How often have you been able to talk to them about your feelings?
+
+User: Not as often as I'd like, but I've been trying to open up more when I feel overwhelmed.
+
+Consultant: That's a good start. Having open communication with your loved ones can be a strong pillar of support. How do you feel about setting a small goal to have these conversations more regularly?
+
+User: I think that would be helpful. Maybe I can try to talk to them once a week about how I'm feeling.
+
+Consultant: That sounds like a constructive goal. Alongside that, let's also focus on creating a journaling habit. Writing down your thoughts has already given you some insights, and doing it regularly might reinforce a more balanced perspective.
+
+User: I agree. Writing helped me see patterns in my thinking that I wasn't fully aware of.
+
+Consultant: Excellent. For this week, let's combine these strategies. Set a time daily for journaling, even if it's just for a few minutes, and schedule a weekly talk with your parents. How does that sound?
+
+User: That sounds manageable and beneficial. I'll set a reminder to keep track.
+
+Consultant: Great, Xiao. It's all about small, consistent steps. How have you been doing with finding time for activities you enjoy, like reading and drawing?
+
+User: I attempted a few short drawing sessions. They were relaxing, even though I struggled to focus entirely.
+
+Consultant: That's a positive start. Engaging in enjoyable activities, even for a short time, can improve your mood. Consider continuing those short sessions and gradually increasing the time as you feel more comfortable.
+
+User: I'll do that. I'll aim for at least 15 minutes a day and see how it goes.
+
+Consultant: That sounds perfect. Sometimes, carving out these moments of joy can significantly reduce overall stress. As you establish these routines, keep an eye on how they impact your thoughts and feelings.
+
+User: I'll keep track of my experiences. I believe noting the positive changes will keep me motivated.
+
+Consultant: Absolutely. Reflecting on your progress can be very encouraging. When facing challenging thoughts, remind yourself of the constructive steps you're taking and the support around you.
+
+User: I will. It helps to remember that I'm not alone in this.
+
+Consultant: You're certainly not alone. Remember, each step you take towards managing your thoughts and emotions is valuable. I'm looking forward to hearing more about your progress next time.
+
+User: Thank you. I'm feeling more hopeful each session. I'll work on the journaling and having those weekly talks.
+
+Consultant: You're doing a great job, Xiao. Continue being kind to yourself, and I look forward to catching up on your progress in our next session. Take care.
+
+User: Thanks, see you next time!
+#######
+Consultant: Hi Xiao, glad to see you again. Last time, we talked about acknowledging support and being kind to yourself. Have you been able to practice this approach?
+
+User: Hi. I've been trying, and it does help at times to remind myself that perfection isn't necessary.
+
+Consultant: That's a valuable insight. Let's consider whether there might be specific scenarios where your thoughts could be adjusted. Can you think of a recent example?
+
+User: Well, I recently felt anxious about discussing my future plans with my sister. She's accomplished so much, and I feared judgment.
+
+Consultant: It sounds challenging to compare yourself to her. What if you view this as an opportunity to discuss your feelings with her instead of assuming judgment?
+
+User: That's interesting. Maybe opening up could ease some of the pressure I feel.
+
+Consultant: That could be a positive step. Expressing vulnerability often leads to understanding and support. What might be the outcome if you shared this with her?
+
+User: I guess she might understand my situation better and maybe offer some advice or encouragement.
+
+Consultant: That sounds promising. Opening up can challenge the assumptions we hold that lead to stress. Was there any specific feedback from your sister that surprised you or changed your perspective?
+
+User: She actually told me that she admires how I've handled everything recently. That was really unexpected and comforting to hear.
+
+Consultant: That's a wonderful reminder that our perceptions can sometimes be harsher than reality. How did it feel to receive that kind of support from her?
+
+User: It felt reassuring. I realized she's someone I can talk to, and maybe I was wrong to think she'd judge me.
+
+Consultant: It sounds like you've discovered a valuable support system. As you continue to work on self-kindness, do you think sharing more about your journey with her could further strengthen this bond?
+
+User: Yes, I think being more open with her could reinforce the support and help me manage my anxiety better.
+
+Consultant: That's an excellent plan. By nurturing this relationship, you're also building a network of support that can help you during difficult times. How do you plan to practice this openness moving forward?
+
+User: I'll try to regularly share my thoughts with her and maybe involve her in some activities we both enjoy, like going for short walks.
+
+Consultant: That's a great way to integrate both communication and relaxation. Regularly finding time to connect while engaging in enjoyable activities can be both grounding and refreshing. How does this plan of action feel for you?
+
+User: It feels doable, and I think it will be good for both of us. Plus, it might motivate me to step out of my comfort zone a bit more.
+
+Consultant: That's a healthy direction. Stepping out of your comfort zone can enrich your experiences and promote personal growth. As you pursue these conversations and activities, also maintain the self-compassion practices we've discussed. How has it been integrating self-compassion into your daily life?
+
+User: It's getting easier, though I still have moments where I struggle. I remind myself it's okay to make mistakes and focus on learning rather than perfection.
+
+Consultant: That's the spirit, Xiao. The journey of self-compassion is ongoing, and every bit of effort counts. It's encouraging to hear that you're making progress. As you continue, consider noting any positive changes you observe from these practices.
+
+User: I'll keep track. I've already noticed that I'm less harsh on myself, which helps reduce stress.
+
+Consultant: Fantastic. Acknowledging these victories, no matter how small, is crucial. They serve as reminders of your progress. Are there any new self-compassion techniques you'd like to explore?
+
+User: I'd like to try meditation or maybe a short mindfulness exercise every day to calm my mind.
+
+Consultant: That sounds like a great addition. Both meditation and mindfulness can enhance self-awareness and help maintain clarity in your thoughts. How about starting with five minutes each morning or evening and gradually increasing it?
+
+User: That sounds reasonable. I'll start with five minutes and see how it goes.
+
+Consultant: Wonderful. Being consistent, even with brief sessions, can make a significant impact over time. As we wrap up today, remember that you're building a comprehensive set of strategies to rely on in challenging times.
+
+User: Thank you, that's reassuring to hear. I'll work on being consistent with these practices.
+
+Consultant: You're doing a fantastic job, Xiao. Keep nurturing these positive habits and relationships, and I'll be here to support you along the way. Looking forward to our next session.
+
+User: Thanks for your support. I feel more balanced and optimistic. See you next time!
+#######
+Consultant: Hi Xiao, it's good to have you back. Have you managed to open up to your sister or try other activities to ease your tension?
+
+User: Hi. I did talk to my sister, and it went better than I expected. She's been really kind and gave me some helpful advice.
+
+Consultant: That's wonderful to hear. Emotional support from loved ones can be incredibly uplifting. Have you been able to engage in any activities that bring you joy?
+
+User: I used to enjoy reading and drawing, but I've found it difficult to concentrate lately.
+
+Consultant: It's understandable given everything on your mind. How about picking something straightforward and familiar to start with? Maybe a short, light book or a simple drawing exercise?
+
+User: That sounds manageable. I'll try to dedicate some time to it without pressuring myself too much.
+
+Consultant: Perfect. Sometimes little enjoyable moments can break overwhelming feelings. Setting an achievable goal, like reading a chapter or drawing for 15 minutes, might be a good start.
+
+User: I'll give it a try and see how it feels.
+
+Consultant: Great to hear. Make sure to keep it pressure-free and enjoyable. Also, how have you been dealing with the thoughts and emotions that we discussed previously?
+
+User: I've tried to be more aware of them and not let them dictate my actions.
+
+Consultant: That’s a positive step. Awareness is key. Have you noticed any particular situations or triggers that intensify these thoughts?
+
+User: Yes, especially when I'm alone with my thoughts at night. It's like the silence amplifies everything.
+
+Consultant: Nighttime can indeed be challenging. Have you considered any techniques to calm yourself during these moments, like gentle breathing exercises or listening to soothing music?
+
+User: I haven't really tried that, but it sounds like a good idea.
+
+Consultant: It might be helpful. You could also try journaling your thoughts before bed to get them out of your mind. Writing can be quite cathartic.
+
+User: I'll try journaling. I think it could help clear my mind.
+
+Consultant: Excellent. Let's also revisit the idea of self-compassion. How have you been practicing kindness towards yourself?
+
+User: It's been tough, especially when I make mistakes. I tend to be very critical of myself.
+
+Consultant: Self-criticism is common, but acknowledging your efforts and progress can counterbalance that. Think of how you would treat a friend who is in a similar situation.
+
+User: That's a good point. I wouldn't be so harsh on a friend.
+
+Consultant: Exactly. Offering yourself the same understanding can be very empowering. Maybe start with small affirmations or gentle reminders of your strengths and achievements.
+
+User: I like that idea. I'll try to remind myself of the positive things I've done.
+
+Consultant: Wonderful. These affirmations can be as simple as "I am doing my best" or "I deserve kindness." Speaking of strengths, what recent moment are you proud of?
+
+User: Talking openly with my sister was a big step for me. I didn't think I could be that vulnerable.
+
+Consultant: That's a significant accomplishment. Being vulnerable takes courage, and it's a sign of strength. How did it feel to share your feelings with her?
+
+User: It felt liberating and brought us closer. She's more understanding than I gave her credit for.
+
+Consultant: It's amazing what honest communication can achieve. How do you plan to maintain this newfound closeness with your sister?
+
+User: I think I'll continue sharing my thoughts and maybe plan more activities together.
+
+Consultant: Building on this connection is a great idea. Consistent communication and shared experiences will strengthen your bond. What activities do you both enjoy that you could do together?
+
+User: We both enjoy walking in the park and occasionally cooking together.
+
+Consultant: Those sound like wonderful activities. They can provide great opportunities for continued bonding and relaxation. Would you be able to set aside time for these activities regularly?
+
+User: Yes, I think it's doable. It will also give me something positive to look forward to.
+
+Consultant: Exactly. Having positive interactions and activities can help diminish the focus on negative thoughts. Let's continue incorporating these practices into your routine.
+
+User: I feel more hopeful about managing things now.
+
+Consultant: That's great to hear. As we look ahead, remember to balance your efforts with self-care. This week, besides engaging in enjoyable activities, try to practice gratitude by noting three positive things each day, no matter how small.
+
+User: I can do that. It sounds like a good way to keep my mind on the positive.
+
+Consultant: Absolutely. Celebrating small wins and positive moments can shift your outlook significantly. How do you feel about the progress you've made so far?
+
+User: I feel good about it. I've learned new ways to cope and have built better connections with my family.
+
+Consultant: Your progress is evident and commendable. As you continue this journey, remember that setbacks are also part of growth. How do you plan to handle moments when you feel you've slipped?
+
+User: I'll try not to be too hard on myself and remember that it's a journey. Every step, even small ones, counts.
+
+Consultant: That's a healthy perspective. Acknowledging that progress isn't always linear is important. You're equipping yourself with resilience and strategies that will serve you well moving forward.
+
+User: Thank you for your support. It means a lot.
+
+Consultant: You're very welcome, Xiao. Your dedication to this process is inspiring. Keep nurturing these positive habits and relationships, and I'll be here to support you along the way. Looking forward to our next session.
+
+User: Thanks for your support. I feel more balanced and optimistic. See you next time!
+#######
+Consultant: Hi Xiao, it's been a journey, hasn't it? Let's reflect on your progress and what you've found helpful throughout our sessions.
+
+User: Hi. I've learned to challenge my negative thoughts and to express my feelings more openly. Realizing my family's support has been a major takeaway for me.
+
+Consultant: That's excellent, and it shows personal growth. When you encounter difficulties in the future, which strategies do you think you'll rely on?
+
+User: I plan to continue being mindful of my thoughts and to keep communicating with my family. Also, finding time for small pleasures will help me stay grounded.
+
+Consultant: Those are strong strategies. As we conclude, remember you're equipped with tools to manage life's ups and downs. Should you ever need further support, know that help is always available.
+
+User: Thank you so much for your guidance. I feel more optimistic about handling my emotions and thoughts now.
+#######

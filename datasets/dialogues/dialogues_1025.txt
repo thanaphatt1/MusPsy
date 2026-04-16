@@ -1,0 +1,352 @@
+Consultant: Hi Zhao, welcome to our session today. How have you been feeling lately?
+
+User: Hi. Lately, I've been feeling really overwhelmed. I just started college, and I'm having a hard time adjusting, especially with making new friends.
+
+Consultant: It seems like starting at a new place has been challenging. Could you share more about what's been on your mind regarding this transition and your new environment?
+
+User: Well, since my parents divorced after I got into college, I've been living with my dad and his new girlfriend. It just feels so different and more difficult to build relationships with new people at college.
+
+Consultant: That sounds like a lot to handle at once. It's common to feel overwhelmed when there are multiple changes happening in life. How do you see these personal changes affecting your college experience?
+
+User: I often feel like I'm not as good as others, like I'm carrying this burden from my family history. It's hard to connect with others when I feel like this.
+
+Consultant: Thank you for sharing that with me, Zhao. For our session homework, I'd like you to jot down some situations where you felt this way, along with your thoughts and feelings. This will help us explore them further next time.
+
+User: Alright, I can try to do that.
+
+Consultant: Hi Zhao, glad to have you back. Were you able to note down any thoughts or feelings since our last session?
+
+User: Yes, I did. I noticed that every time I'm in a group setting, like in a class or a club, I feel anxious that I won't fit in. It makes me really uneasy.
+
+Consultant: Thank you for noting that. When you feel anxious about fitting in, what kinds of thoughts often come to your mind? How do they affect you?
+
+User: I start thinking that maybe people will see me as odd because of my family background or because I'm not used to being around others. It makes me want to avoid social situations.
+
+Consultant: These thoughts could be impacting your anxiety. Do you notice any patterns in these thoughts that might not be completely rational or helpful?
+
+User: I tend to automatically assume that everyone is noticing and judging me negatively, even if they haven’t said anything.
+
+Consultant: It sounds like you're experiencing what's called "automatic negative thoughts." For this week's homework, let's try to identity when you have these thoughts and see if we can find evidence against them.
+
+User: I'll start paying more attention to when that happens.
+
+Consultant: Hi Zhao, welcome back. How did it go noticing your thoughts and finding evidence against them?
+
+User: I realized that I often jump to conclusions without any proof. Like, I assumed my classmates think negatively of me, but I haven't heard them say anything directly.
+
+Consultant: That's a valuable insight. If a friend had these worries, what advice would you give them?
+
+User: I'd tell them not to speculate too much and maybe try getting to know people before assuming their opinions.
+
+Consultant: That sounds like helpful advice. Do you think applying this advice to your own situation might help ease some of your anxiety?
+
+User: It might. Maybe I'm just overthinking things. I should probably try reaching out to others and see how it goes.
+
+Consultant: That's a great approach, Zhao. For this session's homework, try to initiate small conversations with classmates or join a college activity that interests you. Let’s see how it changes your perspective.
+
+User: Okay, I’ll give it a try.
+
+Consultant: Hi Zhao, it's great to see you again. How did your efforts to reach out to classmates go?
+
+User: I tried talking to a couple of people in my class. It was a bit nerve-racking, but they were actually nice, and it didn't feel as bad as I thought it would.
+
+Consultant: I'm glad to hear that. How did this experience affect your initial assumptions about being perceived negatively?
+
+User: It challenged my assumptions a bit. I realized not everyone is judging me right away, and I just need to give it a chance.
+
+Consultant: That’s a positive step forward. Open communication can indeed help reduce assumptions. As you think about these interactions, what would you like to do next to continue building on this experience?
+
+User: I'd like to try joining a club or a group activity to meet more people and build some friendships.
+
+Consultant: That sounds like a wonderful plan. For your homework, try participating in an activity or event that interests you and jot down your reflections afterward.
+
+User: I’ll do that. Hopefully, it will help me feel more connected.
+
+Consultant: Hi Zhao, I'm happy to see you again. Have you tried joining any groups or activities?
+
+User: Yes, I joined an art club since I've always enjoyed painting as a hobby. It's been refreshing to engage with something I love and meet people with similar interests.
+
+Consultant: That's excellent, Zhao. Doing activities you enjoy can help elevate your mood and make social interactions feel less daunting. How has it been for you engaging with the club?
+
+User: It’s been surprisingly good. I’ve made a couple of friends already. It feels nice to share a common interest with others.
+
+Consultant: That's great progress. Considering how fulfilling you find painting, how do you plan to ensure it remains a regular part of your week?
+
+User: I think setting aside a specific time weekly to paint, whether alone or with club members, will help keep it consistent.
+
+Consultant: That sounds like a solid strategy. For your homework, continue with this commitment and reflect on how your interaction and engagement affect your overall mood and outlook.
+
+User: I’ll keep this habit going and see how I feel.
+
+Consultant: Hi Zhao, it's been wonderful working with you. Shall we reflect on your progress and consider the strategies that have been most beneficial?
+
+User: I've learned that challenging my automatic assumptions can ease my anxiety. Meeting people through shared interests made becoming more open a major achievement for me.
+
+Consultant: That's fantastic learning. When faced with similar challenges in the future, what strategies will you rely on?
+
+User: I'll remind myself to question negative thoughts and approach situations empirically. Staying actively involved in my interests will also remain crucial.
+
+Consultant: These are excellent strategies, Zhao. As we conclude our sessions, remember these tools you've developed. I'm confident in your growing ability to manage challenges. Please don’t hesitate to reach out if you need further support.
+
+User: Thank you very much for your help. I feel more empowered to handle things independently now.
+#######
+Consultant: Hi Zhao, glad to have you back. Were you able to note down any thoughts or feelings since our last session?
+
+User: Yes, I did. I noticed that every time I'm in a group setting, like in a class or a club, I feel anxious that I won't fit in. It makes me really uneasy.
+
+Consultant: Thank you for noting that. When you feel anxious about fitting in, what kinds of thoughts often come to your mind? How do they affect you?
+
+User: I start thinking that maybe people will see me as odd because of my family background or because I'm not used to being around others. It makes me want to avoid social situations.
+
+Consultant: These thoughts could be impacting your anxiety. Do you notice any patterns in these thoughts that might not be completely rational or helpful?
+
+User: I tend to automatically assume that everyone is noticing and judging me negatively, even if they haven’t said anything.
+
+Consultant: It sounds like you're experiencing what's called "automatic negative thoughts." These thoughts can loop us into a cycle of self-doubt. When you're in these situations, are there particular moments that intensify these feelings?
+
+User: Yeah, mostly when there's a lot of people around and everyone seems to be having such a good time. It feels like I’m the odd one out.
+
+Consultant: That's understandable. Crowded settings can sometimes amplify those feelings. Can you recall a specific instance where that happened recently?
+
+User: There was this orientation event last week. Everyone was chatting and mingling effortlessly, and I just stood there overthinking everything.
+
+Consultant: Thank you for sharing. Reflecting on that, was there any evidence during that event that your worst fears were happening, or could it be possible that your mind was projecting these fears?
+
+User: I guess there wasn't any real evidence. I mean, no one came up to tell me I don't belong. It was just this voice in my head.
+
+Consultant: That's a crucial realization. Part of cognitive-behavioral therapy is challenging these assumptions and trying to assess their validity. Do you think there are techniques we could work on that might help reshape or counter those thoughts when they occur?
+
+User: Maybe I could remind myself of the lack of evidence or try focusing on something positive, like looking for friendly faces or recalling past positive interactions.
+
+Consultant: Those are excellent strategies. Let’s also think about how setting small goals in social situations might lessen this pressure. What if you aim to have brief conversations with one or two new people each time?
+
+User: That sounds do-able. Starting small might help me not feel overwhelmed.
+
+Consultant: Great plan. As your homework, try to initiate these small interactions. It could be as simple as a greeting or a small talk comment. Note down how that makes you feel afterwards.
+
+User: I can do that. It might help me see things from a new perspective.
+
+Consultant: Perfect. And remember, facing these situations gradually can help you build confidence over time. How did our last strategy of distancing yourself from negative assumptions work for you this past week?
+
+User: There were moments I caught myself assuming the worst, but I tried to stop and rethink things. It hasn’t fully gone away, but it made some situations easier.
+
+Consultant: Small changes like this can be significant over time. Awareness is the first step, and you're doing great with that. As these thoughts occur, try to remind yourself of your strengths and things you love, like painting.
+
+User: I’ve noticed that thinking about painting and creativity does make me happier. It's like a mental break from stress.
+
+Consultant: That’s a good association. Next time you’re in a social setting, perhaps visualize a place or memory linked to painting. This could create a sense of calmness.
+
+User: I like that idea. I might also consider carrying a small sketchbook to events. That way, if it gets too overwhelming, I can have a piece of comfort.
+
+Consultant: That's brilliant, Zhao. It’s a personal and creative way to anchor yourself. Let’s see how these new practices impact your experience. Keep being gentle with yourself and note down any thoughts that arise.
+
+User: Thank you. I’m looking forward to trying these out.
+
+Consultant: You're making great strides. Remember, we're working toward progress, not perfection. I look forward to hearing your reflections in our next session.
+
+User: Thanks for the guidance. I'll update you on how it's going.
+
+Consultant: Take care, Zhao. See you next time.
+#######
+Consultant: Hi Zhao, welcome back. How did it go noticing your thoughts and finding evidence against them?
+
+User: I realized that I often jump to conclusions without any proof. Like, I assumed my classmates think negatively of me, but I haven't heard them say anything directly.
+
+Consultant: That's a valuable insight. If a friend had these worries, what advice would you give them?
+
+User: I'd tell them not to speculate too much and maybe try getting to know people before assuming their opinions.
+
+Consultant: That sounds like helpful advice. Do you think applying this advice to your own situation might help ease some of your anxiety?
+
+User: It might. Maybe I'm just overthinking things. I should probably try reaching out to others and see how it goes.
+
+Consultant: That's a great approach, Zhao. For this session's homework, try to initiate small conversations with classmates or join a college activity that interests you. Let’s see how it changes your perspective.
+
+User: Okay, I’ll give it a try.
+
+Consultant: Wonderful. Initiating these interactions can be quite beneficial. I remember you mentioned painting as a hobby. Have you considered looking into art clubs or communities within your college to meet like-minded individuals?
+
+User: That's a good idea. Art has always been a way for me to relax, and maybe discussing it with others will help me open up.
+
+Consultant: Absolutely, Zhao. Engaging in activities you enjoy can create a natural and less pressured environment. When you attend such gatherings or start a conversation, try to observe your internal dialogue and challenge any immediate negative thoughts you might have.
+
+User: I understand. It's about being mindful and catching those thoughts before they spiral out of control. I'll note any instances where I feel apprehensive and how I handle them.
+
+Consultant: Exactly. As you practice this mindfulness, you'll begin to notice patterns and, hopefully, how certain situations aren't as daunting as they initially seem. What are some strategies or thoughts that you think could be useful during these moments?
+
+User: I suppose reminding myself that not everyone is judgmental or paying close attention to my every move would help. Maybe also focusing on something positive, like starting with light conversations or sharing my art experiences.
+
+Consultant: Those are excellent strategies, Zhao. Maintaining positive focus can quite significantly impact your confidence and interaction. How would you feel about setting a small goal of attending, say, one art meeting or casual gathering per week to test out these tactics?
+
+User: That sounds doable. Having a structured plan might make stepping out of my comfort zone easier.
+
+Consultant: Great mindset. Remember, the aim is gradual progress, and these small interactions can lead to meaningful connections. How have you managed situations where fears of judgment have crept in this past week?
+
+User: I tried to catch myself when those thoughts appeared, though it wasn't always easy. There were moments I felt like retreating, but rewinding the thought and questioning its validity helped a bit.
+
+Consultant: Recognizing and questioning those assumptions is an invaluable skill. You're already taking significant steps forward. Remember to celebrate these small victories as substantial progress in your journey.
+
+User: It's reassuring to hear that acknowledging them is progress. I’ll try to be less harsh on myself and view each effort as part of a broader learning curve.
+
+Consultant: A positive perspective indeed. As you continue, consider keeping a journal of your interactions and reflections. Over time, this record can offer insights into your growth and areas that may still need focus.
+
+User: Keeping a journal could provide clarity. I’ll start writing about my interactions and thoughts after each event and see if patterns emerge.
+
+Consultant: Excellent plan. These introspections will be valuable for our upcoming sessions. Your awareness and willingness to tackle these challenges are commendable, Zhao. I'm excited to hear about your experiences in our next meeting.
+
+User: Thank you for the encouragement. I’m optimistic about trying these new strategies and seeing how they alter my outlook.
+
+Consultant: You're doing wonderfully. Keep nurturing your interests and being gentle with yourself through this process. I look forward to our next session, where we can reflect further on your progress and any insights you gather.
+
+User: I’ll definitely keep that in focus. Thanks for the guidance.
+
+Consultant: You're very welcome, Zhao. Take care and see you at our next session.
+#######
+Consultant: Hi Zhao, it's great to see you again. How did your efforts to reach out to classmates go?
+
+User: I tried talking to a couple of people in my class. It was a bit nerve-racking, but they were actually nice, and it didn't feel as bad as I thought it would.
+
+Consultant: I'm glad to hear that. How did this experience affect your initial assumptions about being perceived negatively?
+
+User: It challenged my assumptions a bit. I realized not everyone is judging me right away, and I just need to give it a chance.
+
+Consultant: That’s a positive step forward. Open communication can indeed help reduce assumptions. As you think about these interactions, what would you like to do next to continue building on this experience?
+
+User: I'd like to try joining a club or a group activity to meet more people and build some friendships.
+
+Consultant: That sounds like a wonderful plan. It's great that you're considering expanding your social circle through common interests. Have you thought about any specific clubs or activities that really pique your interest?
+
+User: Well, I've always enjoyed painting, and there's an art club at my college that seemed interesting. I thought it could be a good place to start.
+
+Consultant: That's an excellent choice, Zhao. Engaging in activities you love can provide a natural and enjoyable way to connect with others. How comfortable do you feel about approaching the club and participating in one of their meetings?
+
+User: I'm still a bit nervous about it, but I think having a shared interest like art will make it easier to start conversations.
+
+Consultant: That's very insightful. Participating in an environment where you can express a passion like painting might help alleviate some of that nervousness. As a small step, think about attending just one event to get a feel for the group. How does that sound?
+
+User: That sounds manageable. Just going to one event feels less overwhelming.
+
+Consultant: Great! For your homework, I encourage you to participate in an activity or event that interests you and then reflect on your experiences afterward. This reflection can help you identify what worked well and any challenges you might have faced.
+
+User: I’ll do that. Hopefully, it will help me feel more connected.
+
+Consultant: It's promising that you're taking these steps. Remember, meeting new people through shared activities can offer natural opportunities to build friendships. How do you think this involvement might influence your college experience?
+
+User: I think being more involved will make me feel less isolated and more like I belong at college.
+
+Consultant: Exactly, feeling connected can greatly enhance your overall experience. Have you considered any other clubs or encouraging your classmates to join you at the art club?
+
+User: I haven't thought about inviting classmates, but it could be a good idea. Having a familiar face might ease some of the initial awkwardness.
+
+Consultant: Inviting a classmate can indeed provide additional support and make the experience more enjoyable. It could open the door to exploring other clubs or activities together. How do you think you would approach inviting someone?
+
+User: I might start by casually mentioning that I'm planning to attend and see if anyone seems interested in joining.
+
+Consultant: That’s a thoughtful approach. It can often be easier to take that first step with someone else. What would you hope to gain from attending these meetings and engaging with the art community?
+
+User: I hope to make new friends and also find some inspiration for my paintings through discussing and sharing ideas with others.
+
+Consultant: Those are wonderful objectives. Engaging with like-minded individuals might stimulate both creativity and connections. After joining the art club, I'd love to hear about any new insights or inspirations you gain. Would you be open to keeping a journal of these experiences?
+
+User: Keeping a journal sounds like a great idea. It could help me track my thoughts and experiences over time.
+
+Consultant: Excellent, a journal can offer valuable reflections and pave the way for ongoing personal growth. Remember, each small step you take is building on your progress from our sessions. I look forward to hearing about your experiences in the art club and any reflections from your journal entries in our next session.
+
+User: I'll definitely give it a try and keep track of how it goes.
+
+Consultant: That's wonderful to hear, Zhao. Embrace these experiences, and feel proud of the progress you're making. I'm eager to learn about the meaningful connections and growth you'll achieve along the way.
+
+User: Thank you for your support. I'll do my best to make the most of these opportunities.
+
+Consultant: You're doing incredibly well. Keep nurturing your passions and making room for these invaluable connections to thrive. Until our next session, take care, Zhao.
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi Zhao, it's great to have you back. Have you managed to keep painting as part of your weekly routine, especially with your art club involvement?
+
+User: Yes, I continued with the painting sessions, and it's been a nice way to unwind. Connecting with the club members has been even more rewarding than I expected.
+
+Consultant: That's excellent, Zhao. It's important to nurture those aspects that bring happiness and calm. How do you feel these interactions have affected your outlook on connecting with people?
+
+User: It's surprising how being in the club has made socializing feel more natural. I don't feel as anxious anymore because we always have something to talk about.
+
+Consultant: That's a great step forward. Sometimes, aligning our social circles with our interests can help us feel more grounded and less anxious around others. Looking back, do you think challenging your past assumptions has helped in this transition?
+
+User: Definitely. I realized I was often wrong about how others perceived me. By being more open, I found out people actually share similar fears and hopes.
+
+Consultant: It's enlightening to recognize such shared experiences. From your discussions with others, what have you learned that made a significant impact on you?
+
+User: I've learned that many people are open to forming new friendships, and like me, they're also trying to navigate their own challenges. This mutual understanding makes it easier to connect with them.
+
+Consultant: That's indeed powerful. Understanding that everyone has their own struggles can foster empathy and build stronger connections. Are there any particular interactions that stand out to you?
+
+User: Yes, there's a club member who also struggled with anxiety about fitting in. Sharing our experiences allowed us to support each other, which was very comforting.
+
+Consultant: Supporting and learning from each other can be very empowering. As you continue this journey, how do you see these experiences influencing your approach to other aspects of life?
+
+User: I think I'll be more inclined to reach out and share with others in different areas of my life. It feels less intimidating now.
+
+Consultant: That sounds like a great mindset. Maintaining these connections and creating new ones can bring more happiness and reduce feelings of isolation. What do you plan to pursue next in your social or personal life?
+
+User: I want to continue exploring other clubs and maybe even collaborate on a group project. I believe it will help me develop broader connections and skills.
+
+Consultant: That sounds exciting, Zhao. Broadening your social interactions beyond the art club could enrich your experiences and offer fresh perspectives. How do you feel about taking this step?
+
+User: I'm feeling optimistic. I've come to understand that stepping out of my comfort zone can be quite rewarding.
+
+Consultant: That's the spirit, Zhao. Embracing opportunities to grow and meet new people can bring enrichment to your life. How do you think these interactions will add to your college experience?
+
+User: Engaging more socially can make college feel less daunting and more like a community where I belong.
+
+Consultant: Feeling part of a community is indeed significant for personal and academic growth. Have you considered any specific clubs or activities that might interest you further?
+
+User: I've been interested in the photography club. Capturing moments and creativity appeals to me, and I believe it could be another avenue to meet people.
+
+Consultant: That sounds like a fantastic opportunity. Photography, like painting, allows for self-expression and connection with others. How do you feel about giving it a try?
+
+User: I'm excited about it. Joining could be a good way to continue expressing myself while also meeting others with similar passions.
+
+Consultant: Wonderful, Zhao. Continuously seeking out activities that resonate with your interests can help build a fulfilling and balanced life. How do you intend to balance these new activities with your current commitments?
+
+User: I think organizing a weekly schedule with dedicated time for these activities could work. Ensuring I don't overcommit will be essential.
+
+Consultant: Planning your time wisely is crucial, especially with new interests and responsibilities. What support do you think you might need to maintain this balance?
+
+User: I might need to discuss this with my family to make sure we're all on the same page, especially if it involves commitments on weekends.
+
+Consultant: Coordinating with your family can help align expectations and offer support. Remember, open communication can also enhance your connection with them. How do you feel about bringing this up with them?
+
+User: I think it will be a positive conversation. They’ve been supportive, so I'm optimistic about finding a balanced approach.
+
+Consultant: It's great to have supportive family backing. Keep them engaged with your interests and milestones as you progress. Bringing them into the loop can build valuable understanding and support.
+
+User: I agree. Keeping them informed could help us all feel like a team.
+
+Consultant: Absolutely, being part of a supportive team can make a big difference. As we prepare for our next session, I'd like you to reflect on the impactful experiences from your art club participation. Perhaps also consider how these can influence your new endeavours.
+
+User: I'll reflect on those experiences. Considering how they've shaped my current outlook should be insightful.
+
+Consultant: That's a good approach, Zhao. Regularly reflecting on your journey can enhance self-awareness and appreciation for your growth. Keep nurturing your interests and remember, you're making great progress.
+
+User: Thank you, I will continue to do so. It's been an encouraging experience so far.
+
+Consultant: I'm thrilled to hear that, Zhao. Your proactive steps and willingness to challenge assumptions are truly commendable. I'm excited to learn about your progress next time we meet.
+
+User: Me too. Thank you for all the encouragement. I'll keep working on these goals.
+
+Consultant: You're doing wonderfully, Zhao. Take pride in the progress you're making, and anticipate further growth in our journey together. Until next time, take good care!
+
+User: Thanks. I'll see you next time!
+#######
+Consultant: Hi Zhao, it's been wonderful working with you. Shall we reflect on your progress and consider the strategies that have been most beneficial?
+
+User: I've learned that challenging my automatic assumptions can ease my anxiety. Meeting people through shared interests made becoming more open a major achievement for me.
+
+Consultant: That's fantastic learning. When faced with similar challenges in the future, what strategies will you rely on?
+
+User: I'll remind myself to question negative thoughts and approach situations empirically. Staying actively involved in my interests will also remain crucial.
+
+Consultant: These are excellent strategies, Zhao. As we conclude our sessions, remember these tools you've developed. I'm confident in your growing ability to manage challenges. Please don’t hesitate to reach out if you need further support.
+
+User: Thank you very much for your help. I feel more empowered to handle things independently now.
+#######

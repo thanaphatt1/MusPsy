@@ -1,0 +1,352 @@
+Consultant: Hello Zhao, welcome to our session today. How have you been recently?
+
+User: Hello. I've been feeling really anxious, especially when it comes to speaking in class. I just froze last time, and it brought back memories of being bullied in middle school.
+
+Consultant: I'm sorry to hear that. It sounds like these experiences have been really tough on you. Can you tell me more about what happened recently that led to these feelings?
+
+User: In one of my lectures, I was asked to speak in front of the class, and I just couldn't do it. I became really anxious and it reminded me of a time in middle school when some classmates used to threaten me.
+
+Consultant: It sounds like the past experiences are affecting your present-day situations. How has this been influencing your emotions lately?
+
+User: I feel a lot of anxiety and stress. It makes me want to avoid any public speaking and even interacting with classmates sometimes.
+
+Consultant: I understand. Let's think about how you could respond differently to such situations. For next time, try to write down your feelings when you're feeling this way. This will be our homework and we can discuss it in our next session.
+
+User: Okay, I can try that. It might help to organize my thoughts.
+
+Consultant: Hi Zhao, glad to see you again. Did you have a chance to note any thoughts during stressful moments since our last session?
+
+User: Yes, I wrote down some thoughts. I often worry that I'm not good enough or that others will judge me negatively when I speak up.
+
+Consultant: I see. These thoughts might be linked to the anxiety you're feeling. Do you notice any patterns in your thinking that might be amplifying these feelings?
+
+User: I tend to assume the worst—that people will laugh at me or think I'm stupid, even if I don't have proof of that happening.
+
+Consultant: It seems like you might be jumping to negative conclusions. Let's explore how these thoughts are influencing your emotions. Have you noticed if certain situations make these patterns stronger?
+
+User: Yes, especially when I'm around people I'm not familiar with or if I'm not confident in the material I'm speaking about.
+
+Consultant: That's helpful to know. Let's keep a journaling task for this week: write down when these anxiety-provoking situations occur and any thoughts you have. We can analyze them in our next session.
+
+User: I'll give it a try. I think it might help me see things more clearly.
+
+Consultant: Hi Zhao, welcome back. Let's talk about some of the thoughts you've been recording. How confident are you in these assumptions that others are judging you negatively?
+
+User: Not very confident, honestly. It's just a feeling I can't seem to shake off.
+
+Consultant: That makes sense. If a friend came to you with these thoughts, what advice would you give them about handling the situation?
+
+User: I'd probably tell them to try not to worry so much and maybe talk to someone they trust about it.
+
+Consultant: That's valuable advice. It's important to share your feelings. Do you think it might be helpful for you to discuss your experiences with a trusted friend or family member?
+
+User: I hadn't thought of that, but it could help. Maybe I’ll try talking to my roommate.
+
+Consultant: Great idea! For this week's task, try reaching out to someone you trust and share some of what you're going through. Let’s see how this impacts your feelings next time we meet.
+
+User: I'll give it a shot. I've been meaning to open up more anyway.
+
+Consultant: Hi Zhao, it's nice to have you back. Last time, we discussed trying to talk to someone you trust. How did it go?
+
+User: It went better than I expected. I talked to my roommate, and they were really supportive. It felt good to just let it all out.
+
+Consultant: That's wonderful to hear. Sharing often alleviates some of the burden. Based on this experience, do you now feel more empowered to challenge those negative thoughts?
+
+User: Yes, a bit more. Knowing that I'm not alone helps counter some of the fears.
+
+Consultant: Fantastic! Let's build on that. If a similar situation puts you on edge, what's another way you could reframe your thinking?
+
+User: I could try reminding myself that not everyone is judging me, and it's okay to make mistakes sometimes.
+
+Consultant: That's a healthy perspective. For this week, why not write down some affirmations or realistic reassurances to counter negative thoughts? Then, practice these when you feel anxious.
+
+User: Sounds like a good plan. I'll work on that.
+
+Consultant: Hi Zhao, great to see you again. Have you had a chance to create those affirmations, and how have they worked for you?
+
+User: Yes, I wrote down a few. Every time I feel that anxiety creeping in, I remind myself that it's okay to not be perfect and that I deserve to be heard just like anyone else.
+
+Consultant: That's fantastic. Self-affirmations can be powerful. Have you also thought about incorporating activities you enjoy, perhaps to ease tension?
+
+User: I love writing and reading novels. They take my mind off stress and help me relax.
+
+Consultant: Writing and reading are excellent outlets. Would you like to plan on dedicating some time to these activities regularly?
+
+User: Yes, I'd love to. I've been neglecting them due to my studies, but it's important for me.
+
+Consultant: Absolutely. Dedicating even half an hour a day for these activities could be refreshing. Make a small schedule and, if possible, stick to it. Let's see how it affects your stress levels.
+
+User: I'll do my best to fit it in. Thanks for the encouragement.
+
+Consultant: Hi Zhao, it's been great working with you. Let's reflect on your progress and the strategies you've found helpful.
+
+User: I've become more aware of my negative thoughts, and sharing my experiences helped. Writing affirmations has also been surprisingly liberating.
+
+Consultant: That's wonderful progress. When similar challenges arise in the future, what strategies do you think will support you best?
+
+User: I'll remind myself that it's okay to feel imperfect, use my affirmations, and reach out to friends when needed. Engaging in activities I love will also be vital.
+
+Consultant: Those are excellent strategies. As we conclude our sessions, know that you have equipped yourself with many tools to manage life's challenges. You can always reach out if you need support in the future.
+
+User: Thank you so much for your help. I feel much more confident about handling things now.
+#######
+Consultant: Hi Zhao, welcome back. Let's talk about some of the thoughts you've been recording. How confident are you in these assumptions that others are judging you negatively?
+
+User: Not very confident, honestly. It's just a feeling I can't seem to shake off.
+
+Consultant: That makes sense. If a friend came to you with these thoughts, what advice would you give them about handling the situation?
+
+User: I'd probably tell them to try not to worry so much and maybe talk to someone they trust about it.
+
+Consultant: That's valuable advice. It's important to share your feelings. Do you think it might be helpful for you to discuss your experiences with a trusted friend or family member?
+
+User: I hadn't thought of that, but it could help. Maybe I’ll try talking to my roommate.
+
+Consultant: Great idea! For this week’s task, try reaching out to someone you trust and share some of what you're going through. Let’s see how this impacts your feelings next time we meet.
+
+User: I'll give it a shot. I've been meaning to open up more anyway.
+
+Consultant: Good to hear, Zhao. Remember, openness can sometimes reveal helpful insights that we might overlook on our own. Were there any specific thoughts you documented this week that stood out to you?
+
+User: Yes, I noticed a recurring thought about needing everyone's approval which really bothers me during group settings.
+
+Consultant: That's interesting. Striving for approval from everyone can be quite exhausting. Have you thought about what aspects of approval are most important to you, or where this need might stem from?
+
+User: I guess it might come from wanting to be liked by everyone, like when I was a kid and fitting in was everything.
+
+Consultant: That's a common experience. Childhood memories can have a big lingering impact. Reflecting on it now, do you see any patterns or specific interactions where this need for approval surfaces the most?
+
+User: It usually comes up in classes or when meeting new people. I just want them to like me, even before knowing me well.
+
+Consultant: It sounds like forming new relationships can be challenging with these thoughts. How might it feel to shift the focus from how others perceive you to just being present and genuine during these interactions?
+
+User: I think it might help relieve some pressure. Just focusing on being myself could make interactions less stressful.
+
+Consultant: That's a healthy shift in thinking. If you ever catch these thoughts about needing approval creeping in, what’s one thing you could tell yourself to stay grounded?
+
+User: Maybe remind myself that being authentic is more valuable than trying to be liked by everyone.
+
+Consultant: Excellent point, Zhao. Authenticity can definitely ease interactions. For this week, how about preparing a few affirmations to reinforce this mindset when you’re about to meet new people?
+
+User: That sounds like a great idea. I'll work on a few affirmations.
+
+Consultant: Perfect. Also, if any situation feels overwhelming, writing about it or discussing it with someone, like your roommate, could offer further clarity. Do you feel ready to try this approach?
+
+User: Yes, I'll definitely try to open up more and use affirmations to help me stay calm.
+
+Consultant: Wonderful, Zhao. Exploring these thoughts with trusted peers and reinforcing positive self-talk could be quite empowering. I'm eager to hear how this works for you in our next session.
+
+User: Thanks, I'll put effort into this and see what happens.
+#######
+Consultant: Hi Zhao, welcome back. Let's talk about some of the thoughts you've been recording. How confident are you in these assumptions that others are judging you negatively?
+
+User: Not very confident, honestly. It's just a feeling I can't seem to shake off.
+
+Consultant: That makes sense. If a friend came to you with these thoughts, what advice would you give them about handling the situation?
+
+User: I'd probably tell them to try not to worry so much and maybe talk to someone they trust about it.
+
+Consultant: That's valuable advice. It's important to share your feelings. Do you think it might be helpful for you to discuss your experiences with a trusted friend or family member?
+
+User: I hadn't thought of that, but it could help. Maybe I’ll try talking to my roommate.
+
+Consultant: Great idea! For this week’s task, try reaching out to someone you trust and share some of what you're going through. Let’s see how this impacts your feelings next time we meet.
+
+User: I'll give it a shot. I've been meaning to open up more anyway.
+
+Consultant: Good to hear, Zhao. Remember, openness can sometimes reveal helpful insights that we might overlook on our own. Were there any specific thoughts you documented this week that stood out to you?
+
+User: Yes, I noticed a recurring thought about needing everyone's approval which really bothers me during group settings.
+
+Consultant: That's interesting. Striving for approval from everyone can be quite exhausting. Have you thought about what aspects of approval are most important to you, or where this need might stem from?
+
+User: I guess it might come from wanting to be liked by everyone, like when I was a kid and fitting in was everything.
+
+Consultant: That's a common experience. Childhood memories can have a big lingering impact. Reflecting on it now, do you see any patterns or specific interactions where this need for approval surfaces the most?
+
+User: It usually comes up in classes or when meeting new people. I just want them to like me, even before knowing me well.
+
+Consultant: It sounds like forming new relationships can be challenging with these thoughts. How might it feel to shift the focus from how others perceive you to just being present and genuine during these interactions?
+
+User: I think it might help relieve some pressure. Just focusing on being myself could make interactions less stressful.
+
+Consultant: That's a healthy shift in thinking. If you ever catch these thoughts about needing approval creeping in, what's one thing you could tell yourself to stay grounded?
+
+User: Maybe remind myself that being authentic is more valuable than trying to be liked by everyone.
+
+Consultant: Excellent point, Zhao. Authenticity can definitely ease interactions. For this week, how about preparing a few affirmations to reinforce this mindset when you’re about to meet new people?
+
+User: That sounds like a great idea. I'll work on a few affirmations.
+
+Consultant: Perfect. Also, if any situation feels overwhelming, writing about it or discussing it with someone, like your roommate, could offer further clarity. Do you feel ready to try this approach?
+
+User: Yes, I'll definitely try to open up more and use affirmations to help me stay calm.
+
+Consultant: Wonderful, Zhao. Exploring these thoughts with trusted peers and reinforcing positive self-talk could be quite empowering. I'm eager to hear how this works for you in our next session.
+
+User: Thanks, I'll put effort into this and see what happens.
+#######
+Consultant: Hi Zhao, it's great to see you again. Last time, we discussed sharing your thoughts with someone you trust. How did it go when you talked to your roommate?
+
+User: It went better than I expected. I talked to my roommate, and they were really supportive. It felt good to just let it all out.
+
+Consultant: That's wonderful to hear. Often, sharing can help alleviate some of the burden. Based on this experience, do you feel more empowered to challenge those negative thoughts?
+
+User: Yes, a bit more. Knowing that I'm not alone helps counter some of the fears.
+
+Consultant: Fantastic! Let’s build on that. When you find yourself in a situation that makes you anxious, what's another way you might reframe your thinking?
+
+User: I could try reminding myself that not everyone is judging me, and it's okay to make mistakes sometimes.
+
+Consultant: That's a healthy perspective. For this week, how about writing down some affirmations or realistic reassurances to counter negative thoughts and practicing these when you feel anxious?
+
+User: Sounds like a good plan. I'll work on that.
+
+Consultant: Great! And what about activities you enjoy? Are there any hobbies or interests that help you relax when you're stressed?
+
+User: I enjoy writing and reading novels. These activities allow me to escape the stress and immerse myself in different worlds.
+
+Consultant: Writing and reading can be excellent outlets. How do you feel about dedicating some regular time to these activities each week?
+
+User: I would love that. Lately, I've been so occupied with my studies that I neglect these activities, but I realize they’re important for my well-being.
+
+Consultant: Absolutely, Zhao. Even dedicating just a small amount of time each day to your hobbies can really help. Make a schedule that allows you some time to read and write, and observe how it impacts your stress levels.
+
+User: I'll do my best to make time for it. Thank you for the encouragement.
+
+Consultant: You're welcome. How do you think engaging in these activities might change your daily routine or mindset?
+
+User: It would likely help me unwind and give me something to look forward to each day. Plus, I think it would help me approach other tasks with a clearer mind.
+
+Consultant: That sounds promising. As we continue to identify helpful strategies, remember to balance your commitments with relaxing activities. How do you plan to incorporate these into your daily routine?
+
+User: I think I could start by reading a little every night before bed and setting aside some time on weekends to write.
+
+Consultant: That sounds like a solid plan. By taking small steps towards integrating these interests into your routine, you might notice a significant decrease in your stress levels. Have you considered sharing any of your writing with your roommate or a friend to get feedback?
+
+User: I hadn’t thought about that, but it might be a good idea. Getting feedback could help me improve and boost my confidence.
+
+Consultant: It could be a wonderful way to connect and further your progress. As you work on this week's affirmations, remember the support you have around you. Do you have any affirmations in mind that stand out?
+
+User: One I thought of is: "I am capable of growth and deserving of calm." It feels empowering when I say it to myself.
+
+Consultant: That’s an excellent affirmation, Zhao. Holding onto mantras like this can fortify your resilience during anxious moments. Do you feel prepared to apply these in different situations?
+
+User: Yes, I think I am. I want to use them whenever I start doubting myself.
+
+Consultant: That’s great to hear. Confidence in your affirmations will strengthen their effect. Before we finish, is there anything else on your mind or any other concerns you’d like to discuss?
+
+User: Not at the moment. I feel more equipped to handle things.
+
+Consultant: I'm so pleased to hear that, Zhao. Keep nurturing your strengths. I look forward to hearing about your progress with these strategies next time. Take care!
+
+User: Thank you, I will. See you next session!
+#######
+Consultant: Hi Zhao, great to see you again. Have you had a chance to create those affirmations, and how have they worked for you?
+
+User: Yes, I wrote down a few. Every time I feel that anxiety creeping in, I remind myself that it's okay to not be perfect and that I deserve to be heard just like anyone else.
+
+Consultant: That's fantastic. Self-affirmations can be powerful. Have you also thought about incorporating activities you enjoy, perhaps to ease tension?
+
+User: I love writing and reading novels. They take my mind off stress and help me relax.
+
+Consultant: Writing and reading are excellent outlets. Would you like to plan on dedicating some time to these activities regularly?
+
+User: Yes, I'd love to. I've been neglecting them due to my studies, but it's important for me.
+
+Consultant: Absolutely. Dedicating even half an hour a day for these activities could be refreshing. Make a small schedule and, if possible, stick to it. Let's see how it affects your stress levels.
+
+User: I'll do my best to fit it in. Thanks for the encouragement.
+
+Consultant: Great, Zhao! How do you envision these activities contributing to your overall well-being and stress management?
+
+User: I think by giving myself a break with activities I enjoy, I can manage stress better, and it would make the rest of my tasks seem less daunting.
+
+Consultant: That's a healthy mindset. Allowing time for leisure can create a balance that's often needed. Have you previously found writing or reading to significantly change your mood or outlook?
+
+User: Yes, definitely. Reading immerses me in a different world, and writing allows me to express emotions that are difficult to articulate otherwise.
+
+Consultant: It's awesome that you already recognize the benefits these activities bring. Would setting specific goals for your writing or reading sessions help?
+
+User: Possibly. I could set a goal to read one chapter nightly or write for 20 minutes each day to start with.
+
+Consultant: Those goals sound achievable and beneficial. Having measurable targets can provide a sense of accomplishment. How will you hold yourself accountable to follow through with them?
+
+User: I could track my progress in a journal or perhaps review my goals each week to ensure I'm on track.
+
+Consultant: Excellent plan, Zhao. Tracking progress can not only help maintain consistency but also showcase your dedication. Have you considered who else could support you in maintaining this new habit?
+
+User: Maybe my roommate. They know about my journey, and I think they would remind me if needed.
+
+Consultant: Wonderful idea. Sharing goals with someone else can provide additional motivation. As you proceed, how do you anticipate these activities influencing your interactions with others?
+
+User: I believe they would help me be more relaxed and thus more open and present in social interactions, improving relationships.
+
+Consultant: That sounds promising. By being more relaxed, you may find it easier to connect with others, which could further alleviate stress. Do you see a potential for these activities to enhance other areas of your life as well?
+
+User: They might improve my focus and creativity, impacting my studies positively.
+
+Consultant: Absolutely. The skills you nurture through hobbies often have cross-applications in other areas. What barriers do you foresee in maintaining these practices, and how might you overcome them?
+
+User: A lack of time is the usual barrier, but perhaps integrating these activities into my daily routine could help overcome that.
+
+Consultant: Integrating them strategically sounds like a solid approach. Maybe even pairing these activities with something productive, like writing down your affirmations, could maximize their benefit.
+
+User: That could be a great way to ensure consistency. I'll consider how to incorporate that.
+
+Consultant: Fantastic. It's about making these practices sustainable and enjoyable. Zhao, reflecting on your journey, what's one thing you're most proud of achieving so far?
+
+User: I'm proud that I’ve been able to challenge negative thoughts more effectively. It's made a difference in how I perceive things.
+
+Consultant: That's a significant achievement. Challenging and reframing thoughts is not an easy task. As we keep building on these tools, remember the progress you've made. Is there anything else you'd like to explore today?
+
+User: Not right now. I feel prepared to continue these practices and excited to see their impact.
+
+Consultant: I'm glad to hear that, Zhao. Keep nurturing these positive habits, and feel free to share your progress next time. Until our next session, take care!
+
+User: Thank you. I'm looking forward to putting everything into practice. See you next time!
+#######
+Consultant: Hi Zhao, it's been great working with you. Let's reflect on your progress and the strategies you've found helpful.
+
+User: I've become more aware of my negative thoughts, and sharing my experiences helped. Writing affirmations has also been surprisingly liberating.
+
+Consultant: That's wonderful progress. When similar challenges arise in the future, what strategies do you think will support you best?
+
+User: I'll remind myself that it's okay to feel imperfect, use my affirmations, and reach out to friends when needed. Engaging in activities I love will also be vital.
+
+Consultant: Those are excellent strategies. Do you think integrating activities like writing and reading into your routine has contributed to your journey?
+
+User: Definitely. Making time to read and write has opened up space for reflection and relaxation, which helps me handle stress.
+
+Consultant: It's encouraging to see how these hobbies can be both enjoyable and beneficial. How did you find balancing your studies with these activities?
+
+User: Balancing was a bit tricky at first, but once I set a schedule, it became more manageable. My roommate also keeps reminding me, which helps a lot.
+
+Consultant: It's wonderful to have support like that. Do you feel that sharing your goals with someone close adds another layer of accountability?
+
+User: Yes, it does. Knowing that someone else is interested in my progress pushes me to keep it up.
+
+Consultant: That's an excellent point about social support. Looking back, what have you learned about the power of community in managing your emotions?
+
+User: I've learned that opening up to others can be incredibly healing and that it's important not to isolate yourself when you're feeling down.
+
+Consultant: Such a valuable insight, Zhao. The journey is often lighter with others. As you continue, how do you think your growing self-awareness impacts your interactions?
+
+User: I'm more confident and less anxious about people's perceptions. This makes social situations less intimidating.
+
+Consultant: That's a notable change. It seems your self-awareness is helping you break free from anxiety's grip. Have you noticed other changes in your daily life?
+
+User: I'm more present and less caught up in worrying about the future. This shift is refreshing.
+
+Consultant: Excellent! Being present can significantly enhance one's quality of life. What other goals could you set to maintain this positive momentum?
+
+User: I'd like to explore more creative writing, maybe even start a blog to express my thoughts and experiences.
+
+Consultant: Starting a blog sounds like a fantastic idea. It could serve as both a creative outlet and a way to track your personal growth.
+
+User: I agree. It feels like the right next step to take. 
+
+Consultant: Great, Zhao. Setting such goals ensures continuous growth. As we conclude our sessions, know that you have equipped yourself with many tools to manage life's challenges. You can always reach out if you need support in the future.
+
+User: Thank you so much for your help. I feel much more confident about handling things now.
+#######

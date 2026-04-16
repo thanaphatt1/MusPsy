@@ -1,0 +1,119 @@
+The 1th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu feels exhausted and disheartened, perceiving failures in meeting her high standards as personal defeats.
+[Counselor Observations:] The therapist observes Liu's tendency to internalize pressure and notice her openness to exploring stress triggers.
+[Counseling Assignments:] Liu should jot down moments of feeling particularly pressured to identify patterns and potential triggers.
+[Session Goal:] Using CBT techniques, aim to identify stress triggers and encourage Liu to acknowledge the weight she carries in her self-imposed standards.
+Counseling Summary:
+The user struggles with meeting high standards and feels overwhelmed by responsibilities as a student and class representative. The consultant suggests jotting down moments of pressure to identify triggers and proposes writing thoughts down to manage anxiety and negative interpretations, encouraging the user to connect emotionally through mindfulness and checking in with themselves daily. The dialogue emphasizes small steps and emotional support systems to help the user manage stress and self-expectations.
+
+
+The 2th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu continues to feel anxious, particularly regarding deadlines and family expectations, resulting in a cycle of self-blame.
+[Counselor Observations:] The therapist notes Liu’s propensity towards extreme self-critical thoughts while seeing her potential for resilience.
+[Counseling Assignments:] Liu is encouraged to challenge negative thinking with positive affirmations and maintain a journal to track patterns and triggers.
+[Session Goal:] Assist Liu in altering her internal dialogue with affirmations and break the cycle of procrastination driven by perfectionist fears.
+Counseling Summary:
+Explored the user's anxiety related to academic pressure and maternal expectations, identifying negative thought patterns and their emotional impact. Agreed on strategies such as positive affirmations, journaling, and drawing to foster a supportive mindset and break the cycle of procrastination. Encouraged balancing personal interests with responsibilities, supporting gradual cognitive change.
+
+
+The 3th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu realizes her assumptions about her mother's disappointment are not confirmed, recognizing the power of unchecked assumptions.
+[Counselor Observations:] The therapist observes Liu's growing self-awareness and insight into her emotions without verification.
+[Counseling Assignments:] Liu should prepare for a conversation with her mother to express feelings and worries, considering visualizing the talk going well.
+[Session Goal:] Encourage Liu to foster open communication with her mother to alleviate stress, using techniques like visualization and structured dialogue.
+Counseling Summary:
+Explored client's assumptions about their mother’s potential disappointment with grades and encouraged open communication to alleviate stress. Introduced writing down key points and visualization techniques to prepare for a conversation, aiming to improve the client's confidence and relationship with their mother. Client expressed optimism about these approaches and plans to reflect on the outcome in the next session.
+
+
+The 4th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu is nervous yet hopeful about a planned conversation with her mother regarding her academic efforts and stress.
+[Counselor Observations:] The therapist sees Liu's willingness to open communication avenues and her careful planning of this significant talk.
+[Counseling Assignments:] Liu should craft key discussion points and use breathing exercises to stay calm during the conversation.
+[Session Goal:] Help Liu articulate her experiences to her mother, promoting understanding and reducing academic pressures through open dialogue.
+Counseling Summary:
+The dialogue between the consultant and the user explored the user's anxiety about discussing academic expectations with their mother, emphasizing the importance of open communication and understanding. The user planned to approach the conversation by explaining their efforts beyond grades and prepared a strategy for managing stress, including mindful breathing exercises. By preparing points and setting a relaxed time to talk, the user hopes to foster a supportive relationship while feeling more confident and in control of the situation.
+
+
+The 5th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu finds joy in drawing and wishes to incorporate it more into her schedule despite competing responsibilities.
+[Counselor Observations:] The therapist appreciates Liu’s enthusiasm for art as a coping mechanism and her concerns about balancing commitments.
+[Counseling Assignments:] Liu should schedule regular art sessions, preferably on Saturday mornings, and use alarms for reminders.
+[Session Goal:] Use CBT strategies to incorporate enjoyable activities consistently as a means of stress management, prioritizing personal time.
+Counseling Summary:
+Explored the user's enjoyment of drawing as a stress-relief activity, emphasizing its importance amidst responsibilities. Established a plan to incorporate drawing into the user's routine with an hour on Saturday mornings, utilizing phone reminders to prioritize this commitment. Encouraged focusing on the process for mindfulness and emotional insights, with plans to monitor stress levels and mood changes through the activity.
+
+
+The 6th Counseling
+Client Profile:
+Static Traits: ## User Background
+[Personal Profile]  
+Liu is a university student at an arts college, feeling significant pressure due to high personal standards and the responsibilities of being a class representative. She experiences overwhelming stress and anxiety, particularly about academic performances and family expectations.
+
+[Personal Characteristics]  
+Liu enjoys drawing as a stress-relief activity and values spending time with her supportive friend, Sarah.
+
+[Assessment and Diagnosis]  
+Liu struggles with anxiety and stress primarily triggered by academic responsibilities and perceptions of family expectations, though there is no formal diagnosis of a mental health disorder.
+Counseling Memory:
+[Emotion and Cognitive State:] Liu feels much more aware of her thoughts and the importance of expressing feelings, appreciating the reduction in academic pressure.
+[Counselor Observations:] The therapist notes Liu's growth in self-awareness and improved ability to handle stress through open communication.
+[Counseling Assignments:] Liu should continue to integrate drawing into her routine and consider starting a journal for reflection and balance.
+[Session Goal:] Encourage Liu to maintain holistic self-care activities like drawing and journaling, celebrating small successes alongside challenges.
+Counseling Summary:
+The dialogue reviews the user's progress in becoming more conscious of negative thoughts and improving communication with family, which has alleviated stress and strengthened their coping mechanisms. The user plans to sustain this growth by integrating art and journaling as regular practices to further manage anxiety and cultivate a balanced perspective. Encouraged by the consultant, the user feels more equipped to handle challenges independently while remaining open to seeking support as needed.
+

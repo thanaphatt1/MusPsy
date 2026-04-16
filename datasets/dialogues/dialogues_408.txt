@@ -1,0 +1,388 @@
+Consultant: Hi Jessica, welcome to our session today. How have you been doing recently?
+
+User: Hi. I'm feeling pretty frustrated. I've been forced into this counseling, and I'm not sure it's going to help.
+
+Consultant: It's understandable to feel that way when things aren't in your control. Can you tell me more about what's been happening that's led to this counseling?
+
+User: I got in trouble with a teacher for some behavior issues, and now they're telling me I have to do this or get expelled. It's stressing me out.
+
+Consultant: That sounds like a tough situation. I can see how being under that kind of pressure would be frustrating. How is all this affecting you lately?
+
+User: I'm really anxious about the possibility of being expelled. It's hard to concentrate on anything else.
+
+Consultant: It makes sense to feel anxious about that possibility. Our goal here is to explore what you're going through and what can be done to help you. After this session, it might be useful to jot down any thoughts you have about this situation, so we can discuss them next time.
+
+Consultant: Jessica, good to see you again. Did you have a chance to note down any thoughts about the situation we discussed last time?
+
+User: Yes, kind of. I keep thinking that if I hadn't acted out, I wouldn't be in this mess.
+
+Consultant: That's a natural thought to have. How does thinking this way make you feel?
+
+User: It's making me feel even more stressed and guilty about everything.
+
+Consultant: It sounds like you're caught in a cycle of stress and guilt. Sometimes our minds can play tricks on us, making us see things more negatively than they are. Do you notice this happening with your thoughts?
+
+User: Yeah, I guess I tend to assume the worst, like my teachers think I'm a lost cause.
+
+Consultant: Let's keep exploring these patterns. Perhaps noticing when this happens can help weaken their impact on your feelings. For now, if these thoughts arise, try to write them down as you have been doing.
+
+Consultant: Hi Jessica, it's good to have you back. Let's look into those thoughts you've been having. Can you gauge how likely it is that your teachers truly think negatively about you?
+
+User: Well, I haven't heard them say anything directly, but it just feels like they all see me as a problem.
+
+Consultant: It's understandable to feel that way. If a friend were in your position, what advice might you give them?
+
+User: I'd probably tell them to not jump to conclusions and maybe talk to their teachers to understand their perspective.
+
+Consultant: That sounds like a thoughtful approach. Do you think talking to your teachers could help give you a clearer picture of what they think and reduce some of the pressure?
+
+User: I guess I could try. Maybe it’s not as bad as I think.
+
+Consultant: Hi Jessica, it's nice to see you again. Have you had any more thoughts about addressing the situation with your teachers?
+
+User: I've thought about trying to talk to them, to explain my side. Maybe it would help.
+
+Consultant: That seems like a constructive step. What would be important for them to understand from your perspective?
+
+User: I want them to know I'm not trying to cause trouble; I've just been overwhelmed lately.
+
+Consultant: Sharing your feelings openly could indeed clarify things and ease tensions. How do you feel about setting up that conversation?
+
+User: I'm a bit nervous, but I feel like it could really help.
+
+Consultant: Hi Jessica, glad to have you back. Have you considered any hobbies or activities that might relieve stress recently?
+
+User: I like running when I can. It helps get my mind off things.
+
+Consultant: That's a fantastic activity to have for managing stress. Regular exercise can significantly boost your mood. Would you be open to setting aside specific times to go running more often?
+
+User: I think that could work. I usually end up running randomly when I have time, but setting a schedule might be good.
+
+Consultant: Creating a routine around running could be immensely beneficial. How about starting with a couple of times a week?
+
+User: That sounds like a good start. I'll try it on Tuesdays and Thursdays.
+
+Consultant: Hi Jessica, it's been great working with you. Can we reflect on your progress and the strategies that you've found helpful?
+
+User: I've realized that talking about my feelings and thoughts can lift a bit of my stress. Planning my activities helps too.
+
+Consultant: That's wonderful insight. In the future, when faced with similar feelings, what approaches do you think might help you the most?
+
+User: I'll remind myself to not assume the worst right away and to share my thoughts with someone I trust.
+
+Consultant: Those are powerful strategies to have. As we conclude our sessions, remember these skills you've built can help you handle future challenges. If you ever need more support, feel free to reach out.
+
+User: Thank you so much. I feel more equipped to deal with things now.
+#######
+Consultant: Hi Jessica, good to see you again. Did you have a chance to note down any thoughts about the situation we discussed last time?
+
+User: Yes, kind of. I keep thinking that if I hadn't acted out, I wouldn't be in this mess.
+
+Consultant: That's a natural thought to have. How does thinking this way make you feel?
+
+User: It's making me feel even more stressed and guilty about everything.
+
+Consultant: It sounds like you're caught in a cycle of stress and guilt. Sometimes our minds can play tricks on us, making us see things more negatively than they are. Do you notice this happening with your thoughts?
+
+User: Yeah, I guess I tend to assume the worst, like my teachers think I'm a lost cause.
+
+Consultant: Let's keep exploring these patterns. Perhaps noticing when this happens can help weaken their impact on your feelings. For now, if these thoughts arise, try to write them down as you have been doing.
+
+User: Sure, I'll keep doing that. It's just hard sometimes.
+
+Consultant: Of course, it can definitely be challenging. But recognizing these patterns is an important step. Have you been able to identify any specific situations that might trigger these thoughts?
+
+User: Mostly when I'm in class or thinking about assignments and the deadlines. It feels overwhelming.
+
+Consultant: That makes sense, given the pressure of schoolwork. Do you think there might be a way to reframe these thoughts, or perhaps approach them a bit differently?
+
+User: Maybe if I try to focus on what I can control, like organizing my time better, it might help.
+
+Consultant: That's a great insight, Jessica. Focusing on what you can manage can reduce that overwhelming feeling. How do you currently handle your schedule and tasks?
+
+User: I'm not really organized; I usually just try to get things done whenever I feel like it.
+
+Consultant: That's common, especially with a lot going on. How about trying to create a simple plan or list of tasks for each week? It might help in making things feel more manageable.
+
+User: I could give it a try. I've never been great at sticking to a plan, though.
+
+Consultant: It's all about progress, not perfection. Starting with small, achievable goals can make it easier. How does that sound?
+
+User: Ok, I'll try to start small this time, maybe plan for just a couple of days.
+
+Consultant: That sounds like a smart approach. Remember, it's perfectly fine to take small steps. As you begin organizing your thoughts and tasks, do you think it could impact how you perceive feedback from teachers?
+
+User: If I'm more prepared, I probably won't be as worried about what they think. It might make a difference.
+
+Consultant: That's an excellent perspective. Speaking of feedback, have you noticed any positive responses from your teachers in the past, even if they weren't directly related to this situation?
+
+User: Well, I did get some praise once for a project last semester. It felt good.
+
+Consultant: It's important to hold onto those positive moments. They can remind you that you're capable of succeeding and recognized for your efforts. How might recalling these moments change your current outlook?
+
+User: It might help me focus more on the good things I've done instead of only seeing the negatives.
+
+Consultant: That's a wonderful shift in perspective, Jessica. Exploring these thoughts further can bring more balance to how you view yourself and your circumstances. Would writing about a positive school experience work as part of your reflection?
+
+User: I'll try to think of a few instances and write those down too.
+
+Consultant: Excellent, Jessica. Incorporating positive reflections can really contribute to a more balanced mindset. Keep noting these thoughts and remember, each step you take is progress.
+
+User: Thanks. I'll work on that and the planning.
+
+Consultant: Wonderful to hear. I'm looking forward to seeing how these strategies work for you over time. It's about building a toolkit of skills to help you navigate these challenges.
+
+User: I appreciate it. I'll see what I can do and update you next time.
+
+Consultant: Perfect. Keep being kind to yourself, and let's see how things evolve over the next week. I'll be eager to hear about your experiences.
+
+User: Thanks for your help. I'll do my best.
+#######
+Consultant: Hi Jessica, welcome back. How have you been handling those thoughts about your teachers since we last talked?
+
+User: Well, I haven't really heard anything directly from them, but it still feels like they all see me as a problem.
+
+Consultant: It's understandable to feel that way, Jessica. If a friend were in your shoes, what kind of advice would you offer them?
+
+User: I'd probably tell them not to jump to conclusions and maybe try talking to their teachers to understand their perspective better.
+
+Consultant: That's a very thoughtful approach. Do you think initiating a conversation with your teachers could help you get a clearer view of how they really perceive you and maybe ease some of the pressure you're feeling?
+
+User: I guess I could try. Maybe it's not as bad as I think.
+
+Consultant: It's worth exploring, and it could provide some relief. How do you feel about preparing what you’d like to discuss with them beforehand?
+
+User: That might help. I get pretty anxious about these conversations.
+
+Consultant: Understandably so. Perhaps jotting down the key points you want to address could make you feel more prepared. How does that sound?
+
+User: Yeah, I could write down a few things I want them to know about my situation.
+
+Consultant: Great, Jessica. Preparing in advance can sometimes lessen the anxiety. Is there anything specific you want to ensure they understand about your experience right now?
+
+User: I want them to know I'm not trying to be difficult. I've just been feeling really overwhelmed and it's been affecting how I act in class.
+
+Consultant: Expressing that feeling of being overwhelmed could really help them understand where you're coming from. How do you think they might respond to that?
+
+User: I'm hoping they'll be understanding and see that I'm trying to work on it.
+
+Consultant: That's a positive mindset. It’s possible they’ll appreciate your honesty and effort. What do you think about practicing this conversation or perhaps discussing it with a friend first?
+
+User: I could try running through it with a friend. It might make me feel more confident.
+
+Consultant: Good idea, Jessica. Getting feedback from a friend can provide you with reassurance. Has anything else popped up in your school life that adds to your stress lately?
+
+User: Just the usual assignments and deadlines. It feels like there’s so much to catch up on.
+
+Consultant: Balancing all that can be challenging, especially under pressure. Have you made any more progress on organizing your schedule to help manage the workload?
+
+User: A bit. I started making lists of things to do each week, which helps some but I’m still struggling to stick to them.
+
+Consultant: Making lists is a great start! Consistency can be difficult at first, but even small improvements can make a big difference. How about setting reminders or deadlines for each task? 
+
+User: I haven't tried setting reminders. That might help me stay on track more effectively.
+
+Consultant: Fantastic. Digital reminders or even sticky notes can be very effective. As you work through this process, do you notice any changes in how you view the feedback from your teachers?
+
+User: If I'm more organized, I feel a bit more in control and less worried about what they think.
+
+Consultant: That sounds like a step in the right direction. Seeing the impact of your organization on your stress levels and perceptions is important. Have you received any positive feedback from your teachers in previous assignments that might have slipped your mind?
+
+User: Actually, yes. I was complimented on a project last semester, and that did boost my confidence.
+
+Consultant: Holding onto those positive reinforcements is crucial. They remind you of your abilities and accomplishments. How might focusing on such positive feedback shift your current mindset?
+
+User: It helps me focus on my capabilities rather than fearing criticism all the time.
+
+Consultant: That's a healthy adjustment, Jessica. Can noting down these positive instances be part of your reflections moving forward?
+
+User: I'll try to keep those moments more visible. Writing them down might ground me more positively. 
+
+Consultant: Wonderful plan, Jessica. Incorporating thoughts about past successes can indeed help create a well-rounded perspective on your school experience. 
+
+User: I’ll make an effort to remember those good parts and keep writing them down. 
+
+Consultant: Excellent. Observing the positives will support your mental resilience. Remember, each step, no matter how small, is progress.
+
+User: Thanks. I feel like I have a bit more control over things now.
+
+Consultant: Great to hear, Jessica! I’m eager to know how these strategies continue to develop for you. Keep being gentle with yourself as you navigate these challenges.
+
+User: I will, thank you for your guidance. I’ll let you know how things go next time.
+#######
+Consultant: Hi Jessica, it's nice to see you again. Have you had any more thoughts about addressing the situation with your teachers?
+
+User: I've thought about trying to talk to them, to explain my side. Maybe it would help.
+
+Consultant: That seems like a constructive step. What would be important for them to understand from your perspective?
+
+User: I want them to know I'm not trying to cause trouble; I've just been overwhelmed lately.
+
+Consultant: Sharing your feelings openly could indeed clarify things and ease tensions. How do you feel about setting up that conversation?
+
+User: I'm a bit nervous, but I feel like it could really help.
+
+Consultant: It's normal to feel nervous, Jessica. Preparing a few key points in advance might boost your confidence. What are some things you would want to ensure they understand about your current situation?
+
+User: I would want them to know about the stress I've been under, not just with school but also with everything going on in my life lately.
+
+Consultant: It sounds valuable to communicate that extra stress you're facing. Are there specific instances of stress outside school that are impacting your overall mood?
+
+User: My family has been going through a tough time, and it's hard not to let it affect me. Sometimes I carry that stress with me into school.
+
+Consultant: That sounds like a significant load to carry. It might be beneficial for your teachers to know that there are external factors affecting your performance. How do you think you could introduce this topic during your conversation with them?
+
+User: I think I could explain that recent family issues are making it hard to concentrate in class.
+
+Consultant: Being honest about your struggles can create empathy and understanding. Practicing this conversation might help reduce some anxiety. Would you consider discussing it with a friend before meeting your teachers?
+
+User: Yes, I think running through it with a friend could really help me organize my thoughts better.
+
+Consultant: A friend could offer you reassurance and even help refine your points. Alongside preparing for that conversation, were there any recent events or assignments at school that seemed particularly challenging?
+
+User: The last math test was stressful, and I didn't perform as well as I had hoped. It's been hard to shake off that disappointment.
+
+Consultant: It's understandable to feel disappointed. Have you received any feedback on the test that could guide you on areas to focus on for future improvements?
+
+User: My teacher mentioned that I did well on some parts but struggled with particular concepts. I guess I should focus on those areas.
+
+Consultant: That's useful feedback to have. Targeting specific areas can improve your performance over time. How about carving out some time each week to review those challenging concepts?
+
+User: That could help. Maybe I can set a couple of afternoons aside for math review.
+
+Consultant: Setting time aside specifically for math review can reinforce what you're learning. Have you found any study methods that work well for you, like group studies or using online tools?
+
+User: I usually study alone, but I might try some online resources. Sometimes explaining things to someone else helps too.
+
+Consultant: Teaching concepts to someone else is a highly effective way of reinforcing your own understanding. Maybe you could study with a classmate who also finds math challenging.
+
+User: That's a good idea. I might reach out to someone from my class.
+
+Consultant: Sounds like a plan, Jessica. Creating a support network can be incredibly helpful. Beyond academic stress, are there other activities you enjoy that could help balance stress levels?
+
+User: I like running when I can. It helps get my mind off things.
+
+Consultant: That's a fantastic activity to have for managing stress. Regular exercise can significantly boost your mood. Would you be open to setting aside specific times to go running more often?
+
+User: I think that could work. I usually end up running randomly when I have time, but setting a schedule might be good.
+
+Consultant: Creating a routine around running could be immensely beneficial. How about starting with a couple of times a week?
+
+User: That sounds like a good start. I'll try it on Tuesdays and Thursdays.
+
+Consultant: Great choice, Jessica. Steady routines can help create stability amidst chaos. Remember, it's about finding what steadies you. If you keep track of your progress, it might reinforce your commitment.
+
+User: That makes sense. Keeping a log of my running could also show me how much it's helping.
+
+Consultant: Absolutely. Observing the benefits of running through a log might motivate you further. As we continue our work together, it's uplifting to see your proactive approach and how you're integrating these strategies into your life.
+
+User: Thanks. I’m trying to take everything you say to heart.
+
+Consultant: Your effort is commendable, Jessica. Let's continue to build on this momentum in our next sessions. Always remember, small steps lead to significant journeys.
+
+User: I’ll keep working on it and let you know how things go next time.
+#######
+Consultant: Hi Jessica, welcome back. I was wondering how your runs on Tuesdays and Thursdays are going. Have you noticed any difference in your stress levels?
+
+User: Hi! Yes, actually, setting a schedule has really helped. I've been more consistent, and I feel a bit less stressed once I'm done with my run.
+
+Consultant: That's fantastic to hear. Regular exercise can be incredibly beneficial for managing stress. Have you noticed any other changes in how you feel or your daily routine since you started?
+
+User: Aside from feeling more relaxed, I think I've become a bit better at managing my time. Knowing I have those running slots means I plan other activities around them.
+
+Consultant: That's a great development, Jessica. It sounds like setting a dedicated time for running has not only helped with stress but also with time management. Do you think this could apply to other areas of your life as well?
+
+User: Possibly. I think having a more structured routine might help me with schoolwork too, like studying or doing assignments.
+
+Consultant: That makes sense. Having a routine can give a sense of stability. We could look at how to create a similar structure for your study schedule. What might an ideal week look like for you in terms of balancing schoolwork and leisure?
+
+User: Well, I'd like to have set times for homework, maybe a couple of hours in the evenings. I also want to make sure I have time to unwind with things I enjoy.
+
+Consultant: It sounds like a balanced approach, which is important. How about incorporating specific time slots for both study and relaxation, just as you've done for running? This way, you have both structure and flexibility.
+
+User: That could work. I guess making a timetable might help me see where my time is going.
+
+Consultant: A timetable could indeed give you a clearer picture of your activities. Additionally, setting small, achievable goals for each study session can keep you motivated. What kind of goals would you consider for your schoolwork?
+
+User: I think focusing on what I struggled with, like the math concepts we talked about, might be a good focus for my study sessions.
+
+Consultant: That's a constructive focus. Revisiting challenging concepts will gradually build your confidence. Have online resources or studying with classmates been helpful since our last talk?
+
+User: I've been using some online tools, which are pretty helpful. I haven't had a chance to study with classmates yet but I'm planning to reach out soon.
+
+Consultant: That's good progress, Jessica. Reaching out to classmates could add a new dimension to your learning. With online resources and peer support, you've got a solid backup plan for your studies. How are you feeling about your progress in other areas, like your interactions with teachers?
+
+User: I had a talk with one of my teachers. I explained a bit about my stress and family stuff. It was nerve-wracking, but I think they understood me better afterward.
+
+Consultant: I'm glad you took that step. Communicating openly with your teachers can foster understanding and support. Did this conversation help ease any of the pressure you were feeling regarding their expectations?
+
+User: It did, actually. Knowing they're willing to listen and understand my side made me feel a bit lighter.
+
+Consultant: That's a valuable takeaway. Feeling supported can be a big relief in managing stress. Considering this experience, how might you approach future conversations with authority figures if needed?
+
+User: I'd probably try to be as honest and open as I can be while explaining my situation.
+
+Consultant: It sounds like you've gained insight into the power of open communication. Remember, you're not alone in any setback you encounter. How are things outside of school, like with your family or other personal areas?
+
+User: Things at home are still a bit tense, but running and talking to people about it helps me manage the stress better.
+
+Consultant: It's great that you're maintaining those outlets for relief. As you continue with them, you might explore sharing more with trusted friends or even family, if it feels right. Have any friends been particularly supportive?
+
+User: Yeah, I have a friend I confide in. We talk often, and it really helps.
+
+Consultant: That sounds reassuring, Jessica. Strong friendships can be invaluable during tough times. Continue nurturing those bonds. They can't be underestimated. Moreover, have you thought about any other hobbies or activities you'd like to try?
+
+User: I've been considering trying yoga or meditation. I hear they're good for stress.
+
+Consultant: Both yoga and meditation can be excellent for stress reduction. Starting something new could be refreshing. It doesn't have to be perfect; it's about the experience. Could you see yourself incorporating this into your routine?
+
+User: I think it would be interesting to try, maybe after my runs.
+
+Consultant: That sounds like a seamless addition. Pairing physical exercise with mindful relaxation can deepen your stress management toolkit. If you do decide to try it, let me know how it goes in our next session.
+
+User: Will do. It might be a good way to unwind.
+
+Consultant: It's encouraging to see you exploring these options. As we work together, your willingness to try new strategies is a testament to your resilience. Reflect on what works best for you, and continue building on that.
+
+User: Thanks. It's been helpful to have these discussions and put things into perspective.
+
+Consultant: I'm glad to help, Jessica. Remember the progress you've made and the strategies you've developed. We will keep refining them together. Looking forward to hearing how everything unfolds for you.
+
+User: Thanks, I'm looking forward to it too. See you next time!
+#######
+Consultant: Hi Jessica, it's been great working with you. Can we reflect on your progress and the strategies that you've found helpful?
+
+User: I've realized that talking about my feelings and thoughts can lift a bit of my stress. Planning my activities helps too.
+
+Consultant: That's wonderful insight. In the future, when faced with similar feelings, what approaches do you think might help you the most?
+
+User: I'll remind myself not to assume the worst right away and to share my thoughts with someone I trust.
+
+Consultant: Those are powerful strategies to have. Along with these, have there been any particular situations recently where you used these strategies and found them effective?
+
+User: Yes, there was a time when my family was expecting me to help out more at home. Instead of immediately feeling overwhelmed, I decided to talk it over with my parents calmly.
+
+Consultant: How did that conversation go? Was it similar to how you approached the talk with your teacher?
+
+User: Very much so. I explained my school commitments, and they were understanding and even suggested a schedule where I could balance both.
+
+Consultant: That's an excellent example of clear communication. It's rewarding to see how you've used these strategies in various parts of your life. How has this impacted your relationship with your family?
+
+User: There’s definitely less tension now. They realize I'm trying my best, and I've learned to communicate my limits better.
+
+Consultant: That's a fantastic outcome. Have you noticed any changes in your stress levels or general mood since you've adopted these approaches?
+
+User: Honestly, I feel calmer and more in control. It’s easier to find time to relax when things are more organized.
+
+Consultant: That’s great progress, Jessica. Achieving balance leads to a more fulfilling lifestyle. Have your runs and relaxation activities contributed to this newfound calm?
+
+User: Yes, sticking to my running schedule helps clear my mind, and I'm planning to try yoga next week as we discussed.
+
+Consultant: I'm glad to hear that you plan to explore yoga. Another strategy might be to reflect on your daily achievements, even small ones. This can enhance your sense of accomplishment and well-being. How does that sound?
+
+User: I like that idea. Focusing on the positives might give me a better perspective, especially on tough days.
+
+Consultant: That's precisely the goal—to nurture positivity within your daily routine. As we conclude our sessions, remember these skills you've built can help you handle future challenges. If you ever need more support, feel free to reach out.
+
+User: Thank you so much. I feel more equipped to deal with things now.
+#######

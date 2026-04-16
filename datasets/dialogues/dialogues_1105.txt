@@ -1,0 +1,450 @@
+Consultant: Hi Xiaoteng, welcome to our session today. How are you feeling lately?
+
+User: Hey. I'm really frustrated and angry. My parents forced me to stay in the hospital, and I feel like they betrayed me.
+
+Consultant: It sounds like you're going through a tough time with your family. Could you share more about what led to this situation?
+
+User: Well, I've been having trouble with school and spending a lot of time playing online games. My parents don't understand me and think the hospital can fix everything.
+
+Consultant: It seems like there's a lot of tension between you and your parents. How has this been affecting your feelings recently?
+
+User: I feel really disconnected from them, and it's hard to care about anything, especially school.
+
+Consultant: Thank you for sharing that with me. For this week, let's focus on observing how your emotions fluctuate in different situations. It might help us understand more about what’s happening.
+
+User: Okay, I'll try to pay attention to that.
+
+Consultant: Hi Xiaoteng, it's good to see you again. Did you have a chance to notice any patterns in your emotions last week?
+
+User: Yeah, I realized that I get angry whenever my parents talk about my gaming habits. It makes me feel like they're attacking me.
+
+Consultant: That's important to recognize. When you have these thoughts about being attacked, how do they affect your feelings or actions?
+
+User: I usually just shut down and stop talking to them. It only makes me more frustrated.
+
+Consultant: These thoughts seem to reinforce your feelings of anger and isolation. Do you think there might be a way to challenge these perceptions?
+
+User: Maybe, but it's hard to see things differently when I'm in the moment.
+
+Consultant: I understand, Xiaoteng. As this week's task, try to jot down these moments when you feel that way and see if there are any common themes in your thoughts.
+
+User: Alright, I'll give it a shot.
+
+Consultant: Great. Identifying these patterns can start to give you a clearer picture of how your interactions affect you emotionally. Seeing them on paper could help distance you a bit from the intensity of the moment.
+
+User: That makes sense. I'll see if noting them helps me spot any patterns.
+
+Consultant: In our next session, we can look further into these themes together and explore strategies that might help shift your perspectives when needed. Remember, it's about small steps and finding what works for you.
+
+User: I guess I haven't thought of looking at it from a distance before. I'll try to do that.
+
+Consultant: Hi Xiaoteng, welcome back. Have you been able to reflect on those moments and identify any recurring thoughts?
+
+User: Yes, I've noticed that I often think my parents don't care about my interests or feelings.
+
+Consultant: That's a strong realization. How much do you believe this assumption holds true? Could there be other perspectives?
+
+User: I'm not completely sure. They say they care, but it just doesn't feel like it sometimes.
+
+Consultant: It might be helpful to think about how you'd advise a friend in your situation. What would you suggest to them?
+
+User: I'd probably tell them to try talking to their parents about how they feel, even though it's tough.
+
+Consultant: That sounds like a constructive approach. Would you consider having a conversation with your parents to express your perspective?
+
+User: I guess it wouldn't hurt to try. Maybe it'll help them understand me better.
+
+Consultant: Hi Xiaoteng, it's nice to see you again. Have you thought about how you might talk to your parents about your feelings?
+
+User: Yeah, I've been thinking of telling them that I feel they don't get me or care about my interests.
+
+Consultant: Sharing your feelings openly is a big step. What do you hope your parents will understand from this conversation?
+
+User: I just want them to see that I'm not just avoiding school for no reason, and that gaming means something to me.
+
+Consultant: Being honest about your priorities can help clear some of the tension. How do you feel about planning this talk with your parents?
+
+User: I'm nervous, but I think it's necessary to try.
+
+Consultant: Hi Xiaoteng, I'm glad you're back. Have you thought about any activities you enjoy that could be more positive for you?
+
+User: Well, I really like programming. It's challenging and exciting for me.
+
+Consultant: That's a great interest to have. Engaging in activities like programming can be both fun and rewarding. Would you be open to making it part of your routine?
+
+User: Yeah, I'd like to spend more time on it, but I never seem to have the time.
+
+Consultant: Setting a simple schedule could help you make time for programming, which can be fulfilling. How about starting with just an hour a few times a week?
+
+User: That seems doable. I'll try to find some time in the evenings.
+
+Consultant: Hi Xiaoteng, it's been a pleasure working with you. Let's reflect on your progress and identify strategies you found useful.
+
+User: I've become more aware of my thoughts and how they affect my emotions. Trying to see things differently is still hard, but I’m getting there.
+
+Consultant: That's a significant step forward. What strategies do you think will support you the most in managing future challenges?
+
+User: I'll remind myself to question my assumptions and maybe talk things over with friends who understand me.
+
+Consultant: These are excellent strategies. As we conclude our sessions, remember you have developed many skills to manage life's challenges. Feel free to reach out if you need additional support in the future.
+
+User: Thank you for your help. I feel more capable of handling things now.
+#######
+Consultant: Hi Xiaoteng, it's good to see you again. Did you have a chance to notice any patterns in your emotions last week?
+
+User: Yeah, I realized that I get angry whenever my parents talk about my gaming habits. It makes me feel like they're attacking me.
+
+Consultant: That's important to recognize. When you have these thoughts about being attacked, how do they affect your feelings or actions?
+
+User: I usually just shut down and stop talking to them. It only makes me more frustrated.
+
+Consultant: These thoughts seem to reinforce your feelings of anger and isolation. Do you think there might be a way to challenge these perceptions?
+
+User: Maybe, but it's hard to see things differently when I'm in the moment.
+
+Consultant: I understand, Xiaoteng. As this week's task, try to jot down these moments when you feel that way and see if there are any common themes in your thoughts.
+
+User: Alright, I'll give it a shot.
+
+Consultant: Great. Identifying these patterns can start to give you a clearer picture of how your interactions affect you emotionally. Seeing them on paper could help distance you a bit from the intensity of the moment.
+
+User: That makes sense. I'll see if noting them helps me spot any patterns.
+
+Consultant: In our next session, we can look further into these themes together and explore strategies that might help shift your perspectives when needed. Remember, it's about small steps and finding what works for you.
+
+User: I guess I haven't thought of looking at it from a distance before. I'll try to do that.
+
+Consultant: Reflecting from a distance may indeed reveal different angles. How did things go with your programming, by the way? Were you able to find any time to indulge in it?
+
+User: A little. I tried doing it for fun, but my schedule is still tight.
+
+Consultant: Balancing your schedule can be tricky. Let's brainstorm how you might carve out even small windows of personal time. Even brief, enjoyable moments can be refreshing.
+
+User: Maybe squeezing in some time over the weekend could work.
+
+Consultant: Weekends can be a great way to recharge. As you explore this, remember you’re building experiences to help bring balance not just in recreations but also in resolving issues like tensions with your parents.
+
+User: Yeah, understanding more about my emotions and finding time for my interests might help.
+
+Consultant: Certainly. Connecting the dots between understanding emotions and enjoying hobbies provides a more holistic approach to well-being. How did it go with observing those emotions with your parents?
+
+User: A bit rough, but I noted some repetitive thoughts. Like thinking they don’t get me.
+
+Consultant: Gaining awareness of those repetitive thoughts is a significant first step. Can you think of a past memory where you felt understood by them?
+
+User: Hmm... there was a time my dad tried gaming with me to understand it better.
+
+Consultant: That's interesting. That experience can be a reminder that they do try to connect with you at times. Holding onto these memories might help shape your discussions with them.
+
+User: That's true. I hadn't thought much about those times.
+
+Consultant: It's easy to overlook such moments amidst tension. As this week progresses, consider expanding on positive recollections when planning future conversations with your parents. How does that sound?
+
+User: It sounds like it can be helpful. I’ll keep that in mind.
+
+Consultant: Excellent. Reflecting on positive times could soften the current view and possibly ease the communication. Our goal is to build bridges through understanding, though it's not always straightforward.
+
+User: Yeah, I do hope talking about this with them improves things.
+
+Consultant: Let’s keep a hopeful mindset. Positive communication and reconnecting with past moments of understanding can open new pathways. 
+
+User: I'll try to work on that. Although I'm still unsure about dealing with moments when I feel judged.
+
+Consultant: Being unsure is a normal step in this journey. When you feel judged, it'd be useful to practice pausing and reviewing those feelings after jotting them down. 
+
+User: Like writing down what makes me feel judged and why?
+
+Consultant: Exactly, Xiaoteng. This can make the judgments feel less overwhelming and more tangible, enabling us to dissect them in our sessions.
+
+User: I think focusing on them this way is something I can try.
+
+Consultant: Wonderful. Remember, our aim is gradual progress. I'm here to support you as we delve deeper into these patterns and find out what strategies resonate most with you.
+
+User: Thanks, that makes me feel less pressured about achieving it all at once. 
+
+Consultant: I’m glad to hear that. No pressure, only progress at your pace is important. When we talk next, we can further discuss how these exercises are affecting your interactions and emotions. 
+
+User: Thanks for guiding me through this. I'm more hopeful now.
+
+Consultant: That's the spirit, Xiaoteng. I look forward to our next session to continue exploring this path together. Take care until then!
+
+User: See you next time, and thank you!
+#######
+Consultant: Hi Xiaoteng, welcome back. Have you been able to reflect on those moments and identify any recurring thoughts?
+
+User: Yes, I've noticed that I often think my parents don't care about my interests or feelings.
+
+Consultant: That's a strong realization. How much do you believe this assumption holds true? Could there be other perspectives?
+
+User: I'm not completely sure. They say they care, but it just doesn't feel like it sometimes.
+
+Consultant: It might be helpful to think about how you'd advise a friend in your situation. What would you suggest to them?
+
+User: I'd probably tell them to try talking to their parents about how they feel, even though it's tough.
+
+Consultant: That sounds like a constructive approach. Would you consider having a conversation with your parents to express your perspective?
+
+User: I guess it wouldn't hurt to try. Maybe it'll help them understand me better.
+
+Consultant: Taking that step could indeed lead to some understanding. How do you feel about preparing for that conversation? 
+
+User: I feel a bit anxious thinking about it, but I know it might be beneficial.
+
+Consultant: It can be a bit daunting. Perhaps writing down your feelings beforehand might give you more clarity and courage to express yourself better.
+
+User: That's a good idea. I think writing it out will help me organize my thoughts.
+
+Consultant: Wonderful. It's like planning before programming; preparation can ease some of the pressure. How did your programming go last week, by the way?
+
+User: I managed to spend some time on it. It's still challenging to juggle everything, but I enjoyed those moments.
+
+Consultant: Glad to hear that. Those moments of enjoyment and fulfilment are important. Finding balance can sometimes be achieved with small adjustments to your daily routine.
+
+User: I suppose scheduling time might help keep that balance.
+
+Consultant: Exactly! Even 30 minutes a day dedicated to something you love can make a huge difference. How did reflecting on your emotions during interactions with your parents go?
+
+User: It was enlightening, but also rough. I realized I often jump to conclusions about their intentions without really knowing.
+
+Consultant: That awareness is key, Xiaoteng. Recognizing when you're jumping to conclusions can help alter those emotional responses over time.
+
+User: I think if I pause and assess my thoughts, I might manage my emotions better.
+
+Consultant: Pausing to assess what you're feeling is a powerful tool. It’s akin to debugging a program to find what's not working as planned. Did you recall any other moments where your parents showed understanding?
+
+User: Actually, yes. Last month my mom showed interest in my coding project at school and asked how it was going.
+
+Consultant: That's a meaningful moment, and remembering these instances can provide reassurance that they do care about your interests.
+
+User: Yeah, it's nice looking back on these positive interactions, which I've often overlooked.
+
+Consultant: As you consider talking to them, holding onto these positive memories might guide the conversation toward more empathetic communication.
+
+User: I hope so. It does make me less nervous thinking they might actually listen.
+
+Consultant: This perspective shift can facilitate a more open dialogue. If you were to focus on one goal for this conversation, what would that be?
+
+User: Mainly for them to understand that my gaming is a way to escape stress, not just me being lazy.
+
+Consultant: Communicating that clearly can build a bridge to mutual understanding. Emphasizing how gaming helps you can shift the narrative from avoidance to a supportive coping strategy.
+
+User: Yeah, putting it like that makes it sound more reasonable.
+
+Consultant: Exactly. It's all about framing. Our narratives often dictate our interactions and perceptions.
+
+User: I feel a bit more confident about sharing with them now.
+
+Consultant: Confidence stems from thoughtful preparation and knowing your truth. As a task addition, continue journaling those reflections, especially around interactions and feelings.
+
+User: I'll keep doing that. Documenting thoughts has already been helpful.
+
+Consultant: I'm glad it's useful. Recording your journey helps track progress and shifts. We can explore these insights further in our next session.
+
+User: I'm looking forward to seeing how things go after this talk.
+
+Consultant: Me too. Remember, Xiaoteng, change is gradual, and even small steps count. I'm here to walk through this together with you.
+
+User: Thanks, that means a lot. I'll try to take this one step at a time.
+
+Consultant: You're welcome. I'm optimistic about your progress. Until next time, take care.
+#######
+Consultant: Hi Xiaoteng, it's nice to see you again. Have you thought about how you might talk to your parents about your feelings?
+
+User: Yeah, I've been thinking of telling them that I feel they don't get me or care about my interests.
+
+Consultant: Sharing your feelings openly is a big step. What do you hope your parents will understand from this conversation?
+
+User: I just want them to see that I'm not just avoiding school for no reason and that gaming means something to me.
+
+Consultant: Being honest about your priorities can help clear some of the tension. How do you feel about planning this talk with your parents?
+
+User: I'm nervous, but I think it's necessary to try.
+
+Consultant: It's perfectly normal to feel nervous, Xiaoteng. Sometimes writing down what you wish to convey can make it easier when speaking with them. Have you considered also mentioning other interests like programming that you've shared with me before?
+
+User: I hadn't thought about that, but it might show them that I'm not just wasting time and that I do have productive hobbies.
+
+Consultant: Exactly. By sharing your enthusiasm for programming alongside gaming, it might broaden their understanding of your interests. How do you think they might react?
+
+User: I hope they'll see I'm trying to balance fun with productivity, and maybe they'll realize I'm not just being irresponsible.
+
+Consultant: That sounds like a positive outcome. Emphasizing how these activities contribute to your growth could be key. How have they reacted in the past when you shared your successes with programming?
+
+User: My mom seemed interested when I showed her a project I was working on recently. I think there's potential there for more understanding.
+
+Consultant: That's a great opening. Reflecting on that interest from your mom might encourage a deeper conversation and help them see your dedication. What if they still focus more on your gaming? How might you steer the conversation?
+
+User: I might admit that gaming helps me unwind and escape stress, but reassure them that I’m maintaining priorities like schoolwork and programming.
+
+Consultant: That approach shows awareness and responsibility. Acknowledging gaming as a stress-reliever while highlighting your commitment to your studies and programming presents a well-rounded picture.
+
+User: Hopefully, that can help them see things from my perspective a bit better.
+
+Consultant: It certainly could. Remember, communicating with empathy can also affect how they receive your message. What do you think would be your ideal outcome from this conversation?
+
+User: Ideally, I'd love for them to understand why I game and support my other interests like programming.
+
+Consultant: Supporting your varied interests might make communication smoother. In the past, how have they shown their support?
+
+User: Here and there, they've shown support, like asking about my projects or encouraging me in school, but it feels inconsistent.
+
+Consultant: Recognizing those supportive moments can strengthen the conversation. Bringing them up might remind your parents of the positive reinforcement they’ve given before.
+
+User: Yeah, maybe pointing that out will make them more conscious of it in the future.
+
+Consultant: Exactly. Little reinforcements can gradually build a more supportive environment. As you head into this conversation, maintaining a calm and open demeanor could help keep it productive.
+
+User: I'll try to stay calm, even if I feel anxious inside. It's important to me.
+
+Consultant: You've been making considerable strides with self-awareness and tackling challenges straightforwardly, Xiaoteng. As homework, continue noting down thoughts and experiences from this conversation, which can provide insights for future interactions.
+
+User: I'll keep doing that. It's been insightful so far and might help analyze how this talk impacts us.
+
+Consultant: I'm delighted to hear these reflections are beneficial. They provide a treasure trove of information for understanding dynamics better. We'll explore these outcomes together in our next session.
+
+User: I look forward to seeing the progress, even if it's just small changes. Every bit counts.
+
+Consultant: Absolutely, every small step counts, Xiaoteng. Growth is often a gradual process, but every moment of reflection and communication contributes. I'm here to support you throughout.
+
+User: Thanks for the support. I appreciate it and feel ready to face this conversation.
+
+Consultant: You’re doing great, Xiaoteng. We'll discuss how it went the next time we meet. Remember, you can navigate through these talks with the skills you're developing. Take care until then!
+
+User: Thanks. I'm hopeful about it. See you next time!
+#######
+Consultant: Hi Xiaoteng, I'm glad you're back. Have you thought about any activities you enjoy that could be more positive for you?
+
+User: Well, I really like programming. It's challenging and exciting for me.
+
+Consultant: That's a great interest to have. Engaging in activities like programming can be both fun and rewarding. Would you be open to making it part of your routine?
+
+User: Yeah, I'd like to spend more time on it, but I never seem to have the time.
+
+Consultant: Setting a simple schedule could help you make time for programming, which can be fulfilling. How about starting with just an hour a few times a week?
+
+User: That seems doable. I'll try to find some time in the evenings.
+
+Consultant: Perfect, Xiaoteng. And how has things been going with your parents? Have you had that conversation about balancing gaming with other activities?
+
+User: I talked to them a bit, trying to explain how programming fits into my life. They seemed to listen, but it's complicated.
+
+Consultant: It's great that you took that step. How did it feel to open up to them?
+
+User: A bit nerve-wracking, but also a relief to finally say it out loud. I think they appreciate that I'm making an effort.
+
+Consultant: Expressing yourself is a huge move. Did anything in particular help you calm your nerves before the talk?
+
+User: Remembering our discussions helped. Thinking about how gaming and programming are both ways I learn and de-stress was comforting.
+
+Consultant: It's wonderful to see you're utilizing past conversations in this way, Xiaoteng. How did the talk with your parents change things between you?
+
+User: It hasn't changed overnight, but there's less tension. They realized I'm not just ignoring my responsibilities.
+
+Consultant: That's definitely progress. Moving forward, what's your plan to continue improving these relationships? 
+
+User: Keep being open with them, and maybe involve them in my programming projects a bit, so they can see what I'm working on.
+
+Consultant: Involving them could strengthen the bond, showing them your dedication and creativity. How do you feel about maintaining this open dialogue?
+
+User: It's hard but necessary. I'd prefer them to understand instead of assuming things.
+
+Consultant: Ensuring this understanding grows is beneficial. Do you recall specific examples where sharing your interests has garnered positive reactions?
+
+User: When I shared a game I coded, mom was really impressed and interested. It felt good having her on my team.
+
+Consultant: That's an uplifting moment. Leveraging such experiences will definitely help. How do you intend to communicate similarly in scenarios where they might seem doubtful or critical?
+
+User: I'll try to stay firm but kind, explaining why I value these activities. And maybe show them more projects.
+
+Consultant: That balance of firmness and understanding is key. Think about this: How might they support you if they understood more clearly your stress-management needs?
+
+User: They might encourage more breaks during study, like programming sessions, instead of just pushing for more study hours.
+
+Consultant: Precisely, Xiaoteng. Balancing leisure and work rejuvenates focus. Gradually shifting their focus might garner such support. How do you usually unwind after a busy day or study session?
+
+User: Sometimes a quick gaming session or tinkering with a coding project helps me switch gears and refresh my mind.
+
+Consultant: These breaks are crucial and cater to your strengths. Have your friends been supportive in navigating these emotions and workload?
+
+User: Some friends get it; we discuss gaming strategies or share ideas, which feels pretty supportive.
+
+Consultant: A support network can truly empower. How might tapping this resource further aid in sustaining a balanced lifestyle?
+
+User: Just knowing there's someone to talk to who understands gaming and programming, it motivates me to stay balanced.
+
+Consultant: Exactly, Xiaoteng. Encouragement from peers who share similar interests enhances resilience. In moments of doubt, remember these shared experiences.
+
+User: I'll keep that in mind. It's less isolating knowing others feel the same way.
+
+Consultant: You're making great strides. For the next session, keep documenting any thoughts and experiences, especially while engaging in programming or talking with others. These could provide insight.
+
+User: I'll do that. It helps to see things laid out, where I am progressing and how to tackle issues.
+
+Consultant: Excellent, Xiaoteng. Embrace these reflections—they're powerful tools in introspection and desired change. I'm here supporting every step of your journey.
+
+User: Thanks. It's been an illuminating process, one step at a time.
+
+Consultant: Each step is meaningful. Remember, implementing these strategies progressively elevates you toward your goals. Until next time, take care and be kind to yourself.
+
+User: I will. Thanks for everything. See you!
+#######
+Consultant: Hi Xiaoteng, I'm delighted to see you again. From our last conversation, I recall you planned to question your assumptions and maybe have discussions with friends who understand you. How did that go?
+
+User: Hi, yeah, I've been trying to implement those strategies. It has been eye-opening to challenge my thoughts, but I'm finding it hard to keep up with it all the time.
+
+Consultant: That's completely understandable, Xiaoteng. Recognizing your thoughts is indeed profound. Can you tell me about a specific instance where challenging your assumptions had an impact on you?
+
+User: Well, there was a moment when I assumed my parents were upset with me for not studying enough. But instead, I approached them, and they clarified they were just concerned about my gaming habits.
+
+Consultant: That’s a crucial discovery. It's amazing how something so small can change the understanding of a situation. How did this realization affect your relationship with your parents?
+
+User: It was a relief, honestly. I felt less defensive and more willing to talk about my interests, including my passion for programming.
+
+Consultant: Engaging in such discussions strengthens bonds, showing that communication can indeed alter perceptions. Has this openness influenced how you interact with your friends too?
+
+User: Yes, definitely. I’ve started chatting with some friends about these challenges as well, and it’s nice to know they understand where I'm coming from.
+
+Consultant: Having a network that reciprocates understanding is invaluable. How does it feel to know that your friends can be both a support system and share interests like gaming?
+
+User: It feels reassuring. We connect on topics like game strategies and even discuss new programming projects. It’s motivating.
+
+Consultant: You're fostering a supportive circle, enhancing both your social and emotional well-being. Reflecting on your progress, how have these interactions contributed to your challenges at school?
+
+User: I've noticed I'm more open to new perspectives, and it helps reduce stress. When I study or code, I sometimes think of my friends’ advice.
+
+Consultant: Integrating such advice shows growth and adaptability. How do you think these newly developed ways of thinking will aid you with future challenges?
+
+User: I feel equipped to question negative thoughts and seek clarity before jumping to conclusions. I also plan to continue having open conversations with my family and friends.
+
+Consultant: This proactive approach will undoubtedly assist in navigating potential hurdles. As we talk about future strategies, let’s keep nurturing these key relationships. What would be one step you can take towards this goal?
+
+User: I want to involve my parents more in what I’m doing, maybe share more about my projects or what excites me about programming.
+
+Consultant: Showing them your world through your projects will provide them with a deeper understanding of your passions. How might they react to being included, and how could it affect your dynamic with them?
+
+User: I think they’ll appreciate it. It might help them see my commitment and maybe relieve some pressure off our interactions about schooling.
+
+Consultant: This sounds like a promising initiative. Bridging gaps, especially with shared interests, often nurtures appreciation and understanding. Have there been moments where family support has bolstered your motivation?
+
+User: Yes, like when I saw mom proud of a game I coded. Her interest was encouraging, and it pushed me to keep improving.
+
+Consultant: Such positivity can fuel determination. When acknowledging these positive moments, how do you ensure they remain part of your progress narrative?
+
+User: By keeping them in mind during tough times. Remembering these times reminds me that I have their support, even if not always vocally expressed.
+
+Consultant: That’s a powerful mindset, Xiaoteng. To solidify this further, continue documenting these interactions and reflections through your day-to-day experiences. They’re key to maintaining motivation and insight.
+
+User: I’ve noted down some instances already and will keep doing so. It’s helpful to see how my thought processes are evolving.
+
+Consultant: Excellent. Reflecting back is crucial in sustaining change and acknowledging your growth. As this stage of our journey together concludes, remember that you're not alone. You can reach out anytime you find yourself needing additional guidance.
+
+User: Thank you for everything. It’s comforting knowing I’ve got someone like you to turn to. 
+
+Consultant: It’s been truly gratifying working together, Xiaoteng. I’m confident you’re more than capable of handling future challenges with all the strategies you’ve honed. Best wishes on your continuous journey.
+
+User: I appreciate that. I feel more prepared and resilient. Thank you again.
+
+Consultant: You're on a great path. Keep progressing and be kind to yourself, Xiaoteng. Until next time, take care.
+
+User: Will do. Goodbye, and take care!
+#######

@@ -1,0 +1,320 @@
+Consultant: Hi Xiaoy, welcome to today's session. How have you been feeling lately?
+
+User: Hi. I've been feeling pretty stressed. I recently had a math test, and I didn't do well. I feel really anxious about it.
+
+Consultant: I'm sorry to hear that, Xiaoy. It sounds like the math test has been a significant source of stress for you. Can you tell me more about what happened during the test?
+
+User: I just froze. I had prepared, but when I got the paper, I couldn’t concentrate. My mind went blank, and I could barely answer any questions.
+
+Consultant: It must have been difficult to experience that, especially after preparing. How has this affected your feelings towards studying and school overall?
+
+User: I feel defeated and don't want to study anymore. I already struggle with motivation, and this has made things worse.
+
+Consultant: It's understandable to feel this way given your experience. Let's work together to find some strategies that could help you manage these feelings. For this week, try writing down your thoughts about the test and your feelings towards studying. It may help in understanding and addressing them better.
+
+User: Writing things down might help. I’ll give it a try.
+
+Consultant: Hi Xiaoy, it's good to have you back. Last time, we talked about writing down your thoughts. Were you able to do that?
+
+User: Yes, I wrote some things down. Mostly about how I feel like a failure and that I'll never be good enough.
+
+Consultant: Thank you for sharing that with me, Xiaoy. Those thoughts sound quite heavy. When these thoughts cross your mind, how do they impact your emotions?
+
+User: They make me feel sad and kind of hopeless. It's like no matter what I do, it won't make much of a difference.
+
+Consultant: It seems like these thoughts are influencing your emotions quite a bit. Do you notice any patterns in these thoughts, maybe how they assume the worst outcome?
+
+User: Definitely. I often think that because I failed once, it'll keep happening, and that's just how things are now.
+
+Consultant: I understand, Xiaoy. Let's consider these thought patterns and how they might not fully reflect the reality of the situation. For this week, try to notice when these negative thoughts occur and write down any evidence that supports or contradicts them.
+
+User: Okay, I'll keep track of that.
+
+Consultant: Hi Xiaoy, welcome back. Did you have a chance to examine the evidence for and against those negative thoughts we discussed?
+
+User: Yes, I did. It turns out there isn’t much evidence for my negative thoughts, apart from the recent test. I usually do okay, just not as well as before.
+
+Consultant: That’s a great insight, Xiaoy. It seems like your assumptions may not have a strong foundation. What advice would you give a friend if they felt defeated after one setback?
+
+User: I’d probably tell them not to be too hard on themselves and to maybe see this as a learning experience.
+
+Consultant: That's a compassionate approach. Can you think of ways to apply this perspective to yourself?
+
+User: Maybe I could focus on improving gradually and not see one test as a total failure.
+
+Consultant: That sounds like a healthy, realistic way to view it, Xiaoy. For the next week, try practicing some self-compassion, like reminding yourself it’s okay to make mistakes and grow from them.
+
+User: I'll try that. It feels good thinking with a bit more kindness towards myself.
+
+Consultant: Hi Xiaoy, it’s great to see you again. Last time, we talked about being more compassionate towards yourself. How did that go?
+
+User: It was hard at first, but I think I’m slowly getting the hang of it. I started to notice that I'm less upset when I make small mistakes.
+
+Consultant: That’s wonderful progress, Xiaoy. Recognizing and accepting mistakes is a big step. Have you thought about any other misunderstandings or negative expectations you might face in the future?
+
+User: Well, I guess I expect too much of myself sometimes, and then I’m disappointed when I don't measure up.
+
+Consultant: It’s common to set high standards, but it’s also important to balance them with understanding. How might you approach these expectations differently?
+
+User: Maybe by setting more realistic goals and taking things one step at a time, instead of aiming for perfection right away.
+
+Consultant: That’s a thoughtful approach, Xiaoy. Keeping realistic goals can help alleviate pressure. This week, try focusing on setting achievable goals and acknowledging your efforts in reaching them.
+
+User: I’ll work on that. It feels more manageable.
+
+Consultant: Hi Xiaoy, happy to see you again. Recently, we discussed setting manageable goals. How have you been doing with that?
+
+User: Setting smaller goals seems to help. I’m less overwhelmed when I break things down into steps.
+
+Consultant: That’s great to hear, Xiaoy. Small steps often lead to significant progress. Have you thought about activities that bring you joy and could support you through stressful times?
+
+User: I like chatting with my friends online and playing games. It helps distract me from stress.
+
+Consultant: Those are good activities for relaxation. Balancing leisure and responsibilities is vital. Can we think about balancing your study schedule with these enjoyable activities?
+
+User: Maybe I could use them as a reward after completing study sessions.
+
+Consultant: That sounds like a balanced plan, Xiaoy. Integrating enjoyable activities as rewards might motivate you further. Try scheduling your study and leisure time this week and see how it works.
+
+User: I’ll do that. Hopefully, it’ll make studying less stressful.
+
+Consultant: Hi Xiaoy, it's been a pleasure working with you. As we conclude, could we reflect on your progress and strategies you've found helpful?
+
+User: I've learned to be more patient with myself and to set smaller, achievable goals. I also appreciate using rewards to stay motivated.
+
+Consultant: That’s fantastic progress, Xiaoy. When you encounter challenges ahead, what strategies do you think will support you best?
+
+User: I plan to remind myself that it's okay not to be perfect and to break tasks into smaller parts. Also, talking about my worries helps a lot.
+
+Consultant: Those are strong strategies, Xiaoy. You've developed many skills for handling challenges. Remember you have the ability to manage your emotions. If you need more support in the future, you're always welcome to come back.
+
+User: Thank you for all the help. I feel more ready to handle things now.
+#######
+Consultant: Hi Xiaoy, it's good to have you back. Last time, we talked about writing down your thoughts. Were you able to do that?
+
+User: Yes, I wrote some things down. Mostly about how I feel like a failure and that I'll never be good enough.
+
+Consultant: Thank you for sharing that with me, Xiaoy. Those thoughts sound quite heavy. When these thoughts cross your mind, how do they impact your emotions?
+
+User: They make me feel sad and kind of hopeless. It's like no matter what I do, it won't make much of a difference.
+
+Consultant: It seems like these thoughts are influencing your emotions quite a bit. Do you notice any patterns in these thoughts, maybe how they assume the worst outcome?
+
+User: Definitely. I often think that because I failed once, it'll keep happening, and that's just how things are now.
+
+Consultant: I understand, Xiaoy. Let's consider these thought patterns and how they might not fully reflect the reality of the situation. For this week, try to notice when these negative thoughts occur and write down any evidence that supports or contradicts them.
+
+User: Okay, I'll keep track of that.
+
+Consultant: Excellent. Besides jotting these down, have you noticed if there are specific situations or events that trigger these thoughts more frequently?
+
+User: I think they come up most when I'm faced with something challenging, like an exam or a big project. It's like I immediately assume failure.
+
+Consultant: It's quite natural to feel that way when under pressure. Understanding what triggers these thoughts is a step towards controlling them. What would you say to a good friend who expresses fear of failure in similar situations?
+
+User: I'd tell them it’s okay to feel worried but important to remember their past achievements too. Everyone faces setbacks, but it doesn’t define what they're capable of.
+
+Consultant: That's a supportive message. Applying this perspective to yourself might help. Can you give yourself the same encouragement you would offer a friend?
+
+User: I suppose if I tried, I could remind myself of things I've done well, even if they're small.
+
+Consultant: That’s a good starting point, focusing on past successes rather than just one negative experience. Have you considered sharing these feelings with your family and friends to see what they think?
+
+User: I haven't really thought about that. It might help, but I'm not sure they'll understand fully.
+
+Consultant: That’s understandable, Xiaoy. Yet, opening up could provide a new perspective and support. Remember, you’re not alone in any challenge. For this week, try to initiate a conversation with someone you trust about these feelings if you feel comfortable.
+
+User: I might give it a try. It could be useful to hear what they have to say.
+
+Consultant: That’s a positive step forward. Remember, Xiaoy, acknowledging these thoughts and feelings is a part of your journey. We're here to explore these together.
+
+User: Thanks, it's good to know I'm not tackling this by myself.
+
+Consultant: You're doing well, Xiaoy. For the next week, along with writing down those thoughts, see if discussing them with a friend or family member changes your perspective.
+
+User: I’ll try. Talking about things, even just writing them down like before, helps somewhat in sorting my thoughts out.
+
+Consultant: That's encouraging to hear. We aim for gradual progress, and you're already making headway. I'm eager to hear how this affects your experiences when we meet next.
+
+User: Sounds like a plan. Thanks for the guidance.
+
+Consultant: You're welcome, Xiaoy. Keep moving at your own pace, and remember that it's okay to reach out for support anytime. I look forward to our next session.
+
+User: Me too! Take care until then.
+#######
+Consultant: Hi Xiaoy, welcome back. Did you have a chance to examine the evidence for and against those negative thoughts we discussed?
+
+User: Yes, I did. It turns out there isn’t much evidence for my negative thoughts, apart from the recent test. I usually do okay, just not as well as before.
+
+Consultant: That’s a great insight, Xiaoy. It seems like your assumptions may not have a strong foundation. What advice would you give a friend if they felt defeated after one setback?
+
+User: I’d probably tell them not to be too hard on themselves and to maybe see this as a learning experience.
+
+Consultant: That's a compassionate approach. Can you think of ways to apply this perspective to yourself?
+
+User: Maybe I could focus on improving gradually and not see one test as a total failure.
+
+Consultant: That sounds like a healthy, realistic way to view it, Xiaoy. For the next week, try practicing some self-compassion, like reminding yourself it’s okay to make mistakes and grow from them.
+
+User: I'll try that. It feels good thinking with a bit more kindness towards myself.
+
+Consultant: I'm glad to hear that, Xiaoy. Recognizing your strengths and treating yourself with kindness can certainly bring about a positive change. Do you remember any particular situations where you were able to overcome challenges by being patient with yourself?
+
+User: There was a time last year when I struggled with a history assignment. I reminded myself that it was alright to ask questions and seek help.
+
+Consultant: That's an excellent example. You showed resilience and resourcefulness there. How did asking for help affect your work or perspective about the assignment?
+
+User: It helped a lot. I realized that other students also had questions, and it made me feel less isolated in my struggle.
+
+Consultant: That’s a valuable lesson, Xiaoy. Remembering past successes where you took a different approach can be motivating. In what ways could you incorporate similar strategies now, perhaps in subjects you find challenging?
+
+User: I could form a study group with friends to discuss difficult topics. It seems like a good way to learn and support each other.
+
+Consultant: That's a wonderful idea, Xiaoy. Collaborating with peers not only aids understanding but also strengthens community. Have you shared your recent experiences or achievements with friends or family?
+
+User: Not really, I'm afraid they might judge me if I don't get everything right.
+
+Consultant: It's natural to have concerns about sharing, yet those close to you might provide unexpected support or understanding. What if you focused on sharing the process, rather than just results? 
+
+User: Hmm, I suppose talking about what I'm learning and experiencing could open up conversations.
+
+Consultant: Absolutely. Discussing your journey rather than solely outcomes can be enriching for both you and your listeners. As you focus on self-compassion this week, consider small steps that make sharing easier.
+
+User: It’s worth trying. I’ll see how it goes.
+
+Consultant: That’s a step in a promising direction, Xiaoy. Exploring new methods of communication can unlock valuable insights and nurture relationships. If you encounter negative thoughts during this time, how might you challenge them?
+
+User: I could remind myself that one setback doesn't define my abilities and that I'm constantly learning.
+
+Consultant: Perfect, Xiaoy. Continuously learning and acknowledging growth can dissipate those harsh thoughts. It's about embracing the journey as much as the destination. As you proceed, let's think about incorporating joy and relaxation in your weekly routine. What activities bring you peace or happiness?
+
+User: I really enjoy taking walks in the park and listening to music. They help calm my mind.
+
+Consultant: Those sound like peaceful activities. Getting outside and engaging with nature or music can be grounding and refreshing. Could you schedule these activities during stressful times as a deliberate reminder to decompress?
+
+User: That's a good idea. I think incorporating them regularly could improve my mood.
+
+Consultant: Perfect, Xiaoy. Consistently including activities that uplift you fosters resilience. This week, besides practicing self-compassion and sharing experiences, aim to blend these joyful moments into your schedule.
+
+User: I’ll do that. It seems like a balanced approach.
+
+Consultant: You're making terrific progress, Xiaoy. Be gentle with yourself, and savor the small victories. And remember, growth stems from acknowledging both challenges and strengths. 
+
+User: Thanks for all the support. I'll keep everything in mind for this week.
+
+Consultant: You're welcome, Xiaoy. It's always inspiring to see your commitment to self-growth. I look forward to hearing about your experiences when we reconvene. Take care until then.
+
+User: Take care, see you next time!
+#######
+Consultant: Hi Xiaoy, it's wonderful to see you again. Last time, we discussed being more compassionate toward yourself. How did implementing this mindset go for you over the past week?
+
+User: Hi. At first, it was quite challenging, but I think I'm slowly getting the hang of it. I've noticed that I'm less upset when I make small mistakes now.
+
+Consultant: That's excellent progress, Xiaoy. Recognizing and accepting mistakes is indeed a significant step. Have you identified any other misunderstandings or negative expectations you might face going forward?
+
+User: Well, sometimes I feel like I'm setting the bar too high for myself. When I don't reach those expectations, I end up feeling disappointed.
+
+Consultant: It's quite common to have high expectations, but it's essential to balance them with understanding. How might you approach these expectations differently to maintain balance?
+
+User: Perhaps by setting more realistic goals and taking things one step at a time, instead of aiming for perfection immediately.
+
+Consultant: That's a thoughtful strategy, Xiaoy. Keeping realistic goals can indeed alleviate the pressure you might feel. This week, you might want to focus on setting achievable goals and recognizing your efforts in reaching them.
+
+User: I'll work on that. It feels like a more manageable way of handling things.
+
+Consultant: Wonderful. Now, what activities do you enjoy that might bring you comfort and support during stressful times?
+
+User: I really enjoy chatting with my friends online and sometimes just playing video games. It helps to distract me from stress.
+
+Consultant: Those are excellent choices for relaxation. Balancing leisure with responsibilities is crucial. Can we devise a plan to blend your study schedule with these enjoyable activities?
+
+User: Perhaps I could use them as a rewarding break after completing study sessions.
+
+Consultant: That's a balanced plan, Xiaoy. Seeing these activities as rewards can also serve as motivation. This week, try scheduling your study and leisure time and observe how it affects your stress levels.
+
+User: I’ll make sure to try that. Hopefully, it’ll help make studying a bit less overwhelming.
+
+Consultant: Excellent approach, Xiaoy. You're making impressive progress. Remember, the aim is gradual improvement. Embracing both challenges and strengths will continue to build your resilience.
+
+User: Thank you. I'll keep all this in mind for the upcoming week.
+
+Consultant: It's my pleasure, Xiaoy. Your commitment to self-growth is inspiring. I look forward to hearing about your experiences when we meet next. Take care until then.
+
+User: Take care, see you next time!
+#######
+Consultant: Hi Xiaoy, it's great to see you again. Last time, we talked about scheduling study and leisure time. Have you managed to try this approach, and how did you find it?
+
+User: Hi. Yes, I did try it. Scheduling my activities made a big difference. I felt more organized and less stressed because I knew I had time to relax after studying.
+
+Consultant: That's wonderful to hear, Xiaoy. Finding a balance between work and relaxation can be very beneficial. Were there any particular challenges or surprises as you implemented this plan?
+
+User: The biggest challenge was sticking to the schedule, especially when I got really into playing games. But it helped me realize what triggers my procrastination.
+
+Consultant: Identifying those triggers is really insightful. Now that you're aware of them, how do you think you might adjust your approach to ensure you stay within the time limits you've set?
+
+User: I think I could set alarms to remind myself when to stop and maybe get my friends involved, so they can help me stay on track.
+
+Consultant: That's a practical solution, Xiaoy. Involving your friends sounds like a collaborative approach to support your goals. Have you noticed any changes in how you feel about studying now that you have this system?
+
+User: Definitely. I feel more in control and less anxious. Knowing that there's always time for fun makes the workload seem less daunting.
+
+Consultant: That’s excellent progress. It’s amazing what structure can do for our peace of mind. Beyond this strategy, have any other thoughts or ideas come up that might support you further?
+
+User: I've been thinking about finding a study buddy. Maybe studying with someone could make it less tedious and more engaging.
+
+Consultant: A study buddy can indeed be a great asset for motivation and accountability. Who do you think would be a good fit for this?
+
+User: I think one of my friends who’s also a bit stressed about exams could be a good partner. We can help each other stay focused.
+
+Consultant: That sounds like a supportive plan, Xiaoy. Collaborating with someone who shares similar goals can make studying more effective and enjoyable. Would you like to set anything specific to discuss with them?
+
+User: Maybe we can start with discussing our study plans and see how we can assist each other when we're struggling.
+
+Consultant: That sounds like a constructive start. Sharing strategies and challenges can strengthen both of your skills. Returning to your break times, what activities do you find most rewarding or refreshing?
+
+User: I still find chatting with friends online or exploring new games really refreshing, as they pull me away completely from stress.
+
+Consultant: It's great to have those activities in place for relaxation. Now, considering the positive shift in your study approach, how might these leisure activities further encourage your overall progress?
+
+User: I think if I intentionally value them as true rewards for hard work, they'll turn into motivation rather than just distractions.
+
+Consultant: Watching for shifts in perspective like that is insightful, Xiaoy. It turns distractions into positive reinforcements. As you progress, remember to check in with how your methods are working and adjust as needed.
+
+User: I will. It's comforting to know that I can make these changes if things aren’t working out.
+
+Consultant: Flexibility is a powerful tool in managing stress. Have you observed any other notable effects on your emotions or motivation since you started implementing these changes?
+
+User: I've noticed that I'm more optimistic about my ability to handle stress and my responsibilities. It feels empowering to have strategies that actually work.
+
+Consultant: That's tremendous growth, Xiaoy. Embracing an optimistic mindset, alongside structured strategies, lays an excellent foundation for future challenges. Is there anything else you’d like to explore or breakthrough next?
+
+User: I guess the next step is to maintain this momentum as my exams get closer. Maybe I could learn some techniques to manage exam anxiety.
+
+Consultant: Preparing for exams both academically and emotionally is essential. We can definitely work on some anxiety management techniques. Some people find deep breathing exercises or visualization useful. Would you be interested in trying those?
+
+User: I’d like to try visualization. It's something I haven’t tried before, and it sounds interesting.
+
+Consultant: Visualization can indeed be quite effective. This week, you might want to spend a few minutes daily picturing yourself entering a calm, focused state before sitting an exam. Notice the difference it makes!
+
+User: That sounds like a good idea. I'll start practicing that along with my study schedule.
+
+Consultant: Excellent, Xiaoy. Your commitment to trying new methods is impressive. Remember, each small effort contributes to big improvements. I'm here to support you through it all.
+
+User: Thank you. It feels less daunting knowing I can take it step by step.
+
+Consultant: You’re absolutely right, Xiaoy. Breaking things into steps can make even the most intimidating tasks manageable. I look forward to hearing about your experiences utilizing visualization and your managed schedule during our next session.
+
+User: Thanks for everything. I’ll see you next time!
+#######
+Consultant: Hi Xiaoy, it's been a pleasure working with you. As we conclude, could we reflect on your progress and strategies you've found helpful?
+
+User: I've learned to be more patient with myself and to set smaller, achievable goals. I also appreciate using rewards to stay motivated.
+
+Consultant: That's fantastic progress, Xiaoy. When you encounter challenges ahead, what strategies do you think will support you best?
+
+User: I plan to remind myself that it's okay not to be perfect and to break tasks into smaller parts. Also, talking about my worries helps a lot.
+
+Consultant: Those are strong strategies, Xiaoy. You've developed many skills for handling challenges. Remember you have the ability to manage your emotions. If you need more support in the future, you're always welcome to come back.
+
+User: Thank you for all the help. I feel more ready to handle things now.
+#######

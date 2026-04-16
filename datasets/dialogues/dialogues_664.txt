@@ -1,0 +1,414 @@
+Consultant: Hi Wang, welcome back to our session today. How have you been doing recently?
+
+User: Hi, it's been a bit stressful. I'm quite worried about the upcoming graduation and my chances of getting into graduate school. There's also this constant anxiety about something I did in the past.
+
+Consultant: I’m sorry to hear that you’re feeling stressed. Could you tell me more about what has been worrying you?
+
+User: Well, I was part of a group where people shared ways to cheat on exams. I never actually used any of them, but I'm scared it might come up and ruin my chances of being accepted for graduate studies.
+
+Consultant: It sounds like you're carrying a lot of anxiety about this situation. How has this fear been affecting your daily life and studies?
+
+User: It makes me feel really on edge, like I can't focus properly. I keep thinking about what might happen if it gets out. It's hard to concentrate on my studies because of it.
+
+Consultant: That seems very tough to deal with. For our next session, I’d like you to jot down moments when you notice your anxiety heightening. This might help us identify patterns or triggers. Would you be willing to do that?
+
+User: Sure, I can try to keep track of when I feel most anxious.
+
+Consultant: Great. This will be helpful for understanding the connection between your thoughts, emotions, and behaviors. We'll discuss your findings in our next session.
+
+Consultant: Hi Wang, glad to have you back for our session. Last time, we talked about tracking moments when your anxiety peaks. How did that go?
+
+User: I noticed that the anxiety gets worse when I'm alone at night or when I start thinking about my future. It's like my mind goes into overdrive.
+
+Consultant: Thank you for sharing that. What kind of thoughts usually come up during these times?
+
+User: I keep thinking that I'll get exposed and lose everything I've worked for. It's like a continuous loop of 'what ifs.'
+
+Consultant: It seems like these thoughts are intensifying your anxiety. Do you ever feel that your mind is jumping to the worst-case scenarios?
+
+User: Yes, definitely. Even though there's no proof, I just assume the worst will happen.
+
+Consultant: Understanding these patterns is a key step. For next week, could you write down some of these thoughts as they occur, so we can explore them further?
+
+User: I can do that. I guess it might be useful to see how often they come up.
+
+Consultant: Excellent. Identifying your thought patterns will allow us to work on ways to manage them in our upcoming sessions.
+
+Consultant: Hi Wang, welcome back. Last time, we discussed some of the recurring thoughts you've been experiencing. Have you had a chance to write any of them down?
+
+User: I did. Most of them revolve around the fear of my cheating involvement being revealed and ruining my academic future.
+
+Consultant: I'm glad you noted that. How confident are you that these fears will come to reality?
+
+User: Not very confident, but the possibility terrifies me, and I can't seem to shake it off.
+
+Consultant: That's understandable. If a friend were in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to focus on what they can control, like their current academic performance, and try not to dwell too much on things that might never happen.
+
+Consultant: That sounds like sound advice. Have you considered applying this perspective to your own situation?
+
+User: I hadn't, but it makes sense. Maybe I could try focusing more on what I need to do right now.
+
+Consultant: That’s a great idea. For our next session, perhaps you could practice this mindset and note any changes in your stress levels. Let's see how it works for you.
+
+Consultant: Hi Wang, it's great to have you back. In our last session, we talked about focusing on what you can control. How has that approach been for you?
+
+User: I've tried it a bit, and it helps sometimes. It's still a struggle, but I've been able to concentrate better on my studies at times.
+
+Consultant: That's good to hear. Progress, no matter how small, is still progress. Have you thought about any specific actions you can take to address your worries directly?
+
+User: I considered discussing my concerns with a professor I trust, someone who might offer guidance or reassurance.
+
+Consultant: That’s a constructive step forward. What do you hope to gain from this conversation with your professor?
+
+User: I hope to find some clarity and maybe a bit of support, to feel less alone with my fears.
+
+Consultant: That sounds like a thoughtful plan. Having a supportive figure can indeed make a significant difference. How do you feel about preparing for this conversation?
+
+User: A bit nervous but also hopeful. I think it might help me gain a better perspective.
+
+Consultant: Hi Wang, I'm happy to see you again. Have you had a chance to think about any activities or interests that could bring you some relief during stressful times?
+
+User: Yes, I've always enjoyed playing the piano. It used to be a great stress reliever for me.
+
+Consultant: That’s a wonderful hobby to have. Playing the piano could be a nice escape for you. Would you like to plan incorporating more of it into your weekly routine?
+
+User: I’d love to. I’ve been meaning to get back into playing regularly but haven't found the time.
+
+Consultant: Setting a small goal might help. How about dedicating just 30 minutes a week to begin with? You can gradually increase it as you find more time.
+
+User: That sounds doable. I’ll try to start with that.
+
+Consultant: Great. Engaging in activities you love can be an excellent way to alleviate stress. We can check in next session to see how it goes.
+
+Consultant: Hi Wang, it's been a pleasure working with you. Let's reflect on your journey and the strategies you've found most useful.
+
+User: Becoming aware of my negative thought patterns has been helpful. Discussing my worries also helped me feel supported and less isolated.
+
+Consultant: I'm glad to hear that. When faced with similar challenges in the future, which strategies do you feel will be most supportive for you?
+
+User: I’ll try to focus on my present actions and not things out of my control. Talking to trusted people when I'm worried will also be important for me.
+
+Consultant: Those are excellent strategies. As we conclude our sessions, remember you've developed lots of tools to tackle life's challenges. You can always reach out for more support if needed.
+
+User: Thank you so much for your help. I have more confidence in managing my feelings now.
+
+Consultant: You’re welcome, Wang. It's been a pleasure to assist you on this journey. Take care and remember, you're not alone.
+#######
+Consultant: Hi Wang, welcome back. Last time, we discussed some of the recurring thoughts you've been experiencing. Have you had a chance to write any of them down?
+
+User: I did. Most of them revolve around the fear of my cheating involvement being revealed and ruining my academic future.
+
+Consultant: I'm glad you noted that. How confident are you that these fears will come to reality?
+
+User: Not very confident, but the possibility terrifies me, and I can't seem to shake it off.
+
+Consultant: That's understandable. If a friend were in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to focus on what they can control, like their current academic performance, and try not to dwell too much on things that might never happen.
+
+Consultant: That sounds like sound advice. Have you considered applying this perspective to your own situation?
+
+User: I hadn't, but it makes sense. Maybe I could try focusing more on what I need to do right now.
+
+Consultant: That’s a great idea. For our next session, perhaps you could practice this mindset and note any changes in your stress levels. Let's see how it works for you.
+
+User: Sure, I’ll try to be more present-focused and see if that helps me manage my anxiety better.
+
+Consultant: Excellent approach, Wang. Now, relating to your piano interests from one of our previous conversations, could you consider integrating it as a technique to stay grounded?
+
+User: I would like to try that. I remember that playing the piano used to bring me a sense of calm and control.
+
+Consultant: That's encouraging. When you find yourself feeling overwhelmed with negative thoughts, perhaps taking a small break to play could break that loop.
+
+User: That could help, especially when my mind goes into a negative spiral. I’ll give it a try next time.
+
+Consultant: Fantastic. Also, as we discussed earlier, focusing on interactions that could provide you with comfort seem important. Any developments on reaching out to the professor you trust?
+
+User: I've been thinking about how to approach the conversation, but I haven't reached out yet. Writing down my thoughts has helped organize my concerns a bit.
+
+Consultant: That's a step in the right direction. Preparing what you want to discuss beforehand is smart. Would you feel comfortable setting a timeline to initiate this dialogue?
+
+User: I think setting a date could push me to take action, so maybe within the next two weeks I can aim to do it.
+
+Consultant: Sounds promising. Remember, having that conversation can provide reassurance and potentially new insights. 
+
+User: Yes, I think it will. I hope to feel more supported once I talk to them.
+
+Consultant: It’s likely you'll gain valuable perspective through this. Additionally, reflecting on your thoughts, if you encounter worst-case scenarios that seem implausible, how might you reframe them?
+
+User: I suppose I could remind myself of the lack of evidence supporting those scenarios and focus on actual outcomes instead.
+
+Consultant: That’s insightful. Training your mind to seek evidence over assumptions can be powerful, Wang. It’s great that you’re planning proactive steps forward.
+
+User: I’m trying. It’s been somewhat daunting, but these dialogues help me recognize progress.
+
+Consultant: Progress indeed. Remember, gradual steps lead to significant changes over time. Are there other supports from friends or family you might engage with during this period?
+
+User: I have friends who know I’ve been stressed; I could try talking to them more when I feel isolated.
+
+Consultant: That’s a strong support network to tap into. Sharing your journey with them may lessen isolation and offer comfort.
+
+User: You're right, it might break the cycle of staying too much in my head.
+
+Consultant: Exactly. Building open communication channels with your support network is invaluable. As for your piano sessions, how are you planning to schedule them in your routine?
+
+User: I thought about playing a little before bed to help unwind from the day’s stress.
+
+Consultant: Perfect choice. Integrating enjoyable activities at day's end can signal your mind to relax, preparing you for restful sleep.
+
+User: Hopefully, it will also give my brain a break from all the overthinking.
+
+Consultant: It should. Allow yourself patience as you adjust these habits—consistency will gradually yield results. As we continue this journey, recording any thoughts on new patterns or realizations will be crucial for our next discussion.
+
+User: I’ll make it a point to do that. Looking back, it’s surprising to see patterns form over time.
+
+Consultant: Indeed, observing these can be an enlightening experience. I look forward to hearing how you’re settling into these new practices. If challenges arise, remember it’s okay to reach out for additional support.
+
+User: Thank you, I appreciate having this space to work things out. I'll keep on with these strategies and see you next time.
+
+Consultant: You’re doing amazing work, Wang. Keep nurturing yourself with kindness and patience. Being open to exploration and change is key. See you in our next session.
+#######
+Consultant: Hi Wang, welcome back. Last time, we discussed some of the recurring thoughts you've been experiencing. Have you had a chance to write any of them down?
+
+User: I did. Most of them revolve around the fear of my cheating involvement being revealed and ruining my academic future.
+
+Consultant: I'm glad you noted that. How confident are you that these fears will come to reality?
+
+User: Not very confident, but the possibility terrifies me, and I can't seem to shake it off.
+
+Consultant: That's understandable. If a friend were in a similar situation, what advice would you give them?
+
+User: I'd probably tell them to focus on what they can control, like their current academic performance, and try not to dwell too much on things that might never happen.
+
+Consultant: That sounds like sound advice. Have you considered applying this perspective to your own situation?
+
+User: I hadn't, but it makes sense. Maybe I could try focusing more on what I need to do right now.
+
+Consultant: That's a great idea. For our next session, perhaps you could practice this mindset and note any changes in your stress levels. Let's see how it works for you.
+
+User: Sure, I’ll try to be more present-focused and see if that helps me manage my anxiety better.
+
+Consultant: Excellent approach, Wang. Now, relating to your piano interests from one of our previous conversations, could you consider integrating it as a technique to stay grounded?
+
+User: I would like to try that. I remember that playing the piano used to bring me a sense of calm and control.
+
+Consultant: That's encouraging. When you find yourself feeling overwhelmed with negative thoughts, perhaps taking a small break to play could break that loop.
+
+User: That could help, especially when my mind goes into a negative spiral. I’ll give it a try next time.
+
+Consultant: Fantastic. Also, as we discussed earlier, focusing on interactions that could provide you with comfort seem important. Any developments on reaching out to the professor you trust?
+
+User: I've been thinking about how to approach the conversation, but I haven't reached out yet. Writing down my thoughts has helped organize my concerns a bit.
+
+Consultant: That's a step in the right direction. Preparing what you want to discuss beforehand is smart. Would you feel comfortable setting a timeline to initiate this dialogue?
+
+User: I think setting a date could push me to take action, so maybe within the next two weeks I can aim to do it.
+
+Consultant: Sounds promising. Remember, having that conversation can provide reassurance and potentially new insights. 
+
+User: Yes, I think it will. I hope to feel more supported once I talk to them.
+
+Consultant: It’s likely you'll gain valuable perspective through this. Additionally, reflecting on your thoughts, if you encounter worst-case scenarios that seem implausible, how might you reframe them?
+
+User: I suppose I could remind myself of the lack of evidence supporting those scenarios and focus on actual outcomes instead.
+
+Consultant: That’s insightful. Training your mind to seek evidence over assumptions can be powerful, Wang. It’s great that you’re planning proactive steps forward.
+
+User: I’m trying. It’s been somewhat daunting, but these dialogues help me recognize progress.
+
+Consultant: Progress indeed. Remember, gradual steps lead to significant changes over time. Are there other supports from friends or family you might engage with during this period?
+
+User: I have friends who know I’ve been stressed; I could try talking to them more when I feel isolated.
+
+Consultant: That’s a strong support network to tap into. Sharing your journey with them may lessen isolation and offer comfort.
+
+User: You're right, it might break the cycle of staying too much in my head.
+
+Consultant: Exactly. Building open communication channels with your support network is invaluable. As for your piano sessions, how are you planning to schedule them in your routine?
+
+User: I thought about playing a little before bed to help unwind from the day’s stress.
+
+Consultant: Perfect choice. Integrating enjoyable activities at day's end can signal your mind to relax, preparing you for restful sleep.
+
+User: Hopefully, it will also give my brain a break from all the overthinking.
+
+Consultant: It should. Allow yourself patience as you adjust these habits—consistency will gradually yield results. As we continue this journey, recording any thoughts on new patterns or realizations will be crucial for our next discussion.
+
+User: I’ll make it a point to do that. Looking back, it’s surprising to see patterns form over time.
+
+Consultant: Indeed, observing these can be an enlightening experience. I look forward to hearing how you’re settling into these new practices. If challenges arise, remember it’s okay to reach out for additional support.
+
+User: Thank you, I appreciate having this space to work things out. I'll keep on with these strategies and see you next time.
+
+Consultant: You’re doing amazing work, Wang. Keep nurturing yourself with kindness and patience. Being open to exploration and change is key. See you in our next session.
+#######
+Consultant: Hi Wang, it's great to have you back. In our last session, we talked about focusing on what you can control. How has that approach been for you?
+
+User: I've tried it a bit, and it helps sometimes. It's still a struggle, but I've been able to concentrate better on my studies at times.
+
+Consultant: That's good to hear. Progress, no matter how small, is still progress. Have you thought about any specific actions you can take to address your worries directly?
+
+User: I considered discussing my concerns with a professor I trust, someone who might offer guidance or reassurance.
+
+Consultant: That’s a constructive step forward. What do you hope to gain from this conversation with your professor?
+
+User: I hope to find some clarity and maybe a bit of support, to feel less alone with my fears.
+
+Consultant: That sounds like a thoughtful plan. Having a supportive figure can indeed make a significant difference. How do you feel about preparing for this conversation?
+
+User: A bit nervous but also hopeful. I think it might help me gain a better perspective.
+
+Consultant: It's normal to feel a mix of emotions when approaching such significant conversations. Have you thought about what specific topics or questions you want to bring up during this discussion?
+
+User: I'm considering discussing my fears about my past group involvement and the possibility of it affecting my future. I also want to explore ways to improve my current academic performance.
+
+Consultant: Those seem like relevant subjects to address. It might also help to practice how you'd like to express these concerns with someone else before the meeting.
+
+User: That's a good idea. Maybe I could talk through it with a friend before approaching my professor.
+
+Consultant: Engaging a friend for a practice conversation can be a great way to build confidence. As you prepare, consider how the professor might respond, and think of potential solutions or ideas they're likely to suggest.
+
+User: That sounds constructive. It could make me feel more prepared for their input.
+
+Consultant: Absolutely. Being open to their perspective and advice could offer valuable insights you hadn't considered. How do you think your friend might perceive your decision to involve your professor?
+
+User: I believe they would see it as a proactive step towards getting the support I need, which is reassuring.
+
+Consultant: It's great to have supportive friends who recognize your efforts. Do you also anticipate feeling a sense of relief or pressure release once you share your concerns with your professor?
+
+User: I think it would feel like a weight off my shoulders. It’s hard carrying these worries alone.
+
+Consultant: Venting your concerns can certainly be freeing. Have you thought about how your personal interests, like piano playing, might serve as a backup stress-reliever throughout this process?
+
+User: I’ve thought about it. Playing the piano has always been soothing for me. It’s something I’d like to integrate more regularly.
+
+Consultant: Wonderful. Playing the piano could offer a welcome break, helping you unwind and recharge. Perhaps incorporating short sessions into your routine can bolster your overall resilience.
+
+User: That sounds practical. Even a few minutes can change my mood significantly.
+
+Consultant: Exactly, Wang. And since you enjoy playing, it can be both a mindful practice and a creative outlet. Do you plan to schedule set times or let it be more spontaneous?
+
+User: Starting with scheduled times might establish better consistency, but leaving room for spontaneity could also be nice.
+
+Consultant: Both approaches sound effective. Finding a balance that suits your life and preferences is key. Besides, having this creative space can lighten your mental load after demanding days.
+
+User: I look forward to rediscovering that part of myself. Lately, it feels like I've drifted from things that bring me joy.
+
+Consultant: Rekindling joy is essential alongside managing stress. Your interests help ground you in moments of uncertainty. Are there other activities you’ve been wanting to return to?
+
+User: I’ve missed reading non-academic books. Stories seem to take me to another world and give me a new perspective.
+
+Consultant: Perfect. Engaging with literature can enhance your introspective capacity and offer fresh viewpoints. Setting aside a few minutes daily could become another tool for balance.
+
+User: I’ll definitely try to make room for both piano and reading. They both feel fulfilling in their own ways.
+
+Consultant: Wonderful commitment, Wang. Integrating small doses of pleasure can heighten your resilience to stress over time. Let's track how these enhancements influence your experiences in our upcoming sessions.
+
+User: I really hope it makes a difference. I’m eager to see how these small changes impact my stress levels.
+
+Consultant: And I’m here to support you as you embark on these adjustments. As you prepare for your professor discussion, remember your strengths and the progress you've made. Reflecting on your development can anchor your confidence.
+
+User: I’ll keep that in mind. It’s helpful to remember the progress, especially on challenging days.
+
+Consultant: Absolutely. Acknowledge your strides often. Reflecting on how you’ve navigated past hurdles shows your capability to handle new situations. I'll be interested to hear about your reflections in our next meeting.
+
+User: I’ve resonated with this conversation a lot. It feels good to move forward with clearer plans in mind.
+
+Consultant: I'm so pleased to hear that, Wang. You're steadily crafting your path with insight and resilience. Let’s continue building on these foundations next session. Remember, each step contributes significantly to your overall journey.
+
+User: Thank you for the guidance. Looking forward to seeing what comes next.
+#######
+Consultant: Hi Wang, I'm happy to see you again. Have you had a chance to think about any activities or interests that could bring you some relief during stressful times?
+
+User: Yes, I've always enjoyed playing the piano. It used to be a great stress reliever for me.
+
+Consultant: That’s a wonderful hobby to have. Playing the piano could be a nice escape for you. Would you like to plan incorporating more of it into your weekly routine?
+
+User: I’d love to. I’ve been meaning to get back into playing regularly but haven't found the time.
+
+Consultant: Setting a small goal might help. How about dedicating just 30 minutes a week to begin with? You can gradually increase it as you find more time.
+
+User: That sounds doable. I’ll try to start with that.
+
+Consultant: Great. Engaging in activities you love can be an excellent way to alleviate stress. We can check in next session to see how it goes.
+
+User: I think it'll be a nice way to unwind, especially when things get overwhelming with my studies.
+
+Consultant: Absolutely. And it provides a mental break, allowing your mind to relax and reset. Do you recall how you felt after playing the piano in the past?
+
+User: It always gave me a sense of calm and accomplishment. I'd get lost in the music and come out feeling refreshed.
+
+Consultant: That's fantastic. Holding onto those positive feelings can motivate you to keep it part of your routine. Have you thought about any specific pieces or genres you'd like to start with?
+
+User: I used to love playing classical pieces. Maybe I could start there and explore other genres as I go along.
+
+Consultant: That sounds like a great plan. Beginning with something familiar yet challenging can reignite your interest. How do you feel about setting specific days or times to practice?
+
+User: I think I'll start with weekends since I have more free time then. It’ll give me something to look forward to as a break from academic work.
+
+Consultant: A scheduled practice time during weekends sounds wise. It's also important to remain flexible with your schedule, ensuring it becomes a joyful part of your life, not an obligation.
+
+User: Definitely, I'll keep that in mind. I want to enjoy it, not dread it.
+
+Consultant: That's a healthy approach. Speaking of enjoyment, have there been other hobbies or activities you've wanted to revisit or explore?
+
+User: I’ve been curious about photography. Capturing moments seems like it could be fulfilling and creative.
+
+Consultant: Photography is a wonderful way to express yourself and perceive the world differently. You could even merge both interests, capturing moments that inspire your music.
+
+User: That’s an interesting idea. It would add a new dimension to both activities.
+
+Consultant: Indeed, exploring connections between your passions might heighten your experiences and even introduce a new source of inspiration. How does the thought of trying photography make you feel?
+
+User: Excited, but also a bit intimidated since I don’t know much about cameras or techniques.
+
+Consultant: That’s a natural feeling when trying something new. Starting small, perhaps with a phone camera or basic tutorials online, could boost your confidence as you learn.
+
+User: That’s a good suggestion. I could experiment without pressuring myself too much initially.
+
+Consultant: Experimentation can help you discover what you enjoy most within photography. Have you shared this interest with any friends or family who might offer support or join you?
+
+User: I’ve mentioned it to a friend who’s also interested. We thought of exploring it together, which could be fun and motivating.
+
+Consultant: Having a companion can make the learning process enjoyable and less daunting. Plus, sharing creative insights can deepen your experience, leading to unexpected discoveries.
+
+User: True, and I'm looking forward to seeing what we can capture together.
+
+Consultant: Wonderful! I’m thrilled to see how reintegrating these hobbies will contribute to your emotional well-being. Together, they offer a balanced outlet for relaxing and expressing yourself.
+
+User: I hope they help. It's been a while since I let myself just enjoy something without worrying about outcomes.
+
+Consultant: That's key, Wang. Embrace these activities as a form of self-nurturing, free from expectations. It’s all about enjoying the moment. How does this approach feel to you?
+
+User: It feels freeing. Like I'm giving myself permission to unwind and just be in the moment.
+
+Consultant: Perfect, and it's a step towards achieving better stress management. We'll continue to explore the impact of these interests on your well-being in future sessions.
+
+User: I look forward to seeing how it changes things. This conversation gives me hope for positive shifts.
+
+Consultant: I'm delighted to hear that. Maintaining hope and openness can cultivate meaningful change. Remember, each small step contributes to your overall progress.
+
+User: I appreciate your guidance. I’m eager to start implementing these changes and see the results.
+
+Consultant: You've got a solid foundation to build on, Wang. I'm confident in your ability to leverage these strategies for your emotional growth. Let's reconvene soon to discuss these new interests further.
+
+User: Absolutely, I'll give it my best and see you next time!
+
+Consultant: Until next time, Wang. Take care and stay committed to nurturing yourself through music and photography.
+#######
+Consultant: Hi Wang, it's been a pleasure working with you. Let's reflect on your journey and the strategies you've found most useful.
+
+User: Becoming aware of my negative thought patterns has been helpful. Discussing my worries also helped me feel supported and less isolated.
+
+Consultant: I'm glad to hear that. When faced with similar challenges in the future, which strategies do you feel will be most supportive for you?
+
+User: I’ll try to focus on my present actions and not things out of my control. Talking to trusted people when I'm worried will also be important for me.
+
+Consultant: Those are excellent strategies. As we conclude our sessions, remember you've developed lots of tools to tackle life's challenges. You can always reach out for more support if needed.
+
+User: Thank you so much for your help. I have more confidence in managing my feelings now.
+
+Consultant: You’re welcome, Wang. It's been a pleasure to assist you on this journey. Take care and remember, you're not alone.
+#######

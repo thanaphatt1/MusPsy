@@ -1,0 +1,408 @@
+Consultant: Hi Xiao S, welcome to our session today. It's nice to meet you. How have you been feeling recently?
+
+User: Hi. I've been feeling really anxious lately. I didn't do well in my mid-term exams and even though I was sick during one, I still haven't improved much in my other tests.
+
+Consultant: I'm sorry to hear that, Xiao S. It sounds like you've been under quite a bit of pressure. Can you tell me more about what's been happening and what might be contributing to these feelings?
+
+User: My dad is working away, and his temper is quite bad. My mom is really strict and always wants everything to be perfect. They're expecting good grades, but I feel like I can't meet their expectations.
+
+Consultant: That does sound challenging, especially with high expectations from your family. You mentioned feeling more anxious after the exams. How do you think these expectations are affecting you emotionally?
+
+User: I feel a bit scared and like I might disappoint them. It's hard because I want to do well to make them happy, but sometimes I just feel really worried.
+
+Consultant: It makes sense that you would feel this way. For our next session, try observing when these feelings come up and jot down any thoughts or situations linked to them. Might this be okay for you to try?
+
+User: Yes, I can try doing that. I hope it helps me understand what's going on.
+
+---
+
+Consultant: Hi Xiao S, glad to see you back. Last time, we talked about jotting down your thoughts when you felt anxious. How did that go?
+
+User: Well, I noticed I kept thinking about how upset my parents might be when I don't do well. It makes me feel even more anxious and stressed.
+
+Consultant: I see. Those thoughts seem to trigger anxiety. During these times, do you notice any patterns or themes in your thoughts that might feel too negative or extreme?
+
+User: I keep assuming that my parents will be really disappointed with me and that they'll think I'm not trying hard enough, even though I am.
+
+Consultant: It sounds like your mind often jumps to these negative conclusions. Recognizing this pattern is a good step. For our next session, try to capture any moments when you feel this way, focusing on the emotions these thoughts bring. Does that sound like something you could do?
+
+User: Yes, I think I can do that. It feels like they happen a lot, so I probably have many instances to jot down.
+
+---
+
+Consultant: Hi Xiao S, welcome back. Last time, we talked about identifying patterns in your thoughts. Were you able to capture any?
+
+User: Yes, I noticed that every time I think about a test, I immediately worry about disappointing my parents. It's like a cycle.
+
+Consultant: That cycle could be quite challenging. Let's think about this: If a friend of yours was in a similar situation, what would you suggest they do?
+
+User: I would tell them to try and talk to their parents and explain how they feel, so maybe their parents can understand their situation better.
+
+Consultant: That's an insightful approach. Would you find it helpful or possible to have such a conversation with your own parents?
+
+User: I haven't thought about it that way. Maybe if I tell them about my worries, they might understand.
+
+Consultant: That's a great step, Xiao S. Over the coming week, could you think about how you might share your thoughts and feelings with them? It might help relieve some pressure.
+
+User: I think I could try. I'm a bit nervous, but I think it's worth a shot.
+
+---
+
+Consultant: Hi Xiao S, it's great to have you back again. Have you thought any more about discussing your feelings with your parents as you've mentioned last time?
+
+User: Yes, I thought about it and decided I should talk to my mom first. She might understand better than my dad.
+
+Consultant: That sounds like a thoughtful choice. What’s important is sharing your feelings. What do you hope to convey to your mom during this conversation?
+
+User: I want her to understand that I'm really trying my best and that the pressure makes it harder for me to focus.
+
+Consultant: Being open about your efforts and the effect of the pressure can be very helpful. How are you feeling about planning this conversation?
+
+User: I'm nervous, but I also feel a little hopeful that she might understand after I talk to her.
+
+---
+
+Consultant: Hi Xiao S, I'm happy to see you. In stressful situations, have you discovered any activities or things that make you feel happy or calm? 
+
+User: I like drawing. It makes me feel relaxed and happier, but I don't get to do it often because of schoolwork.
+
+Consultant: Drawing is a beautiful pastime and could be a source of relief. How would you feel about planning a bit more time for drawing, while still managing your school commitments?
+
+User: I'd love to. I've been thinking about setting some time aside for it, but haven't been able to manage it yet.
+
+Consultant: Creating a small schedule might help set a regular time for drawing. How about starting with an hour during the weekends?
+
+User: That seems doable. Weekends could be a good time for it.
+
+---
+
+Consultant: Hi Xiao S, it's been wonderful working with you. Let's reflect on your progress and think about the strategies that helped you the most. What do you find most valuable from our sessions?
+
+User: I've learned to notice my negative thought patterns, and having someone to talk to helps a lot. I think talking openly with others is important for me.
+
+Consultant: That's great to hear. In the future, when similar situations arise, what strategies do you think will support you best?
+
+User: I'll try to stay realistic about things, and not jump to negative conclusions. Talking things through with friends or mentors should help too.
+
+Consultant: Those are powerful strategies you've built. Keep practicing these skills, and remember you're always welcome to seek support when needed.
+
+User: Thank you so much for your help. I feel more confident about handling things on my own now.
+#######
+Consultant: Hi Xiao S, glad to see you back. Last time, we talked about jotting down your thoughts when you felt anxious. How did that go?
+
+User: Well, I noticed I kept thinking about how upset my parents might be when I don't do well. It makes me feel even more anxious and stressed.
+
+Consultant: I see. Those thoughts seem to trigger anxiety. During these times, do you notice any patterns or themes in your thoughts that might feel too negative or extreme?
+
+User: I keep assuming that my parents will be really disappointed with me and that they'll think I'm not trying hard enough, even though I am.
+
+Consultant: It sounds like your mind often jumps to these negative conclusions. Recognizing this pattern is a good step. For our next session, try to capture any moments when you feel this way, focusing on the emotions these thoughts bring. Does that sound like something you could do?
+
+User: Yes, I think I can do that. It feels like they happen a lot, so I probably have many instances to jot down.
+
+Consultant: That's great, Xiao S. Recording these moments can be quite insightful. Have you noticed if certain situations or triggers increase these anxious thoughts?
+
+User: It's mostly around exam times or when I hear my parents discussing grades and expectations.
+
+Consultant: It's understandable that exams might amplify these thoughts. Have you thought about how sharing your feelings with your parents might alter their expectations or relieve some pressure?
+
+User: I've considered it, but I'm worried about how they might react or if they'll understand.
+
+Consultant: Addressing your concerns with them might help shift the conversation toward your efforts and experiences. Would you feel comfortable exploring what you might say to open that discussion?
+
+User: I could try, but framing it in a way that's constructive sounds challenging.
+
+Consultant: To frame it, you might focus on sharing your efforts and how pressure impacts your focus. Reassuring them that you're committed can be part of this conversation. What are your thoughts on starting with that approach?
+
+User: That sounds like a solid way to bring it up. I'll try to share how much I've been trying and how the pressure adds more stress.
+
+Consultant: By doing so, it might help your parents see things from your perspective. How would you feel about practicing what you'd like to say to them in our session today?
+
+User: Practicing sounds helpful. Maybe hearing it out loud will make it easier to communicate with them.
+
+Consultant: Great idea, Xiao S. Let's take a moment to work through what you could say. Imagine sitting with your mom, telling her sincerely about your efforts and concerns. How would you begin?
+
+User: I might start by saying that I've been trying my best and explain how the pressure makes it harder for me to concentrate.
+
+Consultant: That's a gentle yet honest way to approach the topic. Expressing your experience in terms of what you feel — rather than what they might think — can shape the conversation positively. Have you considered how they might respond?
+
+User: They might be surprised or even a little worried. But hopefully, understanding how I feel will encourage them to be more supportive.
+
+Consultant: It's possible they might feel concerned, but opening this dialogue allows them to understand what truly matters to you. As a follow-up, maybe share how setting specific times for relaxation or hobbies, like drawing, contributes to your overall well-being.
+
+User: That's a great idea. I think if they knew it helps me relax, they'd support setting time aside for it.
+
+Consultant: Absolutely. Drawing can be therapeutic, and presenting it as a beneficial activity might encourage them to agree to it. Is there a particular message you’d like to convey about how drawing impacts you?
+
+User: I'd want to say that it helps me unwind and feel calmer. It's an outlet apart from school stress that I really need.
+
+Consultant: Communicating its importance can pave the way for understanding. During stressful times, have you identified other interests or activities that alleviate tension?
+
+User: Drawing is the main one, but sometimes talking to friends helps, although I don't always have time to reach out.
+
+Consultant: Connecting with friends can be an emotional support system. Would scheduling regular moments to unwind or socialize assist in maintaining balance?
+
+User: Yes, that could definitely help. Setting aside time for socializing just as I would for school might ease some tension.
+
+Consultant: Balancing commitments with relaxation and connection can bolster resilience. For your next week, consider actively scheduling small breaks for these activities. How might they influence your overall stress levels?
+
+User: They might lower my stress and remind me that there's more to life than just academics and pleasing everyone.
+
+Consultant: Absolutely. Remembering that life encompasses more than tests and expectations can lessen anxiety. As you explore sharing more openly, keep in mind scaling down expectations can bring comfort.
+
+User: I'll try to remind myself about that. Focusing just on the effort instead of outcomes sounds like a healthier mindset.
+
+Consultant: That mindset is empowering and fosters growth. By focusing on effort rather than immediate outcomes, it might shift how you perceive accomplishments. I'd love to continue supporting you on this journey.
+
+User: Thanks. I'm realizing it's about gradual progress and understanding myself better, without rushing or being too harsh.
+
+Consultant: Recognizing gradual progress and self-understanding represents significant advancement. I'm thrilled to see your reflections. We'll keep evolving these conversations and insights.
+
+User: Thanks for helping me frame things positively. I'm looking forward to making small changes and seeing how they work out.
+
+Consultant: I'm glad to partner with you on these steps, Xiao S. Continue being kind to yourself, and know that you're making meaningful progress. Until next time.
+
+User: Thank you. I'll keep applying what we've discussed and see you soon!
+#######
+Consultant: Hi Xiao S, welcome back. Last time, we talked about identifying patterns in your thoughts. Were you able to capture any?
+
+User: Yes, I noticed that every time I think about a test, I immediately worry about disappointing my parents. It's like a cycle.
+
+Consultant: That cycle could be quite challenging. Let's think about this: If a friend of yours was in a similar situation, what would you suggest they do?
+
+User: I would tell them to try and talk to their parents and explain how they feel, so maybe their parents can understand their situation better.
+
+Consultant: That's an insightful approach. Would you find it helpful or possible to have such a conversation with your own parents?
+
+User: I haven't thought about it that way. Maybe if I tell them about my worries, they might understand.
+
+Consultant: That's a great step, Xiao S. Over the coming week, could you think about how you might share your thoughts and feelings with them? It might help relieve some pressure.
+
+User: I think I could try. I'm a bit nervous, but I think it's worth a shot.
+
+Consultant: It's completely normal to feel nervous about these conversations. Given what you’ve shared about your mom and dad, what do you think might be the most challenging part of talking to them?
+
+User: I think my dad might be the toughest to talk to because of his temper. He might not understand where I’m coming from.
+
+Consultant: It's understandable to feel that way. Sometimes starting with the person who might be more receptive, like your mom, could ease some of the initial anxiety. How do you feel about starting the conversation with her?
+
+User: That makes sense. I think my mom might be more understanding, so maybe starting with her could be a good idea.
+
+Consultant: That sounds like a positive approach, Xiao S. What are some specific things you'd like to express to your mom about your experiences and feelings?
+
+User: I want to let her know that I'm truly trying my best, and the pressure makes it hard to concentrate. It's overwhelming at times.
+
+Consultant: Expressing your effort and the impact of the pressure can be helpful. How do you plan to bring up this topic with her?
+
+User: I might choose a quiet moment when she’s in a calm mood, so she might be more receptive to listening.
+
+Consultant: That’s a very thoughtful plan. Choosing the right time can really make a difference. When you speak with her, it could be helpful to mention any positive feedback you’ve received or efforts you’ve made so far.
+
+User: Yes, that’s a good idea. I should probably let her know that I am doing my homework and reviewing my lessons regularly. 
+
+Consultant: Highlighting the hard work you've been putting in can reinforce your sincerity. Also, how about proposing a small plan together to help manage the pressure?
+
+User: I could suggest we come up with some strategies or a schedule that might help reduce my stress.
+
+Consultant: Collaborative planning can strengthen understanding. Is there anything specific they could do to help support you in easing the pressure?
+
+User: Maybe they could help me create a more balanced schedule for study and breaks. 
+
+Consultant: That's a productive suggestion. Creating a schedule can provide structure, and involving your parents might give them more insight into your efforts. How does the idea of homework and study breaks sound to you?
+
+User: It sounds like it could help. I've noticed that when I take breaks, I can focus better when I return.
+
+Consultant: Breaks can definitely help refresh your mind. Planning these into your schedule with your mom's support might create a healthier balance. 
+
+User: I'll suggest to my mom that we try to incorporate some breaks into my study time.
+
+Consultant: That's wonderful, Xiao S. Remember, taking care of your wellbeing is important too. How are you feeling now about approaching this conversation with your mom?
+
+User: I’m a bit less nervous now and a bit more optimistic that she might be understanding.
+
+Consultant: It's encouraging to hear you're feeling more optimistic. Remember, you’re conveying your genuine feelings and efforts. Your approach sounds thoughtful and poised for a positive outcome.
+
+User: I hope so. I think I just need to find the courage to start the conversation.
+
+Consultant: You’re taking courageous steps toward this, Xiao S. Just remember that progress takes time and expressing yourself is a meaningful first step. Keep us updated on how it goes.
+
+User: I will. Thank you for your support.
+
+Consultant: Anytime, Xiao S. I’m looking forward to hearing how your discussion goes. Keep nurturing your growth and remember, you have the tools within you to navigate these challenges. Take care until next time.
+
+User: Thanks. I appreciate the help. See you next time!
+#######
+Consultant: Hi Xiao S, it's great to have you back again. Have you thought any more about discussing your feelings with your parents as you've mentioned last time?
+
+User: Yes, I thought about it and decided I should talk to my mom first. She might understand better than my dad.
+
+Consultant: That sounds like a thoughtful choice. What’s important is sharing your feelings. What do you hope to convey to your mom during this conversation?
+
+User: I want her to understand that I'm really trying my best and that the pressure makes it harder for me to focus.
+
+Consultant: Being open about your efforts and the effect of the pressure can be very helpful. How are you feeling about planning this conversation?
+
+User: I'm nervous, but I also feel a little hopeful that she might understand after I talk to her.
+
+Consultant: It's understandable to feel nervous, but it’s great to hear about your hope for understanding. Before we move on, I remember that last time, we discussed noting down your negative thoughts. Have you had the chance to do this?
+
+User: Yes, I've written down some of those thoughts, especially about feeling anxious when thinking about disappointing my parents.
+
+Consultant: That’s a positive step, Xiao S. Recognizing these thoughts can help in managing them. Let's think about the conversation with your mom. What key points would you share to help her understand your perspective better?
+
+User: I'd tell her that the pressure I feel sometimes makes it hard for me to concentrate on my schoolwork, even though I'm really trying to do my best.
+
+Consultant: Expressing how the pressure impacts your ability to focus sounds important. When you speak to her, maybe you could also mention how significant her support is to you in dealing with this pressure. How does that idea resonate with you?
+
+User: It sounds good. I think letting her know that her support matters could make a difference.
+
+Consultant: Absolutely. Her understanding and support can be quite reassuring. Do you think after this conversation, you might find it easier to engage in activities like drawing, as we discussed earlier?
+
+User: I hope so. Drawing makes me feel calm and happy, and if she understands, maybe she’ll support me having more time for it.
+
+Consultant: That would be wonderful. Remember, setting aside time for activities you enjoy can greatly help relieve stress. Would you consider creating a schedule that balances study and other activities like drawing? 
+
+User: Yes, I think creating a routine could help manage things better.
+
+Consultant: Excellent idea. A balanced schedule can provide structure and reduce anxiety. Let's practice how you might begin this conversation with your mom. What words come to mind that express your feelings well?
+
+User: I would start by telling her that I appreciate her expectations, but sometimes they add to my stress and then explain how I feel.
+
+Consultant: Great approach, Xiao S. By expressing appreciation and explaining the pressure, you’re creating a dialogue. How about rehearsing it a few times to build confidence before the actual conversation?
+
+User: That's a good idea. Practicing might help me feel more prepared and less nervous.
+
+Consultant: Absolutely. Confidence comes with preparation. Imagine if you talked to her and she responded supportively, how might that change the current situation?
+
+User: It would be a huge relief. Knowing that she's on my side and understands could help me feel less anxious.
+
+Consultant: That's a positive outlook. Sometimes imagining positive outcomes helps reduce fear. Alongside this conversation, remember the importance of nurturing other relationships, like friendships, which can be sources of comfort. Do you think talking to friends about your experiences might help too?
+
+User: Yes, I believe it would. Sharing with friends always makes me feel understood and less alone.
+
+Consultant: Wonderful, Xiao S. Friends can offer perspective and comfort. Combining conversations with your mom and friends might provide a supportive network. As you prepare, is there any particular aspect you're feeling unsure about?
+
+User: I'm just worried that my mom might not understand completely, but I really hope she does.
+
+Consultant: It's normal to have those worries. However, commencing the dialogue is a brave first step. Often, communication opens doors to understanding gradually. Remember, it’s a process and you’re doing well stepping into it.
+
+User: Thank you. Hearing this makes me feel more prepared to talk to her.
+
+Consultant: You're welcome, Xiao S. You're demonstrating courage and foresight by planning this conversation. This week, focus on expressing genuine feelings and jot down any updates or changes in your thoughts post-conversation. Would that be alright?
+
+User: Yes, I'll do that. It might be interesting to see how my thoughts evolve after talking to her.
+
+Consultant: Perfect. Through navigating this process, you’re establishing resilience, which is commendable. Keep me updated, and we can delve deeper into these reflections next session.
+
+User: Thank you so much. I'll work on talking to my mom and see you next time!
+
+Consultant: You're doing great, Xiao S. Looking forward to hearing about your conversation. Take care, and stay kind to yourself.
+#######
+Consultant: Hi Xiao S, I'm happy to see you. In stressful situations, have you discovered any activities or things that make you feel happy or calm?
+
+User: I like drawing. It makes me feel relaxed and happier, but I don't get to do it often because of schoolwork.
+
+Consultant: Drawing is a beautiful pastime and could be a source of relief. How would you feel about planning a bit more time for drawing, while still managing your school commitments?
+
+User: I'd love to. I've been thinking about setting some time aside for it, but haven't been able to manage it yet.
+
+Consultant: Creating a small schedule might help set a regular time for drawing. How about starting with an hour during the weekends?
+
+User: That seems doable. Weekends could be a good time for it.
+
+Consultant: Great! Alongside drawing, let’s also focus on recognizing when these stressful thoughts and feelings arise. Have you had any moments recently when the pressure felt overwhelming?
+
+User: Yes, especially when I have a big test coming up. I start feeling anxious, thinking about how my parents will react if I don't get good grades.
+
+Consultant: Those moments of anticipation before a test can be tough. When you feel this stress coming on, is there anything else that helps you manage your thoughts aside from drawing?
+
+User: Sometimes I talk to my friends at school, but it's hard to keep it all inside until I see them.
+
+Consultant: Having supportive friends sounds very comforting. It helps to have a space to share your feelings. Maybe you can jot down how you're feeling throughout the week and discuss it when you next see them?
+
+User: I could try that. Writing things down might help me understand them better.
+
+Consultant: That’s a great idea. Putting thoughts on paper can help make them feel less overwhelming. Is there any particular subject or topic at school that triggers these feelings the most?
+
+User: Math is really challenging for me. I feel like it's never easy, and it adds to the pressure because I know my parents expect me to do well in all subjects.
+
+Consultant: Math can be tough, but acknowledging this is a good step towards finding solutions. Maybe you could set up small, achievable goals in math, focusing on gradual improvement rather than immediate perfection?
+
+User: I guess that could make the workload seem less daunting. Taking it one step at a time may reduce the pressure.
+
+Consultant: That's a wise approach. By celebrating small victories, you might gain more confidence. How about writing down any progress you make each week in math, so you can see your development over time?
+
+User: That sounds helpful. I'll try to keep a journal of my successes and challenges.
+
+Consultant: Excellent, Xiao S. In the coming week, try to balance drawing and addressing academic stress by keeping a record of your thoughts and progress. Sharing this with your friends or family could provide additional support.
+
+User: Thank you for the advice. Keeping track of things seems like a practical step.
+
+Consultant: You’re welcome. Recognizing these pressures and expressing them are important skills. If you feel comfortable, these skills can also be part of the conversation with your parents to help them understand your efforts.
+
+User: I think I'm ready to discuss this with my mom. She's strict, but she wants to help. Maybe if I explain my point of view, things will be easier.
+
+Consultant: It's wonderful that you're considering this conversation. Being open about your feelings can foster understanding. How are you planning to approach the topic with her?
+
+User: I plan to tell her about my drawing schedule and the small goals I'm setting in math. Hopefully, she'll see that I'm trying hard.
+
+Consultant: That’s a great approach. Emphasizing your efforts and the steps you're taking can lead to a supportive dialogue. You’re preparing well, Xiao S.
+
+User: Thanks. I'm feeling more hopeful about it now.
+
+Consultant: I'm glad to hear that. Remember, sharing your feelings honestly is key, and you're making great strides in doing so. Let me know how it goes in our next session.
+
+User: I will. I appreciate your support through this process.
+
+Consultant: You're doing wonderfully, Xiao S. Keep nurturing your interests and expressing your thoughts. I look forward to hearing about the progress you make. Take care until next time.
+
+User: Thanks, I will. See you soon!
+#######
+Consultant: Hi Xiao S, it's been wonderful working with you. Let's reflect on your progress and think about the strategies that helped you the most. What do you find most valuable from our sessions?
+
+User: I've learned to notice my negative thought patterns, and having someone to talk to helps a lot. I think talking openly with others is important for me.
+
+Consultant: That's great to hear. It's really important to voice what we're experiencing. How do you think your parents have been receiving your concerns when you share them?
+
+User: Well, when I told my mom how stressed I felt about the pressure, she seemed concerned and offered her support. It made me feel a bit better, knowing she's willing to listen.
+
+Consultant: That's a supportive response from your mom. You mentioned drawing helps you relax; have you been able to incorporate more of this into your routine?
+
+User: Yes, after our discussions, I started drawing more on weekends. It's been refreshing and gives me a break from worrying about school.
+
+Consultant: Wonderful progress, Xiao S. Using creative expression as a way to unwind is great. In times of stress, such routines can be pivotal in maintaining balance. How do you think this has impacted your overall mood?
+
+User: I've felt a bit calmer, even when my schoolwork is challenging. Having this outlet really makes a difference.
+
+Consultant: It's encouraging to hear that you've found some ease. As you face similar challenges in the future, what strategies do you foresee might help you navigate those situations?
+
+User: I'll try to stay realistic about things, and not jump to negative conclusions. Talking things through with friends or mentors should help too.
+
+Consultant: Those are powerful strategies you've built. Staying grounded and seeking support are crucial. What about managing expectations? Have you considered a different perspective on how you balance your goals and family expectations?
+
+User: I think I need to focus more on doing my best rather than striving for perfection. It’s tough, but I know worrying too much doesn’t help.
+
+Consultant: Insightful thoughts, Xiao S. Pursuing excellence over perfection can be liberating. It might reduce the pressure significantly. Can you think of a time where this mindset made a positive impact for you?
+
+User: There was this art project in school that I wasn't too stressed about. I focused more on enjoying the process, and my teacher praised me for the work without worrying about it being perfect.
+
+Consultant: That's an excellent example of how a shift in mindset can be valuable. How did your parents react when they saw your art project?
+
+User: My mom was proud and said she enjoyed seeing me happy. It was nice to hear and made me feel less pressured.
+
+Consultant: It's heartening to know your mom supports your happiness along the way. Is there a message you'd like her to keep in mind regarding your pursuits and well-being?
+
+User: I’d like her to remember that while grades are important, it’s also important for me to feel balanced and happy.
+
+Consultant: A very thoughtful message. This kind of perspective is essential for long-term success and happiness. For continued progress, think about how these insights can apply to other areas of your life as well.
+
+User: I'll keep that in mind. It's something I've started to believe could be useful more broadly.
+
+Consultant: Great, Xiao S. It’s been a pleasure to see your growth. Remember, you're always welcome to seek support when needed, and keep practicing these skills. 
+
+User: Thank you so much for your help. I feel more confident about handling things on my own now.
+
+Consultant: You've shown tremendous resilience and insight. I'm confident you’ll continue to thrive. Looking forward to seeing how you apply these strategies in the future. Take care, Xiao S.
+
+User: Thanks. I'll see you next time!
+#######

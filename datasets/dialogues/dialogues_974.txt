@@ -1,0 +1,360 @@
+```plaintext
+Consultant: Hi Miao, welcome to our session today. I'm glad you came. How have you been feeling recently, and is there anything specific you'd like to discuss?
+
+User: Hi. Lately, I've been feeling really down. I got into trouble at school for being late, and that made me feel really upset with my school environment and myself.
+
+Consultant: I'm sorry to hear that. It must feel difficult to deal with those emotions. Could you share a bit more about what happened and how it made you feel?
+
+User: Well, I was running late and got reprimanded by the teacher in front of everyone. It was embarrassing, and now I feel angrier about school and how I'm doing.
+
+Consultant: It sounds like this incident has had quite an impact on you. How has it affected your feelings towards school and your own performance?
+
+User: I've been feeling more detached and less motivated. I used to do okay academically, but now my grades have dropped, and I just can't seem to focus.
+
+Consultant: Thank you for sharing that with me. For our session today, let's work on understanding the connection between these emotions and the thoughts they're bringing up. As your task this week, try to note any moments when you're feeling overwhelmed and what's happening at that time. We'll discuss it next time. 
+
+Consultant: Hi Miao, it's great to have you back. Last time we talked about the incident at school. Did you manage to observe your thoughts and feelings when you were feeling overwhelmed this past week?
+
+User: I noticed that whenever something doesn't go well, I think it's my fault and I start believing I'm just not good enough.
+
+Consultant: That sounds like a tough pattern to be in. Can you tell me more about how these thoughts influence your emotions?
+
+User: They make me feel more anxious and even hopeless sometimes. It's like I'm expecting things to go wrong.
+
+Consultant: That makes sense. It seems these thoughts are contributing to your stress. Have you noticed if your thoughts tend to become more negative or exaggerated?
+
+User: Yes, I often think in extremes, like I'm always failing or that others judge me all the time, even if they probably don't notice me.
+
+Consultant: I'm glad you're becoming aware of these patterns, Miao. Recognizing them is the first step to changing them. When you have these thoughts, do you also notice any physical responses like a faster heartbeat or headaches?
+
+User: Yes, I sometimes feel my heart racing, and I get headaches when I'm particularly stressed.
+
+Consultant: Thanks for sharing that. It seems like a very physical response to stress. It might be useful to explore some relaxation exercises to help manage these physical reactions. Have you ever tried anything like deep breathing or meditation when you feel stressed?
+
+User: I've heard of it, but I haven't really tried. I usually just get overwhelmed and don't think about it.
+
+Consultant: That's completely understandable. Trying something new when you're stressed can be challenging. But practicing even when you're not stressed could help prepare you to use these techniques in tough moments. Would you be open to giving it a try this week?
+
+User: Yeah, I think I could try that. Maybe it would help when things feel too much.
+
+Consultant: Great. Along with noting your overwhelming moments, try taking a few deep breaths when you start to feel that anxiety rising. It can be a good way to start managing your stress response. 
+
+User: Okay, I can do that.
+
+Consultant: Excellent, Miao. Also, let's reflect on any past situations where things turned out better than you expected. Focusing on these moments could be helpful to challenge your assumptions that things will always go wrong.
+
+User: I remember a group project where I thought I'd mess up my part, but it actually went really well, and everyone was happy.
+
+Consultant: That's a perfect example! Keeping in mind these successful outcomes can sometimes help balance your thoughts about future events. This week, try recalling a few more instances like that when you feel worried.
+
+User: That sounds like a good idea. I'll see if I can think of more times like that.
+
+Consultant: Wonderful. It's great to see you engaging with these strategies, Miao. I'm looking forward to hearing how these thoughts and techniques affect your week. Remember, progress takes time, and these small steps are essential.
+
+User: Thanks. I'll try to keep on top of it all and see where it leads.
+
+Consultant: You're doing great. Keep using these tools, and I'll be eager to hear about your experiences next time. Take care, Miao.
+
+User: Thanks. See you next time!
+```
+#######
+Consultant: Hi Miao, welcome back. Last time we talked about some of the tough thoughts and feelings you've been having. I'm curious if you've had a chance to keep a journal of these thoughts from the past week. How has the experience been for you?
+
+User: I’ve been writing down the moments where I felt overwhelmed. It’s surprising how often it happens, but writing them down helped me to sort through some of those negative thoughts.
+
+Consultant: That's a great effort. Writing things down can really help with clarity. Have you noticed any particular patterns or situations where these negative thoughts tend to arise?
+
+User: It seems to happen a lot when I'm at school, especially in class. I keep thinking everyone’s judging me, or I’m failing at something.
+
+Consultant: That sounds challenging, but recognizing these patterns is a crucial step. Have you started to question the validity of these thoughts while writing them down?
+
+User: Yes, I’ve been trying. I often realize that not everyone is focused on me as much as I think they are, and sometimes the situations aren't as dire as I imagine.
+
+Consultant: That's very insightful. Sometimes our minds can exaggerate realities. When you think about these moments, how do those realizations impact your emotions or reactions?
+
+User: It makes me a little calmer. I feel like I don't have to be as anxious all the time. The pressure eases a bit when I remind myself that I’m not the center of attention.
+
+Consultant: That's great to hear, Miao. Let's continue to build on this awareness. If you encounter these thoughts, what small steps could you take to help shift your perspective in the moment?
+
+User: Maybe I can pause and ask myself whether there’s actual evidence for these worries, or if it’s just in my head.
+
+Consultant: Exactly! That’s an excellent approach. Pausing and questioning the thought can prevent it from spiraling. Have you thought about how you might apply this strategy to your interactions at school?
+
+User: I could try to remind myself that making mistakes is part of learning and not necessarily a failure. I think I focus too much on perfection sometimes.
+
+Consultant: That’s a healthy mindset shift. Trying your best and allowing room for growth is important. As a next step, during our session break, see if you can practice giving yourself at least one positive affirmation each day when school-related stress arises.
+
+User: I can do that. It might be a nice change to focus on positive things rather than the negatives.
+
+Consultant: Wonderful. Creating a space for positive affirmations can significantly influence your overall mindset. Do you have any affirmations in mind you'd like to start with?
+
+User: I might start with “I am learning and growing every day” or “It's okay to make mistakes as part of learning.”
+
+Consultant: Those are fantastic affirmations. Holding onto those thoughts during stressful times can help. When you sit down to draw, perhaps you can integrate these thoughts into your art. How do you feel about doing that?
+
+User: I like the idea of combining positive thoughts with drawing. It might make the process even more enjoyable and soothing.
+
+Consultant: It sounds like a great plan, Miao. Remember to set aside some drawing time to unwind. Let's continue to reflect on your progress, and how these strategies impact your week.
+
+User: Alright, I’ll make it a point to manage these thoughts and draw more often.
+
+Consultant: That’s the spirit. I look forward to hearing how these affirmations and drawing sessions affect your perspective. Keep track of these experiences, and feel free to bring them into our next session.
+
+User: I will. Thanks so much for the guidance, it’s really helping.
+
+Consultant: You’re doing wonderfully, Miao. Keep being kind to yourself as you progress. Let’s catch up next time to discuss your reflections and any new insights you’ve had.
+
+User: Thank you. I’ll see you next time!
+#######
+Consultant: Hi Miao, welcome back. Let's explore some of those tough thoughts you've been having. About those assumptions that everything might go wrong, how sure are you about them?
+
+User: I'm not really sure. Sometimes, I think maybe I'm blowing things out of proportion.
+
+Consultant: It's understandable to have those feelings. If a friend was feeling this way, what would you suggest they consider?
+
+User: I'd tell them to try and see things from different angles and not assume the worst without reason.
+
+Consultant: That's great advice. Do you think it could help you to apply that perspective to your own situations?
+
+User: Yes, I think it might. Maybe I should try looking at things more objectively.
+
+Consultant: That sounds like a positive step. As an exercise, try to think of alternate explanations for your worries throughout the week and reflect on those. Let's see how it shifts your feelings next session.
+
+User: I'll try that. It might help ease some of the stress.
+
+Consultant: Have you noticed any particular worries that tend to linger more than others?
+
+User: Yes, I'm constantly worried about my performance at school and how others perceive me.
+
+Consultant: That can be quite stressful. What’s your usual reaction when these thoughts come up?
+
+User: I usually get anxious and feel overwhelmed, like I'm carrying a heavy weight.
+
+Consultant: And how does that anxiety affect your actions or decisions at school?
+
+User: It makes me hesitate or avoid certain tasks, fearing I'll mess them up.
+
+Consultant: Recognizing that is a great start. When you feel this way, is there a small change you could make in your behavior that might challenge these thoughts?
+
+User: I could start by tackling one small task at a time, rather than letting it all stack up.
+
+Consultant: That’s a practical approach. Break things down into manageable steps, and consider acknowledging your efforts rather than just focusing on outcomes.
+
+User: That sounds doable. It might also reduce the pressure I put on myself for perfection.
+
+Consultant: Exactly, taking the focus off perfection allows room for growth and learning. Is there anything else at school or home causing you stress?
+
+User: Sometimes I feel like I don't have enough time for drawing, which is something I really enjoy.
+
+Consultant: It’s important to find time for activities you love, even during busy times. How might you incorporate drawing into your schedule, realistically?
+
+User: Maybe I could set aside 30 minutes before bed to unwind with drawing.
+
+Consultant: That sounds perfect, and those sessions could serve as a calming routine. How do you think this would impact your overall stress levels?
+
+User: It might make a big difference, providing me a sense of peace and a break from tension.
+
+Consultant: That’s the idea. Let’s see how this integrates into your week, and any stresses it might alleviate. How have you handled situations where things didn’t go as planned before?
+
+User: I usually panic and think I'm failing, but I realize now that's not always true.
+
+Consultant: Have you tried exploring different responses or reframing those situations?
+
+User: I guess I could remind myself that setbacks don’t define my overall capabilities.
+
+Consultant: That's a powerful reframing. Practicing that could change how you interpret challenges. As you try this strategy, reflect on how it alters your mood or confidence.
+
+User: Yes, I’ll note how I feel and what changes I see.
+
+Consultant: Wonderful. Keep track of this along with your drawing time. This could greatly contribute to your emotional resilience. How do you feel about this plan?
+
+User: It feels like a solid path forward. Thanks for the guidance.
+
+Consultant: You’re very welcome, Miao. The goal is gradual improvement and peace. Let’s continue building these skills, okay?
+
+User: Definitely. I’m optimistic about trying these out.
+
+Consultant: I'm eager to hear about your experiences in our next session. Remember, self-compassion and patience are key in this journey.
+
+User: I’ll remember that. Thank you for the insight.
+
+Consultant: You're doing really well. Keep being kind to yourself, and let's reconnect next time to see how things have unfolded.
+
+User: Thanks again. Looking forward to our next talk!
+#######
+Consultant: Hi Miao, it's good to see how you've been progressing. Last time, we talked about thinking differently about your worries. Did you have a chance to apply this perspective over the past week?
+
+User: Yes, I did. I've been trying not to jump to the worst conclusions and to consider that things might not be as big as they seem.
+
+Consultant: That's fantastic. How did this new perspective influence your emotions and reactions?
+
+User: It made me feel a bit calmer, like I don't have to worry as much about everything being a disaster.
+
+Consultant: I'm really glad to hear that. Shifting your perspective can provide relief. How do you think you could utilize this approach to address any ongoing concerns, like those you have at school?
+
+User: Maybe by talking to my teacher to explain why I was late. I think that could clear things up and help me feel less burdened.
+
+Consultant: That sounds like a constructive approach. This week, why not take that step and see how communication affects your feelings? It could be enlightening.
+
+User: Okay, I’ll try it. Hopefully, it will make a difference.
+
+Consultant: It likely will. Communication is key, and sometimes just expressing your thoughts can lead to unexpected solutions. How do you think your teacher will react?
+
+User: I think they'll probably understand and might be more lenient once they know what's been going on.
+
+Consultant: And if you worry about potential negative reactions, how might you prepare yourself for that possibility?
+
+User: I could remind myself that even if the reaction isn't entirely positive, it's part of the learning process and it wouldn't define my worth.
+
+Consultant: That's a healthy way to look at it, Miao. Facing fears with resilience is part of personal growth. Besides school, are there other areas where you think this new perspective might help?
+
+User: Well, I'm often anxious about how others perceive me, even outside of school.
+
+Consultant: Perceptions can be tricky. Could applying this new perspective help you feel more grounded in social situations?
+
+User: It might. If I remind myself that not everything revolves around me, I can reduce some of that anxiety.
+
+Consultant: Excellent. Recognizing that everyone has their concerns can help ease the pressure you put on yourself. This week, I encourage you to practice this mindset in various situations. How does that sound?
+
+User: It sounds like a good idea. I'll keep working on it.
+
+Consultant: That's great. Building these habits will help you manage stress better in the long run. Is there a particular situation you're concerned about?
+
+User: I have a group project coming up, and I'm worried about contributing effectively.
+
+Consultant: Group projects can be challenging. Is there a way you could apply the different perspective to your contribution to the group?
+
+User: I could focus on doing my part as best as I can and not worry excessively about controlling everything.
+
+Consultant: That's a balanced approach. Breaking down tasks can also make them more manageable. Have you considered setting small goals for yourself throughout the project?
+
+User: That could help. I’ll try creating a timeline and see if it reduces the stress.
+
+Consultant: Structuring your tasks might indeed bring more clarity and calmness. Outside of schoolwork, have you managed to carve out time for drawing recently?
+
+User: Not as much as I'd like, but I've been trying to make it a regular part of my routine.
+
+Consultant: It's commendable that you're prioritizing your passions. Even short periods dedicated to drawing can be immensely beneficial. How has this impacted your well-being?
+
+User: It feels like a relief, a moment where I can just be myself and not worry about other things.
+
+Consultant: That's a wonderful outlet to have. Keep maintaining this as part of your routine. As we continue, observing when you feel more stress-free could offer more insights into what truly helps you.
+
+User: True. I'll keep track of those moments and see what I learn from them.
+
+Consultant: Great plan, Miao. Reflection is a powerful tool. Remember, what you're doing is setting the foundation for long-term success and happiness.
+
+User: Thanks, I feel better about managing everything now.
+
+Consultant: You're making remarkable progress. Let's catch up in our next session to see how things are going, both with school and outside activities.
+
+User: Looking forward to it. Thanks for all the help!
+#######
+Consultant: Hi Miao, I'm pleased to hear you're making progress. Have you thought about engaging in any activities that bring you joy during stressful times?
+
+User: Yes, I enjoy drawing. It's one of the few things that makes me feel at ease.
+
+Consultant: That's wonderful. Engaging in what you love can really help in managing stress. Would you like to try dedicating time to drawing more regularly?
+
+User: I'd like that. Sometimes I feel too busy, though, and it slips away even when I plan on doing it.
+
+Consultant: Maybe starting with short sessions can help. How about setting aside 20 minutes a day just to draw? Let's commit to that and see how you feel.
+
+User: That sounds manageable. I'll try to start this week.
+
+Consultant: I'm glad to hear that. While engaging in drawing, it's also helpful to notice your thoughts during this time. Do you find that your mindset shifts when you're focused on your art?
+
+User: Yes, definitely. I feel more relaxed and my worries seem to drift away. It's like a form of escape for me.
+
+Consultant: That's excellent insight, Miao. Drawing can be a form of mindfulness, helping you stay present and appreciate the moment. How do you think drawing affects your perspective on the challenges you face?
+
+User: It allows me to step back a bit and not feel so overwhelmed by everything. It's like a pause button for my mind.
+
+Consultant: That sounds beneficial. As you continue with this, pay attention to any changes in your stress levels and how it affects your thoughts. Have you shared this experience with your family or friends?
+
+User: Not really. I guess I don't talk about it much, but maybe I should share more about the things that help me.
+
+Consultant: Sharing with those close to you can bring more support and understanding into your life. Consider talking to a friend or family member about how drawing has positively impacted you. They might even join you in it.
+
+User: I never thought about it like that. It could be nice to connect with others over this.
+
+Consultant: Absolutely. Support systems play a crucial role in our emotional well-being. By sharing what's working for you, it might also deepen your relationships. Do you have someone in mind you might want to talk to about this?
+
+User: Maybe my younger cousin. She's always been interested in drawing, and it could be something we do together.
+
+Consultant: That's a wonderful idea, Miao. It can be both beneficial for you and a bonding experience. Moving forward, think about setting small goals around drawing, perhaps collaborating or sharing artwork with your cousin.
+
+User: I think she'd love that. I'll plan something for this weekend.
+
+Consultant: That sounds exciting, Miao. Investing time in relationships and activities you value is a great way to develop a positive mindset. Remember to be present in the moment and enjoy the process. Can this approach be applied to other areas of your life too?
+
+User: I suppose it could. Maybe with my schoolwork, I can find moments to appreciate learning rather than stress about outcomes.
+
+Consultant: That's a very healthy perspective. Embracing the journey rather than focusing solely on results can foster a more positive experience. Are there particular subjects or projects where you might apply this thinking?
+
+User: Perhaps in my literature class. Sometimes I get so caught up in what grades I'll get, I forget to enjoy reading.
+
+Consultant: Literature can be a wonderful escape, much like drawing. Approach your assignments with curiosity and focus on what you can gain from them personally, beyond just academics. How do you suppose this shift might help you with your studies?
+
+User: It could make my studies feel less daunting. I might actually look forward to the material and discussions.
+
+Consultant: Exactly, Miao. By cultivating a genuine interest in what you're learning, the pressure may lessen, and it might enhance your overall engagement and performance. This week, try integrating these approaches into your daily routine and see what unfolds.
+
+User: I will. I'm looking forward to seeing how it changes my perspective.
+
+Consultant: Great. You're doing a wonderful job at identifying what works for you and applying it. Remember, personal growth is a gradual process, and each small step is significant. Do you have any concerns or thoughts you'd like to address as we continue on this path?
+
+User: Not at the moment, but I'll keep noting what else might come up as I try these new things.
+
+Consultant: That's perfect, Miao. Keeping track of your experiences and reflections is vital. If anything new arises, feel free to bring it up next time. It's all about fostering understanding and developing strategies that support you.
+
+User: Thank you, I'll make sure to write down my thoughts and any changes I notice.
+
+Consultant: You're very welcome, Miao. I look forward to discussing your insights in our next session and exploring how these approaches impact your overall well-being. You're progressing remarkably well, and it's a pleasure to witness your journey.
+
+User: I appreciate all the guidance. I'm really grateful for these sessions.
+#######
+Consultant: Hi Miao, it's been great seeing your progress. Let's reflect on the strategies that you've found helpful so far. What stands out for you?
+
+User: Learning to challenge my negative thoughts and drawing when I'm stressed have both been really helpful. I've learned to view situations more clearly.
+
+Consultant: That's wonderful progress. I'm curious, how do you think challenging your thoughts has changed your overall perspective on stressful situations?
+
+User: It's made me realize that I often jump to conclusions without enough evidence. Now I pause and think, "Is this really true?" before letting things affect me too much.
+
+Consultant: That's a powerful tool, challenging those initial reactions. Has there been a specific situation recently where this change in thinking made a noticeable difference?
+
+User: Yes, actually. Last week, I thought my friend was upset with me because of something I said. But instead of assuming the worst, I asked them about it, and it turned out they were just having a bad day.
+
+Consultant: That's a great example of applying new strategies. It must feel rewarding to see how effective communication can resolve misunderstandings. How does this experience shape how you might approach future interactions with friends or family?
+
+User: I think I'll try to be more open and avoid assuming the worst. It's freeing not to carry around unnecessary stress.
+
+Consultant: Fantastic plan. And about your hobby, drawing, how is dedicating more time to it influencing your daily routine?
+
+User: Drawing regularly has given me a peaceful way to unwind. It's calming, and I feel more centered afterward.
+
+Consultant: I'm glad to hear that. It's important to have these creative outlets. What would you suggest to others who might be exploring their own ways to cope with stress?
+
+User: I'd tell them to find something they enjoy that helps them relax, like drawing does for me. Finding what works for them is key.
+
+Consultant: Absolutely. Discovering personal coping mechanisms is essential for managing stress. Now, as we look ahead, what future strategies do you think will support you when challenges arise?
+
+User: I'll try to keep questioning my assumptions and spend more time on activities I love. It helps me stay balanced.
+
+Consultant: Those are excellent strategies. Reflecting on the skills you've developed, how do you feel about handling life's ups and downs moving forward?
+
+User: I feel more capable of handling things now. I know I have tools that really help.
+
+Consultant: That's reassuring to hear, Miao. As we conclude our sessions, remember you've built strong skills to manage challenges. I'm confident you'll be able to continue applying them but remember to reach out if you need more support.
+
+User: Thank you so much. I appreciate all the guidance.
+
+Consultant: You're very welcome, Miao. It's been a pleasure working with you and watching your growth. Remember, you're not alone on this journey, and you always have resources and people to reach out to if needed.
+
+User: I will. Thank you again for everything.
+
+Consultant: Take care, Miao. Wishing you all the best in your future endeavors. Keep nurturing those strengths, and I'm sure you'll continue to thrive.
+
+User: Thanks. I'll see you next time!
+#######

@@ -1,0 +1,418 @@
+Consultant: Hi Xiaoming, welcome to our session today. How have you been doing recently?
+
+User: Hi. I've been feeling really stressed. My mom has been putting a lot of pressure on me about my handwriting. She wants me to improve it, but it's just so difficult for me.
+
+Consultant: I'm sorry to hear that, Xiaoming. It sounds like you're experiencing a lot of pressure. Could you tell me more about what has been happening?
+
+User: Well, my teachers always comment about my messy handwriting, and it's affecting my grades. My mom is really worried about how it could affect my future, and she constantly reminds me to write more neatly. It's getting overwhelming.
+
+Consultant: It seems like both your teachers' and mom’s concerns are affecting you quite a bit. How is this impacting your feelings and daily life?
+
+User: I feel anxious and frustrated. I try to write neatly, but it never seems to be enough. It makes me dread taking notes or doing homework.
+
+Consultant: Thank you for sharing that, Xiaoming. For this week, let's focus on observing your feelings when you write. Try to keep a journal of your thoughts during writing tasks. It may help us understand more about this challenge. How does that sound?
+
+User: That sounds like a helpful idea, I'll give it a try. I guess writing down my thoughts could help me see things more clearly.
+
+Consultant: Excellent, Xiaoming. We'll discuss what you've observed in our next session. Remember, observing your thoughts can be a powerful tool to start changing those patterns. Take care until then, and feel free to reach out if you have any concerns before our next meeting.
+
+User: Thanks. I’ll try my best to keep track of my thoughts and emotions. See you next time.
+
+##### Dialogue 2nd
+
+Consultant: Hi Xiaoming, glad to have you back. Did you have a chance to note your thoughts while writing this week?
+
+User: Yes, I did try that. I noticed that every time I sat down to write, I kept thinking I was going to mess up and get criticized again.
+
+Consultant: It's good that you recognized those thoughts. How do these thoughts make you feel when you're writing?
+
+User: They make me feel really nervous and frustrated. It's like I'm expecting to fail even before I start writing.
+
+Consultant: It sounds like these thoughts are creating a lot of anxiety. Have you noticed any patterns or extreme ways of thinking about your handwriting?
+
+User: I keep thinking that if my handwriting isn't perfect, people will think I'm not smart or capable, even though I know I'm good at other subjects.
+
+Consultant: Thank you for sharing this, Xiaoming. Let's work on identifying these thoughts regularly. For this week, try challenging these ideas by reminding yourself of your strengths. How do you feel about this approach?
+
+User: I think I can try that. It's worth practicing reminding myself of the things I’m good at, like being good with numbers and science.
+
+Consultant: Wonderful. Reinforcing your capabilities in areas you excel can help balance those negative thoughts. In our next session, we can explore how this strategy worked for you throughout the week.
+
+User: Thanks, I’ll work on it and see how it goes.
+
+##### Dialogue 3rd
+
+Consultant: Hi Xiaoming, it's nice to see you again. How did it go with challenging those negative thoughts?
+
+User: Well, it was a bit hard, but I tried reminding myself that I'm good at math and science even if my handwriting is messy.
+
+Consultant: That's a great start! How confident do you feel about those beliefs that people judge you based solely on your handwriting?
+
+User: Honestly, not very. I think they notice it, but it probably doesn't define who I am.
+
+Consultant: That's an important realization. If a friend was facing a similar issue with their handwriting, what advice would you give them?
+
+User: I'd probably tell them to focus on what they're good at and not worry too much about it. Maybe even ask for some tips on improving.
+
+Consultant: Those are insightful suggestions. How do you feel about trying this approach yourself, maybe asking your teacher for tips on writing improvement?
+
+User: That sounds like a good idea. I think they might be willing to help.
+
+##### Dialogue 4th
+
+Consultant: Hi Xiaoming, welcome back. Have you thought more about how you might improve your handwriting or address concerns with your teachers?
+
+User: Yes, I thought about asking my teacher for specific writing tips during recess or after class.
+
+Consultant: That's a proactive step, Xiaoming. What aspects of your handwriting would you like to improve first?
+
+User: I think starting with making my letters clearer would help, and maybe focusing on slowing down when I write.
+
+Consultant: That's a practical approach. Slowing down can definitely help with legibility. How do you feel about setting a small goal, like practicing a few lines of handwriting each day?
+
+User: I think that's manageable. I'll try to practice a little every day after school.
+
+Consultant: Great, Xiaoming. For this week, practice improving your handwriting with small, deliberate exercises. Let's review your progress during our next session.
+
+##### Dialogue 5th
+
+Consultant: Hi Xiaoming, it's great to see you. Have you had the chance to practice your handwriting?
+
+User: Yes, I practiced a little every day. I've noticed some improvement, but I still have a long way to go.
+
+Consultant: That's excellent progress! Remember, every little improvement is a step forward. Have you found any particular strategies that help you while practicing?
+
+User: Slowing down when writing helped, and I also started using lined paper which guides me better.
+
+Consultant: Those are valuable discoveries. Adding activities like lined paper is a resourceful way to aid your writing. Would you be interested in continuing this practice and perhaps sharing it with a friend or family member?
+
+User: Yes, my younger sister is keen to see what I've been doing. Maybe we can practice together.
+
+Consultant: Practicing with someone else can be motivating and enjoyable. Let's plan on continuing these exercises, and in our next session, we can discuss other aspects of writing or areas you'd like assistance with.
+
+##### Dialogue 6th
+
+Consultant: Hi Xiaoming, it's wonderful to have you back. Let's reflect on your progress and strategies throughout our sessions. What have you found helpful?
+
+User: I've learned that practicing a little every day and using tools like lined paper really help. Also, reminding myself of my other strengths boosts my confidence.
+
+Consultant: That's fantastic to hear. Looking at your growth, what strategies do you think will help you manage similar challenges in the future?
+
+User: I'll keep reminding myself to focus on what I'm good at and practice patiently, rather than getting frustrated. Sharing my progress with family also seems encouraging.
+
+Consultant: Those are excellent strategies, Xiaoming. As we conclude our sessions, remember that you've made significant progress and have the tools to continue improving. If you ever need support, feel free to reach out.
+
+User: Thank you so much for your help. I feel more confident about managing my handwriting and other challenges now.
+#######
+Consultant: Hi Xiaoming, I'm glad to have you back with us today. Did you have a chance to note your thoughts while writing this week? 
+
+User: Yes, I did try that. I noticed that every time I sat down to write, I kept thinking I was going to mess up and get criticized again.
+
+Consultant: It's good that you recognized those thoughts. How do these thoughts make you feel when you're writing?
+
+User: They make me feel really nervous and frustrated. It's like I'm expecting to fail even before I start writing.
+
+Consultant: It sounds like these thoughts are creating a lot of anxiety. Have you noticed any patterns or extreme ways of thinking about your handwriting?
+
+User: I keep thinking that if my handwriting isn't perfect, people will think I'm not smart or capable, even though I know I'm good at other subjects.
+
+Consultant: Thank you for sharing this, Xiaoming. It seems like the pressure to have perfect handwriting is affecting your self-esteem. Let's work on identifying these thoughts regularly. For this week, try challenging these ideas by reminding yourself of your strengths. How do you feel about this approach?
+
+User: I think I can try that. It's worth practicing reminding myself of the things I’m good at, like being good with numbers and science.
+
+Consultant: Wonderful. Reinforcing your capabilities in areas you excel can help balance those negative thoughts. In our next session, we can explore how this strategy worked for you throughout the week.
+
+User: Thanks, I’ll work on it and see how it goes.
+
+Consultant: That's great, Xiaoming. Let's delve deeper into this. When you think about these pressures, do they primarily stem from past feedback or your own perception of what others think?
+
+User: I think it's a mix of both. My teachers' comments about my handwriting have stuck with me, and I end up doubting myself.
+
+Consultant: Understanding the origin of these thoughts can be crucial. How does knowing this affect the way you view your current handwriting situation?
+
+User: It makes me realize that maybe I'm giving too much power to those past comments and letting them control how I feel about myself now.
+
+Consultant: That's an insightful observation. If you could reframe these thoughts, what would you want to focus on instead?
+
+User: I'd like to focus more on my abilities and the fact that handwriting isn't the only measure of my intelligence or capabilities.
+
+Consultant: That's a healthy mindset. Perhaps writing a list of your accomplishments could serve as a reminder of your strengths?
+
+User: That's a good idea. I could start by writing down things I'm proud of.
+
+Consultant: I'm sure that will reinforce your confidence. Also, how open are you to communicating with your family and teachers about the pressure you feel?
+
+User: I think I could talk to my mom about it, but approaching my teachers feels a bit daunting.
+
+Consultant: It's understandable to feel that way. With your mom, expressing how the handwriting pressure affects you might help her see your perspective. Do you think she might be supportive?
+
+User: I think she would be. She wants what's best for me, and if she knew how stressed I was, I believe she might ease up a bit.
+
+Consultant: Communicating your feelings is a powerful tool for garnering support. When you're ready, maybe try drafting your thoughts before talking with her to help organize how you want to express yourself.
+
+User: That's a solid plan. Writing it down beforehand could make it easier to articulate my feelings.
+
+Consultant: Exactly. Planning ahead can give you clarity and confidence. Keep in mind that this is about your growth, not just handwriting. Sharing your progress with those who care about you can be encouraging.
+
+User: I'll give it a try. It's time I stopped letting this issue define how I feel about myself.
+
+Consultant: You're taking important steps, Xiaoming. Embrace your strengths and continue practicing resilience in managing stress. In our next session, we'll discuss how these exercises have impacted your thoughts and feelings.
+
+User: I'm looking forward to it. Thanks for guiding me through this.
+
+Consultant: You're doing great, Xiaoming. Stay confident in your abilities, and I'm here whenever you need guidance or support. Take care until then.
+
+User: Thank you, I'll keep that in mind. See you next time.
+#######
+Consultant: Hi Xiaoming, it's nice to see you again. How did it go with challenging those negative thoughts?
+
+User: Well, it was a bit hard, but I tried reminding myself that I'm good at math and science even if my handwriting is messy.
+
+Consultant: That's a great start! How confident do you feel about those beliefs that people judge you based solely on your handwriting?
+
+User: Honestly, not very. I think they notice it, but it probably doesn't define who I am.
+
+Consultant: That's an important realization. If a friend was facing a similar issue with their handwriting, what advice would you give them?
+
+User: I'd probably tell them to focus on what they're good at and not worry too much about it. Maybe even ask for some tips on improving.
+
+Consultant: Those are insightful suggestions. How do you feel about trying this approach yourself, maybe asking your teacher for tips on writing improvement?
+
+User: That sounds like a good idea. I think they might be willing to help.
+
+Consultant: Fantastic, Xiaoming. Approaching your teachers can be a great way to gain constructive feedback. Also, would you consider sharing any changes in your writing attitude with your family, especially since they care about your progress?
+
+User: I think my mom would like to know how I'm actively working to improve. It might ease her concerns a bit.
+
+Consultant: Absolutely, involving your family can be encouraging. How do you think sharing this journey will affect your dynamic with them?
+
+User: I suppose it will show them I'm making an effort, which might reduce the pressure they put on me.
+
+Consultant: It’s true, communicating your efforts can shift the perspective from both sides. Let's focus on small, achievable goals, like clearer letters, which you mentioned before.
+
+User: Focusing on small improvements does sound manageable. I'll give it a try.
+
+Consultant: Perfect! Setting little milestones each day will help build confidence and reinforce your strengths. As you progress, remember it’s okay to experiment with different techniques.
+
+User: I'm open to trying different things to see what really helps.
+
+Consultant: That's the spirit, Xiaoming. There’s no single correct way to enhance your skills. Speaking of trying new methods, have you thought about any specific exercises or tools you could use beyond lined paper?
+
+User: I’ve heard of using grids or even practicing calligraphy as ways to improve handwriting.
+
+Consultant: Both options are excellent for gaining precision and control. It could be fun to explore them, especially if calligraphy adds an artistic spin to your practice.
+
+User: The artistic side might actually make it more fun and less stressful.
+
+Consultant: Exactly. Finding joy in the process can significantly alter your experience. Would you be up to incorporating some of these techniques and note any changes or feelings that arise?
+
+User: Sure, I'll keep track of what works better and how it makes me feel during the process.
+
+Consultant: That sounds like a solid plan. Recognizing patterns in what’s beneficial will enhance your learning curve. How do you feel about involving your sister in these activities?
+
+User: It could be helpful, plus it might make the practice more engaging if we're doing it together.
+
+Consultant: Definitely, practicing with your sister might build a support system for you both. How do you think this shared time will impact your motivation?
+
+User: I think it will keep me committed and make it more enjoyable, having someone to share the journey with.
+
+Consultant: That's wonderful, Xiaoming! A shared effort often brings motivation and joy. Remember, progress is gradual. Every effort counts. 
+
+User: I’ll keep building on these exercises and share updates with my family too.
+
+Consultant: Excellent. As you focus on developing these skills, continue to remind yourself of your strengths and accomplishments. They are just as important as the areas you’re improving.
+
+User: Thanks for the reassurance. Knowing my strengths does help.
+
+Consultant: You’re doing truly well, and acknowledging progress in various areas builds resilience in facing challenges. I'll be eager to hear how these new strategies unfold during our next session.
+
+User: I'm looking forward to it as well. Thank you for all your support.
+
+Consultant: You're welcome, Xiaoming. Keep embracing your strengths and practicing those new techniques. I’m confident in your ability to navigate through this with positivity. See you next time.
+
+User: Thanks a lot. See you!
+#######
+Consultant: Hi Xiaoming, welcome back. Have you thought more about how you might improve your handwriting or address concerns with your teachers?
+
+User: Yes, I thought about asking my teacher for specific writing tips during recess or after class.
+
+Consultant: That's a proactive step, Xiaoming. What aspects of your handwriting would you like to improve first?
+
+User: I think starting with making my letters clearer would help, and maybe focusing on slowing down when I write.
+
+Consultant: That's a practical approach. Slowing down can definitely help with legibility. How do you feel about setting a small goal, like practicing a few lines of handwriting each day?
+
+User: I think that's manageable. I'll try to practice a little every day after school.
+
+Consultant: Great, Xiaoming. For this week, practice improving your handwriting with small, deliberate exercises. Let's review your progress during our next session.
+
+User: I will, thanks for the suggestion. I've been feeling overwhelmed, but this seems more achievable.
+
+Consultant: I'm glad to hear that. Remember, change takes time and incremental effort pays off. How do you feel about talking to your mother about these planned steps? 
+
+User: I think it might reassure her to know I have a strategy. It could alleviate some of her anxiety about my progress.
+
+Consultant: Absolutely, involving her could be beneficial. Communicating with her might build a supportive environment for you. How do you anticipate this could impact your feelings about handwriting practice?
+
+User: If she understands I'm making an effort, maybe the pressure will ease a bit. I want her to see I'm trying to improve, and having her support would help.
+
+Consultant: That's a thoughtful insight, Xiaoming. Feeling supported at home can make a big difference in how you approach these challenges. What about inviting your sister to join in your practice sessions? It could be motivating.
+
+User: That's a great idea; we've done homework together before. She might even enjoy it or help me stay consistent.
+
+Consultant: Wonderful. Sharing this journey with your sister could bring encouragement and make the experience more enjoyable. What do you think would make these practice sessions fun?
+
+User: Maybe turning them into little challenges or games. We could see who can write the neatest line or make it a creative session with drawing letters.
+
+Consultant: Incorporating creativity and play into learning can make a big difference. What about exploring letter art like calligraphy? It might enhance both your proficiency and enjoyment.
+
+User: I hadn't thought about calligraphy. It could add an interesting twist and make handwriting less of a chore.
+
+Consultant: Exactly, discovering joy in practice can transform your experience and results. Would you be interested in telling your teachers about your progress and these fun exercises?
+
+User: Yes, I think they’d appreciate knowing I'm putting in effort. It might also show them I'm committed and care about their feedback.
+
+Consultant: Great to hear, Xiaoming. Receiving acknowledgment from them could further boost your confidence. Anticipating what resources or advice might you receive from your teachers?
+
+User: Maybe new exercises or resources to work with, different styles of writing I hadn’t considered before.
+
+Consultant: That would be beneficial. Engaging with varied materials and techniques can broaden your skills. As these steps evolve, how are you planning to track these improvements or share them with your family?
+
+User: I think keeping a journal of practice sessions and improvements could work. It could serve as evidence of my progress during family discussions.
+
+Consultant: That's an excellent strategy, Xiaoming. Keeping a record will not only help you track growth but also could fuel discussions with your family to show the journey of your work.
+
+User: I'll try to write about what I enjoy in practicing and the areas I find challenging. It'll give a better picture of my experience.
+
+Consultant: Keeping that balance is important, recognizing both achievements and areas for improvement. As you move forward, what goals or areas would you like us to explore more deeply in the upcoming sessions?
+
+User: I'd like to explore new handwriting techniques and maybe even branch out into creative writing to see how both might reinforce each other.
+
+Consultant: That sounds promising. Integrating creative writing could stimulate more excitement in your skill enhancement journey. Would you also like to consider setting up short-term goals to reinforce continued engagement?
+
+User: Definitely. Setting achievable targets seems to help. Maybe something simple, like mastering one new letter style each week.
+
+Consultant: That could structure your practice efficiently. Setting tangible short-term goals offers a clearer path forward. Remember to communicate these milestones within your support network. 
+
+User: I’ll make sure to keep everyone updated; it might inspire them to encourage me further.
+
+Consultant: A collective support system can have a significant impact. Your openness to trying new techniques, Xiaoming, is commendable. Ready to dive into these plans with optimism?
+
+User: I’m ready. Thanks for the guidance and support, it’s been really helpful so far.
+
+Consultant: You're welcome, Xiaoming. You're doing well, and I look forward to seeing how these new strategies develop. Keep moving forward positively!
+#######
+Consultant: Hi Xiaoming, it's great to see you. Have you had the chance to practice your handwriting?
+
+User: Yes, I practiced a little every day. I've noticed some improvement, but I still have a long way to go.
+
+Consultant: That's excellent progress! Remember, every little improvement is a step forward. Have you found any particular strategies that help you while practicing?
+
+User: Slowing down when writing helped, and I also started using lined paper which guides me better.
+
+Consultant: Those are valuable discoveries. Adding activities like lined paper is a resourceful way to aid your writing. Would you be interested in continuing this practice and perhaps sharing it with a friend or family member?
+
+User: Yes, my younger sister is keen to see what I've been doing. Maybe we can practice together.
+
+Consultant: Practicing with someone else can be motivating and enjoyable. Let's plan on continuing these exercises, and in our next session, we can discuss other aspects of writing or areas you'd like assistance with.
+
+User: Sounds good. There are definitely other areas of writing I'd like to improve on.
+
+Consultant: Wonderful. As you practice, keep an eye on what feels the most rewarding or where you enjoy improvements the most. It can give us insights into your strengths and where we should focus next.
+
+User: Sure, I'll pay attention to that. Working on this feels like a real journey.
+
+Consultant: That's a great perspective, Xiaoming. Embracing this journey will make the process more enriching. How is practicing with your sister influencing your motivation?
+
+User: It's really fun! She sometimes turns it into a game, which makes it less like a chore. Plus, she gives me some creative ideas.
+
+Consultant: Creativity and play can significantly enhance any learning process. Have you had an opportunity to apply these new approaches in situations like homework or schoolwork?
+
+User: A little bit, yes. I've tried some of these playful methods when doing my assignments, and it makes the time go by faster.
+
+Consultant: That's a positive outcome. It can make the experience not only more engaging but productive too. Looking forward, what writing skills do you hope to hone next?
+
+User: Maybe improving the neatness and adding some personal style. I want my writing to be more than just clear, but also unique.
+
+Consultant: A personal style adds character to your handwriting. Have you thought about exploring different writing styles or even calligraphy to find something that resonates with you?
+
+User: I have, actually. Calligraphy looks interesting and maybe trying a bit of it could inspire my writing style.
+
+Consultant: Exploring calligraphy can certainly unlock new potentials in your writing. It's encouraging to see your eagerness to enhance your skills creatively. Have you had any thoughts about how these exercises might influence your self-perception?
+
+User: I think that seeing improvement gives me more self-esteem, proving to myself that I can overcome challenges over time.
+
+Consultant: That's empowering, Xiaoming. Recognizing your progress is crucial for boosting self-confidence. Considering all these insights, what do you think will benefit your practice sessions with your sister the most?
+
+User: Probably setting small challenges for ourselves each session. It makes the practice goal-oriented and keeps us both motivated.
+
+Consultant: Goal-setting is a wonderful method for maintaining focus. Would you like to continue this practice beyond your handwriting, perhaps extending it to other skills you wish to develop?
+
+User: Yes! I think it would help in other areas too, like learning a new language or playing an instrument.
+
+Consultant: That's a fantastic idea. Applying these techniques across disciplines will enhance your overall learning experience. Have you shared these goals with anyone else in your support network?
+
+User: I've mentioned them to my parents. They're really supportive and provide encouragement when I share what I've been up to.
+
+Consultant: It's great to have that backing. A supportive environment can greatly enrich and sustain your pursuits. Reflecting on these discussions, what inquiries or concerns do you think might arise from your parents regarding your handwriting progress?
+
+User: They might ask what new techniques I've learned and how I'm planning to implement them in school.
+
+Consultant: Preparing responses to such questions can foster a productive dialogue and demonstrate your commitment. Would you like to discuss how to frame these conversations effectively?
+
+User: That would be helpful. I want them to see I'm serious about improving and taking practical steps.
+
+Consultant: Highlighting both your achievements and challenges will convey sincerity. Consistently communicating your journey helps solidify their understanding. How do you foresee these discussions nurturing your relationship with them?
+
+User: It could make us all more open to talking about challenges and achievements, not just mine but theirs too.
+
+Consultant: Absolutely. Open dialogue can prevent miscommunication and foster mutual empathy. As you ponder these dynamics, what personal insights have you gained from engaging with your sister in this practice?
+
+User: I've realized the value of patience and persistence. Improvement doesn't happen overnight, but it's very rewarding when it does.
+
+Consultant: Those are vital insights, Xiaoming. Character growth accompanies skill development, often offering deeper value. As we progress into our future sessions, what aspects or themes would you like to explore further?
+
+User: I'd like to learn more about balancing my focus across different skills and responsibilities.
+
+Consultant: That sounds like a valuable exploration, integrating focus and balance to enhance your overall endeavors. We can tailor our sessions to incorporate these themes, aiding you with strategies to manage various aspects effectively.
+
+User: That sounds useful. Looking forward to learning more about those techniques.
+
+Consultant: It's great to see your enthusiasm, Xiaoming. Together, we will continue to harness your strengths and goals, ensuring you experience growth in diverse areas. Ready for the upcoming journey?
+
+User: Absolutely ready. Thanks, this journey has been inspiring so far.
+
+Consultant: You're welcome, Xiaoming. Keep harnessing that inspiration, and know I'm here to support and guide you through this. Let's keep the momentum and positivity going!
+#######
+Consultant: Hi Xiaoming, it's wonderful to have you back. Let's reflect on your progress and strategies throughout our sessions. What have you found helpful?
+
+User: I've learned that practicing a little every day and using tools like lined paper really help. Also, reminding myself of my other strengths boosts my confidence.
+
+Consultant: That's fantastic to hear. I remember you were practicing with your sister and trying to incorporate fun elements into your writing sessions. How has that been going?
+
+User: It's been great! Practicing together turns it into less of a task and more of an enjoyable activity. My sister and I motivate each other by setting small challenges.
+
+Consultant: Excellent, that sounds like a wonderful way to stay engaged. Encouragement from someone close can make such a difference. What strategies do you think will help you manage similar challenges in the future? 
+
+User: I'll keep reminding myself to focus on what I'm good at and practice patiently, rather than getting frustrated. Sharing my progress with family also seems encouraging.
+
+Consultant: Those are excellent strategies, Xiaoming. It seems like creating a supportive environment has been beneficial. Have you shared these practices with your parents, and how have they reacted?
+
+User: Yes, they are really supportive. They ask about my progress regularly, and it feels good to share improvements with them.
+
+Consultant: That sounds reassuring. Their support surely strengthens your determination. As you continue this journey, it's important to keep a balanced approach with patience and practice. Do you see this impacting other areas of your life?
+
+User: Yes, I've started applying similar patience when approaching my math homework and trying new things, like learning calligraphy.
+
+Consultant: That's a commendable application of the skills you've cultivated. Calligraphy, in particular, demands dedication and precision — attributes that will enhance your handwriting creatively. How does trying calligraphy make you feel?
+
+User: It challenges me, but also excites me. It offers a new perspective on letters and builds a personal style.
+
+Consultant: A personal style certainly adds character to handwriting, and having different perspectives can enrich your creative expression. It seems you're expanding both your skills and confidence. Watching this growth, how have personal achievements changed your self-perception?
+
+User: I've gained more self-esteem. Seeing tangible progress in something once daunting assures me that consistent effort leads to improvement.
+
+Consultant: That's empowering indeed, Xiaoming. Recognizing and owning your progress cultivates deeper self-confidence. As we conclude our sessions, remember that you've made significant progress and have the tools to continue improving. If you ever need support, feel free to reach out.
+
+User: Thank you so much for your help. I feel more confident about managing my handwriting and other challenges now.
+#######

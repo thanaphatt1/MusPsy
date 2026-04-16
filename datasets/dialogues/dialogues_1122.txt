@@ -1,0 +1,362 @@
+Consultant: Hi, welcome to our session today. How have you been feeling recently?
+
+User: Hi. I've been struggling with adjusting to university life. Financial pressures are really stressing me out, and I feel lost.
+
+Consultant: I'm sorry to hear that. It sounds like you're facing some significant challenges. Could you share more about what's been difficult for you?
+
+User: Well, coming from a rural background and seeing my brother and sister both married and settled, along with financial difficulty, makes me feel a bit out of place here.
+
+Consultant: That must be really tough. How are these feelings affecting your day-to-day life and interactions at university?
+
+User: I feel self-conscious and a bit envious when I see my classmates comfortably enjoying their time here. It's hard to connect or make friends sometimes.
+
+Consultant: It seems like these financial and social pressures are influencing your feelings and actions. This week, try keeping a journal of when these feelings arise. It might help us pinpoint patterns.
+
+Consultant: Hi, it's good to see you again for our second session. Were you able to keep a journal of your thoughts during stressful times?
+
+User: Hi, yes, I did. I noticed I often think I'm not good enough or that I don't belong here, especially when money issues surface.
+
+Consultant: Thank you for sharing that. How do these thoughts make you feel when they come up?
+
+User: They make me anxious and a bit hopeless. It's like no matter what I do, I'm always falling short compared to others.
+
+Consultant: I understand. Have you noticed any patterns in your thinking that might be making these situations feel even worse?
+
+User: I realize I tend to assume others have it all sorted and I'm the only one struggling. But I know that's not always realistic.
+
+Consultant: That's an important observation. This week, try to catch those thoughts when they happen and ask yourself if there's a more balanced view.
+
+Consultant: Hi, glad to have you back. Let's talk about the distressing thoughts you've identified. How confident are you in these assumptions about not belonging?
+
+User: Not very confident. I logically know not everyone is judging me, but it still feels that way.
+
+Consultant: It’s normal to feel that way. If a friend came to you with similar thoughts, what would you advise them to do?
+
+User: I'd suggest they try not to compare themselves to others so much and focus on their own strengths and progress.
+
+Consultant: That sounds like excellent advice. Do you think applying this perspective could help you?
+
+User: I think it could help me start appreciating my own journey more instead of fixating on others.
+
+Consultant: As an exercise, try writing down things you achieve or qualities you appreciate in yourself each day.
+
+Consultant: Hi, it's great to see you again. Last time, we talked about gaining a balanced perspective. Have you tried any of the suggestions we discussed?
+
+User: Yes, I started listing things I appreciate in myself, and it's been positive to look back and see them.
+
+Consultant: That's great to hear! How has recognizing your strengths impacted your perspective on your situation?
+
+User: It’s made me realize that I do have good qualities, and while my financial situation is tough, it doesn't define me.
+
+Consultant: That’s a powerful realization. Would you be open to finding opportunities on campus where you can use these strengths and perhaps meet new people?
+
+User: I think I'd be interested in joining a group or club. It could be a good way to connect with others who might share similar interests.
+
+Consultant: Hi, nice to see you again. Have you had a chance to explore any activities or groups on campus?
+
+User: Yes, I attended a meeting for a volunteer club, and it felt good to participate and meet others with shared interests.
+
+Consultant: That sounds wonderful. Engaging in such activities can really enrich your university experience. How did it feel to connect with others in this setting?
+
+User: It felt refreshing and encouraging. Sharing a common goal made me feel more included and less overwhelmed.
+
+Consultant: That's excellent progress. Try setting a goal to participate in one new activity each week. It could keep building that sense of connection.
+
+User: I like the idea. I'll definitely try to keep that up.
+
+Consultant: Hi, it’s been great working with you. Let's reflect on your progress. What strategies have you found most helpful?
+
+User: Listing my strengths and engaging in volunteer work have been really helpful. I feel more connected now.
+
+Consultant: That’s wonderful to hear. Moving forward, what strategies do you think will best support you in handling future challenges?
+
+User: I'll remind myself of my strengths and continue participating in activities that bring me joy and fulfillment.
+
+Consultant: Those are excellent strategies. As we conclude our sessions, remember you've built many skills to navigate challenges. Feel free to reach out if you seek more support in the future.
+
+User: Thank you so much for your help. I feel much more empowered to handle things on my own now.
+#######
+Consultant: Hi, it's good to see you again for our second session. Were you able to keep a journal of your thoughts during stressful times?
+
+User: Hi, yes, I did. I noticed that I often think I'm not good enough or that I don't belong here, especially when money issues surface.
+
+Consultant: Thank you for sharing that. How do these thoughts make you feel when they come up?
+
+User: They make me anxious and a bit hopeless. It's like no matter what I do, I'm always falling short compared to others.
+
+Consultant: I understand. Have you noticed any patterns in your thinking that might be making these situations feel even worse?
+
+User: I realize that I tend to assume others have it all sorted and I'm the only one struggling. But I know that's not always realistic.
+
+Consultant: That's an important observation. This week, try to catch those thoughts when they happen and ask yourself if there's a more balanced view. Have any specific situations at university brought these feelings to the forefront recently?
+
+User: Yes, I often feel this way during group projects when I see my classmates handling things smoothly, while I struggle to keep up.
+
+Consultant: It sounds challenging. What about those moments stands out the most for you?
+
+User: I notice that I withdraw and hesitate to speak up, worrying that I might say something wrong or reveal my struggles.
+
+Consultant: It's perfectly understandable to feel that way. What do you think could change if you approached these moments with curiosity rather than self-doubt?
+
+User: If I focus on learning rather than comparing myself, I might feel less pressure to perform perfectly.
+
+Consultant: That's a valuable insight. Consider viewing group projects as opportunities to learn from others. How would you describe your strengths in a team setting?
+
+User: I suppose I'm a careful planner. I like organizing tasks and making sure we stay on track.
+
+Consultant: That's an excellent skill to have. Emphasizing planning and organization can contribute significantly to any project. How do you think your classmates might benefit from these strengths?
+
+User: They'd probably appreciate having someone manage timelines and ensure everyone knows their roles.
+
+Consultant: Absolutely. Recognizing your strengths opens the door for you to contribute meaningfully. How would you feel about focusing on these capabilities in the next group meeting?
+
+User: I could certainly try. It might help me feel more confident and involved.
+
+Consultant: Great! Being proactive with your strengths builds confidence and reduces stress. How have you seen similar strengths come into play outside of academics?
+
+User: Sometimes, my friends rely on me to organize our outings or suggest activities. I enjoy taking the lead in those situations.
+
+Consultant: That's wonderful to hear. It's those same organizational skills that help make social gatherings enjoyable. Keeping this in mind, how could you leverage similar skills for personal goals outside of academics?
+
+User: I think I can plan my schedule better to find time for myself or to try new activities.
+
+Consultant: That's a constructive approach! Finding a balance between responsibilities and personal enjoyment is key. What new activities or hobbies have you been curious about trying?
+
+User: I've always wanted to learn the guitar. It seems like a great way to unwind and express myself.
+
+Consultant: That sounds like a perfect outlet for creativity and relaxation. Starting small, such as dedicating a few minutes each day to practice, can make it manageable. How do you feel about incorporating this into your routine?
+
+User: I like the idea. It would give me something positive to focus on.
+
+Consultant: Excellent, focusing on learning the guitar might bring an enriching change to your routine. Alongside this, remember to continue noting your thoughts and achievements as you approach new situations.
+
+User: I will keep that in mind. It seems like a good strategy to stay balanced.
+
+Consultant: You're on a promising path. Be kind to yourself, and remember, each step forward is progress. I'm looking forward to hearing how these changes impact your experiences.
+
+User: Thank you for your support. I'll try to implement these ideas and see how it goes.
+
+Consultant: It's been wonderful hearing your reflections. You're doing great, and I'm excited to see how these strategies will unfold in your life. Let's continue building on these positive steps in our next session.
+#######
+Consultant: Hi, glad to have you back. Let's talk about the distressing thoughts you've identified. How confident are you in these assumptions about not belonging?
+
+User: Not very confident. I logically know not everyone is judging me, but it still feels that way.
+
+Consultant: It’s normal to feel that way. If a friend came to you with similar thoughts, what would you advise them to do?
+
+User: I'd suggest they try not to compare themselves to others so much and focus on their own strengths and progress.
+
+Consultant: That sounds like excellent advice. Do you think applying this perspective could help you?
+
+User: I think it could help me start appreciating my own journey more instead of fixating on others.
+
+Consultant: As an exercise, try writing down things you achieve or qualities you appreciate in yourself each day. This could foster a more positive self-view over time.
+
+User: I can see how that might help. It's easy to forget about the good things when negative thoughts take over.
+
+Consultant: Exactly, capturing those positive moments can create a clearer picture of your capabilities. How has your journal been working for you? Any surprises or new insights?
+
+User: Yes, when I looked back, I noticed there are achievements that I hadn’t really acknowledged at the time.
+
+Consultant: That's great progress. Recognizing achievements helps in understanding your own worth. How have these reflections influenced your interactions with classmates?
+
+User: I think it's made me a bit more confident. I'm not as hesitant to join in group discussions anymore.
+
+Consultant: It's encouraging to see you engaging more. How do you feel about sharing this improvement with friends or family members?
+
+User: I haven't really shared it yet, but I think they'd be happy to see me making progress.
+
+Consultant: Sharing your progress might bolster your confidence further. Do you have other moments recently where you practiced focusing on your strengths?
+
+User: During a group assignment, I noticed I was more open to suggesting my ideas because I focused on what I could contribute.
+
+Consultant: That's fantastic to hear. This openness can enrich both your experience and the group's outcomes. Have your classmates noticed these changes?
+
+User: One of them did mention that I seemed more engaged, which felt really nice.
+
+Consultant: Positive feedback can reinforce your new approach. How might using your strengths impact your academic and social experiences going forward?
+
+User: I hope it will help me build stronger connections and perhaps make the academic challenges feel more manageable.
+
+Consultant: Appreciating your journey enhances connection and resilience. As you continue recognizing your strengths, how can you leverage them in future situations?
+
+User: I think I'll look for opportunities where my planning skills can shine, maybe in managing study sessions or group events.
+
+Consultant: That's a proactive approach. What steps can you take to set your plan in motion?
+
+User: I could start by suggesting a study group for our next big exam. It might help everyone, including myself.
+
+Consultant: Fantastic idea! Leading a study group can be a great way to apply your organizational skills. How do you foresee these actions impacting your confidence and relationships?
+
+User: I think it will boost my confidence and help me forge deeper connections with classmates.
+
+Consultant: That sense of community could be very rewarding. As we wrap up today, how do you feel about continuing your progress in writing down achievements and planning your study group?
+
+User: I'm feeling motivated. Keeping track of my achievements and leading a study group seems like a positive move forward.
+
+Consultant: I'm delighted to hear that. Your initiative is leading you to growth. Let's explore more of these positive steps in our next session.
+
+User: Thank you. I'm looking forward to continuing this journey.
+
+Consultant: It's my pleasure to support you. See you next time, and take care until then!
+#######
+Consultant: Hi, it's great to see you again. Last time, we talked about gaining a balanced perspective. Have you tried any of the suggestions we discussed?
+
+User: Yes, I started listing things I appreciate in myself, and it's been positive to look back and see them.
+
+Consultant: That's great to hear! How has recognizing your strengths impacted your perspective on your situation?
+
+User: It’s made me realize that I do have good qualities, and while my financial situation is tough, it doesn't define me.
+
+Consultant: That’s a powerful realization. Would you be open to finding opportunities on campus where you can use these strengths and perhaps meet new people?
+
+User: I think I'd be interested in joining a group or club. It could be a good way to connect with others who might share similar interests.
+
+Consultant: Fantastic, exploring campus activities can really help build a community. Do you have any particular clubs or areas of interest in mind?
+
+User: I've always been interested in photography, so maybe something related to that. It would be great to improve my skills and meet others who share the same passion.
+
+Consultant: Photography sounds like a wonderful way to express your creativity. Joining a club could provide both learning opportunities and friendships. How does that sound to you?
+
+User: It sounds exciting! It would be nice to have an outlet to express myself and meet new people.
+
+Consultant: Joining a photography club could also offer chances to practice mindfulness through capturing moments, which could be a great stress relief. Does that seem beneficial?
+
+User: Yes, definitely. Getting immersed in the moment when taking photos could be really calming.
+
+Consultant: Wonderful. In addition to joining a photography club, you may want to continue reflecting on your strengths regularly. How do you feel about continuing to write them down?
+
+User: I think it's helpful. Seeing them on paper makes them feel more real and something to be proud of.
+
+Consultant: That's exactly the point. By acknowledging your achievements and qualities, you're reinforcing a more positive self-view. Have you shared this experience with anyone close to you?
+
+User: Not yet, but I might tell my brother about it. He's always been supportive.
+
+Consultant: Sharing your progress with your brother could strengthen that supportive bond and provide mutual encouragement. Do you think it would also help you feel even more inspired?
+
+User: Definitely. Knowing someone is rooting for me makes the journey feel less solitary.
+
+Consultant: Having that kind of support can make a big difference. Going forward, how do you plan to integrate your interests and strengths into your academic and social life?
+
+User: I plan to actively participate in club activities and use my strengths in group projects to contribute more confidently.
+
+Consultant: That sounds like a robust plan. How do you anticipate these actions affecting your overall university experience?
+
+User: I think it will make me feel more connected and less isolated, which is something I've struggled with here.
+
+Consultant: Building connections could truly enrich your university journey. It seems you're on a great path. How do you intend to measure progress or success in these areas?
+
+User: By how much more comfortable I feel in social settings and in the confidence that develops when I present my ideas.
+
+Consultant: Excellent metrics. Achieving this comfort and confidence can really show how far you've come. How do you feel about setting a timeline for these goals?
+
+User: Setting a goal to feel more at ease by next semester seems reasonable to me.
+
+Consultant: That sounds like a practical timeline. Perhaps set some smaller milestones along the way to keep you motivated. What could a first milestone look like?
+
+User: Attending a couple of photography club meetings and contributing some of my photos to a group project.
+
+Consultant: That’s a tangible and exciting goal. I'm sure contributing creatively will be rewarding. How do you plan to celebrate achieving this milestone?
+
+User: Maybe I'll organize a small outing with friends to take photos together. It could be fun and a way to bond.
+
+Consultant: What a wonderful idea! Celebrating with friends can also deepen those connections. As we close today's session, what's one takeaway you'd like to focus on this week?
+
+User: I'll focus on embracing my progress and stepping forward into new social settings.
+
+Consultant: That sounds perfect. Embracing progress is such a positive message to carry. I'm eager to hear how your experiences unfold. Until next time, take care!
+#######
+Consultant: Hi, nice to see you again. Have you had a chance to explore any activities or groups on campus?
+
+User: Yes, I attended a meeting for a volunteer club, and it felt good to participate and meet others with shared interests.
+
+Consultant: That sounds wonderful. Engaging in such activities can really enrich your university experience. How did it feel to connect with others in this setting?
+
+User: It felt refreshing and encouraging. Sharing a common goal made me feel more included and less overwhelmed.
+
+Consultant: That's excellent progress. Try setting a goal to participate in one new activity each week. It could keep building that sense of connection.
+
+User: I like the idea. I'll definitely try to keep that up.
+
+Consultant: That's great to hear! What kind of volunteer activities is the club involved in?
+
+User: They organize events to support local community initiatives such as food drives and environmental clean-ups.
+
+Consultant: Those are impactful activities. How do you feel when you're involved in these efforts?
+
+User: I feel a sense of purpose and accomplishment, knowing I'm contributing to something meaningful.
+
+Consultant: That's a wonderful feeling, indeed. Have you met anyone interesting or made new friends through this club?
+
+User: Yes, I met a few people who are passionate about environmental causes. It's nice to talk to them and share ideas.
+
+Consultant: Having others to share interests with can be incredibly motivating and fulfilling. Do you feel that these new connections have helped in easing the transition into university life?
+
+User: Absolutely, it's like a support network. It's encouraging to know there are others I can relate to.
+
+Consultant: That’s great to hear. Thinking about future activities, is there something new you'd like to try, maybe something outside your comfort zone?
+
+User: I've always been curious about learning to play a musical instrument, maybe join a beginner's music group.
+
+Consultant: That sounds like a fantastic idea. Music can be a great outlet for stress relief and creativity. Do you have an instrument in mind?
+
+User: I’ve always liked the sound of the guitar. My neighbor used to play, and it fascinated me.
+
+Consultant: The guitar is a versatile instrument. Starting with classes or a group might help you learn steadily. How do you feel about managing this new interest alongside your academic responsibilities?
+
+User: It might be challenging to balance, but if I plan well, I think it’s doable. I’m willing to make the effort.
+
+Consultant: Planning is key. Setting aside specific time slots could help integrate this new hobby. How do you feel about including regular practice sessions in your schedule?
+
+User: That’s a good idea. Maybe short daily sessions would be manageable and keep me motivated to learn.
+
+Consultant: Establishing a routine can definitely aid in learning a new skill. How do you think learning guitar might positively impact your overall university experience?
+
+User: It might help reduce stress and give me a break from studying. Plus, playing music could be another way to connect with people.
+
+Consultant: Very true. Music often brings people together. You mentioned earlier that your brother has always been supportive. How do you think he’d react to you picking up guitar?
+
+User: He’d probably be excited. Music has always been something he enjoyed, and he might even give me some tips.
+
+Consultant: Connecting over music could strengthen your bond with him even more. Do you have any plans to involve your friends or family in your new hobby?
+
+User: I could invite my brother to jam sessions or share my progress with friends at gatherings. It could be fun.
+
+Consultant: That interaction sounds enriching for both personal relationships and your confidence in playing. As you explore these activities, how will you gauge your progress?
+
+User: By noticing improvement in playing skills and getting comfortable playing in front of others. That’ll be a good measure for me.
+
+Consultant: Celebrating small wins along the way can boost enthusiasm. Are you planning a particular way to celebrate a significant milestone?
+
+User: Perhaps by organizing a small performance or jam session once I’ve mastered a song. It could be a nice way to share my achievement.
+
+Consultant: That sounds like a perfect celebration. Performing for others can be a great confidence booster. As we wrap up, what is one thing you'd like to keep in mind for the upcoming week?
+
+User: To approach new activities with an open mind and enjoy the journey of learning something new.
+
+Consultant: That's an excellent mindset. Remember, self-growth often comes from stepping into unfamiliar areas. I’m looking forward to hearing about your musical journey next time we meet.
+#######
+Consultant: Hi, it's been great working with you. Let's reflect on your progress. What strategies have you found most helpful?
+
+User: Listing my strengths and engaging in volunteer work have been really helpful. I feel more connected now.
+
+Consultant: That’s wonderful to hear. Engaging in activities that align with your values can certainly enhance your sense of fulfillment and belonging. How do you see your experiences in these volunteer activities impacting your perspective on personal challenges?
+
+User: I've realized that by drawing on my strengths, I'm contributing meaningfully and it makes my personal challenges feel more manageable. I no longer feel as isolated when I'm part of something bigger.
+
+Consultant: That's a valuable insight. Recognizing your role in something larger can indeed shift the focus from individual struggles to collective achievements. Moving forward, what strategies do you think will best support you in handling future challenges?
+
+User: I'll remind myself of my strengths and continue participating in activities that bring me joy and fulfillment. Keeping these activities as a regular part of my life seems to be key.
+
+Consultant: Those are excellent strategies. By actively choosing to engage in fulfilling activities, you create a positive cycle of growth and resilience. Also, as you continue this journey, how do you think maintaining these connections and activities will evolve your university experience?
+
+User: Maintaining these connections will likely give me a stronger support system and help me feel more anchored as I navigate university life. It's nice to have like-minded people to turn to.
+
+Consultant: Building a supportive network is crucial, especially in times of transition. As we conclude our sessions, remember you've built many skills to navigate challenges. Feel free to reach out if you seek more support in the future.
+
+User: Thank you so much for your help. I feel much more empowered to handle things on my own now.
+
+Consultant: You're welcome. Your dedication to personal growth is exemplary, and I'm confident you'll continue to find your path. Until we meet again, take good care and keep nurturing those supportive connections.
+
+User: Will do. Thanks again for everything.
+#######

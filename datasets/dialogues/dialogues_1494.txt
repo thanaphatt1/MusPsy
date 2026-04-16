@@ -1,0 +1,390 @@
+Consultant: Hi Shishi, it's great to meet you today. How have you been feeling recently?
+
+User: Hi, I've been stressed and feel like I'm on my own. My mom and I had a big fight about my grades, and it ended poorly.
+
+Consultant: I'm sorry to hear that. It seems like you're going through a difficult time. Would you like to share more about what happened between you and your mom?
+
+User: Well, I got a bad grade on a test, and she got really angry. She shouted at me and said some hurtful things. I felt really bad afterwards.
+
+Consultant: It sounds like that experience was very upsetting for you. How have these interactions with your mom been affecting your feelings lately?
+
+User: I feel like I'm not good enough and it's really overwhelming. I've started hurting myself again because it's one of the few things that releases some of that pent-up emotion.
+
+Consultant: I understand that you're going through a tough time and I want to help you work through these feelings. As part of our session today, I would like you to try setting aside some time to write down your thoughts and feelings whenever you feel the urge to harm yourself. This exercise could help us explore these emotions further next time. 
+
+User: Okay, I can try to do that. I hope it can help in some way.
+
+#### Dialogue 2nd ####
+
+Consultant: Hi Shishi, welcome back. Were you able to jot down any thoughts or feelings since our last meeting?
+
+User: Yes, I did. When I'm upset, I often think that I'm a disappointment, that no matter what I do, it won't be enough for my mom. It just makes everything feel hopeless.
+
+Consultant: I'm glad you wrote down your thoughts. These negative self-beliefs could be intensifying your emotions. How do these thoughts affect your feelings when you have them?
+
+User: They make me anxious and sad. Sometimes I catch myself thinking that if I can't succeed in school, then what's the point of trying?
+
+Consultant: It seems like these thoughts are quite critical of yourself. Could it be that your mind is focusing heavily on failure? 
+
+User: Yes, it often feels like everything I do is under a microscope, and I can't escape the criticism whether it’s from my mom or myself.
+
+Consultant: Let's try to identify these patterns and how they are influencing your emotions. Could you continue to note down when these thoughts occur and any particular patterns you notice?
+
+User: Yes, I will keep track of them whenever I can.
+
+Consultant: It's great to hear that you're committed to this. How difficult has it been for you to catch these thoughts in action?
+
+User: It varies. Sometimes I'm able to notice them right away, but other times it feels like they're just quietly running in the background.
+
+Consultant: Recognizing them is a key step. When you do catch them, have you had any moments where you felt able to challenge them or see them differently?
+
+User: Not really. They just seem so real, and I don't know if I have the strength to fight them.
+
+Consultant: It's understandable. Challenging deeply ingrained thoughts isn't easy and takes practice. Have you ever considered how these thoughts might not just be your reality, but also your perception shaped by stress and past experiences?
+
+User: When you put it that way, I guess it's possible. I've always thought these reactions were just who I am.
+
+Consultant: These perceptions can feel like a defining part of us, but they don't have to be our truth. Can I ask what kind of thoughts come up when you think about changing this narrative?
+
+User: It seems daunting. But also a bit freeing, maybe. Like I wouldn't have to feel trapped by my own mind anymore.
+
+Consultant: That's a positive perspective. Even seeing the possibility of change is progress. Let's work on nurturing this hope, perhaps by identifying one small, realistic change you could make in your daily thinking.
+
+User: Maybe I could start by noticing the small things I do right and not just focus on what I mess up.
+
+Consultant: I like that idea. Celebrating small victories can be very empowering. In times when you're overwhelmed by negativity, what could a reminder of these small achievements look like for you?
+
+User: I could keep a journal and write down one thing at the end of each day that went well, even if it's tiny.
+
+Consultant: That's a practical plan. This journal can serve as a reminder of your abilities and progress. Taking this step can help nudge your perspective over time. How do you feel about starting this today?
+
+User: I'm willing to try. It sounds better than constantly telling myself I'm a failure.
+
+Consultant: I'm really encouraged to hear that. As you begin this, be gentle with yourself and patient. It's about gradual shifts, not instant changes. How will you support yourself if you forget or miss a day?
+
+User: I think I'll tell myself it's okay to miss a day and that it's more important to keep going than to be perfect.
+
+Consultant: That's a wonderful attitude, Shishi. Treating yourself with kindness is critical. How do you feel about us taking this journey together, with me supporting you through each step?
+
+User: It feels reassuring to know I have someone to help guide me.
+
+Consultant: I'm here to support you in finding the balance and peace you’re seeking. We can continue to explore this and more strategies in our next sessions. For today, focusing on your small victories is a great start.
+
+User: Thank you. I'm grateful for the guidance and look forward to making progress here.
+
+Consultant: You're very welcome, Shishi. It's a privilege to be part of your journey. I look forward to hearing about your experiences next time, particularly any thoughts or feelings you write down.
+
+User: I’ll give it my best. See you next time.
+#######
+Consultant: Hi Shishi, welcome back. Were you able to jot down any thoughts or feelings since our last meeting?
+
+User: Yes, I did. When I'm upset, I often think that I'm a disappointment, that no matter what I do, it won't be enough for my mom. It just makes everything feel hopeless.
+
+Consultant: I'm glad you wrote down your thoughts. These negative self-beliefs could be intensifying your emotions. How do these thoughts affect your feelings when you have them?
+
+User: They make me anxious and sad. Sometimes I catch myself thinking that if I can't succeed in school, then what's the point of trying?
+
+Consultant: It seems like these thoughts are quite critical of yourself. Could it be that your mind is focusing heavily on failure?
+
+User: Yes, it often feels like everything I do is under a microscope, and I can't escape the criticism whether it’s from my mom or myself.
+
+Consultant: Let's try to identify these patterns and how they are influencing your emotions. Could you continue to note down when these thoughts occur and any particular patterns you notice?
+
+User: Yes, I will keep track of them whenever I can.
+
+Consultant: It's great to hear that you're committed to this. How difficult has it been for you to catch these thoughts in action?
+
+User: It varies. Sometimes I'm able to notice them right away, but other times it feels like they're just quietly running in the background.
+
+Consultant: Recognizing them is a key step. When you do catch them, have you had any moments where you felt able to challenge them or see them differently?
+
+User: Not really. They just seem so real, and I don't know if I have the strength to fight them.
+
+Consultant: It's understandable. Challenging deeply ingrained thoughts isn't easy and takes practice. Have you ever considered how these thoughts might not just be your reality, but also your perception shaped by stress and past experiences?
+
+User: When you put it that way, I guess it's possible. I've always thought these reactions were just who I am.
+
+Consultant: These perceptions can feel like a defining part of us, but they don't have to be our truth. Can I ask what kind of thoughts come up when you think about changing this narrative?
+
+User: It seems daunting. But also a bit freeing, maybe. Like I wouldn't have to feel trapped by my own mind anymore.
+
+Consultant: That's a positive perspective. Even seeing the possibility of change is progress. Let's work on nurturing this hope, perhaps by identifying one small, realistic change you could make in your daily thinking.
+
+User: Maybe I could start by noticing the small things I do right and not just focus on what I mess up.
+
+Consultant: I like that idea. Celebrating small victories can be very empowering. In times when you're overwhelmed by negativity, what could a reminder of these small achievements look like for you?
+
+User: I could keep a journal and write down one thing at the end of each day that went well, even if it's tiny.
+
+Consultant: That's a practical plan. This journal can serve as a reminder of your abilities and progress. Taking this step can help nudge your perspective over time. How do you feel about starting this today?
+
+User: I'm willing to try. It sounds better than constantly telling myself I'm a failure.
+
+Consultant: I'm really encouraged to hear that. As you begin this, be gentle with yourself and patient. It's about gradual shifts, not instant changes. How will you support yourself if you forget or miss a day?
+
+User: I think I'll tell myself it's okay to miss a day and that it's more important to keep going than to be perfect.
+
+Consultant: That's a wonderful attitude, Shishi. Treating yourself with kindness is critical. How do you feel about us taking this journey together, with me supporting you through each step?
+
+User: It feels reassuring to know I have someone to help guide me.
+
+Consultant: I'm here to support you in finding the balance and peace you’re seeking. We can continue to explore this and more strategies in our next sessions. For today, focusing on your small victories is a great start.
+
+User: Thank you. I'm grateful for the guidance and look forward to making progress here.
+
+Consultant: You're very welcome, Shishi. It's a privilege to be part of your journey. I look forward to hearing about your experiences next time, particularly any thoughts or feelings you write down.
+
+User: I’ll give it my best. See you next time.
+#######
+Consultant: Hi Shishi, it's nice to see you again. Last time we met, we discussed how to be kinder to yourself by reframing your thoughts. How has that practice been for you so far?
+
+User: Hi, honestly, it’s been a bit challenging. I catch myself falling into old patterns of thinking, especially when I'm stressed about schoolwork.
+
+Consultant: That’s completely normal, Shishi. Recognizing these patterns is a significant step. What have you noticed about how these thoughts make you feel when they arise?
+
+User: I feel frustrated and disappointed in myself, like I'm never doing enough. It's hard to break out of that mindset.
+
+Consultant: It sounds like these thoughts are quite demanding. Can you recall any specific instances from this week where they became especially overwhelming?
+
+User: Yes. There was a math test I didn't do as well on, and immediately, I felt like a failure and that I hadn’t prepared enough, even though I studied a lot.
+
+Consultant: That seems like a tough experience. When such thoughts emerge, what would you tell a friend in a similar situation?
+
+User: I would probably tell them to focus on the effort they put in and remind them that one test isn't the only thing that defines their abilities.
+
+Consultant: That’s insightful advice. Do you think applying that perspective could be helpful to you, too?
+
+User: I suppose so, but it feels different when it's about me. It's hard not to be my own worst critic.
+
+Consultant: Self-criticism can indeed be daunting. Let's continue to build on this exercise of noticing and reframing your thoughts. What positive counterpoints could you offer in response to thoughts of not doing enough?
+
+User: Maybe reminding myself that I did my best with the studying I did, or that one test doesn’t determine my entire future.
+
+Consultant: Those are empowering reflections, Shishi. Keeping such affirmations could act as a buffer against those critical voices. Has jotting down these instances made it clearer how these thoughts fluctuate throughout the week?
+
+User: It has, a bit. I've started to see that they are more likely to come up when I'm tired or feeling overwhelmed with assignments.
+
+Consultant: Great observation. Stress and exhaustion can magnify negative thoughts. How do you currently handle moments when these feelings peak?
+
+User: I often resort to isolating myself or thinking everything is hopeless, which I know doesn't really help.
+
+Consultant: Solitude can sometimes amplify those negative feelings. Is there an activity or practice, like watching dance videos, that might provide a healthy escape?
+
+User: I’ve watched a couple of dance tutorials, and it's refreshing. It helps me momentarily forget my worries.
+
+Consultant: That's a wonderful start! Dedicating time to enjoy things you like can be a great way to recharge. Could expanding this time into your schedule make the week feel less daunting?
+
+User: Yes, I think it could help me feel more balanced if I include relaxation as a part of my routine.
+
+Consultant: Balancing work with relaxation is essential. This week, try to consciously balance responsibilities and relaxation, perhaps discerning specific times dedicated to both. How does this plan feel?
+
+User: It sounds doable. I could spend a bit of time each day allowing myself some leisure without feeling guilty about it.
+
+Consultant: That's a positive direction. Incorporating small success-focused practices like this can gradually shift your overall perspective. Have you thought about strategies to gently nudge yourself back when those old thought patterns try to resurface?
+
+User: I'll remind myself of previous successes and maybe reread encouraging notes or feedback that I've received from friends or teachers.
+
+Consultant: That sounds like an excellent approach, Shishi. Reinforcing a reality-based perspective with evidence of your capabilities can be grounding. How does it feel to acknowledge these small victories?
+
+User: It’s reassuring and gives me hope that I can improve my outlook if I stick to it.
+
+Consultant: Celebrating small victories is indeed uplifting. Progress is about patience and consistency, so keep being gentle with yourself. If there's a moment of setback, how will you remind yourself to keep progressing?
+
+User: I’ll try to see setbacks as part of the journey, and not a reason to quit. Maybe I'll journal about what I've learned from each situation.
+
+Consultant: That's a fantastic mindset, Shishi. Learning from each experience is a key part of growth. I'll be here to support and guide you through each step. Lean on your strengths and the people who care about you.
+
+User: Thanks, it's comforting to know I have your support. I'll keep working on these strategies.
+
+Consultant: I'm really proud of the progress you're making. Each step forward is a victory. Remember to reach out if you encounter challenges. We can explore more strategies in our next session.
+
+User: I will. See you next time, and thanks again for your guidance.
+#######
+Consultant: Hi Shishi, welcome back. Previously, we explored how your thoughts might not always align with reality. Have you considered how you could incorporate a more forgiving perspective toward yourself?
+
+User: Yes, I've been thinking about trying not to be so hard on myself when I don't meet expectations. I want to change, but it's hard.
+
+Consultant: That's a great insight. What steps might you take to start being less critical of yourself?
+
+User: I think I could start by writing down when I have these thoughts and then countering them with something positive that I know is true about myself.
+
+Consultant: That sounds like a proactive approach. Reframing thoughts into something more positive can help challenge the negative self-talk. How do you feel about trying this strategy when you notice critical thoughts arising?
+
+User: I'll give it a go. I think it might help me see things differently if I practice it enough.
+
+Consultant: I’m really glad to hear that you’re open to trying this approach, Shishi. It’s often the small, consistent steps that lead to significant change. Have you found any particular situations or triggers that seem to bring about these critical thoughts?
+
+User: Mostly when I’m working on assignments and I start to think about how they might not be good enough. It's like this fear of failing that keeps popping up.
+
+Consultant: That fear can be quite overwhelming. Would it be helpful to explore ways to remind yourself of your strengths and past successes when these thoughts arise?
+
+User: I suppose I could keep a list of achievements or compliments from others to read when I start feeling this way.
+
+Consultant: That's an excellent idea, Shishi. Positive reinforcement has a powerful way of balancing out those negative narratives. In your routine, aside from academic focus, what activities bring you joy or a sense of peace?
+
+User: I've always loved watching dance videos, especially when the routines are vibrant and energetic. It kind of lifts my mood.
+
+Consultant: Dance videos sound like a wonderful source of inspiration and joy. Could you see yourself incorporating this activity regularly into your schedule?
+
+User: Yes, I think it could be a refreshing break from everything. Even just watching could be a nice escape.
+
+Consultant: That's a fantastic perspective. Scheduling moments of joy can indeed offer relief and build resilience. How about a routine where you watch dance videos as a kind of recharge, maybe after a study session?
+
+User: That sounds doable. It could be a reward for completing a task, which might make studying feel less tedious.
+
+Consultant: Perfect! Having rewarding activities as part of your day can boost motivation and well-being. Let’s check in next time to see how this practice feels for you.
+
+User: I’ll definitely try it out. It’s good to have something to look forward to.
+
+Consultant: That's the spirit. In our next session, I'm eager to hear how this integration goes. Remember, these initial attempts might need tweaking, and that's completely okay.
+
+User: I'll keep that in mind and try not to be too hard on myself if things don't go perfectly right away.
+
+Consultant: That’s an excellent attitude, Shishi. Patience with yourself is just as important as with the process. If you feel old patterns arise, how do you plan to guide yourself back to a balanced mindset?
+
+User: I'll try to remind myself of the positive thoughts I've written down or chat with friends who can offer support.
+
+Consultant: It’s wonderful that you're considering reaching out to friends. Emotional support from those close to you can be incredibly grounding. How do you feel about utilizing journaling as a means to reflect on these thoughts and experiences more deeply?
+
+User: Journaling might help me track my progress and see changes over time. It’s something I should try.
+
+Consultant: Reflective journaling could indeed provide valuable insights. It's like mapping out your journey and understanding your growth. Is there anything else you feel could be beneficial to focus on in upcoming sessions?
+
+User: Maybe exploring more about how to maintain motivation when things get tough, especially during exams.
+
+Consultant: That’s a great focus area. We'll devise strategies to sustain motivation in challenging times. Possessing these skills will empower you to navigate through difficult periods with more confidence.
+
+User: I'm looking forward to our next steps. It helps to know that I have guidance and a plan in place.
+
+Consultant: I'm glad to hear that, Shishi. Remember to be patient with yourself, celebrate small victories, and recognize the progress you’re making. Our next session will build upon these foundations.
+
+User: Thank you for your support and understanding. I'm hopeful about trying these new strategies.
+
+Consultant: You're very welcome, Shishi. Stay kind to yourself, and I'm excited to continue this journey with you. See you soon!
+#######
+Consultant: Hi Shishi, it's great to see you again. Have you had a chance to watch any dance videos as a form of relaxation since our last session?
+
+User: Hi, I did manage to watch some videos. It was really nice and gave me a break from all the stress I've been feeling.
+
+Consultant: I'm glad to hear that. Dancing can be quite uplifting, even just watching. How did it affect your mood or stress levels during your viewing sessions?
+
+User: It definitely helped me unwind and forget about some of my worries for a little while. I felt lighter and more at ease after watching them.
+
+Consultant: That's wonderful. Engaging with activities that bring you joy can offer much-needed relief. How often did you manage to fit these viewing sessions into your routine?
+
+User: I tried to do it at least two times a week. I noticed that it also made it easier to approach my studies afterwards with a clearer mind.
+
+Consultant: Balancing work and leisure can have a positive impact on overall well-being. Do you think turning this into a consistent routine might be beneficial moving forward?
+
+User: Yes, I think maintaining this habit could be really helpful. It gives me something to look forward to and serves as a reward after completing my tasks.
+
+Consultant: It's great to see you're finding balance. Alongside these practices, how have your reflections on negative thoughts been progressing?
+
+User: I've been trying to catch myself when I'm being overly critical and reinterpret those thoughts in a more constructive way.
+
+Consultant: That’s a commendable effort, Shishi. Reframing negative thoughts can be challenging but also rewarding. Have you noticed any changes in your self-perception or emotional responses since starting this practice?
+
+User: I think I’ve become slightly kinder to myself. I'm learning to not let failures define me as a person, which is freeing in many ways.
+
+Consultant: That's a significant shift in perspective. How do you perceive this change affecting other areas of your life, like interactions with your mom or during stressful times?
+
+User: It’s reduced the tension between us a bit. I'm slowly learning to express my feelings more constructively instead of bottling them up.
+
+Consultant: That’s an important step towards healthier relationships. When faced with pressure, how are you applying these new skills to maintain your mental well-being?
+
+User: I remind myself of what really matters, trying not to get weighed down by temporary setbacks. The dance videos also provide a mental escape when things get tough.
+
+Consultant: They seem to be a valuable tool in your self-care toolkit. Additionally, what other hobbies or interests have you been exploring or are curious to incorporate?
+
+User: I'm thinking of maybe starting a journal to track my thoughts and feelings. Writing might help me understand myself better.
+
+Consultant: Journaling could indeed be a powerful way to process emotions and track your progress. Is there anything you’d like assistance with as you venture into this new activity?
+
+User: Perhaps some tips on how to start? I'm not sure how to organize my thoughts on paper.
+
+Consultant: Begin by writing without judgment; let your thoughts flow naturally. You might start with how your day went or any prominent feelings. Over time, it may become easier to articulate deeper reflections.
+
+User: That sounds manageable. I'll give it a try and see how it goes.
+
+Consultant: I'm happy to hear that. As you incorporate these practices, how do you foresee them influencing your approach to future challenges?
+
+User: I hope they'll make me more resilient and better at handling stress. Being aware of my mindset is key, I think.
+
+Consultant: Absolutely, awareness is a vital part of navigating life's complexities. Embracing your strengths and accepting that it's okay not to be perfect can nurture resilience.
+
+User: I'll keep reminding myself of that. It's reassuring to know that I'm growing and learning through these experiences.
+
+Consultant: You certainly are, Shishi. As we wrap up this session, would focusing on anything specific in the coming weeks be beneficial for your growth?
+
+User: Maybe more strategies to boost my motivation when I'm struggling with focus or energy, especially during exams.
+
+Consultant: We can definitely explore that. Creating a self-care routine and setting realistic goals can enhance motivation. Let’s work on these strategies during our next meeting.
+
+User: Thank you for guiding me through this. I feel more equipped to tackle my challenges now.
+
+Consultant: You're making remarkable progress, Shishi. Remember, being kind to yourself and acknowledging your efforts is just as crucial as the actions themselves. Looking forward to our next session!
+
+User: Thanks a lot. I’ll see you next time!
+#######
+Consultant: Hi Shishi, it's our final session today. Let's reflect on your journey and strategies you've found beneficial.
+
+User: I've gained a lot from acknowledging my negative thoughts and trying not to jump to conclusions. Sharing my feelings has been really helpful.
+
+Consultant: That's a wonderful realization. What strategies moving forward will best support you when you face similar challenges again?
+
+User: I think reminding myself to view situations more realistically and not be so quick to self-criticize. Talking to supportive friends or a mentor could also help.
+
+Consultant: Those are strong, positive strategies. As we conclude our sessions, you have now developed many skills to tackle life's challenges. Remember, you can always return here for support.
+
+User: Thanks so much for everything. I feel more capable of handling my emotions now.
+
+Consultant: You've shown great dedication to understanding and reshaping your thought patterns. Reflecting back, how do you think these changes might influence your relationships, especially with your mom?
+
+User: I believe there would be less conflict since I can approach situations with a clearer mindset. I won’t be as defensive, which might make it easier for us to communicate.
+
+Consultant: Improved communication can ease tension and enhance understanding. Have any specific scenarios come to mind where you could apply this more patient and open approach?
+
+User: Certainly, whenever grades are involved. Instead of immediately feeling attacked, I can express my feelings calmly and listen to her perspective as well.
+
+Consultant: That's a mature and thoughtful strategy. How do you envision these constructive conversations impacting your self-esteem and overall well-being?
+
+User: It would definitely boost my confidence. Knowing I can handle things without spiraling into negativity feels empowering.
+
+Consultant: It sounds like you’re developing a stronger sense of self. When you encounter high-pressure moments, what other practices might help reinforce your inner resilience?
+
+User: Journaling seems like it could help. I can write out my thoughts and reevaluate them later, which might provide new insights.
+
+Consultant: Journaling is indeed a powerful tool for reflection. What other interests or hobbies might you continue exploring to enhance your quality of life?
+
+User: I think continuing to watch dance videos and maybe joining a dance class could be fun. It’s an activity I enjoy that also provides stress relief.
+
+Consultant: That’s wonderful, Shishi. Engaging in activities that bring joy can contribute significantly to emotional balance. Have there been times when these joyful engagements shifted your perspective during challenging periods?
+
+User: Definitely. When I immerse myself in dance, I feel lighter, and life’s troubles seem less heavy.
+
+Consultant: That's a great method of coping. It's clear you've found strategies to cultivate and sustain inner peace. Are there any remaining areas you feel unsure about before we conclude our sessions?
+
+User: Perhaps just a bit more guidance on maintaining motivation during setbacks, especially with schoolwork.
+
+Consultant: Maintaining motivation can be challenging, but setting small, achievable goals and celebrating each victory, no matter how small, can help maintain momentum. How does this approach sound to you?
+
+User: It sounds promising. Breaking tasks down into manageable pieces might make them feel less overwhelming.
+
+Consultant: Absolutely, it makes goals feel attainable and progress more visible. As we part ways, how do you plan to ensure the continuation of this mindset shift?
+
+User: By continuously practicing self-compassion and reaching out to my friends or mentors when I need a supportive ear.
+
+Consultant: That's a brilliant plan. Remember, personal growth is a lifelong journey, and reaching out for support is a strength, not a weakness. How do you feel about this next chapter of your journey?
+
+User: I feel hopeful and ready to embrace whatever comes my way. With the tools and insights I've gained, I feel more resilient than before.
+
+Consultant: That’s the spirit, Shishi. Remember, you've shown immense growth and determination. Be proud of your accomplishments and continue nurturing yourself.
+
+User: Thank you. I’m really grateful for your guidance along the way. It's been a transformative experience.
+
+Consultant: You're very welcome, Shishi. It's been a privilege to accompany you on this journey. Keep cherishing your progress, and remember you're never alone in this.
+
+User: I’ll hold onto that. Take care, and thanks again for everything.
+
+Consultant: Take care, Shishi. Wishing you all the very best in your journey ahead.
+#######
