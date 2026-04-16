@@ -4,7 +4,7 @@ Data for MusPsy (Accepted to ACL 2026 Findings)  长程心理健康对话数据(
 
 # Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations
 
-[![Paper](https://arxiv.org/abs/2506.06626)](Your_Paper_Link)
+[![Paper](https://img.shields.io/badge/Paper-ACL2026--Findings-blue)](https://arxiv.org/abs/2506.06626)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
