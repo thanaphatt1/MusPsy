@@ -2,15 +2,17 @@
 Data for MusPsy (Accepted to ACL 2026 Findings)  长程心理健康对话数据(MusPsy)
 
 
-# MusPsy: Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations
+# Psychological Counseling Cannot Be Achieved Overnight: Automated Psychological Counseling Through Multi-Session Conversations
 
-[![Paper](https://img.shields.io/badge/Paper-ACL2026--Findings-blue)](Your_Paper_Link)
+[![Paper](https://arxiv.org/abs/2506.06626)](Your_Paper_Link)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
 ---
 
 ## 📖 Introduction
+**MusPsy** is the a large-scale framework and dataset specifically designed for **Multi-Session Psychological Counseling**.
+
 
 ---
 
