@@ -52,3 +52,14 @@ This fork includes production-ready utilities and experiment code:
 | **vLLM Serving** | [`muspsy_serve_vllm.ipynb`](muspsy_serve_vllm.ipynb) / [`muspsy_serve_vllm_qwen35.ipynb`](muspsy_serve_vllm_qwen35.ipynb) | High-throughput OpenAI-compatible vLLM serving pipelines with chat templates. |
 | **Multi-Session Runner** | [`muspsy_multisession_test.py`](muspsy_multisession_test.py) | Closed-loop multi-session simulation harness against patient personas. |
 | **Metric Conversion** | [`convert_for_wai_ctrs.py`](convert_for_wai_ctrs.py) | Formats dialogue session traces into standardized WAI and CTRS evaluation schemas. |
+
+---
+
+## 4. Qwen3.5-9B Serving Corrections (2026-10-03)
+
+- **Training chat template at serve time**: `muspsy_serve_vllm_qwen35.ipynb` now serves the `"muspsy"` and `"muspsy_unmerged"` modes with `--chat-template`, using a copy of LLaMA-Factory's `qwen3_5_nothink` training template. The merged checkpoint still ships Qwen3.5's official template, which adds an empty `<think>\n\n</think>\n\n` block to every generation prompt and trims every message. Token-level check on 1,200 sampled training prompts (400 per task): the official template with `enable_thinking: false` matched none of them, and the training template matched all of them.
+- **Thinking off by default**: every serving mode now starts with `--default-chat-template-kwargs '{"enable_thinking": false}'`.
+- **Merge step guard**: `muspsy_finetune.ipynb` Step 5c now refuses to merge when this pod's `muspsy_lora.yaml` comes from a different backbone. Step 5d names the merged repository after the adapter, instead of using Step 4's `BASE_MODEL_CHOICE`.
+- **Record correction**: the `--enable-lora` silent no-op ([vllm-project/vllm#49354](https://github.com/vllm-project/vllm/issues/49354)) is not confirmed on this build. The test that first seemed to confirm it sent requests without `enable_thinking: false`.
+
+The thesis runner that drives the three tasks also changed on 2026-10-03, to reproduce the training-time formats between tasks. See the thesis repository's `integrations/muspsy/README.md`.
